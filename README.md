@@ -6,3 +6,5 @@ final-project-project-final-chowdhury-satish-shen created by GitHub Classroom
 mongo -u user -p indeedjob ec2-184-73-64-187.compute-1.amazonaws.com/appDatabase
 
 
+### Literature Review:
+https://arxiv.org/pdf/1707.09751.pdf

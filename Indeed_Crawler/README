@@ -1,0 +1,67 @@
+Description:
+  crawl job postings from Indeed.com. only for Computer Science background jobs, in US
+
+Requirement:
+  pip3: sudo apt install python3-pip
+  BeautifulSoup: sudo pip3 install bs4
+  lxml: sudo pip3 install lxml
+  MongoDB (optional): sudo pip3 install pymongo
+  Redis (optional, redis): sudo pip3 install redis
+  
+
+Steps:
+1. A_get_cities/step1_get_cities.py
+   - get main cities list from Indeed, i.e. search "software engineer" in Indeed for each state (of US), and get list of cities of each state and merged together
+   - input: A_get_cities/states.txt
+   - output: A_get_cities/cities_software_engineer.txt
+
+2. A_get_cities/step2_filter_reformat_cities.py
+   - filter the cities, (only cities with job-postings > 100 are selected). Then reformat the cities.
+   - input: A_get_cities/cities_software_engineer.txt
+   - output: A_get_cities/cities_software_engineer_step2_f100.txt
+
+3. B_get_links/gen_mainpage_links.py
+   - get indeed query URLs, by combinations of cities, search keywords, and jobtytpe & experience_level
+   - input: B_get_links/cities_software_engineer_step2_f100.txt (copied from A_get_cities/), 
+            B_get_links/keywords.txt  (list of search keywords)
+   - output: B_get_links/mainpage_urls.txt
+
+4. Do crawling. 2 options:
+4a. single process crawling: C_crawl/crawl_all.py + C_crawl/crawl_indeed_para.py 
+   - for all mainpage_urls, start crawling job postings.
+   - input: C_crawl/mainpage_urls.txt (copy from B_get_links/), the list of mainpage_urls to crawl
+   - to run:  cd C_crawl, python3 crawl_all.py
+   - output: C_crawl/output/<query keyword>/:  job postings crawled, organized by "query keyword"
+             C_crawl/htmls/:  optional output, (need turn on opt_write_html in C_crawl/crawl_indeed_para.py)
+             C_crawl/logs/:  logs of crawling. Grep for "WARNING" to see failed urls
+             mongodb: optional output (currently off). Need to turn on mongod server and set host/collection name beforehand. See below for details
+   - mongo_saver.py is to manually upload output/* txt files onto mongodb. Need set the output's subdirectories for uploading
+
+4b. distrbuted crawling (need redis)
+   - redis is used for 2 purposes: 
+   --  a. maintain a List of urls (key: urls_queue) as a message queue. Each crawler will fetch a url and start crawling.
+   --  b. maintain a Set of job-ids (key: jks_set) to keep record of all downloaded job-postings ids. So crawlers won't download duplicted jobs.
+   --  c. maintain a List of currently working urls (key: job_list). This is used for fault-recovery, i.e. when an url fails, the url should be in the job_list. so we know which job fails
+   - to Run:
+   -- 0. start redis server, and in C_crawl/init_redis.py, update the RedisWrapper __init__ default parameters
+   -- 1. in the driver node (can be any node of the cluster)
+   ---   run: C_crawl/init_redis.py start (run once, otherwise, you need to update the mainpage_urls.txt, i.e. remove the urls already crawled)
+   -- 2. in worker node (nodes other than driver node). (Copy the scripts there)
+   ---   run: C_crawl/init_redis.py 
+   -- 3. in all nodes
+   ---   run: C_crawl/crawl_all_withRedis.py 
+   ---   run: C_crawl/crawl_all_withRedis.py 
+   -- 4. whenever you stops and want to restart, go to every node, run: C_crawl/init_redis.py (Note, NO start!!), then run C: C_crawl/crawl_all_withRedis.py. 
+   -- Output: in each nodes's output & logs directory
+
+   
+
+
+About setting of MongoDB (optional, only needed when want to save job postings in MongoDB)
+- install Mongo on AWS/EC2
+- create db: appDatabase.
+- create user/passwd
+
+
+
+            

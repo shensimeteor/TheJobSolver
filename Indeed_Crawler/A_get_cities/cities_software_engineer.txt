@@ -1,0 +1,780 @@
+Anchorage, AK	152
+Alaska	27
+Elmendorf AFB, AK	17
+Fairbanks, AK	17
+Juneau, AK	11
+Akutan, AK	8
+Eielson AFB, AK	8
+Fort Greely, AK	7
+Bethel, AK	6
+Red Dog Mine, AK	4
+Prudhoe Bay, AK	4
+Fort Wainwright, AK	4
+Ketchikan, AK	4
+Palmer, AK	4
+Anderson, AK	3
+Huntsville, AL	1452
+Birmingham, AL	426
+Mobile, AL	102
+Montgomery, AL	94
+Redstone Arsenal, AL	60
+Auburn, AL	48
+Alabama	33
+Tuscaloosa, AL	25
+Troy, AL	24
+Hoover, AL	20
+Fort Rucker, AL	17
+Decatur, AL	16
+Madison, AL	15
+Muscle Shoals, AL	13
+Dothan, AL	12
+Bentonville, AR	322
+Little Rock, AR	170
+Conway, AR	82
+Lowell, AR	67
+Fayetteville, AR	30
+Fort Smith, AR	26
+Springdale, AR	24
+Rogers, AR	21
+North Little Rock, AR	17
+Arkansas	13
+Jonesboro, AR	12
+Camden, AR	9
+Hot Springs, AR	8
+Harrison, AR	8
+El Dorado, AR	7
+Phoenix, AZ	1681
+Tucson, AZ	671
+Tempe, AZ	557
+Scottsdale, AZ	486
+Chandler, AZ	274
+Fort Huachuca, AZ	161
+Mesa, AZ	113
+Gilbert, AZ	106
+Sierra Vista, AZ	106
+Arizona	69
+Glendale, AZ	46
+Yuma, AZ	18
+Flagstaff, AZ	9
+Yuma Proving Ground, AZ	9
+Tolleson, AZ	8
+San Francisco, CA	7776
+San Jose, CA	3510
+Sunnyvale, CA	3402
+San Diego, CA	3233
+Los Angeles, CA	2353
+Santa Clara, CA	2087
+Mountain View, CA	1907
+Palo Alto, CA	1787
+Irvine, CA	1508
+Santa Clara Valley, CA	1133
+Redwood City, CA	947
+El Segundo, CA	899
+Menlo Park, CA	850
+San Mateo, CA	651
+California	646
+Denver, CO	2138
+Colorado Springs, CO	818
+Boulder, CO	796
+Aurora, CO	321
+Littleton, CO	298
+Englewood, CO	289
+Greenwood Village, CO	268
+Broomfield, CO	220
+Westminster, CO	188
+Centennial, CO	184
+Fort Collins, CO	165
+Rio Grande County, CO	147
+Longmont, CO	112
+Lakewood, CO	101
+Golden, CO	97
+Hartford, CT	339
+Stamford, CT	199
+Windsor, CT	141
+East Hartford, CT	98
+Bloomfield, CT	96
+Norwalk, CT	85
+Farmington, CT	84
+Wilton, CT	78
+Greenwich, CT	77
+New Haven, CT	76
+Connecticut	75
+Groton, CT	63
+Shelton, CT	60
+Danbury, CT	55
+Middletown, CT	51
+Washington, DC	4277
+Annapolis Junction, MD	2223
+Reston, VA	1886
+Arlington, VA	1622
+Herndon, VA	1520
+Chantilly, VA	1424
+McLean, VA	1338
+Fort Meade, MD	956
+Springfield, VA	687
+Bethesda, MD	627
+Fairfax, VA	606
+Alexandria, VA	593
+Rockville, MD	489
+Laurel, MD	381
+Vienna, VA	360
+Wilmington, DE	382
+Newark, DE	159
+New Castle, DE	36
+Dover, DE	35
+Delaware	18
+Seaford, DE	9
+Milford, DE	6
+Houston, DE	5
+Claymont, DE	5
+Newport, DE	4
+Bear, DE	4
+Georgetown, DE	3
+Frederica, DE	3
+Elsmere, DE	3
+Lewes, DE	2
+Orlando, FL	1382
+Tampa, FL	1100
+Miami, FL	879
+Jacksonville, FL	674
+Melbourne, FL	351
+Fort Lauderdale, FL	344
+Saint Petersburg, FL	340
+Pensacola, FL	207
+Florida	200
+Boca Raton, FL	182
+Clearwater, FL	140
+Palm Bay, FL	126
+West Palm Beach, FL	117
+Tallahassee, FL	113
+Lake Mary, FL	110
+Atlanta, GA	3754
+Alpharetta, GA	837
+Duluth, GA	177
+Norcross, GA	138
+Warner Robins, GA	109
+Georgia	98
+Kennesaw, GA	92
+Columbus, GA	88
+Marietta, GA	86
+Augusta, GA	76
+Savannah, GA	60
+Johns Creek, GA	60
+Fort Gordon, GA	57
+Peachtree Corners, GA	51
+Lawrenceville, GA	47
+Honolulu, HI	178
+Pearl Harbor, HI	40
+Hawaii	25
+Fort Shafter, HI	17
+Kekaha, HI	9
+Oahu Island, HI	8
+Camp H M Smith, HI	8
+Wahiawā, HI	8
+Schofield Barracks, HI	7
+Kahului, HI	5
+Kailua, HI	5
+Hickam AFB, HI	5
+Schofield, HI	4
+‘Aiea, HI	4
+Wailuku, HI	4
+Des Moines, IA	282
+Cedar Rapids, IA	263
+West Des Moines, IA	94
+Davenport, IA	78
+Dubuque, IA	57
+Ames, IA	53
+Iowa City, IA	51
+Urbandale, IA	47
+Waterloo, IA	43
+Johnston, IA	32
+Pella, IA	32
+Muscatine, IA	31
+Coralville, IA	29
+Sioux City, IA	26
+Cedar Falls, IA	26
+Boise, ID	364
+Idaho Falls, ID	52
+Pocatello, ID	39
+Meridian, ID	39
+Nampa, ID	13
+Idaho	13
+Chubbuck, ID	11
+Sandpoint, ID	9
+Coeur d'Alene, ID	8
+Eagle, ID	7
+Post Falls, ID	7
+Moscow, ID	5
+Rexburg, ID	4
+Sagle, ID	4
+Blackfoot, ID	3
+Chicago, IL	5243
+Illinois	242
+Schaumburg, IL	190
+Naperville, IL	140
+Deerfield, IL	125
+Northbrook, IL	122
+Oak Brook, IL	111
+Riverwoods, IL	102
+Champaign, IL	97
+Buffalo Grove, IL	93
+Evanston, IL	86
+Peoria, IL	86
+Scott AFB, IL	84
+Lisle, IL	83
+Rockford, IL	81
+Indianapolis, IN	914
+Fort Wayne, IN	123
+Carmel, IN	119
+Columbus, IN	102
+Indiana	79
+Evansville, IN	76
+Crane, IN	68
+Warsaw, IN	67
+South Bend, IN	66
+Bloomington, IN	56
+Lafayette, IN	54
+West Lafayette, IN	36
+Elkhart, IN	32
+Fishers, IN	24
+Jeffersonville, IN	20
+Overland Park, KS	280
+Wichita, KS	163
+Lenexa, KS	154
+Kansas City, KS	120
+Olathe, KS	112
+Topeka, KS	59
+Leawood, KS	29
+Lawrence, KS	29
+McPherson, KS	27
+Kansas	26
+Manhattan, KS	25
+Fort Leavenworth, KS	17
+Shawnee, KS	15
+Shawnee Mission, KS	13
+Mission, KS	12
+Louisville, KY	454
+Lexington, KY	143
+Fort Knox, KY	42
+Florence, KY	31
+Frankfort, KY	23
+Erlanger, KY	21
+Elizabethtown, KY	20
+Bowling Green, KY	18
+Hebron, KY	16
+Richmond, KY	14
+Paducah, KY	14
+Covington, KY	12
+Kentucky	12
+Highland Heights, KY	11
+Owensboro, KY	10
+New Orleans, LA	263
+Baton Rouge, LA	190
+Lafayette, LA	84
+Lake Charles, LA	29
+Bossier City, LA	28
+Covington, LA	25
+Shreveport, LA	24
+Metairie, LA	23
+Louisiana	20
+Monroe, LA	16
+Geismar, LA	14
+Fort Polk, LA	14
+Central, LA	12
+Slidell, LA	6
+West Monroe, LA	6
+Boston, MA	3967
+Cambridge, MA	1267
+Waltham, MA	605
+Burlington, MA	454
+Massachusetts	308
+Bedford, MA	303
+Andover, MA	295
+Lexington, MA	274
+Framingham, MA	238
+Marlborough, MA	238
+Natick, MA	197
+Woburn, MA	172
+Westborough, MA	119
+Lowell, MA	116
+Tewksbury, MA	107
+Annapolis Junction, MD	2223
+Baltimore, MD	1017
+Fort Meade, MD	956
+Columbia, MD	803
+Bethesda, MD	627
+Rockville, MD	489
+Hanover, MD	425
+Laurel, MD	381
+Aberdeen Proving Ground, MD	284
+Aberdeen, MD	241
+Gaithersburg, MD	217
+Patuxent River, MD	207
+Lexington Park, MD	206
+Silver Spring, MD	199
+Linthicum, MD	195
+Portland, ME	100
+Westbrook, ME	37
+South Portland, ME	32
+Augusta, ME	22
+Yarmouth, ME	16
+Freeport, ME	15
+Maine	15
+Waterville, ME	12
+Bar Harbor, ME	12
+Bangor, ME	10
+Saco, ME	10
+Scarborough, ME	9
+China, ME	7
+Gray, ME	7
+Bath, ME	7
+Detroit, MI	708
+Auburn Hills, MI	466
+Ann Arbor, MI	438
+Grand Rapids, MI	419
+Troy, MI	405
+Dearborn, MI	275
+Farmington Hills, MI	273
+Southfield, MI	240
+Novi, MI	227
+Lansing, MI	197
+Michigan	171
+Plymouth, MI	171
+Warren, MI	157
+Livonia, MI	136
+Holland, MI	79
+Minneapolis, MN	1360
+Eden Prairie, MN	318
+Saint Paul, MN	309
+Bloomington, MN	236
+Eagan, MN	181
+Plymouth, MN	145
+Minnetonka, MN	139
+Richfield, MN	74
+Brooklyn Park, MN	72
+Rochester, MN	68
+Minnesota	61
+Minneapolis-Saint Paul, MN	59
+Maplewood, MN	59
+Maple Grove, MN	54
+Saint Louis Park, MN	43
+St. Louis, MO	1594
+Kansas City, MO	660
+O'Fallon, MO	185
+Chesterfield, MO	122
+Springfield, MO	94
+Clayton, MO	78
+Maryland Heights, MO	74
+Saint Charles, MO	52
+Missouri	44
+Columbia, MO	41
+Arnold, MO	27
+Lee's Summit, MO	26
+Fenton, MO	24
+Town and Country, MO	21
+Creve Coeur, MO	20
+Jackson, MS	51
+Stennis Space Center, MS	30
+Ridgeland, MS	25
+Mississippi	17
+Bay Saint Louis, MS	13
+Gulfport, MS	12
+Olive Branch, MS	12
+Vicksburg, MS	12
+Hattiesburg, MS	12
+Cleveland, MS	11
+Tupelo, MS	11
+Grenada, MS	10
+Forest, MS	10
+Madison, MS	9
+Pascagoula, MS	8
+Bozeman, MT	82
+Helena, MT	35
+Billings, MT	35
+Missoula, MT	31
+Kalispell, MT	8
+Great Falls, MT	8
+Montana	4
+Belgrade, MT	4
+Butte, MT	4
+Malta, MT	3
+Columbia Falls, MT	1
+Three Forks, MT	1
+East Helena, MT	1
+Havre, MT	1
+Colstrip, MT	1
+Charlotte, NC	1782
+Raleigh, NC	1406
+Durham, NC	632
+Cary, NC	347
+Morrisville, NC	313
+Research Triangle Park, NC	274
+North Carolina	222
+Greensboro, NC	184
+Winston-Salem, NC	131
+Fort Bragg, NC	127
+Mooresville, NC	104
+Chapel Hill, NC	77
+Wilmington, NC	68
+Raleigh-Durham, NC	62
+Fayetteville, NC	54
+Fargo, ND	117
+Bismarck, ND	43
+Grand Forks, ND	16
+West Fargo, ND	14
+Williston, ND	9
+Jamestown, ND	8
+Plaza, ND	8
+Minot, ND	7
+Watford City, ND	6
+Valley City, ND	6
+Emerado, ND	5
+Mandan, ND	5
+Grand Forks AFB, ND	3
+Dickinson, ND	3
+Michigan, ND	3
+Omaha, NE	617
+Lincoln, NE	156
+Offutt AFB, NE	45
+Nebraska	26
+Kearney, NE	20
+Grand Island, NE	14
+Columbus, NE	11
+Bellevue, NE	10
+Papillion, NE	8
+Valley, NE	7
+Elkhorn, NE	7
+La Vista, NE	6
+South Sioux City, NE	5
+Sidney, NE	4
+Holdrege, NE	4
+Nashua, NH	139
+Manchester, NH	136
+Portsmouth, NH	121
+Merrimack, NH	75
+Concord, NH	58
+Hudson, NH	53
+Dover, NH	52
+Lebanon, NH	45
+Bedford, NH	32
+Keene, NH	27
+Hanover, NH	15
+Salem, NH	14
+Exeter, NH	14
+Amherst, NH	11
+Hooksett, NH	10
+Jersey City, NJ	885
+Princeton, NJ	412
+Newark, NJ	309
+New Jersey	249
+Parsippany, NJ	181
+Florham Park, NJ	178
+Edison, NJ	158
+Hoboken, NJ	124
+Moorestown, NJ	117
+Bridgewater, NJ	111
+Mount Laurel, NJ	108
+Cherry Hill, NJ	104
+Piscataway, NJ	95
+Somerset, NJ	91
+Pennington, NJ	88
+Albuquerque, NM	579
+Los Alamos, NM	119
+Las Cruces, NM	63
+White Sands Missile Range, NM	30
+Santa Fe, NM	25
+Kirtland AFB, NM	18
+New Mexico	16
+Carlsbad, NM	15
+Cannon AFB, NM	10
+Socorro, NM	10
+Artesia, NM	8
+Las Vegas, NM	8
+Farmington, NM	7
+Holloman AFB, NM	7
+Kirtland, NM	5
+Las Vegas, NV	551
+Reno, NV	144
+Sparks, NV	51
+Henderson, NV	32
+North Las Vegas, NV	27
+Minden, NV	22
+Nellis AFB, NV	19
+Nevada	15
+Carson City, NV	15
+Elko, NV	8
+Mercury, NV	7
+Stagecoach, NV	6
+Fallon, NV	5
+Eureka, NV	4
+Cortez, NV	4
+New York, NY	9840
+Syracuse, NY	509
+Rochester, NY	478
+Brooklyn, NY	277
+Albany, NY	268
+Buffalo, NY	267
+Manhattan, NY	207
+New York State	162
+Queens, NY	99
+Melville, NY	83
+White Plains, NY	83
+Long Island City, NY	81
+Rome, NY	78
+Tarrytown, NY	70
+Schenectady, NY	61
+Columbus, OH	1249
+Cincinnati, OH	873
+Cleveland, OH	630
+Dayton, OH	554
+Dublin, OH	150
+Beavercreek, OH	134
+Evendale, OH	113
+Ohio	112
+Akron, OH	108
+Mason, OH	98
+Wright-Patterson AFB, OH	97
+Milford, OH	95
+Raymond, OH	81
+Toledo, OH	67
+Mentor, OH	67
+Oklahoma City, OK	522
+Tulsa, OK	265
+Oklahoma	63
+Norman, OK	38
+Broken Arrow, OK	30
+Tinker AFB, OK	29
+Claremore, OK	22
+Edmond, OK	14
+Bartlesville, OK	11
+Fort Sill, OK	11
+Lawton, OK	9
+McAlester, OK	8
+Pryor, OK	7
+Shawnee, OK	7
+Yukon, OK	7
+Portland, OR	1273
+Beaverton, OR	347
+Hillsboro, OR	338
+Corvallis, OR	80
+Salem, OR	76
+Wilsonville, OR	66
+Bend, OR	65
+Eugene, OR	57
+Lake Oswego, OR	52
+Tualatin, OR	40
+Oregon	34
+Remote, OR	28
+Medford, OR	20
+Springfield, OR	17
+Tigard, OR	13
+Pittsburgh, PA	1837
+Philadelphia, PA	1750
+King of Prussia, PA	332
+Malvern, PA	225
+Horsham, PA	136
+Pennsylvania	131
+Harrisburg, PA	126
+West Chester, PA	125
+Allentown, PA	122
+Canonsburg, PA	110
+Newtown Square, PA	107
+Wayne, PA	105
+Exton, PA	104
+Erie, PA	102
+Mechanicsburg, PA	102
+San Juan, PR	101
+Puerto Rico	61
+Aguadilla, PR	19
+Guaynabo, PR	18
+Carolina, PR	9
+Florida, PR	4
+Las Piedras, PR	3
+Juncos, PR	3
+Cataño, PR	2
+Singapur, PR	2
+Caguas, PR	2
+Yauco, PR	2
+Fajardo, PR	1
+Añasco, PR	1
+Ceiba, PR	1
+Providence, RI	202
+Newport, RI	50
+Woonsocket, RI	49
+Middletown, RI	47
+Portsmouth, RI	41
+Johnston, RI	28
+Rhode Island	22
+Warwick, RI	21
+Smithfield, RI	20
+Lincoln, RI	11
+North Kingstown, RI	10
+Pawtucket, RI	6
+Cranston, RI	5
+Rumford, RI	5
+Warren, RI	4
+Charleston, SC	349
+Columbia, SC	284
+Greenville, SC	279
+North Charleston, SC	88
+Beaufort County, SC	82
+Spartanburg, SC	72
+Fort Mill, SC	55
+Florence, SC	38
+Aiken, SC	34
+Rock Hill, SC	28
+Greer, SC	25
+Shaw AFB, SC	22
+Mount Pleasant, SC	19
+Anderson, SC	19
+Moncks Corner, SC	15
+Sioux Falls, SD	136
+Watertown, SD	26
+Pierre, SD	23
+Rapid City, SD	20
+Brookings, SD	14
+Vermillion, SD	8
+North Sioux City, SD	4
+Aberdeen, SD	3
+N Sioux City, SD	3
+Harrisburg, SD	3
+Dakota Dunes, SD	3
+Mitchell, SD	2
+Spearfish, SD	2
+South Dakota	2
+Lead, SD	2
+Nashville, TN	740
+Memphis, TN	377
+Knoxville, TN	220
+Chattanooga, TN	178
+Franklin, TN	118
+Brentwood, TN	105
+Oak Ridge, TN	95
+Hermitage, TN	79
+Tennessee	32
+Maryville, TN	30
+Millington, TN	28
+Kingsport, TN	27
+Collierville, TN	25
+Johnson City, TN	22
+Clarksville, TN	16
+Austin, TX	4228
+Houston, TX	3036
+Dallas, TX	2657
+San Antonio, TX	1036
+Plano, TX	949
+Irving, TX	888
+Fort Worth, TX	840
+Richardson, TX	492
+Texas	200
+Grand Prairie, TX	178
+Addison, TX	157
+El Paso, TX	144
+Arlington, TX	127
+Round Rock, TX	123
+McKinney, TX	123
+Salt Lake City, UT	1052
+Lehi, UT	184
+Draper, UT	145
+Hill AFB, UT	128
+South Jordan, UT	124
+Ogden, UT	89
+American Fork, UT	79
+Provo, UT	66
+Midvale, UT	47
+West Valley City, UT	46
+Sandy, UT	43
+Riverton, UT	39
+Utah	39
+Orem, UT	36
+Saint George, UT	33
+Reston, VA	1886
+Arlington, VA	1622
+Herndon, VA	1520
+Chantilly, VA	1429
+McLean, VA	1338
+Richmond, VA	851
+Springfield, VA	687
+Fairfax, VA	617
+Alexandria, VA	593
+Norfolk, VA	394
+Dulles, VA	385
+Vienna, VA	360
+Manassas, VA	319
+Virginia	318
+Sterling, VA	288
+Burlington, VT	97
+South Burlington, VT	30
+Montpelier, VT	24
+Williston, VT	23
+Colchester, VT	14
+Vergennes, VT	14
+Saint Albans, VT	11
+Essex Junction, VT	11
+Rutland, VT	11
+White River Junction, VT	9
+Vermont	9
+Winooski, VT	5
+Georgia, VT	5
+Essex, VT	4
+Newport, VT	3
+Seattle, WA	9344
+Redmond, WA	1930
+Bellevue, WA	1531
+Kirkland, WA	265
+Kent, WA	229
+Everett, WA	172
+Vancouver, WA	145
+Bothell, WA	135
+Renton, WA	135
+Issaquah, WA	118
+Richland, WA	105
+Spokane, WA	101
+Tacoma, WA	73
+Olympia, WA	71
+Washington State	57
+Milwaukee, WI	580
+Madison, WI	503
+Waukesha, WI	186
+Brookfield, WI	119
+Menomonee Falls, WI	106
+Appleton, WI	104
+Green Bay, WI	83
+Racine, WI	55
+Middleton, WI	46
+Neenah, WI	45
+Wauwatosa, WI	44
+Oshkosh, WI	43
+Wisconsin	43
+Eau Claire, WI	32
+Mequon, WI	32
+Job, WV	120
+Clarksburg, WV	86
+Morgantown, WV	77
+Charleston, WV	48
+Martinsburg, WV	44
+Fairmont, WV	32
+National, WV	26
+West Virginia	25
+Huntington, WV	14
+Parkersburg, WV	13
+Bridgeport, WV	9
+Kearneysville, WV	9
+Wheeling, WV	5
+Junior, WV	5
+Inwood, WV	4
+Cheyenne, WY	38
+Casper, WY	16
+Wyoming	10
+Laramie, WY	7
+Gillette, WY	6
+Sheridan, WY	5
+Cody, WY	2
+Freedom, WY	2
+Green River, WY	2
+Sundance, WY	1
+Evansville, WY	1
+F E Warren AFB, WY	1
+Jackson, WY	1
+Kemmerer, WY	1
+Sinclair, WY	1

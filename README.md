@@ -13,10 +13,6 @@ mongo -u user -p indeedjob ec2-184-73-64-187.compute-1.amazonaws.com/appDatabase
 5. db.jobs.find({"company": /.*Google.*/}).limit(5)  # show 5 jobs from google,  /.*Google.*/ means the "company" field contains substring "Google"
 
 
-#### Literature Review:
-https://arxiv.org/pdf/1707.09751.pdf
-https://www.kdnuggets.com/2017/05/deep-learning-extract-knowledge-job-descriptions.html
-
 
 #### Schema of each document:
 
@@ -28,3 +24,9 @@ https://www.kdnuggets.com/2017/05/deep-learning-extract-knowledge-job-descriptio
 6. "company": company, shown in Indeed.com job list
 7. "job_location":  location of the job, shown in Indeed.com job list
 8. "job_description":  the long description. 
+
+
+
+#### Literature Review:
+https://arxiv.org/pdf/1707.09751.pdf
+https://www.kdnuggets.com/2017/05/deep-learning-extract-knowledge-job-descriptions.html

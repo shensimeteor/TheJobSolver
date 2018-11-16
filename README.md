@@ -20,11 +20,11 @@ https://www.kdnuggets.com/2017/05/deep-learning-extract-knowledge-job-descriptio
 
 #### Schema of each document:
 
- "_id": job id, internal job id of Indeed.com
- "query_keywords": this is the keyword I use to query this job. 
- "query_location": this is the location I used to query this job.  # use the "job_location" as real job location. This field is just what I use to query the job list in Indeed
- "query_jobtyp_explvl":  I selected 4 [" internship", "fulltime+entry_level", "fulltime+mid_level", "fulltime+senior_level"]. They are combinations of job type (intern or fulltime) and experience level. I feel it's interesting to see how the keywords of job description might be different among different experience levels.
- "job_title": the job_title shown in Indeed.com job list
- "company": company, shown in Indeed.com job list
- "job_location":  location of the job, shown in Indeed.com job list
- "job_description":  the long description. 
+1. "_id": job id, internal job id of Indeed.com
+2. "query_keywords": this is the keyword I use to query this job. 
+3. "query_location": this is the location I used to query this job.  # use the "job_location" as real job location. This field is just what I use to query the job list in Indeed
+4. "query_jobtyp_explvl":  I selected 4 [" internship", "fulltime+entry_level", "fulltime+mid_level", "fulltime+senior_level"]. They are combinations of job type (intern or fulltime) and experience level. I feel it's interesting to see how the keywords of job description might be different among different experience levels.
+5. "job_title": the job_title shown in Indeed.com job list
+6. "company": company, shown in Indeed.com job list
+7. "job_location":  location of the job, shown in Indeed.com job list
+8. "job_description":  the long description. 

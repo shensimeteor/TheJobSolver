@@ -17,9 +17,9 @@ mongo -u user -p indeedjob ec2-184-73-64-187.compute-1.amazonaws.com/appDatabase
 #### Schema of each document:
 
 1. "_id": job id, internal job id of Indeed.com
-2. "query_keywords": this is the keyword I use to query this job. 
-3. "query_location": this is the location I used to query this job.  # use the "job_location" as real job location. This field is just what I use to query the job list in Indeed
-4. "query_jobtyp_explvl":  I selected 4 [" internship", "fulltime+entry_level", "fulltime+mid_level", "fulltime+senior_level"]. They are combinations of job type (intern or fulltime) and experience level. I feel it's interesting to see how the keywords of job description might be different among different experience levels.
+2. "query_keywords": this is the keyword used to query this job. 
+3. "query_location": this is the location used to query this job.  # use the "job_location" as real job location. This field is just what is used to query the job list in Indeed
+4. "query_jobtyp_explvl":  From the selected 4 [" internship", "fulltime+entry_level", "fulltime+mid_level", "fulltime+senior_level"]. They are combinations of job type (intern or fulltime) and experience level.
 5. "job_title": the job_title shown in Indeed.com job list
 6. "company": company, shown in Indeed.com job list
 7. "job_location":  location of the job, shown in Indeed.com job list

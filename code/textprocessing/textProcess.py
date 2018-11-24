@@ -76,7 +76,24 @@ class textProcess:
            #plt.show()
            plt.close()
 
+    def generate_field_cleaned_jd(self):
+          collection = self.client[self.name_database][self.name_collection]
+
+          for post in collection.find(): #iterate through each document
+                  id = post['_id']
+                  jd = post['job_description']
+                  removed = self.removeStopWords(jd)
+                  #print(collection)
+                  print(id)
+                  collection.update({'_id':id},{ '$set':{'job_description_cleaned':removed}})
+                  #pprint.pprint(post)
+                  #l.extend(removed)
+                  #print(removed)
+
+
+
 if __name__ == "__main__":
             w = textProcess("mongodb://user:indeedjob@ec2-184-73-64-187.compute-1.amazonaws.com/appDatabase", "appDatabase", "jobs")
             #w.preprocess()
-            w.query_type_wordcloud()
+            #w.query_type_wordcloud()
+            w.generate_field_cleaned_jd()

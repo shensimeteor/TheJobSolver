@@ -24,7 +24,7 @@ mongo -u user -p indeedjob ec2-184-73-64-187.compute-1.amazonaws.com/appDatabase
 6. "company": company, shown in Indeed.com job list
 7. "job_location":  location of the job, shown in Indeed.com job list
 8. "job_description":  the long description. 
-
+9. "job_description_cleaned": JD in a list containing words sans stop words and other special characters.
 
 
 #### Literature Review:

@@ -15,24 +15,20 @@ url="mongodb://user:indeedjob@ec2-184-73-64-187.compute-1.amazonaws.com/appDatab
 client = pymongo.MongoClient(url)
 db=client["appDatabase"]
 collection=db["jobs"]
-print(12)
 posts=collection.find({},{"job_title":1, "query_jobtyp_explvl":1, "query_keywords":1})
 list_cleaned_jds=[]
 list_jobs=[]  # list of dict, '_id', 'query_keyword', 
 vocab=set()
 cnt=0
-maxcnt=100
-fields_to_copy=['_id', 'query_jobtyp_explvl', "job_title", "query_keywords"]
-for post in posts:
-    cnt+=1
-    if(cnt>maxcnt):
-        break
-    list_jobs.append(copy_dict_byfields(post, fields_to_copy))
-    for w in jd_cleaned:
-        vocab.add(w)
+maxcnt=1000000
 
-with open("jobs_infos.csv", "w") as f:
-    writer = csv.DictWriter(f, fieldnames=fields_to_copy)
+with open("jobs_infos.csv","w") as f:
+    writer = csv.DictWriter(f, fieldnames=["_id", "query_keywords", "query_jobtyp_explvl", "job_title"])
     writer.writeheader()
-    for row in list_jobs:
-        writer.writerow(row)
+    for post in posts:
+        cnt+=1
+        if(cnt>maxcnt):
+            break
+        print(cnt)
+        print(post)
+        writer.writerow(post)

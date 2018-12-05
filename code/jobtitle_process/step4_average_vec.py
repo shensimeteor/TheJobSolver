@@ -3,6 +3,7 @@
 import pickle
 import pandas as pd
 import numpy as np
+import math
 
 # dict: word -> vector
 def load_pickle_to_dict(filename):
@@ -30,7 +31,7 @@ def read_word_perline(filename):
 # input: jts (job_titles, list of n str), dict_wordvec (the dictionary to get word-vectors), method: average
 # return: list_jt_vec (list of [indx, jobid, job_title, vec_nparray]), list_missed_jt [indx, jobid, job_title])
 # Special: if no word in a job-title can't be found in dict_wordvec, then the embedding is all NaN
-def calc_jts_wordvec_matrix(jobids, jts, dict_wordvec, method):
+def calc_jts_wordvec_matrix(jobids, jts, dict_wordvec, method, word_idf=None):
     list_jt_vector = []  # [indx, jobid, job_title, vector (array) ]
     list_jt_missed = []  # [indx, jobid, job_title ]
     jt_vectors_allmean = np.zeros((300,),np.float)
@@ -41,14 +42,22 @@ def calc_jts_wordvec_matrix(jobids, jts, dict_wordvec, method):
             list_jt_missed.append( (i, job_id, jt) )
             continue
         vecs = []
+        words_in_jt=[]
         for w in jt.split():
             if w in dict_wordvec:
                 vec = dict_wordvec[w]
                 vecs.append(vec)
+                words_in_jt.append(w)
         if(len(vecs) > 0): # at least 1 word in the job title, has vector
             array_vecs = np.array(vecs)
             if(method == "average"):
                 jt_vec = np.average(array_vecs, axis=0)
+            elif(method == "idf_wgt_avg"):
+                if(not word_idf):
+                    print("Error, must provide word_idf if use idf_wgt_avg")
+                    exit(0)
+                wgts = [math.sqrt(word_idf[w]) for w in words_in_jt]
+                jt_vec = np.average(array_vecs, axis=0, weights=wgts)
             list_jt_vector.append( (i, job_id, jt, jt_vec) )
         else:
             jt_vec = None
@@ -76,11 +85,30 @@ def dump_pickle_jt_vectorized(list_jt_vector, outfile):
         pickle.dump(list_jt_vector, f, 1)
 
 
-
+#dict: word -> idf
+def get_word_idf_dict(jts):
+    word_doc_count=dict([])  # word -> doc word 
+    for jt in jts:
+        words_added_in_this_doc=set([])
+        for w in str(jt).split():
+            if(w in words_added_in_this_doc):
+                continue
+            if w in word_doc_count:
+                word_doc_count[w] += 1
+            else:
+                word_doc_count[w] = 1
+            words_added_in_this_doc.add(w)
+    n_collection=len(jts)
+    word_idf=dict([])
+    for k in word_doc_count.keys():
+        word_idf[k] = math.log( n_collection *1.0 / word_doc_count[k])
+    return word_idf
+        
+                
 
     
 # read job titles --> jts (cleaned)
-df = pd.read_csv("jobs_infos_cleaned.csv")
+df = pd.read_csv("jobs_infos_cleaned3_filter5.csv")
 jts = df["cleaned_job_title"].tolist()
 jobids = df["_id"].tolist()
 print(jts[0:5])
@@ -89,13 +117,21 @@ print(jobids[0:5])
 # read word-vec dict
 dict_wordvec = load_pickle_to_dict("wordvectors.pkl")
 
+word_idf=get_word_idf_dict(jts)
+print(word_idf["engineer"])
+print(word_idf["devops"])
+print(word_idf["stack"])
+
 # calculate job title vectors by averaging vectors of each word in this job title
+#list_jt_vector, list_jt_missed = calc_jts_wordvec_matrix(jobids, jts, dict_wordvec, "idf_wgt_avg", word_idf=word_idf)
 list_jt_vector, list_jt_missed = calc_jts_wordvec_matrix(jobids, jts, dict_wordvec, "average")
+
 print("total jobs=%d" %len(jts))
 print("vectorized jobs=%d" %len(list_jt_vector))
 print("missed jobs=%d" %len(list_jt_missed))
 
 
+#dump_pickle_jt_vectorized(list_jt_vector, "jt_idfwgtavg_vector.pkl")
 dump_pickle_jt_vectorized(list_jt_vector, "jt_vector.pkl")
 output_csv_jt_missed(list_jt_missed, "jt_missed.csv")
 

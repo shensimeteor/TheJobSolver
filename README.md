@@ -34,3 +34,4 @@ mongo -u user -p indeedjob ec2-184-73-64-187.compute-1.amazonaws.com/appDatabase
 Scores :
 Proposal : 10/10
 Checkpoint1: 10/10
+Checkpoint2 : 10/10

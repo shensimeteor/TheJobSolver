@@ -66,17 +66,18 @@ def print_cluster_highfreq_words(dict_cluster, threshold=None):
 
     
 
-list_jt_vectors = load_pickle("jt_vector_sampled.pkl")
+#list_jt_vectors = load_pickle("jt_vector_sampled.pkl")
+list_jt_vectors = load_pickle("jt_manualwgt_vector_sampled.pkl")
 list_ids, list_jts, vec_matrix = get_vecmatrix(list_jt_vectors)
 cos_sim=cosine_similarity(vec_matrix)
 jt_dict = get_worddict(list_jts)  # dict: job_title -> index
 
 Z=linkage(vec_matrix, method='average', metric='cosine')
-cluster_sizes = [300, 400, 500, 600, 700, 800]
+cluster_sizes = [900, 1000, 1200]
 for sz in cluster_sizes:
     array_clusterids = fcluster(Z, sz, criterion='maxclust')
     dict_cluster=get_clusterdict(list_jts, list_ids, array_clusterids)
-    dir_cluster="cluster_results/cleaned3_filter5_sample0.05/%d_clusters" %sz
+    dir_cluster="cluster_results/cleaned3_filter5_manualwgt_sample0.05/%d_clusters" %sz
     print(dir_cluster)
     output_dict_cluster(dir_cluster, dict_cluster,40)
     print_cluster_highfreq_words(dict_cluster, 40)

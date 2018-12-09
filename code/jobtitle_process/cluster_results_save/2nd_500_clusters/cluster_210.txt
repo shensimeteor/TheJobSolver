@@ -1,0 +1,214 @@
+_id,cleaned_job_title
+496d92e285861e87,engineering
+e576fac5f805fb2b,engineering
+aff11d653d976f63,engineering
+c9f8425fb7b6b92d,engineering
+60ed3598b837cf9c,engineering
+d63a57a4ce845f7d,engineering
+b43e811223da774e,engineering
+7e7e9a41ebf151b9,engineering
+02afac11354b5f9c,engineering
+24f9c321eca15660,engineering
+f05e3bdb169982de,engineering
+8d0e710d8985e442,engineering
+dccb349ffa7cff7d,engineering
+c70589e85ae434ba,engineering
+4dbed1e064f9a6f9,engineering
+2286fb592df0e1fe,engineering
+f08e155aa4cf92c9,engineering
+784b6253054e3f73,engineering
+bfb847dea055bbb9,aptiv engineering
+a29d63ebbce90f4d,engineering
+14692284e61b7f4e,engineering
+f93254e67a51c0f4,biomedical engineering
+9577e0d39c405b05,engineering
+6e5680f6fdb28348,engineering
+f43812a5bf38ace9,engineering
+6f47a53e23b86966,engineering
+f17c01d8a02a9747,engineering
+fce6548db80a6035,architectural engineering
+f354b03591d07fde,engineering
+a1fc5f6d662c191e,engineering
+521edce4b65ea34a,engineering
+139e5bc533e0969a,biomedical engineering
+0c3e4e1d942fbc45,engineering
+9cf3326efbc0ce53,engineering
+bc7199c23a25be50,engineering
+e9ee01da523ce67b,engineering
+46e07e944f1ded86,engineering
+d5b58eae3b138eb4,engineering
+d0c3620752b88275,engineering
+5f7aa94396f5a369,engineering
+7db47fc9af2f4678,engineering
+d0c91af3bcb06008,engineering
+4223618aa1f0edbf,engineering
+57d424d653b6dcf0,engineering
+6878fa0a8894f2ec,biomedical engineering
+1737a0260dfafe49,engineering
+243d6da9692b4c42,engineering
+99a1de8cb5368f81,engineering
+43c806d451a4b8a9,tapad engineering
+fc2b31d41a18430d,engineering
+93bf37536f27b5c0,engineering
+ff22192552f17bd9,engineering
+7f49c768222c34b0,engineering
+11ee0e97bb3f78c8,engineering
+6eae5cca50709663,engineering
+2e5bfe904e6a1e37,tapad engineering
+5603fd8cf233ef50,engineering engineering
+d9215dbbec899169,engineering
+31c2e8a3dadfef40,engineering
+8d68081791a024b7,engineering
+5ae64b626998e84c,engineering
+f827bf57d22927c2,engineering
+39a3fb438a8d1c23,engineering
+25c4045137a90530,engineering
+d300f8496400e07e,engineering
+6264f9fd0cda0958,engineering
+f0b0d2c668acd777,engineering
+c2f27fdea5dfc96f,engineering
+9cf21a0409ea3a04,engineering
+9d20a811a39e2501,biomedical engineering
+dceaee27819fbab0,engineering
+b94241002cf69a60,biomedical engineering
+882c5533e23dc4bc,engineering
+e246bdda51c77258,engineering
+84eb24eb1a90cf80,engineering
+a66c15c971898c67,engineering
+fd778095f137418c,engineering
+3a69691e3e85a00d,engineering
+b67755891257f96f,engineering
+a414c277b8d2394c,engineering
+4f88b3ed67fd0799,physics engineering
+58ed8102d7d4c198,vave engineering
+d50a1c15e04c4c53,engineering
+2ca7642d161eca58,engineering
+0d948d2f1bf66cb3,engineering technician engineering
+4fbaef9dd153043d,engineering
+6a1750e44fc809b5,engineering
+d722f1c63125b771,engineering
+399004c5d995516c,engineering
+0b121b93782d3b6d,engineering
+8431687fe1eb2edc,dueros engineering
+377d19b93b0a0ea9,engineering engineering
+4478f0a6116c50aa,engineering
+9007af19dd9a6820,engineering
+b7433839f98cf78b,engineering
+4bffae124b5077ef,engineering
+1556fb1d2e7c3c28,engineering
+c1ad95d01921ae26,engineering
+15d1b1748df4f599,engineering
+ca6deecb6aa39f1c,engineering
+6350eb95beb3a703,biomedical engineering
+04fec469eb36a286,engineering
+eaa5227b6fa01d80,engineering
+56ea2b3dcb87d6ab,engineering
+b460f86784dc95c5,engineering
+57d433d361139731,engineering
+4ad85d13780c2096,engineering
+eb245b5163ce78fd,engineering
+8c3f5601ceac816a,engineering
+3e0074edfdc05d20,engineering
+0af53f77987842d5,engineering
+20df081b01803542,engineering
+b03f5335d73a4cc9,engineering
+dc85951f26258ad8,engineering
+2ec82a2f5b13585f,autosar engineering
+75adf41519e5c482,biomedical engineering
+b11cab94196be447,engineering
+b0cc5ee6c07ed0c1,engineering
+8f8ce79371e9bc30,engineering
+1f483f1515aa5b5f,engineering
+b41081923b7687d1,engineering
+70a6c34e474f8611,engineering
+7694b459e73eb5d5,engineering
+ffcbbd8e63ae7c25,engineering
+5e07a84b67164d4a,engineering
+47e3892ae781c18e,engineering
+431fe4af0305bc22,engineering
+b4936e4bffb41ab7,engineering
+8973bd37bd23e41f,autosar engineering
+695a5b4bdceaeecd,engineering
+0c788c427e6bb06d,engineering technican
+e03e20ae61f70607,engineering
+54f700eb43e7d6f6,engineering
+97ee009e820de094,engineering
+f66e8f3d3258480a,engineering
+ca385f746f9be3fc,engineering engineering
+6df0a633543c695c,engineering
+a979cba95abd8f60,engineering
+474d86f21f8ad1f9,engineering
+096c7a9f283f4cac,engineering
+72e02e4196ea7c7f,engineering treyarch
+56fb42654ae380f0,engineering materials engineering
+a58ba016afae968e,engineering
+eb549516492bb580,engineering
+6182819ac14bed26,engineering
+7ada5dcdfff738c6,engineering
+1e37dba921a659f4,engineering
+6d314db30df1fdb6,engineering
+3480d2fdb343eb0a,engineering
+c5db6fec1933153e,engineering
+bf67b553b4845c26,engineering materials engineering
+a4f4baf80fa4c48f,engineering
+8d44430adf142c61,engineering
+e7b8f0db105200be,engineering
+758d5fdf0a09a81e,devops engineering
+8b0d2c6fe45a5e4a,engineering
+37490489d186d9c9,engineering
+3927a4a3402cdacc,biomedical engineering
+e58946a6d8bc11f5,cefd engineering
+f3d849434f2f4a86,engineering
+0395deb8ccf6a2ff,engineering
+976d72c5ff00a92f,engineering
+704829248f0a1b5e,engineering engineering
+3a030015cc361a13,engineering
+654a08e1706221c7,engineering
+873b85fa3ad4d285,engineering
+251275a474a54936,engineering
+ee6882f2d77bae84,engineering
+fe341738b434c6ee,engineering
+61a12282a45848de,engineering
+5460dd65caf36318,engineering
+12f634a7c24063ea,engineering
+978c67336ee95db7,engineering
+2234ac0734154faa,engineering
+c07c3a53a13123fa,engineering
+401310abb7decc53,engineering
+1e7728e06237ba45,engineering
+d31346f78a0c2ca5,engineering
+33f2f92266466a18,engineering
+5ed550812bde8d62,engineering
+695566759911c258,engineering
+27861bca2f47d7f6,engineering
+5a20c44ba9b7e272,engineering
+2f7e2d34a318bb7f,engineering
+35afea2e94d8e852,engineering
+9c950c55b7ad4c99,engineering
+e63c98c24b800b97,engineering
+663a8d63d842399e,engineering
+902966a32eb167ed,engineering
+9b8ff11539efabeb,engineering
+c71ef6cd1db780ef,engineering
+2c5fadf009c3cb84,engineering
+a242f5f059269c10,engineering
+fe42f6cc73b69225,engineering
+243cfe799ee68d58,engineering
+31a338c48bf1e212,engineering
+74d649f9cb6835b9,engineering
+2afa3a11392f1eb2,engineering
+d3ee473c132ce633,tchr engineering
+54d06024437df322,autosar engineering
+a46b2888d12e84e3,autosar engineering
+d2aef075e6bb1199,engineering
+297e085310f390b4,engineering
+8d683b07b732c732,engineering
+f1f96682e558fa57,engineering
+361871ffdf6f15d6,engineering
+8256642008d0f4c9,aptiv engineering
+ad1a3a0e354ae130,engineering
+6e059f3cbf0382f3,engineering
+98ee254584845d6d,engineering
+ec0fa136a54063f2,engineering
+273d1b5aa006ea2c,engineering
+412ecab96466e878,engineering

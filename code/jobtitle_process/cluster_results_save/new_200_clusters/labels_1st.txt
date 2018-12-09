@@ -1,0 +1,17 @@
+architect, 22,32,64,90,137,194,198
+business/data analyst, 4, 20, 26, 34, 66, 101, 115, 142, 144, 148, 157, 158
+sales/marketing/customer/representative, 51,2,121,185
+database admin/developer, 37, 71, 136
+data scientist/big data/machine learning, 15, 42, 68, 110, 156
+EE/embedded/firmware engineer, 195, 135
+mechanical engineer, 49
+medical, 44,60,62,70,105,134,145
+network admin/engineer, 43, 16
+product manager, 11, 17, 161,176
+test/qa engineer, 10, 45, 53, 59, 85, 87, 94, 97, 118, 124, 140, 154, 165
+researcher/academia, 38, 112, 131, 189
+security, 65, 114, 132,175,190, 200
+support/helpdesk, 33, 122, 147, 163
+system admin/engineer, 12,13,111,149
+technician, 57,73,83
+ui ux design, 23, 108, 171

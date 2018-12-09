@@ -1,0 +1,893 @@
+_id,cleaned_job_title
+cf5e24420e4897ae,cnc machine operator
+52f9f41634089e5e,assistant water operator
+5e71fe1882ae5a0c,electrical systems operator
+975a690da3073279,computer operator
+61904f4a77ecfd60,operator
+39156e7aad8c90b5,robotic welding programmer operator
+26e904ba2d1354c4,test operator
+daf93f8cfef7dd35,computer operators
+e6c7df897a4daa17,operator
+fd95e623a7a8c2a5,machine operator programmer
+710702ad370a8177,test operator
+e2ba021ee235ee20,programmer operator laser
+6e39033fd209970d,test operator
+3b342d4f596c8ca2,defensive cyber operations operator technician
+e7fa9219df496036,automated optical inspection operator
+7e8db3560d166fc0,smt machine operator programmer
+3088ed1af75b8fbb,cmm programmer operator
+b8cc4eadcfb0359e,data o operator
+cbc90289dd0ac7a1,aie operator
+115600e3af4005a2,wafer fab operator
+84c78b0d542d32e2,wafer test operator
+3f070004af92b1b4,cadd operator
+12b50da4b9e77240,waterjet programmer operator
+b337d2ef6ae227e2,security operator
+babc0b9b7e6ad8a8,cnc machine operator nd shift
+eeaea78b93150f12,cell operator
+a6353e58ca30982f,mmct maintainer operator
+1645d239e534e1ab,cmm programmer operator
+04abaa26b7048edc,manual deburring operator
+8402fcd58c12d4b0,draftsman cad operator
+326e492e965e3e8b,wheels brakes machining operator
+9d10b56f0affd7ec,forging operator level
+ab2c488036d002e1,mission systems computer operator
+251817e402fc3463,cad operator programmer
+a55c1ff2ef443969,wire edm programmer operator
+2b1967a52f149b28,midrange console operator
+b88f5775366d3133,warehouse operator
+b3138e4c73613f52,waterjet programmer operator
+5426e0fc8f112fb4,traffic operator
+2901363e18850ae2,computer operator
+d14f2f8f062aea36,chief telephone operator
+9476598b1b2a99e1,wire edm operator programmer
+d370b38ff460335a,deburring operator
+585a7930aa2c74eb,cad operator
+db10475a6b1270e5,robotic welder programmer operator
+5bc76b21f5b4d90d,computer operator
+5a24a9276be915a1,supervising operator
+152e94413957bf3e,cad operator
+79e6498ea8177a0e,cadd operator
+8a7d175a1f3ac081,wire edm operator programmer
+1a3227abaa846cd9,cmm programmer operator
+023b37ca3a5b4717,satellite operator
+8941c5bbb8995e37,technician driller router operator
+b18aaeeed0b8967c,wheels brakes deburring operator
+93fb4ceb2ffce8c8,robotic laser operator
+2cf03ae9b3aa8f65,optical scanning equipment operator
+0f51cbe357c3e1dd,plant operator
+7fb4fa515cea52d5,master control operator
+ef3fbf642dc7b09e,lead cmm operator programmer pcdimis
+4baa7361706eadce,security systems cad operator
+c2245dfaf29aeb27,waterjet programmer operator
+f23f70345a943b1b,p acoustic sensor operator
+2584497d357be3f3,cmm programmer operator
+c22204e98a987062,test operator
+86f3db04d2d7e844,computer operator
+efa2cb34524bdc5c,cad operator
+12889782b90a60ba,master control operator
+efc5e4b174bf78b3,fab operator
+75e1f37201c54270,waterjet programmer operator
+71622bc0916af014,computer operator
+09782862a5e0324a,cmm programmer operator
+62f1e9681fb8fd6d,wheels brakes machining operator
+22d492ce0424c643,cmm programmer operator defense
+4b6641e221e1b261,lease operator
+126c9af1e3c804f5,cnc operator
+7085f976ab2cd642,vehicle operator
+2cc65c26a0e6b823,electronics test operator
+8ec4724b8355ec21,deburring operator
+8c8fad4a4ae99742,prototype operator v
+0110e9296de183f1,data center operator
+a018fdeccdce3319,data center operator
+3d01236ad57f5b1a,edm operator
+d954800786b7f8db,waterjet operator programmer
+5fa4fb779415b87d,system operator
+4b4a6d6d3a39ee9b,systems operator
+a2e7927b5ab414fa,technical service operator
+dbaf706ee579f259,test operator
+b7636d25cd10af22,wire edm programmer operator
+fcc0483d3ed4d8da,accelerator operator
+788321b06cdfb91b,cnc mill programmer operator
+93a7e1bf1c9c84c7,wire edm programmer operator
+cb25099db1ff6684,wheels brakes deburring operator
+0d3aae6c97692951,press brake programmer operator
+23c402e3ec798149,cad bim operator
+5bfc8f820625d7cb,operations bridge support operator
+5924d30139adef16,cmm programmer operator
+776ef50c7d079851,controls technicians refigeration operators
+8e54ec1e685633fb,smt operator inspector
+8082e909c20ad688,autocad operator
+17b74d3f70aeab02,wire edm operator programmer
+1257fb8a8cead9db,cmm operator programmer
+bcfbdd19b1638c91,cad operator
+9329d3a4db11e6a2,tpm operator partnerships
+572aa3f8388cc938,additive manufacturing operator
+55ad74b76e939450,electrical drafter cad operator
+36675b404b785064,advanced production operator
+dc017a183881f68b,cnc mill operator programmer
+fa9c6049c6e5968e,power market operator
+161e4c32feb91e51,vehicle operator flight controller
+fc8e038ceebfce7d,heavy motor vehicle operator
+61e4e7e56062bcdf,laser operator programmer
+74b07c8e62a115d3,cad operator
+91335fec95752543,ram edm operator programmer
+55eb5ffa4dc64b6f,cnc laser machine programmer operator
+684ccf9e9d0bcdf5,autocad operator
+d3518890d5b4746f,graphics operator
+86a8be2533bf8dc1,cnc turning center programmer operator
+17bf325d450d359c,djp civil cad operator
+6ede805980bcf444,systems operator
+f9248a8aafa9be28,computer operator
+abb4734c591c2d65,additive manufacturing operator
+423a1a088c67d609,injection molding operator
+421e569212d54bb7,revit cad operator
+a6b0ddd8c283ba04,data entry operator
+24b7aa6bb36691ac,operator loader technician darrow la
+3adfb6e2cc6bf89d,muskegon operator
+e8a7d83543f7eef1,com systems operator
+6b0b0137564a9442,cmm programmer operator
+0a7046e104ee3af3,edm programmer operator
+93b0f605bc3e08ab,autonomous vehicle operator
+732d8f5c1fcf930d,weapon systems operator
+f199ce432b200697,flexo operator
+965041b817337d95,cmm operator programmer
+5208a96668159da1,network operator
+bc4e52b1a7e6493d,additive manufacturing operator
+1b859e8d6145c27b,test operator
+50d567ae9fcef70c,ld operator
+a4feebf4ee01079c,wire edm programmer operator
+b887bbae6dc7dae3,automation system operator
+7dfcf52f85454d5b,directional driller
+9d6478ac5c841991,noc system operator
+0fca4fbdd4924cfd,cad operator
+938c7676d3db5c2a,tube bending programmer operator
+7660fe5fef19adb6,cad operator
+5390a5543f9eb552,survey instrument operator
+5d378a4d4f306c96,cad operator
+6b1657bce5889483,red team operator
+575e2692cb83632b,data entry operator
+e0b756240f7566d0,production operator
+f98540cdad338c9c,machine operator
+d6b36b1de52064f4,operator
+fb1c27cb0f331e0b,directional driller
+da12a6f5e62b1c94,warehouse operator
+68d9646b39799c0e,plant operator
+e2c4c1d173a92d34,cmm programmer operator
+0461cc53f90bdbc2,cmm programmer operator
+a4e84c3fabe3fbcf,skilled edm wire programmer operator
+4c2089b93a92c101,power plant operator
+300830d64cabdb1c,production operator
+2522eefeef2fca59,cad operator
+1afc8e7b4f3eeb87,survey instrument operator
+212ac776fa846dbb,process operator
+82bd5fdda1c44ab9,autocad operator
+be0db078458331af,print shop operator
+008209ead24ad860,chemical operator
+093d62b60bc2e301,utilities shift operator
+44b65a2fe41788a8,computer operator
+e07c2e6d188f33b9,survey instrument operator
+94ad4fcc896c3571,water operator
+103d73a5d712b8b4,power plant operator
+293a0cc7ebc5b2c5,instrument operator
+74fc79901064939d,cmm programmer operator
+a7017b93a4dbdd67,process control operator
+cd48ce1a8a05299a,operator
+c7084e511a3ceb88,flexo offset press operator
+d568e15221cfab55,technician operator manufacturing
+7c5d6a9150da7054,cad operator
+a0477f244a769583,boiler operator licensed hr benefits
+4392c09fe89e5e8a,cell operator
+5b045132b535e843,directional driller
+b11f7dae41be2d35,assembly development operator
+5f0199ab30129e26,cad operator
+ba1018857fbde69b,plant operator
+9ad1910cf2b30d37,electric distribution operator superviso
+77f113129283be13,power plant operator
+03b66af193acd126,process operator job
+f8109ff08033192c,cnc operator
+6909a00695210964,plant operator
+1d2b7945879e64a6,survey instrument operator
+440e2062e41bd336,production operator
+0002e3118a77d010,forging operator level
+134d4cb4c9f745be,plant operator
+48ef3695e351bdf7,pilot plant operator
+f17e98ff7c4d7207,operator
+eab98ece7c4402cf,smt operator
+a1c072a03d0698e5,instrument operator
+3114f944cc6e5d10,instrument operator
+af5cc92a7f04fe65,cmm operator inspector
+4164a5d4550783b2,primary operator
+9c0c0171f9fd5551,facilities operator gigafactory
+28de1042792d4a74,cad operator
+5880d68a4cbae465,computer operator
+447b0d9c2c07a060,control room operator
+a95850ef57cd8275,chemical operator
+c6072fb8826ef09d,skilled lathe programmer operator
+5df9c58f0ba52098,stationary systems operator
+25c47480d9022953,workstation operator b
+927bdc22b6c2a115,extrusion machine operator
+65007df350d9201a,survey instrument operator
+e50d2f285d4431d8,cmp operator
+65aab42cb873212d,plant supervisors operators
+adc68e7657f97048,production operator
+84e32b979919ea84,plant operator
+bbbb16127ec34013,cnc tsugami setup operator
+84217a3a9595695e,gis operator
+cb53a4b0d8220e3d,robot weld programmer operator
+62044056a06f8129,plasma machine operator
+9c981720da9319bf,plant operator
+0651a89f9bfd9f9c,process operator
+ec1a8751ea620972,manufacturing repair operator
+c0397bdcaad2cabe,production operator
+d316c76f28cab9da,wafer fab operator
+6f4634adf34e046a,cnc saw operator
+b0a044d1f72c9644,boiler operator
+dd21256fd4918e5c,network controller operator lead
+f4f54ef915e9fb77,machine operator lead
+62ea8bb697f363b2,primary operator
+7f8e15471d8957a3,laser machine operator programmer
+aa9dab30fc6f48bb,instrument operator
+8af75dd74e783e59,epi operator
+57a7f11f5c377e5a,air vehicle operator
+f641fdebb0fa8e9a,cam operator
+c7bb1325c03e54ed,boiler room utilities operator
+c6d3946e869c6651,assembly operator
+be8b23c691d14a4f,brake press programmer operator
+43102a01e5599cb3,semiconductor manufacturing operator
+03540cc8fe0f3e74,directional driller
+4fc50b2119cc8f49,cmm programmer operator
+1432660d8eb5b5a6,wire edm programmer operator
+6c84e4a1e4db1083,wilm machine operator
+28cb8ece26e35d7c,cmm programmer operator
+2cd4db6da316abb9,security operator
+6c6e2ba5b175a938,cmm programmer operator
+111f50d0525d51e0,cad operator water
+af2fab7e4d776f61,survey instrument operator
+6835dd653e8ee5a8,cell operator
+0bc01af5c7a55e03,cnc swiss machine operator
+0919cb2c38cba299,weapon systems operator
+3f43cceb77e8ab71,computer operator associate
+15da77da588e05a7,wireline operator
+e33b662cdffa9a08,cnc mill programmer operator
+1a27715e63184ac3,semiconductor operator
+1034e3204c29e21b,cad operator
+7d07a168ff1d2143,wire edm operator
+c2a018753eb30592,smt operator programmer
+8dfeb9c84c3a5060,water jet operator
+a98a3a6f0a444459,warehouse worker forklift operator
+1246f6e7a61d3c62,automation system operator
+53ea8e7540b2029f,welding robot programmer operator
+be8d7f06e16023b7,cad operator
+264f4e9359c4e5ba,computer operator
+d144485f7c1c3638,icecube winterover experiments operator
+5e63858de3c32d76,multi axis lathe programmer operator
+e4c0f91db1ecc2b2,plant operator
+8b72cd0d1ae447ac,cad operator security systems
+01dd98e57b47078f,cnc operator
+91d3e7d8e5ad93e4,cad operator
+e9bae0d2dae4ed3d,power plant operator
+814b0ae0be0362e8,assembly laser operator
+3251d1f641849be0,cnc machine operator
+2cbb8cd88201f30e,cad operator
+60956c49851b71f6,red team operator
+c89a4073af3f6a06,data engineering operator
+2447666c7df45aa7,semiconductor manufacturing operator
+1646780e6601930d,vehicle operator
+decc0d60d13dcdb2,autonomous vehicle operator
+7045b90bf3899f75,cnc operator multi spindle
+bd2ac71307931db5,kitting room operator
+b47b5aabc22a0d38,vehicle operator
+875cb13c3057e8dc,vehicle operator
+7a81bbfafe0afade,production operator
+e7f7e9bc31678464,vehicle operator operations associate
+bc22855356b04952,autonomous vehicle operator
+0cb3789376f34688,machine operator
+2f0b91c21f64f7b6,cnc operator
+874db82a67b689bb,cnc operator
+46071cb02a81a183,vehicle operator
+76040e2890cbf3ce,vehicle operator
+59d222199c8b42b5,cnc operator
+2cdfac1a395f9268,lead operator trainer
+edd0c17e5bfe14c6,assembly operator
+5a6ff47334057a36,pick delivery operator
+5177572085f2f196,production operator
+7f74e187e5dadc67,vehicle operator
+c7b4b8858340f9e1,orsa splice qrt
+5f0139fee64f9076,systems operator
+fc365bf073c05047,computer operator washu
+b0694be9ba91f70c,machine operator
+e4b1b772e79b5b16,warehouse operator
+a1e1c7123160c525,machine operator shift
+59049f2e495b70d2,deployable rpv operator
+99ee4e6ebd573d98,water systems operator
+52e1dda1bfe97679,security operations center operator
+95ce5fc71c7f08db,pilot vehicle operator
+8012931d74e13823,gsoc operator
+37ecea67ca4a1f86,computer operator
+4c75861ca40d2d72,mill generator
+9ff4ecc329d219fe,call camera operator
+641c6bf1d4b9957e,rd shift forklift operator
+ecde727489c78448,sanitation operator
+f961ffea961b5db2,chemical operator
+f6834fe8a21b53a9,reactor operator
+c5c6c9a8183d20fa,terminal operator
+b3cdcacfc7002412,warehouse operator
+a5fffa7f382c290d,machine operator
+848aa289a17a61cd,aerospace anodize operator
+2b1a60f986fb995c,roan operator
+09ad171d2e1c71b7,embroidery machine operator
+9cd1c55026b1b176,packaging machine operator
+9a72209e8f63b5e7,power plant operator
+0cfa265736e07a56,machine operator
+06fed329a27c8a09,finish turn operator
+1ca70ba8b906f924,extrusion machine operator
+5fd3073ac425617e,forklift operator shipping receiving
+ed68fb9099f6cdcf,operator
+1351cfec69cc7cb8,machine operator
+84ff7d0b4a1cb4d9,roll clamp operator
+03087a35376037b2,cnc operator
+0dd955f134f0ed92,cnc machine operator
+92bc77df62076594,nd shift machine operator
+c0ed9289c40f95a1,telephone operator
+df622238435b0fc8,production operator
+a9d37d8aa0072b78,molding operator
+a06d0f9ac2ed1d0e,flexo press operator
+62e01bd3aa7b1459,cnc operator
+f746e45e6213efb4,assistant operator
+e3ec401264e74cc5,sign production operator bindery
+101621525205a3b4,press operator
+5c59365753ae5ffe,cnc mill machinists operators
+de915855f7fab2c5,machine operator packer
+36714db3d7c91ce4,machine operator
+d1b40cd8e281d22f,machine operator shifts available
+a6bf2eb07bbfe25b,machine operator assembler nd shift
+578399a6b62a6f1c,flexographic press operator
+e401f5b8ac3c3ba7,chemical manufacturing operator
+a8b55e4e46f1f84b,production forklift operator
+7689e6068ddcc613,test operator
+a291cb2cfc8859cb,packaging machine operator
+eb4544c2b5924bf1,production operator
+f1a39c13f73d9400,cnc machine operator
+fd1c49613445f4f3,inserting operator
+d09e4097cef7a2d7,operator technician
+ff780cd94d4585b0,machine operator
+ee18dea8c98ddd9e,aerospace chrome operator
+2ee4ae85530f4c3a,finishing operator grigsby label division
+dc8393303df0f394,directional driller
+1e8025be8baba6ba,cnc operator
+dc5d5800adcd82f0,assistant operator
+055c2a36e05affdd,production operator
+7204e322bd96fb89,aerospace chrome operator
+f139c7e8ef0c029c,machine operator
+2eda6fb1db4e980e,edm machine operator
+093f55d20722d710,machine operator
+d0cf5be0ca6db98c,cmm programmer operator
+4753556a504a09d2,brushing operator
+b7800c51305d46ad,dry plant operator
+55d206cea733217b,esl filler operator
+4113f097d7cd01a9,machine operator
+03755945be5548b2,packaging operator
+4f210c7280a8b707,warehouse worker forklift operator
+ac027a82a6a3469c,rep automation operator
+9bc1435180e985b3,packaging machine operator
+face9ca0f8a5352b,depalletizer operator
+53710cd634a3bb2e,operator trainee
+3a8200658a1b5265,machine operator
+b3e172b5480a5c76,weld operator
+9db5222b975a6584,machine operator
+32b73b475deb03ce,operator
+8abab36d26c359d4,operator silicone
+8456d726a2424998,transporter
+0d9d129aba4f8c39,general seed operator
+5ca8e950cf635ca5,machine operator
+11a18abc0cd09f68,screen print operator
+4fb77579a925f777,oven operator
+0d7f33ec7d99d556,cnc machine operator
+3849ce5cec9417a8,water jet operator
+a1500ca7d49ee770,machine operator
+90038eddcc8361c5,equipment operator former military
+9469a352e9f34a3a,bindery operator
+7088ded9eb4379c0,phone operator agent
+e32ee1591519af94,telephone operator
+74932f5e8fecef32,processing operator
+1c47a86377f5ae25,chrome operator
+fe33d3fb3333cf26,dispatching operator service coordinator
+a82795fc300292e3,horizontal saw operator
+8e6385316c8a6507,ammunition press operator
+f942ab381f65c89f,ic filler operator
+81bf4f62bd72f647,aerospace thermal spray operator
+b3915ac5dc9f0490,machine operator
+d9a1ee9f8d0c60df,brake press setup operator
+ac7059450b30346d,aerospace zinc thermal operator
+43fd262c78a4b91a,production operator
+37a6702a214f5d34,machine operator
+c4720ecc34ab0327,filler operator
+43941c8273b4c4c9,operator filler
+496edce7d3b3af11,finishing operator grigsby label
+27537388398f2ad6,inkjet web digital print operator
+7ca70db79ea98a36,silkscreen press operator
+3b542cbed99b90cd,terminal operator
+881496439450e688,machine operator
+a631f66533051a27,machine operators
+b2fcb3bd44adf80c,cnc woodworking machine operator
+6a9630af94f20a6b,production operator
+982a6ab6d8762fcf,ndte operators qas
+b9c1fb06d868667a,machine operator
+74ac15a45b0c66e0,lathe operator
+3f607846076ed510,production operator
+d429d15bbb6576e8,cnc operator
+670a04a63dc81a93,filler operator
+c4311002efb0e11d,press operator
+f94ccfb96c37676d,skilled machine operator wanted
+91f4ba2587ffa846,filler operator fluid milk
+8978f69151c1fce7,forklift operator shipping receiving
+67d30b63ed920a0e,operator
+6f4a8cd14f211918,lead operator
+308e3aebb129ebc8,cnc set operator
+9f1e8127a16b2379,flexo press operator
+731fec477892e916,operator warehouse operations
+de659e4429d8f755,telephone operator
+a69271689d81c64e,flexo press operator
+0b33af353ceaa136,driller helper
+308b28116a5ea933,manufacturing equipment operator packaging
+8e37a5e835e3757c,chemical production operators
+f11e19a68fedea3f,wastewater operator
+f13c1d470f4c7ff9,press brake operator
+e707ae9604279f0d,extrusion operator
+18a83d6fc1bdefdb,filler operator
+4fcd9ed76ba848d6,machine operator
+7bb6430a27d3f3be,production operator
+610d18da86f3ff14,machine operator
+5249b2093ce983f1,machine production operator
+248b7133931dc29d,vijuk stahl folding operator
+1a5881197dc1ef2c,setup operator
+0dc7e02484c121ca,machine operator nd shift
+b6db22ad009e8f4e,machine operator
+d4c382e061bcde15,machine operator assistant
+152ef3bcb6994a83,forklift operator
+c877e3af11c2034a,network controller operator
+02310e5bd761756a,process operator
+81eaebda75d20ce5,dryer operator
+0557314a4d64971c,network controller operator intermediate
+028293f544b82e0b,solvent coater operator
+b786ccfa95ba7a90,forklift operator general warehouse
+6ee07f07d76cab36,cnc machine operator
+6a5c2cc0efc1d5a2,machine operator
+1aaae1db54841b3a,machine operator
+da2314d213ed2164,cnc mill operator
+2aec95b0c152ecf5,aerospace zinc nickel operator
+8584ca0df02bdf64,forklift operator shipping receiving
+1532420b297c2a51,cnc lathe operator
+a0c062f530983230,filler operator
+6ca0a405e17dc849,packaging specialist machine operator
+b1e2a3b9015119bf,mailroom assistant equipment operator
+8a01d447f7897307,data entry operator
+5dc834ba22b04ce6,press brake operator
+7e5174488d627798,operator
+649c9609bb01ab15,stacker operator nd shift
+4735e7d175c2f904,machine operator
+e0543fbf014a930f,machine operator
+b6119534c3496753,operator
+97926b3d76c07154,cnc operator
+d8626fc2e15189e3,unit operator
+60e8dbe973e24c8c,bindery operator
+9b40da254f6c36c8,wheelchair van operator
+39093c438c4b45f0,control room operator
+d0cc06cd3dd2b8ea,cnc operator
+e2a503b13a291ad1,caf operator manager
+a880e77c04fcf662,machine operator
+ea7e2b525228df8d,cnc set machine operators
+7548ce9a6336fe1a,milk receiver separator operator
+277a993c5dfcb9ba,cnc mill lathe operator
+653c3e005cf91e47,north liberty processing operator
+c66d815461cb2990,cnc operator
+2d4bacf641b6fca1,filler operator
+e5ca5d15cac40008,operator
+54fac41a5c86ab0b,nd shift machine operator
+915b91cacb7a3c92,machine operator
+552383147795af0a,production operator
+5c4c454d9eb204de,grader sorter
+3570af40ba1a0c72,automotive machine operator
+0b396ab4c426ee1a,machine operator
+4210c9d74b0bc3f7,blow mold machine operator
+497ebe7915ea1f15,machine operator
+3abc05571b7979ff,machine operator
+12f4975d736759b6,operator mechanic
+39d4c93617921e11,nd shift machine operator
+9a339cbedbf8ee7e,machine operator
+937aced9fa0a3e3d,panel saw machine operator
+689278af07e957ed,gluer operator
+bb7bd29192d4ae71,forklift operator
+7c6b56da98ea898f,packaging machine operator
+949c12122fdbffed,machine operator line lead
+6384b440e3aa77fb,cnc machine operator
+16127d321fbd3f10,machine operator
+c33451ef1432179e,cnc machine operator
+be6a147c1e331159,machine operator
+4cdd1db4ae0df83b,test operator technician
+2af08dab972be45f,service operator
+5fe77d3036b6b5ca,control room operator
+90c6600149ea55d3,fuels distribution system operator
+85895bda45eb48b4,flexo operator
+5cc3642e8715ba67,n operator
+00ca4913f717d1d5,cnc operator
+8361215d099c7ad7,cad operator
+47c0272d01885aac,sort operator
+2c3c3e3766ad3e7a,machine operator shifts available
+cec95c952332f2d7,telephone operator
+068224794ddfa90d,furnace operator pq corporation
+bce03e82355decf4,transporter
+2d7f1768dcccca0c,cnc operator
+5a7210403a61a5c6,cnc operator graveyard shift
+56e1f44d35d7bd48,assistant operator
+1c3213be391dbb9c,flexo operator
+e6de4d67d2ebcb3d,warehouse operator
+031c17384ef34771,lead operator
+9101964b0f1a6ecb,operator cnc
+07ad5de01e50b4f4,forklift driver
+ecc22288f80d1845,forklift operator
+31049b035fedb860,machine operator soap finishing
+864893ee7f9bef7b,cnc operator
+fa49874344e02412,plant operator b
+f81b5a4a8b262663,data entry billing operator
+228b8b1e1eeae04d,cad operator
+709d793d84e427ad,dryer operator
+9e984de6e39493dc,machine operator assembler
+67f1d517a814bf25,cmm operator
+3fb4bcf2e163b929,machine operator machinist
+56480021bfc667a2,document scanning operator
+350147b425b9d07c,assistant machine operator
+4497a7c7f89262cd,ingredients operator
+111727e52cab9bf9,production equipment operator
+270a6cddb7d2a0bf,brake press setup operator
+c13fd300b1808e36,production operator
+492fcb5b06370735,data entry operator
+6a8a7d87d673357b,press operator
+a6498cfef91a7ef5,assembly machine operator
+41c0f6d891848d69,production assistant operator
+781dfa14ab883481,machine operator
+8a152f3ee617b679,production operator
+579d4e8c928c7461,machine operators packers
+e76f6de3f2ef5b9e,machine operator
+dceb59095878abce,tape room mixing operator
+06fdc0d24d4654ac,operator process trainee
+4d676aceebf44577,machine operator
+1ceade6f80745350,machine operator
+e4a8907bceb6d0a4,terminal operator
+3e77f316642a4ad5,machine operator
+bea837006fd509d9,aerospace polish operator
+59c9989b76c8ea69,driller helper
+359d84887f0edd5d,blast cleaning machine operator
+0590486528de136f,telephone operator
+7aeba34d96b461a1,assembly operator towers
+fd7edceaff63a475,solvent coater operator
+ec90e33c9ba0212b,machine operator
+05f1787bb244714f,plant operator
+21c70972bb68b0b9,digital press operator
+6bafc08d49fd6964,press operator
+235701815ef96045,operator
+fed6f77a94da5747,visualization operator
+023b54334779ed77,mail inserter operator
+311e31c4ae4188bc,operator technican
+93c002e1a9f7c6e7,operator wall plates
+c27b0706ded7e464,flexo operator
+622fa3471784d948,press operator
+871c4123c499e47e,cnc operator
+a100f6fba8a5264f,machine operator general maintenance
+8530d6caf2ee00a1,production operator
+7a7dedc9d01cb848,production operator
+e8f954bd09efd41e,lif production operator
+b3fcdc572872371f,cnc operator set program
+ebcd848dbe204ac9,production operator
+eb1f498295ee3882,network controller operator lead
+1bd3bf88609fedf6,forklift operator night shift
+dceb89a060a40b38,warehouse operator
+e28bd6f5edc90cce,insert machine operator
+577cf3c23a533939,cnc mill operator
+5b1cad021591c1fd,level operator
+0c1d3d1a839d864d,packing operator
+fe04cdf98fbd5b8b,wash plant operator glendale
+513e9227abe18abf,master control hub operator
+80a245f5d853a12d,cnc operator
+3402a89c566f4192,laminating operator
+d738aa2d43cf880c,assistant machine operator
+8010a87a876daf89,technical operator
+094c1007a4154692,cnc operator
+fa4e02dc77cf40f4,peripheral brushing operator
+92bdad171d1999eb,line operator
+b4d2d69ccdd3718e,cnc set operators
+82ed171d091bec96,cnc machinist setup operator
+c030df6f389e4bd5,machine operator food production
+f81b9f7947915765,operator machine
+92d4dbe39a7cc78b,smt machine operator needed
+fdd2b3437e824f7a,wireline operator
+885b16f728750870,cnc router operator sign shop
+4294648a4abb0627,system operator ll
+54dcd2e0ebf2c8e1,process operator
+eba1cdbde0da7b47,press operator nd press operator
+d5cd1878e048fd53,machine operator material handler
+cd0d6ddab45b4435,lead operator
+ee02363ffeda2396,machine operator
+fd8801230c7bf892,production operator
+61ce504d5b16f4d0,production operator
+32fe0460c1b6addc,dough sheeting operator
+f64588eb132c4a99,print insert operator
+cad4cbc20348a5ef,production operator
+aa150c5a160d8503,operator
+a028ab6a51cc01df,milling operator
+900b9408ad28218d,cnc mill operator
+ea32ac0d59f41e9d,rewinder operator
+38dda123531f66ac,cnc bend operator
+898d243b0a8580d2,driller driller helpers
+a83b8ca5a4dd5669,box line operator
+d55ad8f167f88478,batching operator
+0dac3bd6ade6be7a,mcallen thermal operator
+bb34757764cb5f6a,network controller operator lead
+4f6f114ecf6086bc,aerospace chrome operator
+383c90efe64ded42,molding operator
+74e2cfac60e7d117,machine operator utility
+1ca5a7d730419d9f,laminator operator
+207de3515af6160e,service operator
+6ddac807070ddbdd,eo operator
+152165e9b012bf4f,extrusion operator
+352ce81fe9761f5d,machine operator
+946daca3852d72e2,forklift operator andover
+6764688398ba7a88,graphic finishing operator
+7a7e57245e539d1f,skilled operator
+c12971087862dc90,cnc operators lathe mill
+f70570fc953f9dbd,folding insert machine operator
+da1195804796558c,operator dryer bsnac
+25746e418d2f0fd5,aerospace anodize operator
+f8a873f9a0eafca0,optics molding operator
+65585c42062232f1,water jet operator
+b225122c536ace9d,warehouse operator
+8264b011517f6a95,horizontal boring mill operator
+8ccb8935236b78a8,production operator
+379ff4691a668d91,molding operator
+955234ded1ce85e7,machine operator pm pm
+ca96161c3a7f563f,lamination operator
+b81db381086004d7,anodize operator
+adf53fa7ba004d7e,cnc operator
+97463baa94bee443,machine operator
+f60ed0e960cc9431,aerospace nickel titanium operator
+1036581594dfae2c,packaging machine operator
+415e2020163a3558,fuel distribution system operator
+b27545cecf991649,machine operator
+708c03d3e2ba384d,dry plant operator
+743a2b1645a0e0ae,mixer operator
+8f3934c38a342090,machine operator
+032c99563ba2a2d0,tablet fill operator
+d3c361d3add42a32,cmm operator
+f19fc2e1451e1b1f,dispatching operator service coordinator
+b12d7b4312479314,manufacturing operator
+c87f287be332d9df,forklift operator
+db5749d700d5bd35,equipment specialist operator nights
+3f699e030e460a7b,hp jacket operator
+36805dc257a74dec,cnc mill set operator
+caaa4b4085d1145a,machine operator
+2152ffb7e61e2080,butter powder line operator
+22ac171ac19b7886,sort line operator
+214dbe85cabebbe9,packaging operator
+036b6ac6c7364a31,cnc machine operator
+b4f0940f681de3d0,aerospace passivate operator
+e9214b469c48d395,aseptic operator
+09b48e5ebee61c26,machine operator hone
+cd44655f05f9fd8c,sewing machine operator
+830d0c58b189ff6e,aut operator
+244320ce15bb2a21,terminal operator
+0ef3f87f60c61a76,production operator
+1e627aa828023820,brake press operator
+57797b489b35d345,phone operator
+54ca56f4f336b200,aerospace chrome operator
+3c58d12dcae4cc48,driller helper
+95e9cf0a1a21f9aa,cnc lathe set operator
+0fdbe3727d8c8a05,cnc machine operator
+a030412e31ca8fcc,machine operator
+b27b5b93573d0920,machine operators
+07448f5d01a96f77,machine operator packer
+50c28508a5020415,hel cor forklift operator
+8e2cf519cefad69a,production cell operator
+e7ec26acfdbd0cb2,quality inspector cmm operator
+5a018d784a7c59d1,wireline operator
+dbbab58f4b8690f1,cnc operator
+bc3cb4d6fe7b9129,cnc laser operator
+132c019755a77b5f,injection molding operator
+df7e26a9800cfbca,cnc manufacturing operator
+571839fe422a5266,htst filler operator
+00c9798f36a1610f,machine operator
+0c5aecc30244e17a,forklift operator
+765751db76c8d2df,cnc machine operator
+0fd909a15627036b,lead machine operator
+b374648fca8ce13b,machine operator secure perso
+368722d8e9d2ed99,rts energy equipment operator
+caaf56b4086150f4,ice cream production machine operator
+a02ab8bf80e1718e,edm machine operator
+b6008a4f68ea96e2,production specialist equipment operator
+97661181b97dcb63,cnc machine operator
+3838cd58e514be8b,packaging sorting operator
+5cb64862c9640a52,machine operator
+f229af42086c2812,telephone operator
+671d0f51ab96abcf,labourer equipment operator
+ed2ae36434d449fc,aerospace passivate operator
+068ce2a196d524d8,machine operator
+9ba9d724401d1d85,filler operator
+5a8118d3a4a1153b,machine operator
+a1717784c2f6a4de,racking operator
+56197068e47c405f,stamping press operator
+0f38bd3185592c2d,machine operator
+273c062dc09aad39,satellite communication systems operator maintainer
+a57ec9a8823d383d,production technician machine operator
+62606bb15d3f0df0,forklift operator
+6c3a8b9a35983230,machine operator honing op
+3c38109360ed3adc,assembler operator
+510f24b9376f0d8a,production operator
+02c4d195c9b50404,filling operator
+b0b7e3976c4c5e71,warehouse hoist operator
+7263ccd1196372de,extrusion operator tool room attendant
+e30ed2c018610504,cnc set operator
+bc31529d3376d63e,light equipment operator
+d5bb344cebde9936,cnc machine operator setup
+593be69c7ff8d87f,press brake operator setup
+28fb2e5cf31cf266,flexo press operator
+c1ec730d9dbac6f5,cnc machine operator
+c1a1ab456e0041db,machine operator
+bd255f531b4e5d3d,plant systems operator advanced
+0e05a99864bc471c,machine operator nd shift
+d7a5061c811b5497,inserting operator
+d182282d1e6fd433,data entry operator
+0f76e92009179f32,cnc table operator
+da6d38c4e9716c1e,assembly line operator switches
+d4919423c48bcbbc,machine operator
+f96edab5d11c5aa3,mixer operator
+85ffb26c214c098a,machine operator
+912144df71b7f915,production operator
+39a5e41b83cc22fc,lathe operator
+3bcd14d441a305ec,process operator
+c8c763900a2babe4,machine operator
+8f049442595d56bb,laboratory operator
+db193ce51b5d426f,telecommunications operator
+e62b69bfd22d5053,machine operator
+d26bf46c097e8e78,mixing granulation operator
+8a3cd9f984fd9d7e,forklift operator
+340ae0c441d2962b,warehouse operator
+597717cb18478e6d,mectron operator
+13e59eadff0fbe41,production operator
+77204db9deb6cd76,machine center operator
+a5930800c9aad443,sewing operator
+cebef54d976b75e1,transform operator
+257d58a0e783bc45,extrusion operator
+7889984a9f4e1787,driller helper
+6a00a01e9b019c6d,machine operator
+f89b78958e33ac40,assembly operator
+e15ecab4cf753137,machine operator
+415e797bfcd6ad35,machine operator
+e6368fecb481937e,aerospace zinc nickel operator
+8617789b1cae304f,blender operator
+313fcd7989f331c1,reach truck lift operator
+2a98205e54f97252,process operator
+6caaf8e857c63819,machine operator
+2e0a059dee4a380e,machine operator
+6aaa6de14cca871e,forklift operator
+9d9ebc06f06e8492,saw operator
+714a0d01e2c69bb1,cnc program operator machinist
+18ce8cc3efd42f85,flexo press operator
+5ede646b503f1d7e,operator warehouse operations
+5fc23c168115a53e,production operator
+b5111d90215028fe,filler operator
+af666fc110597c87,equipment operator
+47ad465bcee14643,tanker truck load operator
+0bede3e6635d8cfd,pouch operator
+f65bdac98190661c,machine operator
+56a888270b0c0987,molding operator
+ca69b3a0886f363b,machine operator
+654cc77b30cd7534,molding machine operator
+f2fb45a3df28fd77,nd shift machine operator
+aebf5f5d1a8387fa,machine operator
+c360cd5e74b87e59,sign shop operator installer
+ecd87fd0f08880e3,electronic prepress mac operator
+da6661f9dc237ae5,terminal operator
+b29430e7806ae0e0,equipment operator
+9aa3199aa5ad1c85,equipment operator
+60dfd08d4c49ce68,cnc machine operator
+0779619f30c99dac,sheeting machine operator night
+668abc98d75fa42e,plant production operator
+dc09a779134e8b62,loader unloader
+1ee97efea08c0d09,lead processing operator
+8a3bd817500b0983,machine operator
+194d977b01b7e784,plant operator
+b2919ec95840a13b,plant operator
+77332f7469f8b74c,production operator
+a47e8537f9a72024,press operator
+8763e30e1826817c,cnc operator
+40d75e1128ba310b,press operator
+962e7bc78b956520,assistant operator
+61bb1075423b0638,production machine operator
+0a4e2f175c93fa29,palletizer operator
+6b39a89c52b533ca,machine operator
+30b44bea52e7970a,urbana operator
+7f0dd7afe18c8554,machine operator
+03b326f247dcd399,wet plant operator
+5bf40acb36cf0b61,touch rework operator
+3e906eaf93c7fd09,asu plant operator
+e7b65f16b0b95525,power plant operator
+256b934baf0afc92,production operator
+56b7343c1d28211a,forklift operator
+91162998a72731b7,service operator
+c28496773fe71001,nd shift machine operator
+bacafd92e7300930,cnc operator
+95542d08bbde56c0,assembly operator
+ea46b0a9a60db801,auto bagging operator
+337b6eceb6ee5230,material handler forklift operator
+ac51c97566d8756b,cnc machine operator
+4b4fad5aaf761b90,bagger machine operator
+4989763242a06160,forklift operator
+9c13adb716a675d2,machine operators
+205e10936d871e36,saw operator
+2c17856200046e92,machine operator
+6ed773318b12bce1,plasma operator
+51b0679ebc8263eb,stationary engineer plant operator
+8565d6acb98b79bb,temporary machine operators
+2fe2f698bca27c68,pbx operator
+83d2dfc2214ed1e3,machine operator
+137bb1d92fa0764f,calendering operator
+b7734e17ffc00bd0,cnc operator
+70f31c83c4b17f93,sewing machine operator
+003b0eafbce957fe,terminal operator
+438799cbb382811a,forklift operator
+e83cbd9222d19a9b,machine operator
+d5c549cb716af5b2,sanitation production operator
+d921cea733eb6f8c,cnc setup operator
+4e258662d80e7875,cnc machine operator
+99d29dad9cc29670,machine operator
+27cdafa913e0ad22,production operator
+2972f7e5b7ee4979,flexo press operator
+3f7a4611578ada69,equipment operator
+6d3c5242547c8365,cmm operator
+a1df41f8538c0883,machine operator
+80b210caed27aa99,cnc operator
+2695674331d50786,cnc operator
+899f692653a38ff2,ltc operator
+e0345f6cecf74a6f,computer operator
+075da3aa9d8037ce,console operator prn
+ea592d7912975f64,alarm monitoring operator
+64989902b3401e87,circuit operator maintenance repair
+842c9be7227c4b85,forklift operator
+48c53820abfaf425,noc operator
+8470e4ec0f0dfa35,pbx operator
+2187b8dc89232313,digital press operator
+9e96344225fd53e5,emergency communications operator
+63f1301ed6492b5b,training operator instructor
+af1179d983367a10,bus operator
+b849ca47c9e0bf49,switchboard operator
+b8cad024501f5ccd,telephone operator
+18d94db641dc066b,console operator
+c7793770202393a0,warehouse operator
+79bf14db4ef288ba,robotic welding programmer operator
+7331ed7cb5b93d9b,warehouse operator
+cfe7860b9a433012,cad operator
+355219e1b0d9627b,cell operator
+efddbd9a75706dfe,quarry equipment operator
+29b40210f09b6cde,instrument operator
+c2600dc2789a04f5,furnace operator
+cde88b8fd6e509ad,grind setter operator
+6c74dc629ee4c0d6,machine operator
+454380975f8070fd,furnace operator
+3fda570e98b61909,loader operator
+1452dc4b0933ba71,assembly setter operator
+73a8b10baabe9c4c,watch operator network monitor
+8d9d2c7641f7bdf3,cad operator
+57bec75f9709032f,mission systems computer operator
+bc51141467723b19,semiconductor manufacturing operator
+daa771f7dc833e87,wireline open hole field operator
+91cf7867d1196e2a,pesticide applicator
+92813788a22a74b9,camera operator
+5a05ec602806e983,batchperson plant operator
+f8cb7cde79326b68,airborne sensor operator maintainer engineer
+729934167a69f423,board operator
+1740e7e667adb148,screen print operator
+0faab7fe9dabd9c6,heavy equipment operator
+3ee0ba0bd4bedc62,cnc operators
+38954906f142f0b6,cadd operator
+1934983de30317c1,machine operator
+77bbdd8fae512fc3,operating engineer equipment operator

@@ -1,0 +1,201 @@
+_id,cleaned_job_title
+b730304c37668d6e,night shift
+a7d7677534dab1eb,shift manager gnoc
+f018d224e1f2bfc3,queue coordinator shift
+2f0adbc2cf0842ec,shift supervisor maintenance
+433155da9cac2134,rd shift production supervisor
+e5bbf6233deb97f6,manufacturing supervisor second shift
+6c5c9d6217be3f4d,shift manager
+31b21bad160044d1,shift manager tso
+0d2062a5f7ff7392,rd shift manufacturing supervisor
+1242109b59250ae4,noc shift supervisor
+ae88c6f8c376f1de,operations shift supervisor
+6df6f3fb8707b0bb,shift supervisor
+4773aa7174ce2628,shift supervisor
+ffa8ea6dc25ba6b3,production manager st shift
+82f807adf84012b0,shift assistant engineer
+6b960d64b3446548,engineering supervisor evening shift
+b73d9a68aabc4ff3,machinist st shift
+6cc259a7fd380bb5,production supervisor rd shift
+b62abd6edcb49c85,production supervisor rd shift
+3fceb9f295ca0862,production supervisor st shift
+5358b06611fd2cdc,supervisor manufacturing grave shift
+0329b2ee2e0cbde9,st shift research analyst
+dc8ec14a2700a8ab,shift supervisor
+b56802e242f06a80,planning supervisor night shift
+201e5a825248703d,vsa clerk st shift
+621cdeed2e65af27,shift leader preceptor
+27bc81a97280588e,rd shift production supervisor
+44097e6f2e475193,shift supervisor
+baec043662b1d341,shift supervisor
+94ae3c006981636f,inspector st shift
+0e99eeb8edcfe379,shift supervisor fleet maintenance operations
+ae820f946efde861,security shift supervisor
+c15355a017537359,st shift lpn
+5e69b73077b059cc,physicians assistant st shift
+fb9dbb85579da735,janitor account supervisor st shift
+a8b6d8f66f4270bf,general worker st shift
+bd38e8692bef6ac2,iqc auditor weekend shift
+b57d2eb3beb3e8a4,central sterile supply shift supervisor
+7a7b292a1212a4df,st shift inventory control clerk
+c8d6dd7469f12c87,rn supervisor nd shift
+7801c7f8d003ce1d,bellperson overnight shift
+499fd359495d9c2d,lamination helper st shift
+bf1ebc5f5bf0b316,psychiatrist st shift
+4cd53858d33e27ad,shipper warehouse rd shift
+8231c571b94ea9e8,histology supervisor day shift
+087c7787ea3d75d3,shift supervisor
+e0f301762675bc58,shift supervisor
+4996b3c99903126b,rn night shift supervisor
+36e0cd27a5c74ae0,housekeeping supervisor flex shifts
+d3f4dd66b75cc32c,shift supervisor fleet maintenance
+bc59b0898a560b83,security shift supervisor
+f49adfe444f374a1,night shift recycling production supervisor
+9b91b0669141e9cc,security shift supervisor
+a58181e09f633434,shift laboratory supervisor shea nights
+76b1eaaa4cbead94,inventory specialist st shift
+058e3a252e3a2235,shift manager
+f77ea9d364eb5794,qa assistant supervisor nd shift
+7276345cbd0c235a,st shift warehouse operator
+7eb7c89f382c66ec,c shift supervisor production
+fddd38de92e8cb16,rn supervisor nd shift
+db918745cb747beb,nd shift cytogenetics supervisor
+7291485bf023aa6f,nd shift genomics supervisor
+ca41d392a015017f,shift manager
+10073db8767e9787,production supervisor rd shift
+436b94f13475b491,shift supervisor
+40028d94d1b34257,shift supervisor
+bf0ce844e0321a55,inspector rd shift
+85dde5c9bb5d242c,warehouse supervisor second shift
+0ae42c72fc34c666,maintenance shift supervisor
+e610f60627c2effa,operations support supervisor rd shift
+e544dd22d517fe58,shift supervisor
+66b62f1ad423029f,nd shift supervisor
+68b679cba5b31667,psychiatrist st shift
+13b82f7545f4747c,rn supervisor night shift
+e0db8477ccda271b,quality supervisor nd shift
+8581bd909b194727,swing shift supervisor
+edc968182791d5ae,night shift production supervisor
+8db3dd179f61813c,supervisor materials night shift
+5f46685904acb521,maintenance shift supervisor
+bb6109de0e4eaf0e,shift supervisor
+3670939c5a4f5bee,night shift supervisor
+36e01d9508059cfc,shift supervisor
+0888bc860280e481,maintenance shift manager
+8d0c2cce5add25a2,rn shift supervisor
+47de06fa9ad3842f,production supervisor shift
+865c12aba9f7767b,second shift production supervisor
+ac81eb983ed02a21,st shift production support
+70dcb70584c603df,shift manager
+4ce8e351c10febfe,shift supervisor fleet maintenance
+21cc65fcae4fed72,shift supervisor fleet maintenance
+015cb26e49743e5b,manufacturing supervisor st shift
+0a65255489ad23d3,shift supervisor
+9a2b2b6d98653112,distribution center shift manager
+eb4b2dcc8efe3cf0,quality supervisor st shift
+16e2aee70aa49709,nurse supervisor shift mon friday
+3c55859e961b95ad,night shift supervisor sqc process
+9f431897008517cd,rd shift area supervisor
+cbfa074415238f15,unit supervisor rn day shift
+23b4b6a6d7eb1d14,housekeeping supervisor nd shift brookfield
+a40efca4fdd7bc09,call lvn shifts
+83bba7c54cab51a8,lpn shift supervisor
+17ec2131146ebe1e,maintenance shift manager
+caa6d53ca387452c,housekeeping supervisor nd shift
+31a210ff296539fe,shift supervisor
+465189ea67e9914e,shift manager
+a1316a8ccdb91536,shift supervisor
+625eba6f4eb72afa,supervisor st shift
+2e7c67292dacbad1,security shift supervisor
+49b4788476d121e2,security shift supervisor
+c655c04688ee75c2,security shift supervisor
+41ff840f34fab47e,nd shift supervisor
+c29724ed64081bb0,shift manager
+6274e2553d590a87,rd shift warehouse manager
+927f7412809c03da,shift supervisor
+038ae4f86d21b5a8,weekend shift
+4b9912d086625753,night shift
+3ede5bdc9522e869,customer logistics supervisor nd shift
+97fd638df2e5bb21,production shift supervisor
+1bca523e4c531ca0,lpn night shift hour shifts
+93abf9a39c9e83ea,inspector swing shift
+2f1bf1bfac91e9c8,security shift supervisor
+0168edc14e00ef61,shift supervisor fleet maintenance operations
+af86e42b44dbba5b,security shift supervisor
+e1fa16be365bcc3b,st shift break relief
+a5c88de7f34a6a9e,maintenance shift manager
+138a8964240b4c1b,st shift custodial specialist
+a1cb3d31c1a6c4d7,shift supervisor
+9585adfab68f308b,lvn noc shift
+9de8b0fefbdda862,shift manager rd shift
+2ce996a41d8afe79,rd shift technical supervisor
+16c7685935d5eb2a,qa assistant supervisor nd shift
+a6886524efc9264f,compression supervisor nd shift
+f7ac990ae841d085,security shift supervisor
+87c86aedf5122d0c,rd shift quality supervisor
+be61508a35cc47cd,inventory clerk st shift
+345a2101ab79b3c3,lpn day shift hour shifts
+2ff490bf96607a8a,shifts
+35aaa078ef583788,supervisor environmental care st shift
+991a58dd6adce863,inspector rd shift
+be994dcd99b2f9b7,shift supervisor fleet maintenance
+46485e6368480964,quality inspection supervisor weekend shift
+c11da82e4c683703,shift supervisor
+c4b05af8a349fc38,shift supervisor
+a482f35b74124192,shift lab supervisor osborn evenings
+596f24f28ef4ca85,warehouse supervisor rd shift
+377b7c48abb792b3,shift supervisor
+d64a02f043ce00f8,shift supervisor
+43da729f5f632214,nd shift production supervisor
+fbdaf2509a4acf54,rn supervisor flex shifts
+5677479ba4d7eb88,shift supervisor fleet maintenance operations
+1ba45b817b2e033f,quality shift supervisor
+73892dafd76cf428,supv shift steward
+080def9a7f53177b,shift supervisor
+b44fd16fce3934b7,night shift qa supervisor
+ecd770a6a8ad873d,nd shift supervisor technician
+552059456e1b3a79,day shift supervisor
+34e5a18ebf86d03d,control room shift supervisor
+6da6a7d0d305b3fe,rd shift supervisor
+33e793ee98c229e3,shift supervisor
+012b7c43825445f3,manager operations rd shift
+5fa5466e588d763e,lpn day shift
+4d228da01917606b,shift supervisor fleet maintenance
+6b54a4974193101f,shift supervisor
+37ad960768f28584,production line st shift
+c56dd6755b693815,security shift supervisor
+6adadbf26c6a21f4,shift supervisor
+1e19c38ffdcdf5fd,night shift operations manager
+5800d2aec9f4126a,supervisor formulation st shift
+170ee2fa3e932a1f,shift supervisor
+ba310e0cea7f865d,general worker st shift
+35aacefe1bceee87,assembler st shift
+6a42688e3fc0d24f,qc supervisor production rd shift
+7ac8426da1493da0,production supervisor rd shift
+ad665436aad53e8c,security shift supervisor
+c148851caf0085e5,program supervisor pm pm shift
+a97ebab65d09b338,safety supervisor nd shift
+20008effc978105a,shift coordinator
+889601447e6fcb15,shift superivsor
+4729b0d762a254f0,shift ra
+65c8b58d375ec4fb,st shift dispatch
+9f76eb49959619fb,shift supervisor
+cd6dc878b8b06d7c,st shift dispatch
+5d8fe99bafe471c8,shift supervisor hadley assessment
+2023cce813fcde1e,supv shift
+dd8a21aef3ed7bb3,mail dispatcher st shift
+623107a1119f62d7,ncc shift supervisor
+21def7df07473515,rd shift support supervisor
+f78d9fcecf6d645e,cook st shift
+bd76eb21c6a3380b,mds st shift
+3835b6d47ea49c1c,security guard flex shift
+0888783fbcf6d24d,shift supervisor
+803b7a7ba423d9a0,shift supervisor
+3d01047b6d28a3bc,shift coordinator
+62cc50ca6b831772,shift supervisor
+38dc1b5788c9947d,rn shift supervisor
+e4230d55dc159c6e,shift admin manager
+b1fcb9e0504ed2e3,shift supervisor
+1c3457f92314f2cf,shift supervisor overnights slate hill
+51e6d1ccbe9da53d,production supervisor rd shift
+1e553a323d597bc3,assistant shift engineer

@@ -1,0 +1,120 @@
+_id,cleaned_job_title
+3e81b369a6153534,hsv co op
+459f6e862d6e987f,co op
+895854c8dcfc6bb0,co op st term
+334f7a7419db7b7c,development co op
+66f6cbc1819e1a67,co op compliance
+1c7ba11ee4ef515a,qa co op
+14023bd0fd71af0c,operations co op
+68c8a979ee7af403,co op
+e60a4f4d924e0354,risk co op
+033e02f7af98f9a4,devops co op
+d18a12269f6ec558,co op
+cac5879a8d1c43c3,chemistry co op
+6c970aaf95937ba3,co op
+ce176e41fbe7392e,hardware co op
+d6e07a0dffa2988b,co op
+468505328439cf6d,co op
+41ea7c098500a544,co op
+d79bd3d700942111,manufacturing co op
+86a2f621c4084f89,innovation co op
+d03e07be21f77042,co op spring
+164eb42a3a148a9c,co op
+583f532e3cd0c75b,technology co op
+a16767b658f63187,co op fall
+2df37b20915a274e,co op
+9ec578c3b7fdbeec,co op telematics
+8d202970c781d4ec,support co op
+c5cd916e4fc81618,jjvc co op
+a009149fc3ade196,co op biomathematician
+7bd79d0c0908c375,software co op
+02a024dab53a97e6,co op bioinformatics
+ee091dcc4d2f16fb,software co op
+45636bd6576a17ab,operations co op
+315d42ad871eaf1c,sales co op
+e1e4a2eb9491d1e5,spring co op
+d8e8c162cf6bccc6,co op
+8347cc1ba7fa5278,co op quality
+c31b852bec265dab,co op
+7d1728088c31066a,tactics co op
+697fd06af525e200,spring co op
+a7c67475cb68b7b3,co op
+ca1b0070fa490165,co op
+2ff0db86bec25a13,co op support
+4203afa5667a4fd6,spring co op
+5a64606b2c41b623,design co op
+df3eb2f5176b1d40,co op
+e4fe37772a38af43,college co op
+246bc76a982c3a3a,software co op
+428bdd63e723b862,marketing co op
+c5e1639356a3073d,gis co op
+d91fcb873c9f6244,ed
+4b3f40913c258af0,co op spring
+4bf56407de4fd7bc,infrastructure co op
+8c0e615170775e12,co op
+ac5722ff0acf6333,spring co op
+8bed276e68ce861c,programmer co op elsys
+4b180cb31d2d055e,college co op
+91c1e7cd1dc61c61,co op
+b743a6f2df720fe8,architect co op
+4c615d3b42254ff6,co op
+5ee9ed2cd88628da,development co op
+a939271c6534df03,co op
+5f48976aa1f1b5ae,co op
+8c70d6810e955044,co op
+e950fdc77fcdde5d,january co op operations
+4f546d4a083bd352,co op
+8d8b5fa03184ef5b,support co op
+f6dce937a89f3f43,co op qa
+90a14aa49344df69,co op
+3b12de3414a829b6,co op
+17fd23549fbce8a4,accounting co op
+46adc1a78dd5730b,co op
+6a75af384d6dea35,co op bachelors
+8101afb3af45f9d9,co op
+6319473fc6ecbd1c,autopilot co op
+b9aa14cd28da1e16,technology co op
+f1a118afc5ecb035,co op
+e8b09e3fd73bc964,oap co op
+29b26e20859a8f0c,co op boston ma
+259118a5a0b4ce65,co op
+67e8513aa4136625,bridge co op
+22f7fb68902569a0,icbm co op
+56886e0eb80bfd9b,co op
+28a8c3de0e543e95,winter co op
+cbdc6a3147f6ce43,accounting co op
+0a32d3ab1111c5de,co op
+ad47bf5ae32ab608,oap co op
+56201b686b0333d7,co op
+ee82eb29bbdd9563,analytics co op
+bb9fc60f9631bccb,devsec ops
+842e09d5b963a791,neurotechnology co op
+785c17107b4a7f86,analytics co op
+26ec58d5d255a5af,gsm co op
+227f5781ea8f353e,finance co op
+327e65831cbb5fa6,co op logistics
+36b9d2f935f598cf,tax co op
+7954335be7d1d13f,bcba englewood co
+1c44f7e11619cba4,bcba englewood co
+b34a970d7b67e04e,bcba sp op stm
+a8809486dc39856b,temp co op
+a05910b9822a7a5b,co op digital
+79303b1a5841dbf3,co op
+59ae06fdc7058624,co op digital
+d5ad20636946f7f0,spring co op
+7b0762113792fedd,spring co op
+113c75f5abc081bf,operations co op
+39d6e953a855906a,lab co op
+f5182be75244441d,spring co op
+afe63dc130a2bb68,design co op
+f92dcf332419d50f,co op
+64529d179dcd08a8,co op
+1218ca6e66198305,co op
+b97e6893ee303310,co op
+3a0b5f392ac2e2ae,chemistry co op
+7f1a78de313c8cf7,co op
+5f7cca9e83e42f2c,co op
+e8e3d330b501ad18,co op
+edc1180cd6eb88ff,software co op
+71b53aed761e9af4,co op rowan
+a1e6e73323795dd7,co op program

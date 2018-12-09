@@ -1,0 +1,420 @@
+_id,cleaned_job_title
+1e657754865cd395,logistics engineer
+a51f8b2fbd54f2f6,spacecraft operations engineer
+6d8ed97c921fab64,operations engineer
+5f34daec5eed1e0e,operations engineer
+adde7274b4130fc1,operations engineer
+aea4b8a23e19f6c0,software engineer operations
+92459fc4e6ef8caf,logistics engineer
+5ed7cdf583e320af,propulsion operations engineer
+c2876bda9edaee98,access management operations engineer
+324a8a92f9e35ecf,fc operations engineer
+7d37cc7b471ee2c2,mission operations engineer
+bcea890b1ed36df1,operations engineer
+28be9672a43bf2e4,operations engineer
+49da9cfc97052363,lifecycle operations engineer
+6556ca630bcae6cb,development operations engineer
+8e52445c368369eb,batch operations engineer
+e3a84b8bb79eec91,operations engineer
+b80cfed0f7545c12,operations engineer
+d6ed11443bd1d0e0,network engineer tactical operations
+5b97f46bb796a1e5,application operations engineer
+17eba66c332864f3,technical operations engineer
+e1e3108244aec4cd,operations engineer
+53dae20f45ce44d2,technology operations support engineer
+43e789a5c778e860,technology operations engineer
+e4499447f63686c9,operations engineer devops
+e99e61cbda47f90b,lifecycle operations engineer
+94e8cef7345fd38f,cdn operations engineer
+8ae61e59c5b66f2b,web operations engineer
+98ea412271c9d319,videoconferencing operations engineer
+dd04ffe034d20c28,software engineer operations
+9357c4596f6f35ff,siri operations engineer
+d50bbe06f26c433e,application operations engineer
+74a884456621d1b6,staff application operations engineer
+ed558df65e74eca7,staff operations engineer
+7bff363ada124449,operations engineer
+f5370fe76ffa2888,developer operations engineer
+2771435f352fbe60,system operations engineer
+2964141733c52f98,web operations engineer
+4a94078121fe06d6,operations engineer
+95abb9c2036d31b6,operations technology engineer
+4e35fe4e82b3ff7f,cyberspace operations engineer
+7879df40de988f27,pki authentication operations engineer job
+20c667b7a5e1c8bb,logistics engineer
+4d93afe6043cf2c5,development operations engineer
+2bd3bc13499835b7,operations engineer
+4cf71d9e0d2c5764,operations development engineer
+e0aeadc601d346e3,site operations engineer
+881b15b12d4cc15e,technical operations engineer
+bf8cfd56a5b0814b,operations engineer
+9c628f74507b276a,constellation operations engineer
+fcb4144330900c69,devops operations engineer
+d4a56f8aff6faf7b,staff data operations engineer
+e87ffa57adc67099,operations engineer
+2f6952970dc99110,technical operations engineer
+df0dd4a50638a091,operations engineer
+ea670ffffbb4568f,operations engineer
+a5dc80a2264b4099,operations engineer
+e1b867f518a25059,lifecycle operations engineer
+dd14ee85213d830d,development operations engineer
+975a79cdd610fba3,recovery operations engineer
+91f2248f90b8e14b,facility operations engineer
+c67c6327ee2ba6bd,development operations engineer
+273c9e3645660c68,technical operations engineer
+d4ab87ea17020791,engineer operations
+66e9278ada3c1e9c,operations deployment infrastructure support engineer
+819822611ae8e432,operations services project engineer
+c2283be34489f933,operations engineer
+2ffacf5d0df0fe61,engineer carrier operations
+4b713f7570e1a3a6,operations engineer usa
+6f9b4222c26e54cc,development operations engineer
+a239e4ab5b3310d7,logistics engineer
+1026b81f8e89f647,development operations engineer
+50629a7a8b281e72,development operations engineer
+4269f51971a0d77d,noc operations engineer
+35d99b0fa458d2b2,operations engineer
+f79b39c9abf022df,technical operations engineer
+347282c3319200b2,operations maintenance systems engineer
+990f3b972f08de7e,technical operations engineer
+5e9304ab8559a960,operations software engineer
+abea4f1423674e5a,fc operations engineer
+165a62de94c71e4c,infrastructure operations engineer
+9533e10cc6f0d910,logistics engineer
+9de54c680aecd8de,development operations engineer
+82da9bf30feb7795,operations engineer
+f24de7505e10fe1f,operations technology scada engineer
+bf68a85d44d88685,engineer renewable operations
+59936f873a8bac38,field operations engineer technician
+e225de0b8201e06a,grid operations engineer
+1eec23f36315d3d1,development operations engineer
+19f23c33e7ff0539,lifecycle operations engineer
+f97b11af27839cb5,staff application operations engineer
+a6c21a0ce3e51121,operations improvement engineer
+df0b42b3d9c72509,engineer production operations
+5699f90f6bac1d4c,customer operations engineer
+de36fd254d68ad98,operations engineer
+ac2fcb010152c5ab,facility operations engineer
+3327c8b9a1ae1928,lifecycle operations engineer
+9ea2a309220f7266,production operations engineer
+c5f696018f432ae5,cyberspace operations engineer
+24af48b206557346,operations engineering technician
+61b65882dd3b057d,operations research engineer
+63463f7adcbbf801,operations engineer
+31a76a10f73f7601,logistics engineer
+4c240014a9f6791e,operations engineer
+dc9a97046a952420,staff application operations engineer
+ffc4d6836309f5d1,operations engineer
+3f16867a170eb1d3,operations engineer
+4ddd0eb6cd71a4f5,development operations engineer
+3e4db08b727f7f52,engineering operations
+dd763d52accafb9a,operations engineer
+7ca96560151e4fa8,flight operations engineer
+a7e10fd37b08e9eb,technical operations engineer
+832713d2c98490c6,technical operations engineer
+9559c6c336dbcc03,operations engineer
+5d9969cb75ba679a,facility operations engineer
+e7c849d638e34922,cyberspace operations engineer
+dfbe63cc77495a54,technical operations engineer
+2bc147b698585c12,engineer infrastructure operations
+ffccf7fdf7217927,logistics engineer
+358dfdbca530f66c,trading systems operations engineer
+03cd20d03dacf4c5,operations transition engineer
+f6b8b8f441d52fa9,facilities operations engineer
+2a723da996970d3c,operations engineer
+f69894d7133de899,operations engineer
+09c98e3dfee8e15f,operations center engineer midshift
+c3505ad35ce785d7,technical operations engineer
+427751b10fe11166,logistics engineer
+f94d3bae90dfe176,operations engineering
+388de85ceb9e2da1,operations engineer
+ff7157dbbd07a4ba,operations technology engineer
+868a98198660e1d0,software engineer operations
+2fbe50eb238db192,logistics engineer
+3dedcf2b3cb42a04,development operations engineer
+5366fd9a319daf89,technical operations engineer
+3a9178df5842c83b,operations engineer
+ff8d9007fefa6e62,operations research engineer
+a10ffaa1ad475d90,operations engineer
+927e4127fa14fe03,development operations engineer
+2df1dd1279c042b1,logistics engineer
+e33347a07a604467,lifecycle operations engineer
+21939f99a124e26a,broadcast media operations engineer
+64f1df908a31463e,operations engineer
+b04340275e429488,operations project engineer
+848f98f77e8b09c3,technical operations engineer
+5e6d7d5b2899a46c,facility operations engineer
+2cc48e0cff9b3962,application operations engineer
+6e0f45bb32b2778a,operations engineer
+bab45a4cb6754f19,engineer infrastructure operations
+1933239267841bdc,performance operations engineer
+2e130551e6e0bfc0,cyberspace operations engineer
+d9b03f0666845a93,development operations engineer
+9eea9ab6239ee218,site operations engineer
+2e16c64af38ff080,software engineer operations
+f33107225b6b4b28,software engineer flight operations
+d04b3eb686daf4ff,application operations engineer
+9529b175d988be2c,development operations engineer
+81baa1b21574705a,technical operations engineer
+9a23b5bea285e74a,engineer operations
+cfbd6e35a0dfedb2,saas operations engineer
+56554093bd0c3586,technical operations engineer
+29c93f57484b1e42,operations engineer
+15cd83aa01a27601,operation engineer level
+4abfb41a8177e785,cyberark operations engineer
+ac703e00288a8ed6,staff application operations engineer
+784db06a927dead8,software engineer business operations
+e3d9e16e071a4920,logistics engineer
+d734a6b15bd67838,field operations engineer
+581bae80a66b9384,lifecycle operations engineer
+ff64536cbe6445d4,development operations engineer
+4ebb6d5b94a93ca6,development operations engineer
+f164549654e86064,fc operations engineer
+f99d50e7e50bd914,logistics engineer
+3702d0d11cbaff14,environmental operations engineer
+07c65902d6876666,operations engineer
+c888a042e4a6b449,distance education operations engineer
+69620b12a6b6d5e4,operations research engineer
+629d215bef00da6a,operations specialist solution engineer
+77e5870bc93f9624,engineer operations
+3411fd3a46a69241,logistics engineer operations
+fa9dcab9fb7f68df,site operations engineer
+521961fe1cde7889,development operations engineer
+f18dbe44e5334787,operations engineer
+fbcedcf967870d3e,ip engineer operations
+0f5d3be0ddb2e73d,logistics engineer
+afac74e232793d4f,staff application operations engineer
+088a3082088ab730,operations project engineer
+079da78525d2a011,operations engineer
+82674fb1a7c1ecc3,staff lifecycle operations engineer
+f8ae3c45610b02d0,dragon recovery operations engineer
+faaec93d79c12301,operations engineer
+8831af9bfa58d661,operations engineer
+6934a2997acb6116,field operations engineer
+b97fe252bf548709,engineer engineering operations
+9d908cd779d1c497,logistics engineer
+e75a50815a161bd8,operations engineer
+412bb4b2cf80cf72,technical operations project engineer
+e12e71ae24e9346a,waf operations engineer
+12dd7b3644826cb6,engineer operations
+433657f9768cf620,logistics engineer
+57193dfdac73a374,sharepoint operations engineer
+f89755d5651f9eb5,operations engineer
+929f091c8c7c2c2c,customer operations engineer
+137d0e9f4ae4c4f0,server operations engineer
+e5fbdd3ed0006f3c,application operations engineer
+cdad05587d277044,operations engineer
+e4b5ef343abb9dc8,operations engineer
+5c26248061ee35fe,development operations engineer boss
+f64c8f133dc35784,site operations engineer
+f6b2bab4c329c604,infrastructure operations engineer
+1c8e6128d164acaa,operations engineer
+9d01728b22d81133,iam business operations engineer
+96c16e5cc4bb55e2,lifecycle operations engineer
+b8e9dd0c7e643ba9,spacecraft operations engineer
+33c34631294c7233,operations engineer
+a18bd59659918361,development operations engineer
+51a87fa30b5a935f,operations engineer
+3514902ac567524b,engineering operations developer
+f699ae7bb3c0c4b8,logistics engineer
+b153554e538b40ca,technical operations engineer
+1078b07c9082765e,operations engineer
+9ee698886f33918c,logistics engineer
+910fad73987abf8e,operations engineering technician
+eb2a9858b7fe1eba,logistics engineer
+2393cb392fcee5de,site operations engineer
+3a72fcb3d3743de6,fleet operations spacecraft engineer
+1cd5ae5d07bb5f74,operations engineer
+a71bfe5786811a54,engineer toll operations
+5338419dae3aaff6,operations research engineer
+eef56ac30af17936,service management operations engineer
+a44ffbde530066a1,application operations engineer
+b98fcd81b1961c54,operations engineer
+09f0bd0a766b106e,process engineer technical operations
+fb17355eb6746879,operations engineer
+e225fcd3e1658f0a,engineering operations technician
+0550b077eff3ad3f,field operations engineer
+048a13ae48c64212,development operations engineer
+6109a842b51adb9d,operations engineer
+879b2db4af58ad3e,logistics engineer
+6f906071aa717f52,operations engineer
+32fbb08683da720f,logistics engineer
+306b2f634995e6cf,lifecycle operations engineer
+be35e1b2abdaa5ce,operations engineer
+9fee30cf52f19510,operations engineer
+3aad505be934519b,engineering operations technician
+f7f053014f84e57b,logistics engineer
+d00e28ae30ac32c4,tier operations engineer
+04f93a307bdd79ed,operation engineer
+e2d0c65e655967b0,development operations engineer
+2b056bf650ecdc11,constellation operations engineer
+9afe0874231c4dfa,engineer toll operations
+38eb17888a320028,lro spacecraft operations engineer
+68fd09de31825269,process engineer operations scottsdale
+24e56303fd03daf0,production operations engineer
+9694f4f4322a9a96,operations engineer
+d91c543c5fffab99,product operations engineer npi
+603c4a1189a09874,operations engineer
+2e1d7cdd37dfe113,operations engineer working azure
+2fe5333f47ad99c5,operations research planning analysis engineer
+d335a7737caa9202,network engineer tactical operations
+c881f2a1af5a7315,transportation system operations engineer
+1c059d8978b5c186,lifecycle operations engineer
+47c31632657ff665,lro spacecraft operations engineer
+533b59781a40dd90,engineering operations technician
+876736d663d724fe,engineer technical operations
+4b974974d2a62a27,logistics engineer
+b5e56d13e997dcd9,staff engineer advanced operations
+218b5b71a338b2f0,operations engineer
+80dda6ddfc632032,logistics engineer
+e7a78882b31c2716,technology operations engineer
+617498c9c26af3de,logistics engineer
+8c50efe015f4a1cd,field operations engineer
+59cea7cb4491ef84,logistics engineer
+3a677af655e1556b,tier operations engineer
+b1c5d9384c84ca2b,engineer technical operations
+43b8e18ec0bbed29,traffic operations design engineer
+d3113f39fd61629d,operations engineer
+7415ea9831361b4d,logistics engineer
+3fe3bc29af4a5ed3,staff application operations engineer
+0dc7bbc80367f38c,customer operations engineer
+00ba55761797a093,development operations engineer
+b828b02349c2622f,operations engineer
+1e291f8f2fa078c7,operations engineer
+c93a1428d970a995,facilities maintenance operations engineer
+cc7cf4e5849087f3,operations engineering technician
+178eed46ae654923,operations engineer hadoop
+c74011318760a311,operations industrial engineer
+01ee9166c00ff0d5,operations engineer
+a750979dcf9943a8,technical operations engineer
+04d6bd744dbba918,logistics engineer
+c741c1c6d388244c,application operations engineer
+7b7cb1390c39969d,principal engineer drilling operations
+d5c70d8032589c8c,ag field operations engineer
+e6adb1b617ef08e7,logistics engineer
+7232172766f9dedf,distance education operations engineer
+5416daade2374926,voice operations engineer
+b61f32eacec36532,technical operations engineer
+45b00ea3d7586ccc,field operations engineer
+4c66d51c421743ed,staff application operations engineer
+a4bdcb7b36abcdf0,engineering operations technician
+793e8b7d2ccaab05,application operations engineer
+511ce18944670f3a,flight operations engineer
+5df2d508382f87e3,development operations engineer
+fa1a864c3356417e,videoconferencing operations engineer
+d0cbebe52af33aa5,access management operations engineer
+0446c8b5b8506455,development operations engineer
+54686f0554cf237f,development operations engineer
+c25ce56f2f1f7700,logistics engineer
+6428cefd7f7a1ed3,operations engineer
+8263a24dca50fc45,logistics engineer
+01b46772ed30fcf4,development operations engineer
+f739e05640f9ab8d,development operations engineer
+90d06678e3cab47e,operations insight engineer
+1fd6f4d50b10affb,site operations systems engineer
+6871a80e0dd2c2be,space operations engineer
+dd142b5849f055e2,robotic operations engineer
+796c4ab72d7e912a,operations engineering
+6ac468cab36296e1,logistics engineer
+07ed582fac2cba8d,technical operations engineer
+ec85439c4b38dd9a,metals operations equipment engineer
+04c6d0c3cbcc140c,operations engineer
+7ee44caecd39f3e6,technical operations engineer
+c2ea7dfff93f98f3,cyberspace operations engineer
+74375f68b351d148,saas operations engineer
+2e4e4ec6a7bfde25,middleware operations engineer
+f1a2d2df154d0c87,operations engineer
+838f21d8642b746f,logistics engineer
+9772981d3635e948,operations research engineer
+b90e742a60206fdf,flight operations engineer
+cead4c3711c673ae,lifecycle operations engineer
+12a39dfced8213a8,operations support testing engineer
+46a33866808e95c4,global operations engineer
+ee44a180327cedd3,cyberspace operations engineer job
+487175d25dfb6de4,technical operations engineer
+a26f6f1bd5f0b6b7,plant operations engineer
+7ec058081ca1bb02,space telescope operations engineer
+20fc62905e6b095d,site operations engineering
+37dafb9c412bbd6b,critical facilities operations engineer
+ba8bcb47ed1020c0,operations engineer
+77f62141c4e16605,logistics engineer
+35ad9111af550b12,operations engineer
+9e5b5d6166389394,operations engineering consultant
+b352f81c1684c17a,hadoop operations engineer
+a7782cbe471af6be,operations engineer
+6af5e71318f88f17,operations engineer
+8b911b3a78a789ed,development operations engineer
+c1737e99e6f171ca,development operations engineer
+914efa40d605274b,multiscale developer operations engineer devops
+2d71fe15e69c552a,development operations engineer
+ac776e2c43f0c526,development operations engineer
+7cf130cbb4b5e59e,development operations engineer
+9f8a6ee4d82e3f21,applications operations engineer
+1585aae17c5d4e92,development operations engineer
+6333dfa33b4b7aeb,staff application operations engineer
+27f47be38228e3b7,operations engineer
+fec52262e88978f1,build operations engineer
+912cf5dd3e91626a,development operations engineer
+319707e2437abd20,devops operations engineer
+cadfe051e626b3b7,development operations engineer
+935edae4dec9e4ed,saas operations engineer
+ff9223ac94c30a25,production operations engineer
+7959fb9c9563ca7e,operations engineer
+67e4e70368823c06,engineering operations assistant
+91d483536128a325,flight operations aircrew
+547104daae72314d,operations engineer
+ab819c753f33f788,logistics engineer
+536e9eea00e21900,operations engineer
+7e7a7b0b4e1db1cf,operations engineer
+41d216fc0cce0a67,operations engineer
+0b26bc0c32f67b69,operations engineer
+cd53d82f4071d3ea,operations engineer
+920183b5f3372f0f,operations engineer
+ef9174424800e77e,technical operations engineer
+f38745279ce10ea7,technical operations engineer
+41e27f3b43816822,logistics engineer
+3a9f6ee199a6ca1e,technical operations engineer
+71cc961da80595fa,operations center engineer
+e8cfbce5570fc2a7,site operations engineer
+880dda447bac8f0e,operations engineer
+e57b5d1f797319ed,operations engineer
+1ef0eeeaf0289942,system operations engineer
+949b8de27d19c48d,operations manager chief engineer
+7fbf655ee36d358c,cluster operations engineer
+d9b02887a80d6eed,operations center engineer
+613ea05cca140d9b,operations engineer
+fb9a3ebf5ecda658,operations engineer
+261c8ac2dad1d0d8,broadcast operations engineer
+a0038918c3b3a466,network engineer tactical operations
+a20fadf7f72ec758,saas operations engineer
+71ee9cd9b557198a,network engineer tactical operations
+d571706cfea2523f,operations engineer
+f2a3968db4140f57,operations engineer graveyard
+79ac48873b1275a9,flight operations engineer
+8fa7b567ad99c975,operations center engineer
+aebaca9dc924e628,development operations engineer
+c2fadafdb71ce000,operations engineer
+6323c6973a084c73,tecc operations engineer
+578454b557c71ed1,operation engineer
+6d1036844a640f4a,operations engineer
+f75c2405e7002716,satcom operations engineer
+334b2ce31008c4a5,operations manager chief engineer
+e32c69b081523f36,operations engineer
+4731742fccf281ae,cyberspace operations engineer
+02060dcbb3547a43,operations engineering
+83bb94235acaa29e,operations engineer
+c094135c76cc78a2,cyberspace operations engineer
+da2dc6f6982ca32e,identity operations engineer
+39bed2e737eb67cb,operations engineer
+da74fc8d4ae6986f,staff lifecycle operations engineer
+14ca7d8befd4c237,engineering operations developer
+856517ef3b78480a,engineering operations technician
+fed7e7a809b6ae5e,operations center engineer
+2612318b0be9734e,industrial operations engineer
+811c9f2d9528d4a7,logistics engineer
+f6041be4d0b21bcb,vtc operations engineer
+21187a0bd553f58a,operations engineer
+ed5331783ff2c88a,compliance operations engineer
+20ddde5650251b81,technical operations engineer
+8c672cf4e98c339d,operations engineer
+fc15305b3c2a3f70,batch operations engineer

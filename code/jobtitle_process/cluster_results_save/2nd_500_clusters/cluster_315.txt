@@ -1,0 +1,240 @@
+_id,cleaned_job_title
+ca2e71b89626ad65,mobile lab team
+84859b5bca498a95,lab manager
+ece7199f981da2ef,manager xp lab
+6d901fe3ed445004,electron beam laboratory assistant
+b8008bd59bbaf920,core lab
+d3d146b22efd1d44,lab blood bank beaker
+3325f97396d03c7a,lab manager
+f1460aac50bb1130,magic lab
+569d39a9b0fa2c7a,srh rehab aide inspire lab
+5022095c7aceea9a,metrology lab site manager chicago
+6288d0adeb908286,lab supervisor
+5f62a2845794a5f1,engineering lab coordinator
+bcb0a0604a19f6b9,bell labs
+b2bf81aa46b6ef3b,assistant lab director
+f6a97ba33f3f8ac4,principal lab programmer
+6be132570308ca54,metrology lab site manager chicago
+657af27aa3c58899,assistant lab director
+328df00ecb27275f,laser lab
+e2252860208e615c,laboratory director
+eb292bd7f69e444f,lab director
+ae2c17e4801a537e,lab tech jhbmc core lab
+83e08d99ff89efbb,ctd laboratory manager
+117c849e669d55c9,laboratory manager
+b10ec161fb54eb78,analytical lab manager
+4f485dd70ca8b7e3,supervisor research laboratory
+bc400e3130fcb100,post doc pietras lab
+4268e8282d7e3771,chemical development lab manager
+f656843da25eadf6,manager eid vaccine laboratory
+a1aa8698f99df115,lab assoc
+047d05b1baa10814,global laboratory manager
+01506fd6f09ea71a,lab tech core lab
+96e83447e72ea99d,lab supervisor processing qc
+84c6553ea7ed96c0,phlebotomy supervisor lab
+6624acd527144917,lab assistant
+3240d031cbf4c227,lab assistant
+f3d4468d96e454c6,laboratory manager
+283f41c9a25e5c5d,clia laboratory supervisor
+772e9655adbcac6e,accenture labs
+cd3791bef6ca3caf,lab section supervisor
+ce4328d6a475d731,laboratory manager
+cbaf971ea35b45dd,laboratory manager
+fa2291b69c0bd308,general lab supervisor
+32f8ab44cf107cec,lab assistant
+9919b58f0758d366,vivarium manager vivo pharmacology
+dbfd6813b56bb12c,specimen accessioner
+7051e9e9c656fd03,laboratory manager
+a10dd20ff97804a8,bioassay lab manager
+79a7a329742c3962,cls laboratory chemistry supervisor
+32be659ba1cc9518,lab manager
+48a0721ebed5418e,laboratory manager
+e9a97935d2b1c076,lab supervisor
+dd6d6a4ee94fb530,lab assoc
+7860cf494e756189,lab tech core lab
+6ceb363ba8bb72fd,general lab supervisor
+f3edaa1b2976ba7b,test lab director
+58e9109d848f504c,laboratory manager
+7226ae2ab24f763b,lab manager
+8576b204023eb33b,lab assistant
+b22c680a4c41f086,lab supervisor virology
+127197d6fbeb880b,lab asst
+ac320f435e0b81c2,lab manager
+9a758bfaa1bfcb86,analytical lab manager balchem
+818d3100676884df,lab specialist
+94d93d5dfed62367,laboratory coordinator
+0f907f45ed82beb0,flow cytometry lab manager
+4480cbd88af38c9b,laboratory manager
+9b61aa9c2181101e,supervisor car t lab
+093e6e80a5bfbce3,laboratory manager
+3c9321f17398bb35,met lab data clerk
+ba689c82dd6e26d3,laboratory manager
+5c1addec5ee3c854,qc lab supervisor
+53f31a817108d7b8,qc laboratory supervisor
+b90ebe7c21c15ef8,accenture labs
+5c5fce2e63499286,manager innovation lab
+a714c8ea13783b6e,qc lab supervisor
+47ae5f83e998880a,cls laboratory chemistry supervisor
+58a9c8ca1e74c218,lab manager
+ebb06c0de5becb10,solution lab manager ftba
+43ba76aac8884a44,lab assistant
+969d533fb1a44e43,nova night laboratory supervisor
+27d06cb123e3450d,radiology manager torresdale campus
+fc8feaa0dbe130ac,lab environment manager
+036bcd8dc73052c3,supervisor lab histology
+db5f5bbc18bcc9b0,laboratory assistant biopharma
+031a8c65d516e5d8,hematology laboratory supervisor
+c08d0d2fab4c8c78,laboratory supervisor ascp
+52eed67f33606953,laboratory manager
+470ccccd97e29fb6,lab assistant
+594f4596ecd8705a,laboratory assistant vivo
+8c0472e6c97076a6,lab supervisor
+562552701c210a00,sup lab
+e0e694e827c9e596,dosimetrist siena clinic
+bbd37b23c0efba7a,lab supervisor
+8e0f3391356acbd7,lab assistant
+e40d49c469edf791,laboratory supervisor
+ac307257db637374,laboratory director
+c89ee61424e54b02,director donor testing lab
+74abf01a544f1f5d,laboratory supervisor wwo
+961c3ed23b1e05fc,clia lab general supervisor
+961e3f2405d55fa7,lab assistant
+ef9c054a4c672bf5,quality lab supervisor
+91c893cd401808c9,clinic trainer
+3aa826189206becf,lab assistant
+470d2cb48f6cc680,microbiology laboratory supervisor
+30c03d06eb0d4c8b,laboratory aide
+7f67999287c1b858,supervisor blood bank lab
+9a3d9ff6f14c0e11,histotechnologist pathology laboratory assistant
+03c3e77c989196a4,laboratory supervisor
+f00709be7f49d027,hematology lab supervisor
+135b237f74c6a0aa,laboratory manager
+a1817906bdb83802,laboratory director
+7513dd9dbc3cbb27,lab manager
+9ff2014a71436c32,laboratory manager
+f2ec13c52cde79d8,microbiology processing laboratory assistant
+710e22b9296b950e,core lab manager
+9dbe87aade4d5d5c,laboratory supervisor
+54718fa7c22b26ee,laboratory manager
+b05b49cf57373aed,laboratory manager
+2b986da27a849cc0,milk lab manager
+a60214c68131c738,laboratory supervisor
+2adfa3df89c07dad,manager core laboratory
+7cd5d7c7b2f28f86,director laboratory
+26435653f7de3592,laboratory coordinator
+cef0158d86a46ca1,staff lab tech assistant
+b6db0ce7f958d4aa,clin lab technolgst hematlgy
+77680d92185ccc58,lab assistant
+273bb6593b5b7ec1,laboratory assistants
+85aeb63438b0f129,laboratory manager chief technologist
+9b085ac7686f5d1e,lab supervisor
+9be7517a7095efb7,manager laboratory
+20f82ecea44ab577,phlebotomy lab assistant reference laboratory
+548bee6391f9bcf9,quality lab supervisor
+1e4a23abd7da2f94,quality lab supervisor
+65cec1a4e0fba838,laboratory division supervisor
+7984cc74ff70b657,laboratory supervisor
+0b810eb8ad161f2e,cpt lab assistant
+6bbd15516213c894,clia laboratory manager
+23e5ddbaa569d62e,supervisor lab section
+10e0638f802aa5c5,mlt lab prn
+9b4013ae2d21bca8,laboratory supervisor
+450dd7d8a6bfd79e,lab manager
+31a0d53305617272,hospital onsite lab director
+939ae3bf49ab1cf6,lab supervisor coagulation
+e2bec307760e78cc,supervisor laboratory
+aa2df4417e54a718,manager laboratory laboratory
+1e6e643202362b7e,lab supervisor
+1c4d1f3800eef022,laboratory supervisor
+09f85ed665b671ac,laboratory general supervisor
+280df5758dacdd91,lab manager
+6958a2108a81492a,extraction lab director
+cb4935f7c9e30699,culture lab supervisor
+ce19f8a837bb01b4,lab manager
+4f3e312600bc7560,lab assistant
+c2b1263966605723,supervisor cell marker lab
+a40a772ae6ff4491,assistant lab manager
+26afa120fd578cba,dir lab
+1f64e25abc9e8a53,sup lab
+1ff86d583cbbae58,lenscrafters lab manager
+25ebe9f1f1cb984d,laboratory assistant biopharma
+f0faf0299b403e5b,staff nurse cath lab ir
+9e9f16edd132ad60,lab mls mlt
+31d7e4554c29035f,environmental laboratory supervisor
+0109f17576fd56e8,criminalist
+66d3a28ec059f322,radiology manager frankford campus
+dcae16b63ea4c088,supervisor lab midlands
+acee97a3f1aff352,laboratory supervisor
+1bdc6e0ceb43a5dd,laboratory manager
+cec808de8249fb34,laboratory manager
+a13276e94f24eb13,lab assistant
+f91f00152fcbad3d,hematology laboratory supervisor
+342809f8bea38792,laboratory supervisor
+26f431d9b034cbf0,lab assistant
+bc66bf59850d039d,cpti lab assistant
+32b7197057776f7f,laboratory specimen processor
+23bda4abdc180881,laboratory manager
+3bf36a39f1099e23,laboratory testing manager
+77ff1363eda7fd8b,lab assistant
+ca9048ef1a1d4d12,laboratory manager
+f3a885061b91b4ff,lab manager job
+020fcd76a39d0474,laboratory manager
+418b07ba476c2b7b,mlt mt laboratory
+312569788ad150d3,lab manager
+07762c6706322f26,clia laboratory manager
+1803848b9ba5650d,laboratory director
+1ad54e0a3a198951,laboratory manager
+04473b5a219847c4,newborn screening laboratory manager
+988240bd7d423d83,laboratory manager
+9370c84cacacced3,laboratory manager
+f35af4bc79df500c,asst lab
+034bbd4a3ca3f630,laboratory manager
+f52d048221ddcb03,lab assistant
+f0b97e04dfb30495,lab assistant
+45cbb5c7bc91f5c6,laboratory assistant prn
+7e67229e94d2ed7b,laboratory director
+1f068522eb76ccc4,laboratory technical supervisor
+02c45be9eacefd9d,laboratory coordinator
+05dc7238206822a9,lpn clinic
+f1b681561c499552,lab director
+37a2a9ee1dd82ec3,manager laboratory
+37e457506495440f,phlebotomy lab assistant reference laboratory
+39cb9dcda76c5dd8,laboratory supervisor
+a5673d7609bf913e,laboratory technical supervisor
+297d1ded15afbfd9,laboratory manager
+7cb8d5aa962bf7c9,laboratory supervisor
+a1d6cbd8404aea00,laboratory manager
+44b1a6921ad55315,lab supervisor
+6d69fc1a3f46fe61,cls laboratory blood bank supervisor
+25e4d4edda0eb02a,criminalist
+303fbbf0caee5171,lab supervisor
+def4ca9ad419ad38,staff lab tech assistant
+10a2409dc4f6c252,lenscrafters lab manager
+3817cd7f6bdbdcc2,supervisor laboratory
+943c964248a20fff,quality lab supervisor
+9cc1e5f78ea57538,medical technologist lab corp lab
+8fdce9713e92d7c7,lab assistant
+83398cdc47f791f5,manager cath lab
+2d9694138a8b1b6b,lab assistant
+34af6f5f1a5700bf,laboratory director
+a3f022d15b8b8196,ht htl histology lab supervisor
+54c170c951efaf82,lab manager
+7f56d7bf59a4c25f,laboratory department supervisor
+7059ffa17eedba37,analytical lab manager
+f140deadae7e6ffb,mlt mt laboratory
+88de7ffeb8d03197,mlt mt laboratory
+31b7bfb8c2ec19df,lab supervisor
+b21362566ff44bc1,lab assistant
+fde0087199adc988,manager design lab
+242e54cc0f0a5b5f,laboratory coordinator
+768b81dd49b20dbb,laboratory operations comp
+083cfe1d17fcf48a,sleep lab manager
+b182334c35471e38,qc lab manager
+12eeede41be68052,cath ep lab team leader
+0682daa726ec2612,laboratory manager
+61d46889bbb317e8,accenture labs
+a85cb6324f1da51b,accenture labs
+4a3a0c997745ad47,hit lab
+7ea6613c5504c426,jrss lab intermediate
+ef17fec68fafb2cb,lab support manager
+109e75e6d6c901c9,lab manager

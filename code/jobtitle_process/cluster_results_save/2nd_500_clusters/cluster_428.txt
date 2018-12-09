@@ -1,0 +1,447 @@
+_id,cleaned_job_title
+3f38b77843cd56a0,radar algorithm engineer
+0d0ad918aef84e18,algorithm engineer
+09cbc8e50f659162,audio visual engineer oldsmar
+f1f80ce4ae2c9293,audio engineer
+7e1f35a7561f1726,audio video engineer
+e5d7b00b02e3a0a8,motion planning algorithm engineer
+cfb276cc69e960f1,video voice engineer
+6c6c5fc510131558,audio visuaal engineer
+e0f8c7b4e37d5ae4,algorithms engineer
+9c8c6b173fbd1093,video engineer
+d8043c88543acd54,software engineer graphics engine
+d2c645994e536f5a,runtime engineer
+d9806ad9ee723319,graphics hardware verification engineer
+114b18bab4904858,software engineer graphics
+e19a89349264c033,developer relations engineer film animation
+11de617d6b3e9dd0,video engineer
+9201b4a09970da4c,modeling simulations engineer
+2d48199f73fcceef,audio visual engineer
+523e3219b3d3dc81,engineer mapping localization
+b6c67d829d59c283,runtime engineer
+6f2d73f9d41238e8,audio speech processing algorithm engineer
+a4339b7a8ae401bf,gameplay engineer
+f7a1a3add3da6152,video playback engineering
+22521249df44e85c,audio visual engineer
+9a888e76f421c7ab,audio visual engineer
+00cbda1e0bc776fd,systems engineer graphics imaging
+0b35d215e623cfcd,audio visual engineer
+e706f22741e67f1b,modeling simulation engineer
+ce3492894f2cd578,modeling simulation engineer
+752151b4093eac0d,modeling simulation engineer
+03ffe42326d69569,audio video programmer
+92ca88b66297263e,modeling simulation engineer
+d8aa6782ab68a638,graphics verification software engineer
+9c1f977e0d6b959c,algorithms engineer
+b9fb07692392771c,audio visual engineer
+2104a3e3dbfe09c3,computational photography engineer
+57b5e67fb13d2e74,interactive technology demo engineer
+29a63db76f7a3f7f,software engineer gameplay
+e248c0ddd5270f36,software engineer graphics
+feb6cb3d49d5aae7,graphics software engineer
+33b35a79c71a7312,gameplay engineer
+2a1ec6cf224beb5f,graphics emulation engineer
+a57589a1ff2a4375,gameplay engineer
+c33a11aa54366454,animation engineer
+78e1a4e6d2ea2acf,graphics engineer virtual reality
+3ae89597db99a8a8,multiplayer engineer
+593795a0f06240a8,audio engineer
+75690b3dc311e34f,computed tomography engineer
+a3b88e3a36e04561,graphics software engineer
+ca9af838af12595e,simulation engineer
+c4d743145727ce43,applied algorithms engineer
+f943dea86d0e66a3,gameplay engineer
+42ccb8d424d04059,engineer algorithm
+89584b422e2e4945,software engineer graphics
+dcc9b4eab4bc8a01,lead software engineer graphics engine
+8fcc608b66e1f344,graphics engineer
+752bab8d439e8a4b,audio engineer
+44248f764c4de89a,graphics engineer
+535de74cf4b14cab,mapping localization engineer
+cbbd562fc9e63578,gameplay engineer
+571c189f47f55339,graphics engineer
+30c374ae46eda4f7,graphics software engineer
+ed5c98b4cb99f1d4,modeling simulation engineer
+97e323e5dd68632b,modeling simulation engineer
+512ddeae4b34069a,sensor fusion algorithm engineer
+e04c65bedb1c518d,modeling simulation engineer analyst
+ccac2f3fc08eb513,graphics performance modeling engineer
+d2b7b8e92616ebfe,gameplay engineer
+d8fad664fe340018,audio visual software engineer
+254f6d1fc5b51ec9,video engineer
+4482425548696c3a,prototype demo engineer
+83407436ded8e9e2,simulation engineer
+900a1b7e8f406e2b,algorithm engineer
+16e75e637f1103be,video engineer
+b14ed6851d730866,audio engineer technician
+7a421287c41a820b,simulator engineer
+772bcb3e9943540b,application engineer modeling simulation
+0103025a9222094a,graphics software engineer
+74e3eaf7e01f9d22,audio visual project engineer
+f4b6bd217e539464,spatial visualization engineer
+c69f09aeb3e41c58,hardware engineer car multimedia
+3fb210824d8a87c3,audio visual engineer
+f4b5da05db734cb3,interactive devices engineer
+083f093416723f75,compiler verification engineer graphics
+b0797f2bd7d2d3c3,game graphics rendering engineer
+8ab17d6a3358a2df,software engineer graphics
+8981e46a2feb14be,infotainment engineer
+950027efb1e2a583,localization mapping engineer
+b96cdc1f17d0362d,software engineer graphics
+0bb602f28fef7d87,algorithm engineer
+dc6d6c66aebc06eb,spatial audio software engineer
+f50c8950ce2c09d6,graphics rendering engineer
+f555ab66cea894a6,console spacecraft engineer
+59e4b530ba6bf585,gpu modeling architecture engineer
+dbfea8892c76631d,graphics engineer
+760c1e007dc52c55,analysis simulation engineer
+0d14870f37835806,engineer algorithms
+2bcafe6b1a674571,modeling simulation engineer
+b70883e3d1b280ea,gpu modeling architecture engineer
+202841ef076a45ae,graphics software engineer
+4ad804fd21732bd7,software engineer gameplay
+8b50e2768ecd963d,polycom audio visual engineer
+08135a44434dd2c5,gameplay engineer
+58702d6b4590a4bc,infotainment engineer
+c2291cd6c5998c7a,infotainment simulation development engineer
+c5a9e83f360f0caa,animation tools engineer toys bob
+0a04766f565c8d77,localization algorithm engineer
+ec48e4e0e35fd051,adas algorithm engineer
+c1a709f62f9786e7,graphics profiling engineer
+1d8dea2e3bb6f5e5,algorithm engineer
+0171e0384f3b538f,audio system engineer
+1b5309a4a16ee807,mapping localization engineer
+4a21bf5af0886524,graphics profiling engineer
+6e911ba42fb7fb6b,graphics system engineer
+7f0390b890755676,modeling simulation analysis engineer
+8b46e529e692006f,d graphics software engineer
+6306edcf83cb1b92,software audio triage engineer
+23c61459f1a60812,software engineer simulation realism
+5c21b6f347bebcff,software engineer gameplay
+d1d908c30d5c3bbe,video algorithm engineer
+60de5e587315087d,modeling simulation engineer
+7c41250157f7e869,modeling simulation engineer
+1fa5a450ddd99147,graphics engineer simulation
+c4b8b117cd5948d6,modeling simulation engineer
+795655fdb784e10e,audio visual engineer
+a6f6cf12b4f80df9,algorithm engineer
+3a258b8a29f10390,voice video engineer
+f84fe27732a194e7,graphics software engineer
+c47e7ea778f0c85f,graphics software engineer
+331c4b324cbd8d95,reservoir simulation engineer
+44845d1367974e10,audio visual engineer
+b6f974d9dc0296a9,audio engineer sound designer
+7fc15c50869df64f,visual effects software engineer vr
+987c4df0ae79d3c6,gameplay engineer
+f2d393107a950fd8,staff audio acoustics engineer
+1f9c9cf9c18f3573,graphics engineer
+49ef9633e85b2ab8,graphics engineer
+98b719ef146cbbd2,simulation engineer
+77ff225857ba4b18,audio algorithm engineer
+60fcabb4397c539c,audio visual systems programmer
+258eaf6125a407e4,audio engineer
+265ef8889953bcbe,firmware engineer ar audio
+6e6ae0664cbe00e5,neuroimaging engineer
+406c864854bba934,graphics compute engineer
+1f9c7e2f7e66bbdf,simulation engineer
+09b5b8737019f11b,graphics asic hardware design engineer
+63972be8cce0e7ba,algorithm engineer
+41a0358a917dc4d5,geophysical processor
+7cc15248dd1fb4f8,audio engineer
+61cd8aecfd4b4833,studio audio engineer
+39d5834ee7743f53,algorithm engineer
+3a8c51346ec0c978,video engineer
+0a0a3405118ee90f,software engineer graphics
+0c3952f4d194333b,graphics software engineer
+55104e708c6863a7,audio calibration instrumentation engineer
+bf7ae3f9bf7b8b04,developer relations engineer film animation
+a2d1be1938eb4309,audio visual engineer
+3f6b573c4131cbcb,gaming engineer
+16ff71eff6fecaa3,engineer graphics rendering
+78888d89e70af152,gameplay engineer
+fc0f53a1abb498ea,graphics software engineer
+4aa3506e0c52a072,hybrid simulation engineer
+3ff76cd02de401a7,modeling simulation engineer
+2035ce79b8646bc3,modeling simulation engineer
+7e5587b477608bd2,geophysical processor
+cacf34034fc8d841,video codec software engineer
+e7d4cec941035ca6,graphics modeling engineer
+025dc2c5e974ed46,acoustic engineer audio systems
+0afbfab03b327a6b,interactive engineer
+5ef15e03a4e0b7c3,rendering animation engineer
+675d05b29d4a59f8,graphics rendering software engineer
+4f3ba84fb85b6f6f,audio visual engineer
+8b11837dc517b3c9,audio video programmer
+0f4eb85c3a5b9a06,modeling simulation engineer
+90e6ac11331cf061,modeling simulation controls engineer
+56d69fb87a0a96e8,d graphics engine programmer
+4b72c478b9dc1970,audio engineer music producer
+d018156bd509fde9,audio engineer
+730faf6b625db232,desktop video teleconference engineer
+65ae9b77e6c9c387,modeling simulation engineer
+0b32672dd114f5e1,vr gameplay prototyping engineer
+69800e182558a57a,audio dsp engineer
+e07528d13e3f6fe0,audio engineer
+f1d6cc6d081a4698,thermal simulations engineer
+a1790493411197d7,algorithm engineer
+b9e947d33f13fbe5,calibration tuning engineer
+2c4ae185931b8000,flight simulator engineer
+92acfe837ccc2bc0,video engineer
+794c09aa804c025f,engine calibration engineer
+9a7d283d3c6b5abc,graphics engineer simulation
+053a8bcdd7ad662d,communications modeling simulation engineer
+08cb5f4ae5ed2d6a,computing architect optimization engineer
+4ff2f58e07c40489,runtime engineer
+25ddaba18e6b0242,engineer video
+9c66b35671835cf4,decryption engineer
+8663614af584fe9b,algorithm engineer
+3143e8eba099694e,simulation modeling engineer
+ffa4cb70fa4094f2,simulation engineer
+c48e60f6c5c046ca,graphics modeling engineer
+14073f7dbe867c41,algorithm engineer
+feaecddbb4d8a161,d rendering graphics software engineer
+3adc8c24407dcb41,modeling simulation engineer
+ef7e99ae16dc9547,developer relations engineer film animation
+38d7ac2300902982,audio engineer
+c30def571808adef,graphics software engineer
+dc0818c738667507,video conferencing engineer
+fd47b0b98803df69,modeling simulation engineer
+c5a6e8a0f773c4a0,simulation engineer
+a51e89dd0dcc5536,audio visual systems field engineer
+41c9942634b3c091,algorithm engineer
+b50b3ebdf5459ae3,acoustic engineer audio systems
+babea2bd6dc91461,imaging algorithm evaluation engineer
+d8b9806de3c04074,measurement engine engineer
+8549ba2c58f2e34a,simulation engineer
+3360724f23914dee,modeling simulation analysis engineer
+1ce1d56a96d4129b,simulation engineer
+18e342110badfed4,podcast audio engineer
+db99ccd41c4b4d7f,graphics software engineer
+2a7b782dd50e2e91,engineer modeling simulation
+761c31f5a8674131,algorithm engineer
+c8479d5a52923afe,gameplay engineer
+8d3db3bcdfc96971,engine calibration engineer
+446610635592edba,simulation engineer
+6bb05d62215ea15a,audio algorithms engineer
+97592c49e9361c81,graphics engineer
+112af3de79f61461,simulation engineer
+3a0fca9a5f94b1ae,audio video engineer lead
+9bd9c15c1ca1efe0,software engineer graphics
+3d8f92c9945fa6ec,audio driver triage engineer
+989e972e3af747de,software engineer gameplay
+58fe8150d6e6c66f,modeling simulation engineer
+c4a61e004ed378f8,visualization engineer
+15d2e1451fc74f8d,streaming video engineer
+4fa8e4a52b211069,simulation engineer
+31a9f1dbe06e6f2b,visualization engineer
+a305dff382db57e0,gameplay engineer
+37b3b73d30a54240,video coding processing engineer
+db4892d6ae3d5259,modeling simulation engineer
+4306b0877d5b7563,audio visual events engineer
+cc748db7b90f62f4,simulation engineer
+03931637a1592871,algorithm engineer
+96670fff0e1d4603,modeling simulation engineer
+2a2c767899e8e53b,gameplay engineer
+36da25b2f400e9c4,audio engineer
+cf5e2168c39cf143,staff camera algorithms engineer
+6bd9cab7cedb5e6c,game technologies d graphics engineer
+c4722f32caf34497,audio visual field engineer
+8695046a0e6bdb83,audio video engineer
+cab8dbf14ee740be,undersea acoustics software engineer
+8d5122f08f0629e1,signal processing algorithm engineer
+84f09489c03b5bf2,graphics software engineer
+42d7d2aae1614d10,gameplay engineer
+882af158a256873f,graphics asic design verification engineer
+dbcd3441142d0142,gnss algorithm engineer
+645381d5d7262e5b,audio visual engineer
+bd4247d3ae901416,javascript engineer video player
+d928c6b083bebb54,radar modeling simulation engineer
+e2790276b1522933,signal processing matlab engineer
+9d0fb5a3f593785c,graphics verification design engineer
+ecdd196951f124d7,visualization engineer
+dd25e01e4abd4422,battery algorithm engineer
+9d59ff7270ad407e,raytracing engineer
+fcd2e153f54c67d3,algorithm engineer
+6dce9330293b2143,audio visual design engineer
+88d06a39e6b35919,infotainment engineer
+7aea6fdaaf4b31d1,graphics engineer dash
+0e766e71bd140d95,audio visual design engineer
+443f5ab9419bf6b0,calibration tuning engineer
+f3f2722d236e7da4,simulation engineer
+31a8fd50accd9992,gameplay engineer
+85821d3369813c5e,audio installation engineer
+5eb9cc3705bc955d,procedural animation engineer
+12c6c9b27d33aeb0,algorithms engineer
+a8b5591323d28b53,simulation engineer
+cade3f301e407903,inertial sensor algorithm engineer
+924ae3431e35dfee,math modelling simulation engineer
+ffe38f541b0a580e,audio visual engineer
+9f935122394e908f,algorithm engineer
+8b24c103f164359f,projectile simulations gnc engineer
+e4292e52ff4f0e98,algorithm engineer
+1f2ba10fb81ff857,controls simulation modeling engineer
+c2f606fdf3ef4ac2,modeling simulation engineer
+1c0241b1c6230bb6,engine calibration engineer
+e5ed66c9f7ffc476,algorithm engineer
+0c4417fa8b309bb8,algorithms engineer
+c7fbeb8e8f895b31,audio visual engineer
+a0dac0bc1334d0f5,gnss sensor fusion algorithm engineer
+6342ef54f4404b81,simulation engineer
+4a9465e2514eed81,computed tomography engineer
+2d7a503b792a7819,algorithm engineer
+cacf603c266cba8a,audio technical engineer
+06d4db47e9d3cf92,algorithm engineer
+2b2d064906aef311,uni graphics design engineer
+700f632518184893,avp video conferencing engineer
+97b403128103d8e4,audio visual field engineer
+2609aedb7ba6e4dc,modeling simulation analysis engineer
+80b3bfa0c20b4334,calibration tuning engineer
+5392fe29a61c7f15,graphics hardware design engineer
+a21338aa9eac5866,algorithm engineer
+d92ecfc7ecbc6e92,engine vehicle simulation engineer
+e8bda064b6b08b3e,emulation prototyping engineer
+ae5f73d71d85c51a,modeling simulation engineer
+5e1c9d7018aebc52,graphics engineer simulation
+0f77dbd50e204d2c,algorithm engineer
+c86a732344863310,graphics tools engineer simulation
+53927cfcffb61bdf,graphics hardware verification engineer
+e30b8170e0205e97,modeling simulation engineer
+c2920920b67b4430,software engineer simulation realism
+d5bb08ac5d6c8382,algorithm engineer
+4891e85d3221c057,developer relations engineer film animation
+28a17674fc6a061e,d graphics software engineer
+fdcde021016909d3,adas algorithm engineer
+62a9393c862eae4a,gameplay engineer
+f29d7513ed03115b,audio engineer
+c26da492df8cc03e,modeling simulation engineer
+9c15c28558293d59,audio visual engineer
+ac3803532c0ae580,gameplay engineer
+c9943a6dac60d752,controls simulation modeling engineer
+35722bc885e3e93b,audio engineer av
+65fe02baed4edb53,gameplay software engineer
+f6c8fa023b59757d,video engineer
+c37cde46cc74b580,audio dsp engineer
+03e74ea64eac03ea,gameplay engineer
+a992e0f45afecf83,graphics engineer
+eeb3fc6315d13fdc,modeling simulation engineer
+f68cc2b5064e94bb,algorithm engineer
+d4c36b070b967db3,powertrain engine calibration engineer
+c9e5e83eeff89379,modeling simulation engineer
+80c7fba3043f288e,visualization algorithm engineer cs
+9aa0c00d99974e02,simulation engineer
+5385a2a70bf53eb5,graphics software engineer
+91c8a3360ce22117,cfd engine simulation analysis engineer
+35186dcee61d0ea5,core animation engineer
+839846a324710d47,simulation engineer
+65f95b566554f852,simulation engineer
+73df13596df3aba3,radar simulation engineer
+eb76bd2d786dd646,simulation engineer
+5b8bbc5829aee78e,interactive devices engineer
+959e3df3cde9e82b,gameplay engineer
+e35095e95747cc58,software engineer cinematics
+88362d5c4c2394b2,audio visual engineer
+c944bed6079e2bfa,reservoir simulation engineer
+8c0f25349d15360f,console spacecraft engineer
+2f06895f8eea6d9e,graphics software engineer
+79cdb40bbdcd5121,graphics software engineer
+ea379c29d620a6ca,battery algorithm engineer
+ee4fbcfffa8bf4bd,graphics rendering software engineer
+29b838f868a2270b,assistant audio engineer
+d0c2c696898f74d9,powertrain simulation engineer
+dbc6e7546fa970f8,audio visual engineer
+af48363b372de23d,gameplay engineer
+a980b19743557a2b,graphics software engineer
+c70a3b448c182cb3,algorithm engineer
+5cceef7681b5d273,audio visual engineer
+bb1d6008fcfe3395,fullstack javascript engineer visualization
+7ee60efdc06543e6,visualization engineer visualization
+72c0c3d20aae3ab7,algorithm
+3c936e15f1e8da8f,safety algorithm engineer
+7ee6b97886cf8461,mapping localization engineer
+6fd08e67cf98c5aa,perception algorithm engineer
+0ed06c4ea7b672b7,devops sonar engineers
+0f1c945c3d6fd1eb,imaging vision algorithm engineer
+11b4535ae3a1cf13,algorithm engineer
+82ec3c5c210a05de,imaging algorithm engineer
+65ba96e1db02f3d3,algorithm engineer
+baa2821df6f27754,algorithm engineer
+590c76baa790c9a2,algorithm engineer
+1e87d11f172903a8,video engineer
+508114e137c14bd6,algorithm engineer
+9c43f87c94e6bebd,graphics developer technology engineer
+38f642f876c5bb4b,graphics software engineer
+97cae3aead59a402,mixer
+a0bb7f644366cb91,audio visual system design engineer
+b2650ebe4e87393d,algorithms engineer
+337420375f69978a,video engineer
+d66fb00d1f99fc31,audio visual aide
+0f9e8b28eee7e329,software engineer gameplay
+07769ba1e643c3d7,graphics rendering engineer
+70aecc288cbdc2dc,software engineer graphics engine
+43ba96e9ba4afe88,software engineer graphics
+a98e8b5fe227891d,graphics software engineer
+aeb40f87d541df4b,gameplay software engineer
+ec048d7005fa9f9e,gameplay engineer
+84fd1e95fc816f2d,engineer gpu graphics driver
+2077f8e7ecbde21e,software engineer graphics
+27904155a437a9b5,audio experience prototyping engineer
+7043f257cb525d4f,console gameplay engineer
+9f9b300e77a60221,gameplay engineer
+7b14cbec2d439583,algorithm engineer
+8d8f723970dd1339,graphics engineer
+3afe6115a54b2493,software engineer gameplay
+2031cfb055d84dd5,graphics engineer
+cc73f6458a4c8b69,audio video validation engineer
+b8172e8b400683f2,engineer gpu graphics driver
+e19126a4a48c462b,gameplay engineer
+8e6a4342a16fb4d7,procedural audio engineer
+101ea592d723e49b,gameplay engineer
+cdef72c94068bb5b,graphics engineer
+82f215912a7aeef0,graphics engineer
+75d58bdcec953f01,gameplay engineer
+3c8dd0ab973f10a0,software engineer graphics
+6a14b50016c7b53c,graphics engineer
+e5c93da61fc3711c,software engineer gameplay
+4c429834ed76f1a6,graphics engineer
+86fa391618757b1d,software engineer graphics
+9fe6756e9039d82e,graphics engineer
+cbe77676ec7b2836,animation tools engineer toys bob
+5b294278c1943258,graphics driver engineer
+ff6fb615c2d8bffa,battery algorithms engineer
+f08b9d99f46ad23f,algorithmic engineer
+42c5ca4784411f56,algorithm engineer
+0e30dd81694010ae,algorithm engineer
+0dfda6984c80fc0f,video codec engineer
+dc5dd856c057bb70,audio visual programmer
+69937778d89c3020,video algorithm design engineer
+ac452d48bed0f3af,commercial audio visual sales engineer
+1dc6c5fdc5b156cf,audio visual field engineer
+1a718efa38e9b8f5,audio visual field engineer
+ece658976646e341,simulator engineer
+227e340d5cd9a313,video engineer
+57a36133f0952300,audio visual engineer
+e1b6edf82ffaea18,audio video vtc engineer
+c184d047eb00fbfb,audio engineer
+2c987bc58860f004,audio visual field engineer
+59f341d8e30fcc7b,audio visual engineer
+46e7cb67154eb320,audio visual design engineer
+6afe21dffde8de43,audio visual design engineer
+0ace42ed3981c7e4,video collaboration engineer
+88e1a6e5f106aee3,audio visual engineer
+459e2ec1788e9e7a,audio visual engineer
+1199669a4bb988a6,audio visual engineer
+66d835a6c7559026,audio visual engineer
+865012b0a3562261,audio visual systems engineer
+0b0019375afd7b4d,audio engineer
+59f6a38247f02985,av video teleconferencing engineer
+72bc2c027de1cd56,modeling simulation network engineer
+2f06a2defb3d1766,multiplayer networking engineer
+ec16d890413e0a88,audiovisual engineer
+82f2d4468935e81d,video teleconferencing distribution engineer
+5b92754ba956570d,design engineer audio visual test
+88ceb3b3c54047e4,infotainment engineer
+ad7872b01db3e35e,modeling simulations engineer
+53793220faca50d6,infotainment engineer
+26eeb52ef61ca331,audio visual engineer
+40deb029acf6e9f8,audio visual engineer
+c94cc983c53bbe16,powershell scripting messaging engineer

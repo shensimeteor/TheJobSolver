@@ -1,0 +1,516 @@
+_id,cleaned_job_title
+58fa2e15957466d1,react native developer
+201e2f488654620a,specialist developer
+c0ae57491237e5d8,lead application developer
+e990e4bd1a136fba,developer advocate
+279186d3569a66b5,lead principal software developer javascript
+4cd4b797f2515d03,developer lead
+57d91818b979e984,lead developer
+16bfa5feefc2344f,principal developer
+0a1e736bb5ef2f43,lead web developer
+d5a639de8744b773,lead software developer
+37320a522b1f2114,specialist developer
+06b0c7f82da877ea,lead software developer
+14ac229a232bd420,spark developer
+925b4257dd47cdac,specialist developer
+43aec08b4e3d1396,pick developer
+09fe84bcb4b8cbcc,react native developer
+ec6e31e5c1b8a7c8,lead developer
+b4c898fd61fce86c,lead developer
+9d692b8dc5ea268a,advanced technologies developer lead
+5318d89acb7d9035,lead web developer
+c58e971498be0eab,react developer
+a8f8ff7b9eba2aef,embedded developer
+f750a55d0150e301,ssrs report developer
+c650537b2636edca,lead erp application developer
+90b9f5c1d1573711,lead software developer
+c9b0f6dba237e1e4,lead developer
+7aa9f8fcbb6a53ba,principal developer
+9cd5a85c497e1968,principal developer
+6167369c38aa8a89,guidewire developer lead
+9821e9162642a3b5,lead software developer
+439516876e3554ac,go developer
+8156343882be313f,lead developer
+bc3afb342af3b3f4,genesys specialist developer
+b55bafdba97eba77,embedded developer
+758af27dacf15b26,go developer
+51133de69608c408,specialist developer
+557940aff8b50d2c,lead developer
+3c3bdea23d94a6a3,go developer
+4568c8f32a27beab,servicenow lead developer
+fa24c78c5bcc5b53,lead workday developer
+cb46d3940385135e,principal devops developer
+334eea3ab85bc32c,software developer lead
+a7d683f75212828e,developer lead
+931f088526d52ea2,developer expert
+438025195074912f,principal developer
+d6d19cb284a063b7,technical lead web developer
+67c85b846b834476,lead automation developer
+43d35220eeb7f228,specialist developer
+4243ea0adc7e80d4,report developer
+c0f2876f7a976df2,project lead developer
+dee2bff0eb1c13c3,lead software developer
+0bd08dc30366afc5,principal developer
+bd203e7c04e2f4cf,lead software developer
+ddb9dee7fadeec7c,lead developer
+d480a520fcaa6c03,report developer
+b31d2d726913e81e,principal developer
+0542c64baa33da34,support developer
+f01a5c5e5d5a4e33,lead software developer
+f672ade2e4ea4bcf,react developer pvd
+5a35fd494974e456,software developer lead
+a0e4d6f279d08ff6,lead software developer
+cd8c23e6a12aafb3,lead eai developer
+53a78649fd163bcf,lead developer
+1ef93aef6f24736b,programmer developer lead
+d81e01c6c77c2f73,tech lead software developer
+88dbf7a5efded651,lead mainframe application developer
+3bf0131cddb3821e,lead software developer
+d81c1fa935b3b524,lead application developer
+293df03a594b4cfe,native react developer
+8aa5176af81b2c0e,lead mdm developer
+61fe016bbb6dfc45,software developer lead
+81bc7b27c8a27d9c,software developer lead
+851803b7258686b7,lead software developer
+3c36d5db43e3604b,lead software developer
+9cf700b4f30b90c9,application developer lead consultant
+de79564e0300e401,lead software developer
+88ce0f9082eb17e1,technical lead software developer
+67f9a06c4a9b48e4,developer experience lead
+cbbf0089bf75470f,tech lead software developer
+bf3e60d8d59fd058,software developer lead
+1cdc1c7f843ea4c2,programmer developer lead
+502faf1dd2cc3aa1,spark programmer spark developer
+a9ebb4b15335ee35,lead software developer
+115a685ffdc07b6c,developer technical lead
+f0e87ff3b22fae5f,developer lead us gc
+2800b34fcf00596f,python developer tech lead
+e299c0a27e66f23f,developer specialist
+9ce36e5f5fd90f1c,programmer developer lead
+d195fcf6e9b305b0,lead software developer
+154df0062ea0fbce,react developer
+99ed6751775b8dcc,ssrs report developer
+d69f14af64c270ee,react developer
+a1b466ddc651d669,spark developer
+4a24a2d6acf99e63,react native developer
+a100b5f06a557fb5,software developer lead developer
+62aaf0735f8f87c4,programmer developer lead
+386f86cec3c313e7,lead net developer architect
+b263d0ec5065db5e,programmer developer lead
+ff521361711d8769,lead software developer
+ff0982734c97a362,lead application developer
+2b9e85c7b6066ac7,programmer developer lead
+34fca89c9a3a2089,lead javascript developer
+647501754a989f29,dotnet developer lead
+99d227ff372f8a1b,lead software developer
+13a3c92cdb856c60,software developer lead
+517b8feda26ab0eb,react native developer
+1f0723dcc3753ba7,lead developer
+0661e2701363221b,lead web developer
+fce13f990799cdef,team lead developer
+90789e169977d4ce,lead automation developer
+72d59da85119fb5c,lead applications developer
+4392f8264026d97d,lead software developer
+e177a98f45e612a8,lead software developer test
+c6fe9cde3c22992f,developer expert
+c928c8713b7d8372,react native developer
+842a967e3856076b,lead advanced technologies developer
+848e6ae81a8f3c2c,lead software developer
+4979bc0c74608621,specialist developer
+21c263663da44de4,programmer developer lead
+4ea1f0a3decf0e18,report developer
+fe9ef8838bb883cc,guidewire developer lead
+aca1f0a8e37bc410,specialist developer
+bd6e75f623e2a670,lead developer
+2ac39d1a3b2b21c7,lead software developer
+257eb7faf41bf5a4,report developer
+79f691edb1d11aea,specialist developer
+980b95664b035c3c,developer advocate
+1cb64d009592148c,programmer developer lead
+176ab8b76a73e332,cleared developer
+a73b6d54994e5a1f,embedded developer
+09001d768d6eaa2c,react native developer
+3edf863b5ec2f274,python developer technical lead
+4f872c0024f73395,lead software developer
+ff16bd044bb15499,software developer lead
+4100cb63536a488d,team lead developer
+5c91ec08bb9c4842,react native developer
+c93173d43602babf,lead software developer
+2f8dd6b8a4932cad,spark developer
+99854e3cad529c62,go developer
+a9ed9b0ff5c2daf3,team lead software developer
+b79a6ef69a8bcf8d,lead etl application developer
+fc9d603af1792d74,demandware developer demandware lead
+25a0f73dbd1875ed,lead software developer
+30163e703b12196e,lead developer
+c836dc11553656b5,microservices lead developer
+6c85532708285239,specialist developer
+4cb51e6dbd84a011,principal developer
+e2b14b5517c079d3,report developer
+c905d0b5fbe81f5b,lead developer
+3de5d9de0624a833,lead advanced technologies developer
+f60b00d7f242726a,principal developer
+dff4d6cbf4e3ea6c,programmer developer lead
+9d3b9e76b2eb3a99,lead developer
+b9432ca5139775c3,react developer
+d13df1d231d0b433,lead software developer
+5e7cd4ff5f217107,software developer lead
+6fe8ca167c09b506,software developer technical lead
+ec2c8a66e45789e6,lead software developer
+cde0bda56c20142c,salesforce developer team lead
+9e48795e03788ecb,react native developer
+93f741052f9102eb,team lead developer
+174161b9c9bde1c6,developer advocate
+51d16057b09f8b97,lead integration developer
+4822dd1637c8ed9b,lead software developer
+5ad6ec0eb9da1414,programmer developer lead
+813de42e2b8b6b48,developer advocate
+32404c7fc8052092,programmer developer lead
+75cc3e69f5d29ebb,lead application developer
+8081572186ae449a,etl lead developer
+395788f3039335c8,principal developer
+fdea04a590027742,lead software developer
+100019bab8368dca,react developer
+bfd64bb405e33fc7,specialist developer
+04616fa9e1e92dfe,lead developer integration
+9a5c6cbf36a99905,lead software developer
+5ecce33af3f6afd2,servicenow systems admin developer lead
+289963e3502a5db6,expert developer
+cf71c424f94983c5,lead cpq developer
+6933ac7ef9b18020,support developer
+b27a6701663396e8,ecommerce lead developer
+19e449422fd99f63,specialist developer
+11cc3ae2060fb8f2,etl lead developer
+25a65c00cd3ab9ac,webfocus report developer
+f8cb8d36d3dca1a5,lead software developer
+1817d81de3f26258,lead automation developer
+7de016af9bea20ab,lead developer
+394d0f53f5289a31,lead software developer
+680b518a33dc038e,lead software developer
+5fe7a8d0a89d2d3d,specialist developer
+86daf69bceb75be7,react native developer
+1972dd911fa1bf8b,programmer developer lead
+eefceb32e149d1d9,release developer
+b66ef9b0a637fd74,lead software developer
+5fc0c81dfc2b8b58,lead software developer
+446f562f89f1b49e,programmer developer lead
+c6e9b8e12dce9a69,etl lead designer developer
+b7b21fc8e24a55df,react native developer
+1dad474ff534ad7e,rails react developer
+dd806187c4456fad,programmer developer lead
+fcbbda64ff53f4b5,encompass developer
+594fd0544626f94f,lead developer bpm
+0697705d7107d3be,programmer developer lead
+94d519c43e819cf1,lead developer
+aecd972c5b314af6,lead software developer
+49f2ab1350bdcc8a,report developer
+03e17b56a7ed9e46,embedded developer
+6e6579038feabd7c,lead software developer
+7736ca1005971e0a,report developer
+bb7c1af16289b4e2,lead application developer
+c7ba273b12c48e80,programmer developer lead
+28c078c6e6d7cf7a,lead software developer
+35aef3b0b4ed83f0,lead software developer
+da75f2a66e3fc425,lead software developer
+bcdb3ed517b49467,lead systems developer
+b33626754f173387,software developer lead
+262b9de6c5809fc5,informatica developer lead
+37bd3a0c2ff5f39e,database developer lead engineer
+856f14a9a6c46190,report developer
+5043cf327d5c5cd2,go developer
+2e7a571a71f6983d,eai lead developer
+0177a6b84e234850,lead developer
+a60f32ffb38a57c1,software developer technical lead
+7ef5b3b4e62debdd,native react developer
+be88514537d3903a,lead net software developer
+dbe2a045a41698d5,lead developer
+e886b5c2d438014a,developer technical lead
+6aa2fd8dbc33ff58,embedded tester developer
+9a3402919e625dc6,lead software developer
+2b5a7885c615ab42,lead software developer
+47d63ac91a89b816,net developer team lead
+345acdf48218115c,lead software developer
+3746f8dcd73ae0a0,team lead software developer
+4a982888f39a68c8,software developer technical lead
+cf46de7b353fe9ac,lead developer commercial credit
+afd5d53f1dc42c3e,report developer
+52ae248edceba943,react developer
+58cab1a68be0c232,lead software developer
+992e3377e1293886,vba excel developer
+33ea1c9e64e0f95b,developer lead
+b973de5dc33f53c5,lead application developer
+8a14d01c3e26f7f4,lead software developer
+4187b9b2b307c09a,service developer lead
+891c028849bc0e37,lead web developer
+95d3cfd8b40e9fbd,lead software developer
+c8959ce22753d465,lead software developer
+6e32e91db8710cec,developer support
+9120b3eb1bcd3906,lead developer
+f35ac1f4d96fec68,lead product engineer net developer
+35613b8b2ea6de5e,lead software developer
+6cca17a0e36bb255,project lead etl developer
+048fc1c720a91671,lead software developer
+7f6e46412795f65c,lead firmware developer
+73a240dc655b8f28,react native developer
+ff6a47d89b3f45ce,software developer lead
+427219252f121926,aem lead developer
+aa162c2f7cae2add,developer lead
+3d29251ea8009dd2,software developer lead
+135ff1a680ca6b24,lead web developer
+1734930ae93f1caf,lead developer
+4b4bf746674c6c13,software developer lead
+2f4d2cd920f7dac2,lead developer
+d6c2909867a713c7,native react developer
+7bf7c76a23de8187,lead software developer
+cba0083823b7ac04,lead software developer
+55e79e9edcc90419,go developer
+1d08a763e5e3f324,react developer
+a8a268b67f6d62b3,lead developer
+0aeab53c32ef72b9,python developer technical lead
+cbd1c98410f35ee0,lead developer
+bd215f6252b28538,informatica developer lead
+ecfa3df45c62cb62,programmer developer lead
+3faa54aa7affdf50,project lead etl developer
+d722bfe47c1325c9,lead developer
+54e9347b705af145,lead fullstack developer
+574cdaf41671219c,react developer
+ab0ff040ca433fc9,specialist developer
+a431f91af1cfe132,lead applications developer
+2d2539190eca8827,lead test automation developer
+458592be1dfa2afb,software developer lead
+afde33adb18dfa8e,specialist developer
+e850829453c12456,report developer
+d52413dfa168c2b3,software developer lead
+cf9fde9fa18a4804,specialist developer
+ed27b0edce4f2a53,embedded developer
+f7d953777f5d496d,programmer developer lead
+693e8b9afcefd207,lead developer
+44d034de00e8ca02,lead developer
+11b43d6835ff0674,software developer lead
+a506dd3e47d74e9a,lead web developer
+ecd8dfea592baeb5,specialist developer
+15effedc8513251e,principal developer
+00c6f82b6ded8dfa,lead health software developer
+275f573e30b1430b,software developer technical lead
+2405e9a4c77946dc,lead software developer
+36db47d60b99fe66,lead developer
+86fc4c6d70206ad9,lead application developer
+bfe77e318ada46d9,software developer lead developer
+cb453e4d848bc279,lead web developer
+7a0a78ae8f4b06ee,software developer lead
+958c8ca11dbd05e7,software developer technical lead
+39031e10ae144f05,lead net application developer
+29e0227093990bbb,associate lead software developer
+74f8062b306594c3,lead android application developer
+48808805b795176e,go developer
+7d93b739de3f5046,report developer
+98260ae059986ddb,programmer developer lead
+e10350e847cab790,lead developer advocacy engineer
+e8ca1aa7765ff068,lead ruby rails developer
+efb5be0ebb9a1bac,expert developer
+6a53bd4ad660aa19,application developer lead vp
+23666237a2d53eae,react developer
+c5f9dfe87f1fac33,specialist developer
+fc0f60052cd111dc,specialist developer
+90b7f62a4fb5222d,react developer bldr
+eb5b01df7b3604cd,team lead developer
+01991aed182b58ff,lead application developer
+1424da43b99f2458,developer lead
+c4f1a36a46a02534,embedded developer
+4b1befeeb44ecf91,lead developer
+2706719ed14c6c42,programmer developer lead
+2c574d88954c94e6,embedded developer
+671ceeed3b25aeae,specialist developer
+6755dd083497c1fe,developer advocate
+2070e21804a232f9,lead software developer
+3c057f18761d4c66,software developer integrator lead
+a9544bd3ae7def05,lead software developer
+374434888da80f7f,software developer lead
+f90dec95a87a8774,software developer team lead
+191c76cd23581e6f,lead developer
+0ed5c446fbc84121,lead javascript developer
+cb54423c37e594a8,software developer lead
+ad0480b1114a328f,lead unity developer
+924c0afae94cffef,react native developer
+be74f5a54d025463,lead software developer cipher
+52c0934ef3b1e458,specialist developer
+c15c71265314a28a,go developer
+4a01536a0471fc17,embedded developer
+e4f090fa3cc2e5db,lead quantitative developer
+3ba49cab97fb756b,lead software developer
+bf73a0a6332b9f03,software developer lead
+a85f177358d0167f,lead application developer research engineer
+884f5f7b0ccef63c,react developer
+40afd4e1ec0ae9ce,sharepoint developer platform lead
+390a64ca061dc879,specialist developer
+9dd1c6ce5df61392,programmer developer lead
+8cbe9f37762c552a,lead developer
+e1cc8f73d164bbfe,lead net developer architect
+b1fa983eae9d7b9a,software developer lead
+cc7f94b340261bed,lead developer
+445637e030b648da,embedded developer
+d04626fee1b7a574,workday lead developer
+7aa3414ecb3f0f01,lead net developer architect
+5876828a8840b236,pbuse lead software developer
+e5ba0f80608d9c1c,developer technical lead
+d43af35b2c4b0f3e,react graphql developer
+bba3104fd120653b,lead developer
+540c9821dc4ce41a,react native developer
+bb18308cf043a764,software developer lead
+8af7382094a1a8c8,lead ui developer
+f56a2617a67811f0,specialist developer
+2817733b0fcc64b7,developer technical lead
+717d292e5e6a4f59,programmer developer lead
+952d06559920148f,lead software developer
+a989c4592dfb65cf,adas lead algorithm developer
+da02b308dbc6efc5,programmer developer lead
+824892243f0771b7,lead developer
+c258a961ac5e14ba,exstream lead developer
+5bb85d2aeb97f876,programmer developer lead
+b41c5954217ae077,programmer developer lead
+b3609414743ce01a,lead developer
+147d0e401d8b99c3,programmer developer lead
+079eb3fa446ef04d,talend lead developer
+9ae291d6216096e7,lead erp developer
+5796f3ccddd9ebf9,developer specialist
+d1be0375b7084f07,azure lead developer architect
+fcd9a5a30e06a83a,programmer developer lead
+8f5029f1dc6ba518,team lead developer
+fae5f08faec8f5f6,lead developer
+35ad8f3e40379bcd,lead force com developer
+1417c3708ffabea1,programmer developer lead
+675837068425b074,programmer developer lead
+9055096356c5ef6a,programmer developer lead
+881936b42afc7017,programmer developer lead
+15037500e1898dd0,programmer developer lead
+bf996a2dfebabaef,oneshield lead developer
+4194c6b2e22fde6b,lead developer
+f407e9d891c057bd,tableau lead developer
+cc2125b7e6822db3,programmer developer lead
+b2494318436c2ce9,programmer developer lead
+3bef4cc1c9bcf7c5,programmer developer lead
+ea6065c02435e384,lead software developer
+ea32b4eaaa75d9eb,lead developer
+575d4daac7cb66db,programmer developer lead
+dda8ef743baca84f,programmer developer lead
+2b2b983536fb057a,programmer developer lead
+613d11825abeb319,react developer
+9cd6eb8fc43e690a,embedded developer
+bd98b9d88c14c08a,lead developer
+a6f61f51991e75f6,programmer developer lead
+0225c0322139563e,spark developer
+68e9244bcd7ae87e,programmer developer lead
+6270191f5cc91f6e,programmer developer lead
+054c05604ee78809,programmer developer lead
+3d28e2e1fbb40c0d,lead integration developer
+16f27d1b7d5095f1,programmer developer lead
+d81b9eab69dec4c6,lead etl developer
+57c832c24a1a0d73,programmer developer lead
+11e13dcc65c3f400,qlik lead developer
+8f10703a85c92039,programmer developer lead
+ba23cf1a4cd34f24,programmer developer lead
+c7e7f128729f8296,programmer developer spark developer
+d86ccb06a93530d1,applications team lead developer
+16953c51c7444a8c,programmer developer lead
+57f11e74fb7641c0,programmer developer lead
+ce915d5f253c3fc8,lead developer
+2864bb7c604b05d2,etl lead developer
+ceea5c01e9431e82,programmer developer lead
+edab61074dcaa403,programmer developer lead
+0fb2ad9aea28c931,principal developer
+a4418da89a8d99d4,developer lead
+a3d48412ae373a29,programmer developer lead
+9eb11fdc10a6f6d9,lead developer
+31f05d2ac42146e7,lead developer
+186a4caed023c094,developer technical lead
+3612e13614a786a4,lead backend application developer
+57faa59dca30647f,lead kdb developer
+d6358f8d070fdbf5,lead golang developer
+e38b80f4a8a110a7,lead developer
+a37af7c7c07b5460,microservices lead developer
+7dc6e2d47c307afa,key developer
+6373410773c635c4,devops lead developer
+4b729812593c6d21,principal react developer
+ea194e6b96f23ee6,xamarin lead developer
+e61383eddc7e71e4,principal developer
+529bbaa8e655dea5,programmer developer lead
+0caee9b708039313,system z lead developer
+ed77a872877dad37,adas lead algorithm developer
+41ddcd621c936be4,spark developer
+f4716ae20481f685,react native developer
+0b664281c2334545,lead software developer
+823d2cc3d73c1df6,report developer
+042a0401b0e4fa12,specialist developer
+3a3eb98061d5b804,lead ruby rails developer
+731eb9a4aa65f35a,lead frontend developer
+99a636972dc66bae,react native developer
+99a408058be84c48,lead developer
+1fa270c44d4ce4e5,developer advocate
+83cee8c62a399a74,lead developer architect
+e6d01f26b7f3784b,ios developer lead consultant
+bc1fe1b6bbb6622e,fix developer
+5703e20ddef49ee0,developer specialist
+9dbef0ac14d4efde,lead bpm developer
+9b041b44b90906c6,lead developer
+bc72d51becfd7312,lead software developer
+dce7b8508cbce381,report developer
+eed1e8f5ab7e508a,lead application developer verified volunteers
+3c01f15d614b16e0,report developer
+063391e750820369,developer project management lead
+52280fc257fc7922,lead web developer
+ee44d5feb374d894,etl lead developer
+36ab3151a105bb4b,lead datastage developer
+5d07df8ec3850416,pick developer
+c6a8588d5bf3ba47,eai developer lead
+72ca9c7440aa55e1,lead developer
+9f1ec185449ee357,clinical content developer lead
+d65a07fc93b49bb2,developer advocate
+a36d4b738a0e6c47,talend spark developer
+46016e9657f81002,react developer
+4a3192e2ded844a3,lead developer
+cb2e5b77c1debf28,lead software developer
+bae9bc4781d39e07,lead systems developer
+bebf5ed71b5de140,lead ui developer
+b79ac94233eef6f1,programmer developer lead
+21f8e735ab822c64,react developer
+4bf79554382b224b,lead ui developer
+1e9d3038c978049b,react developer
+dfa07f6b0dc04d39,lead web developer
+746cb80b0a2bf69b,lead ux developer
+f5fcc7295511d92b,lead ui developer
+95f4da949ac33677,system administrator developer lead
+ce154a96c47da761,informatica developer lead
+538f81ff8432dc39,application developer lead
+41e0c20f34b11751,technical lead developer
+c7b6e43b73c07239,software developer lead
+a03b84ce23b867c7,software developer lead
+f164e24e687aa380,aem lead developer
+55451d076fb624c4,lead magento developer
+386c99eb81ff717d,lead database developer
+0e5d3555f5fa195b,report developer
+86143c15e3dd7bb5,report developer
+12b9aa35b02e892f,lead database developer
+47944f2095836dbe,lead game developer
+c3063171b7bdec4e,lead software developer
+73946e4aa8a4bf5a,ios developer lead consultant
+5f721ec9d18853c1,lead php developer positions
+21310b6fd0a636d4,lead developer engineer
+381cf4890716b80d,embedded developer
+8c1678342aef0d2f,embedded developer
+8dd1797f6ab2d49c,embedded developer
+686512d4f3c41a33,embedded software developer lead
+833fbfe260534734,embedded developer
+4dab742e9f477627,embedded developer
+9da5e4dd1691d7f6,embedded developer
+74c0eb24eda85094,embedded developer
+1d41d32f0e166f2e,embedded developer
+d097192fe97d1cba,embedded developer
+b4d178fa636431bc,lead developer
+64a25e6a8bca74ba,lead ui developer
+bdf466a8c4dc782d,lead software developer
+ca52d23ba46adcb7,programmer developer lead
+39c91cdf12895e03,programmer developer lead
+7079e3e46b98a20f,programmer developer lead
+046fe66bfb3f65e0,developer advocate
+ec2785a878a287cb,react developer
+790544f9dae7e255,developer advocate

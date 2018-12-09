@@ -1,0 +1,337 @@
+_id,cleaned_job_title
+58dfd5351c18677f,programmer
+47d0332616b90780,programmer
+97fbae69706e5dcf,programmer
+801146e540755a48,programmer
+e14008aaac1cd616,programmer
+7cf14af7d3a14919,programmer
+a11c269572d479b6,programmer
+3dd1ca4d9dacb8af,programmer
+936daed3e76411dd,programmer
+46f7e9d77a505196,tdi programmer
+178e1d9e5315d5dc,programmer
+254749c91224ce1a,programmer
+ab87c9ba6d73dd77,programmer
+cb76865044d2cc98,programmer
+476712d91cf78ced,programmer
+dbf43ce384257da2,programmer
+32d7cdb4ca538070,programmer
+23133b18cf57a03a,programmer
+89c103435a06b88b,programmer
+f1252129d59ac1e9,programmer anlayst
+3f63a619e820bb12,programmer
+8883ee8e9872eb96,programmer
+bcc63e21863ea83a,programmer
+88e3675abd737573,liveexchange programmer
+fadf3583bc64cfee,programmer
+48c83d60896a7cc9,programmer
+bee58a68c005c572,programmer
+0f88dff636a70059,programmer
+f57143c1d46e7b12,programmer
+68efdd0a46b3550c,programmer
+3b136009dc25f19b,programmer
+9bd3a00cf725aa2e,programmer
+ed3981292943ce99,programmer
+9aefb741a9ec8dcd,programmer
+ecefb08d5abd1054,programmer
+382f667317aaeacb,programmer
+ee57b75ec3334af8,programmer
+6242bfe1e0047db6,programmer
+a78a56332d2104a3,mastercam catia programmer
+7a13e75ea74790f1,programmer
+e7ff34649616086d,programmer
+2e4b46deb2fbba1d,programmer
+77676a7da7a0f731,sdtm programmer
+255d7217cf4f15ed,programmer
+b775951c3909481d,programmer
+34ac27954a66863e,programmer ecstim
+c8cd5ee3a560a370,crestron programmer
+52e086f390d2c411,programmer
+99b1a4f0b529039f,programmer
+9baf29369f37122b,programmer
+ec7cc434f9492124,programmer
+402bdf5a7426a57a,programmer
+203c398e030251d1,fanuc programmer
+becce33b88222f56,programmer
+d2cb44580837db8f,programmer
+5ec81f66cf6620e1,scada programmer
+be8878480539efcc,programmer
+b9d8fbfb0156f9cc,programmer
+8820ce4bfe73e409,applictions programmer
+a0902e82cee7be75,programmer
+7bfaf1dac1b2583e,dataflex programmer
+03be61925fa434c1,crestron programmer
+1fddebab0cc2ad2e,programmer
+3ea8f0f2487ed9af,programmer
+c51dd0193ddba39c,programmer
+cba20d4c51a44df8,programmer
+75519a6daa1a942e,programmer
+45689d5ebae1b49f,programmer
+64dd4fa6230a08c2,programmer
+a96138f2e8e8ef73,programmer
+323601e4dd417306,programmer
+ed07a56ff0044581,programmer
+f9065f19df115723,programmer
+3da6a6724c88bb7b,programmer
+57ac30d24fc4b936,confirmit programmer
+be5357358a544a76,programmer
+9a3eec95f59814d1,programmer
+dfa459a36a9e6448,crestron programmer
+055994876d7bd3e5,programmer
+60c78f2de148cd2a,programmer
+34d1bbbd8d6d402f,programmer
+d6fae2aa08ffdde4,programmer
+1f94c42d3c3ce98a,programmer anaylst
+94c1a5d25ddb25ae,programmer
+d6476aa1ff698673,programmer
+73afef8281339768,amtelco programmer
+6af4bc05628141b1,programmer
+58320f39b77939e1,confirmit programmer
+bd1d21157f31d500,amx creston programmer
+b2ce11f85a941fba,programmer
+ec3ba5254d9e6820,programmer
+f04f5bcfaee3904f,programmer
+ee9047662e7a7c61,programmer
+58c1f606108c3c3a,programmer
+66c905f11bd0a1d5,crestron programmer
+27f531e88873e7ff,programmer
+3451306e9008ba2c,programmer
+c37cc6e5393644c0,programmer
+b66b99645ebc1576,programmer
+ca579c325eeb7b79,programmer
+6a6bba6f93e6030e,programmer
+5d036dbabf818921,programmer
+9d44abcb4f9cd82e,programmer
+a2b8354dace6f331,programmer
+d274c922d521edd8,programmer
+94beea555239e1b0,programmer
+708ea2fdc023c0dd,programmer
+f0f65afd478416f1,programmer
+4e4c7c735abea451,programmer
+49b878d3a9c4140c,programmer
+3c136c5950a84afa,confirmit programmer
+71ec0064432fac55,programmer
+3b05aca62a0fc2da,programmer
+a97786950c6e8fdc,programmer
+9311cf0e9d402207,programmer
+ec91ac2669500c20,programmer
+87acefbd6c971eba,programmer
+5c6313652b21c874,catia programmer
+bb392fc9f2f2e630,programmer ananlyst
+69bd8bd06647a03b,programmer
+bfdc24180bc9190c,programmer
+c6788ac43a2c9788,etl programmer
+b8ca2aacde7cc383,crestron programmer
+4be0270411dfd39f,programmer
+b4d3d7f9c8c974cd,programmer
+044164132abd9e22,programmer
+e68168bab9822293,programmer
+03f04ec5a0e63cba,confirmit programmer
+933d3cd8dc2840b0,programmer
+9c91fa6aa772cccc,programmer
+024a91968adca27c,programmer
+47f41ef74d537adb,programmer
+9ca7bffb19201a62,programmer
+abf39817d615b41f,programmer
+f4e7f0617662cd3e,programmer
+f1f5a30a51d81e92,programmer
+639fe678320a0db8,programmer
+b540eadb67791446,programmer
+2d55db13c204dc69,programmer
+c52051595752304f,programmer
+a811499da469fa33,magento programmer
+5f7a75de78d03854,programmer
+924e24f5c7ec3d1e,programmer
+e3563bc503eac525,programmer
+fc51adb27ab019f3,scada hmi programmer
+32c4ee977a4a6e61,programmer
+a02a2e9a6e395287,programmer
+7591660bb45e9dc0,programmer
+76f25455b55e19a2,coldfusion programmer
+1422ba5d558567e4,programmer anaylst
+1f3383a0cd84f2e3,programmer
+febfa358dfbefda9,programmer
+d3ba95ab76e70340,programmer
+9d38b13c5b422015,programmer
+0eeda2b023d3a328,programmer
+ef4616c541787a3c,programmer
+e91055a99d10e3e9,programmer
+d176c11deac13a87,programmer
+8db1706ed9a88ccc,programmer
+86b0d9625f7c6fa8,programmer
+04f002429c19edd8,programmer
+6830ba9a5a35bde9,programmer anslyst
+f0da711a424eb006,programmer
+d66e89ca45c9f2c7,programmer
+af902aadbf8ffdad,programmer
+4e77a6b8109c171f,programmer
+9006e4d75a5a2880,confirmit programmer
+18b20d9341dfd98a,programmer
+b8d076718155bd40,programmer
+0b6e529ceeb2fac7,programmer
+9c8323261aaf344b,programmer
+30966a482f035401,programmer
+e32de9ff7ec27863,programmer
+846286429b86b257,programmer
+63a110c2fd8642ba,programmer
+bea3a5a00ccc80d6,programmer
+d7bd174989d666af,crestron programmer
+42662ea57fa314a8,programmer
+5902b5551382188d,crestron programmer
+b1461904ed7b3186,vmc programmer
+97302e771d7d69fd,programmer
+30f9504b7db48e1a,programmer
+11a9cc13844f4185,milcon programmer
+4e2a64ae39368d7d,programmer
+a5afa0f09a214feb,crestron programmer
+7f1908749bfa1737,programmer
+b74e0e6070d065c3,programmer
+274e5f72e5635ce3,programmer
+a66c0e436a993db5,programmer
+5dbb9bde20157558,crestron programmer
+ccd2239041259208,jnet programmer
+a61ec9a91164b100,programmer
+065a2635e3bf7c7e,crestron programmer
+3a80ab30f3831228,crestron programmer
+d11eb1ec53ba1460,programmer
+2ae98b095f4558de,crestron programmer
+d6fad554c422b7fd,programmer
+a85277ac71dae29c,crestron programmer
+8588790ec716e5c5,sdtm programmer
+13595bd4919a5b6f,crestron programmer
+057f28645b5433fd,programmer
+f5770c7a45a83afb,programmer
+4e2c43ef9dfc0dcc,programmer
+cbb3accb9bbb309d,programmer
+007c84a3b23d2633,crestron programmer
+d0ee852e04bf9bbf,programmer
+a1f00238c6231b08,programmer
+fb4a9764bf6061a6,crestron programmer
+d677fb9ae9b3394d,programmer
+3e52963d36fd631e,programmer
+f6d3ebb18bcefc9b,programmer
+3acc471ff078f07a,programmer
+cbab34ef979a7d81,programmer
+81cfaf1bb76717c6,programmer
+77beb0358750118d,programmer
+d892fb12014245c8,programmer
+95608d0df1319aa9,programmer
+284cc92ac3141deb,programmer
+d97c48c7eea18c9a,programmer
+455e28c072ca25d8,programmer
+2220cbedc30634d0,programmer
+dec88154433fc68f,crestron programmer
+f5f0e84a64a293fc,programmer
+31593054962ba17c,crestron programmer
+5da6d74f1b64798e,crestron programmer
+03d5db8197b8a13f,programmer
+5d3b2e699aeab1ac,programmer
+11f406fe281bd9e9,programmer
+007d99cae07618ec,programmer
+f6ac0898adf1d2e6,fortnite programmer
+f30b10b555c11396,confirmit programmer
+4e0d031874b6cbc6,etl programmer
+86be7a4e791b57ba,programmer
+601c22ccf7dfe8e8,programmer
+cebd86fc564b00b4,programmer
+e8867068e82c4293,programmer
+e88f8aca464d650c,programmer
+9fc15d898023b009,amtelco programmer
+5e199fd38d91a7e2,labview programmer
+032afbb38e67dab8,labview programmer
+6cf6002d3698bc27,etl datastage programmer
+068195e0dd61bcb5,coldfusion programmer
+e74a6edca9778e51,programmer
+fbc1dcbfd07ac583,programmer
+e45ccd1962ba819f,programmer
+de6361e263077d09,programmer
+7fb34ba608bfe092,crestron programmer
+e0591381d7ce2f9d,rwu programmer
+ee6a826a6e694885,pcsi programmer
+4f882d481eb5ad6d,programmer
+ce51be9235b710ce,programmer
+67a763a64c1dfb4a,programmer
+575df998d3101d83,programmer
+efaca224aa54f95a,programmer
+6ecc4faccb3e9e10,programmer
+dc2528fded81fdaa,programmer
+d39725ad45865f89,programmer
+60dfca3aee3de46e,programmer
+0690e5617b68dfe1,programmer
+ae3b78d011627a9c,programmer
+27d246f25885be5b,programmer
+173e513e0db88abf,coldfusion programmer
+8887fdd4b5f0addd,programmer
+16c2e99a3911d24e,programmer
+4aa68c079643c992,programmer
+93c547db7207ab77,programmer
+8998cc28a43f627c,programmer
+799bcc6451ed46ef,programmer
+8a860afc5b85be8b,programmer
+165e7688b198aee6,programmer
+d03cbc5d33e30706,programmer
+34cd3d9071aa072a,programmer
+4ea6cd11abfd6957,programmer
+b0d1ac4882077403,programmer
+b600333f1c68307a,programmer
+95f7e034cb7a8637,programmer
+87bd7c4e107b645b,programmer
+5d391e4717df625f,programmer
+ea3aed525a4756f0,programmer
+2c62c9921bda2de2,programmer
+4d81865e2b7a531a,programmer
+1c0fe709457a6d6a,programmer
+f56ea7d1803245e9,programmer
+7f539414b6ed2335,programmer
+03dda359192b1107,programmer
+043c8a354acdadb7,programmer
+4f5e6ef3af89a73a,programmer
+1587abe1fd01d8a3,programmer
+7f3caefc7de2cea4,programmer
+327f5cf8a12bf7d5,programmer
+750c08665dc28073,programmer
+573484bf504e89a7,programmer
+caf7891df50ba275,programmer
+de5de431bc3c7a54,programmer
+d74c02293d3e04c8,programmer
+308626498d9258d5,programmer
+2f8716b47783acea,programmer
+a31161dfa96e8452,programmer
+10aa3bc67da8531e,programmer
+f50be3bec11a03c2,programmer
+cc15298f46535a71,programmer
+8284c3e9a873d97c,programmer
+47a3ffd794fa5508,programmer
+d645d5614e7af59e,programmer
+2008f2bab5f97ad1,programmer
+bcf49c89f1005183,programmer
+3ae4fd240a4a5a4c,programmer
+ec90c6bffaf7f0ed,programmer
+439afba1c4ada69e,programmer
+937aaf590fc4dc28,programmer
+8297e5a017d33f38,programmer
+a4caa4776bac95f8,programmer
+8d0dabd7818495d9,programmer
+3392618dba7d1b10,programmer
+d3dfbc1abea34fe3,programmer
+8663432442e7851f,programmer
+cbdcdb20e877e579,programmer
+864297fbc3ee9fa0,programmer
+5e7932812f825a4d,programmer
+b7b68a416dd8fb0e,programmer
+7c82bacd60efc903,programmer
+33720a8f0d540ebb,programmer
+68a5dc248d77c7b4,programmer
+dea45af005162238,programmer
+ce504a01fa37bca5,programmer
+0e97945e4c5e2cf9,programmer
+de034f0b3c5073fa,programmer
+927a4b8173581247,programmer
+b5a9543e3374c2ea,programmer
+13c51397e596f266,programmer
+a083fed4b5a147b6,programmer
+d59f2169958cb39b,programmer
+b02a4c4d59eb55d0,programmer
+29dfea3e753da108,labview programmer
+0f0c6dd8d8f44705,programmer
+229f7f1b3c270e58,programmer

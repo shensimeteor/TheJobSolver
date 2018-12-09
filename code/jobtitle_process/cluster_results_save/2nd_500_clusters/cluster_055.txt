@@ -1,0 +1,251 @@
+_id,cleaned_job_title
+25365e29c311a30b,bi developer
+a28bb7482926d914,bi developer
+e55b050f0f1ebcd0,bi engineer
+cc979af26a1bdfa2,bi developer
+8c3c07f26161b3d2,consulting bi developer
+bd06ceac5c2f5287,microstrategy bi developer
+ec47f95c28077357,bi developer
+f2f38caba2eba7d5,bi developer
+b124e08e715b36ac,bi developer analyst
+e0d9b160f0a898cd,bi engineer
+c8c81a010cc3ff0e,dba bi developer
+3b8cdc6e953e5b5d,bi developer
+72b0a4cc4cc38504,cognos bi developer
+e7d59c82b5c42c49,social bi engineer
+8f6b66e9fa13f983,bi developer
+026be805c283a4b8,bi engineer
+12b05b674dd9fbec,analyst bi
+df85477afaa61aa6,iap bi analyst
+1394565756d5752a,bi technology manager
+000e522c73e754e4,microsoft bi etl developer
+f8c241584e99d8ee,bi developer incentive comp
+fc5472201e6b581b,cognos bi developer
+a10e05d549410091,power bi engineer
+38a8039a93fcc237,bi manager developer
+2991c20d20dc2b01,application developer bi
+b4fa8a7e266d7b52,cognos bi developer
+b12712cd46a1c721,bi developer
+4278368e219f0ba1,net bi developer
+062bd387d02e5cf2,bi analyst
+6ad6441ef6af2061,bi engineer
+1fd8e0cf148eb8b4,bi engineer
+bc10b3e4b502a6ab,report developer bi applications
+f93c2217933861b1,bi developer
+aecb1dd89abb0e2a,microsoft bi developer
+991dbc6f4c6d5313,bi analyst
+fde86289f2136217,manager git bi development
+618be56abb9f06e6,bi analyst
+8c7454c0154483a8,microstrategy bi developer
+1529804488af2220,bi developer
+5903d4a1e7aa2c7d,cdo bi designer
+a8634986685a0a27,bi report developer
+1f9f123cb6bd320a,bi developer
+02853fd1cf1bb5a1,bi developer
+f2dcaa0116ced087,bi engineer
+8b46a8519551252e,bi engineer
+2879aa900ee676dc,bi developer dumac
+86aa690dad5e2582,devops bi analyst
+50e6d3f2c4747118,bi developer
+f8ab99a1380a9c62,bi reporting expert
+68f186ad3f59aaf1,bi engineer
+3736a5c12fc84f09,bi developer
+35e5a7d9507349a8,qlickview qliksense bi developer
+0072c844368207d9,cognos bi developer
+65185b0a971f4004,bi cognos
+8750d01fe1ab1d57,bi specialist
+0ceede4aab0d84c5,bi cognos developer
+3ac834befd6d1d51,microstrategy bi developer
+753a40e7d139d820,bi engineer
+f1dbb407d927f9b9,software developer bi
+9102956ad21376dc,bi database developer
+27808c56c73590ec,bi developer
+2337bd4352b61df1,bi lingual web developer
+7eb1300723b9acaa,bi analyst
+a7d88547635a39a3,bi engineer
+cfca9512f76d003c,bi analyst
+38853050d0daa0e3,bi analyst
+d77db5e138e6fa71,bi developer
+361bb28fd0b6a144,bi etl developer
+481d83b11d8c16cc,cognos bi developer
+14d54d28dfc3f6cd,core bi report developer
+c0e7591289ade18b,bi engineer
+56ce58418af653ec,bi analyst
+157bf8bfb78a5b45,bi engineer
+329f7903994c9308,bi consultant
+06fdbd2d8cbb54e1,applications bi specialist
+3a878bdabbc312fd,bi engineer
+0fbd4eb179022594,dba bi developer
+215bd414ad3a949b,bi developer
+599cc575ad8350c4,bi developer
+bc4d359ecbcc3dfd,bi engineer
+c3f0d2926f5c4f3b,bi developer
+afea51a7bc24efd3,bi analyst
+5b3b1e201dd78873,bi reporting engineer
+bb386afc1355a082,bi engineer
+7d6074b3e5006a00,support engineer sql bi etl
+c862bfb3ff920c4b,bi analyst
+ff0c1604bac11c56,bi dw developer
+5148587f42496787,developer bi
+de0fbc8f37b7f14a,bi engineer
+1f240897b75d3b45,bi developer
+0badd619be0c43df,bi developer
+edf3cff10bd9a6ab,bi engineer
+5efe6dbdc93da81f,bi developer
+654801d69bab2d7a,bi etl engineer
+3bf0a9ae6fedce16,bi developer
+aadeb00bb9f72a1b,bi developer
+6c3b3e4779fb357b,bi engineer
+33e5cf917f68d6d6,bi engineer
+3663e72e73f1693c,bi developer
+b82295a5453461a8,workspaces bi engineer
+9efff3cad8c0914b,bi analyst
+fe14214f78305015,bi data warehouse developer
+95693c935d3b8984,microstrategy bi developer
+cb48876baae986bf,bi developer
+53ae17c763117523,oracle bi engineer
+4915f34655bd98d2,bi analyst
+915b849584041178,lead bi developer
+132cff0880848bfa,bi sol engineer advisor
+f1de07b76a0896bd,bi engineer
+71e8532d8244b53f,finance bi engineer developer
+782aa99a6c1467dc,bi developer
+f94adb28c3d1c17c,bi programmer
+f049883a712ddbd8,microstrategy bi etl developer
+cc7f975917e3c6b3,bi developer
+f51544c0a87c22f9,bi database developer
+c82bc8c0c89f3137,bi database engineer
+66bd418eadbd50c2,bi developer
+66a3b887d54c1c49,bi consultant
+6ad4a63490f141cf,bi analyst
+1c7951e87e039c43,bi application developer
+7fa520f8b013521d,data warehouse bi developer
+0179eee05272dd4d,bi application specialist
+7e1f091b6129382b,bi developer
+735d754ba0d66ef6,bi dw software developer
+ee955cf665b062ec,bi engineer
+25ce7004a6c3427c,bi developer
+3815420dd93f4f93,tableau bi developer
+3eeec8fa5f886afd,sap bi developer
+f1593c9bf51315fb,bi application specialist
+649b597f242a8ed8,bi developer
+f2d7feb608c21329,cognos bi developer
+f7f823ad420b5122,bi reporting engineer
+c732a622a7ca4400,bi developer
+d416c0db5229c339,bi developer
+cc33b37bbbee3004,bi analyst
+bae063a41ae47fa3,bi analyst
+77ef07fb4eb7b90c,bi consultant
+9824fc0c35287c81,bi developer
+3116b88de837c041,business analyst bi
+128cc096aa64a322,bi developer
+be733dad071977e7,bi claims manager
+d3183b0ab352766a,bi analyst
+e554ee9ba6337ee1,manager bi
+992cc678c974f9d9,bi engineer
+fb874e5cd7b7a49c,bi business analyst
+03aa1961d125745d,bi analyst
+edb3b56f60231423,qlikview qlik sense bi developer
+412bf91b21dbb93c,bi developer
+7ce339d7662f3c33,bi analyst
+c6a3f5f0814207a6,bi bw analyst
+37a5ef1f4b8cfbef,hr bi analyst
+f4229e9c154a1844,bi solutions developer
+07b91273f0f004c8,microstrategy etl bi testing
+56839e63f8018d56,bi developer reporting analyst
+6963788f397309f6,bi analyst
+7fe3c8bd875e3182,retail bi analyst
+8b2392c00fc5e218,power bi analyst
+ae6c61235681171a,bi developer
+476a459ff11832a1,bi developer
+d793bc26c3a08f09,bi developer
+80e92ed734a30eee,bi analyst
+e432ed07cefe37a5,bi designer analyst
+6be56dc3d092108b,analyst bi
+9dee5e99591cfcba,power bi resource
+751eb4b82ca00556,bi analyst developer
+d16e88eb333b52c1,power bi developer
+a61f2f7a97d5f7de,bi analyst
+d1ce458cb90016a2,dw bi azure
+2b90b71f9c0bfee7,lead bi developer
+f0ba63f001c1575e,tableau bi analyst
+b1e22278de0f4b9e,bi analyst
+9c03c2ad550d0f2a,bi business analyst
+e6a007f7c4a1b294,qlikview qliksense bi developer
+c61b2b762c8ed6dc,bi analyst
+63066c3bcbc95bf0,director fp bi
+7f10fc601c6012ba,bi analyst
+5737d684c4adf5fd,bi developer
+51ca1d765f0055a6,bi analyst
+729a03c2a19f688b,bi analyst
+47ad6ef5e1b7cc5d,bi analyst
+20603b740f25e041,bi developer
+6e25fd8b18c46ff4,bi analyst
+df9e6a9afc367d25,tableau bi developer
+d8e026def33cb833,bi developer
+37ca2dc611b0290b,analyst bi solutions
+e094aa4648acac39,bi developer
+3914c73d94a09e4a,power bi developer
+2cb2648f206cffa4,bi analyst
+86f990ecd33e50e0,bi analyst
+f092ce5741299783,bi system analyst
+1239f720d3f8aacf,bi specialist
+be5ee5fab931fc0e,bi analyst
+2e9f88cb36a598bb,manager git bi development
+e883e56b5cfc9cce,bi developer
+c294d25f505cad64,bi developer
+cf14c8ee90503dc9,bi business analyst
+858f6cdebc903420,bi business analyst
+c5040015d41926c2,bi healthcare developer
+082bf8c47460f37a,power bi developer
+eb64579f4be65261,bi crm analyst
+29f2d45530edff8a,bi analyst
+05925b41970b8bc9,bi report developer
+43949c55ee8c9410,bi developer analyst
+b5b0995a8da7101b,power bi developer
+48cdc242d5392eb1,bi analyst manufacturing
+d0c6f9467bcb65e9,bi development manager
+9329e8ff499f9099,bi analyst
+0616c20e9bde7da0,bi developer
+83b7b3d9e5449fe7,bi analyst
+de033f00bc0a5b62,data warehouse bi developer
+28f754607314b83b,bi analyst developer
+d6a4787dea40c139,microsoft bi developer analyst
+5721664ea5eb0443,bi analyst
+f31d28cc4d32450d,etl bi developer
+dc9a08b011e641e3,bi analyst
+9fbe962c772d843c,reporting developer bi
+6d14a7786ea5a446,bi developer reporting analyst
+b72734fbeba94aa0,bi developer
+712f1d84f50e041d,tableu bi analyst
+df65da71ad28f436,dw bi lead
+fd52531d0174aacc,bi analyst
+9cf0e5a43cb04cf5,bi analyst
+fe2d273dbef247b8,bi developer
+7f602c86541bceb2,bi analyst
+8c3fe0066aa60b52,bi developer
+aad0b42731795ab4,bi analyst intermediate
+01a04c049ed9c58e,bi developer
+bf2e452205496a17,reporting developer bi
+03f35ce0f2a34668,microsoft bi developer
+03b9fa076fa5c412,bi developer
+4113544b0846f017,bi engineer
+ba060a2cfa5d70d4,bi system engineer
+52184227e0b98b50,bi developer
+7cdebae9e8b00801,manager bi integrations
+6f9d5114e8f42ae2,bi testing analyst
+4aad26e3aceddc7b,bi lingual supervisor
+9917de2d15f89a82,bi lingual therapist
+3948adacf4f26890,sap bi bw developer
+e9fe5feea0e4229e,bi business analyst
+c09c7ba072975622,bi analyst
+9acdda87523c215a,bi lingual tbs worker
+0ec6955280bd4bfc,bi lingual proofreader
+a5e3a7e4eaad346e,sap bi bw bobj developer
+9dca9881ec8c75b8,bi administrator
+b6a0b29362aa1a21,database bi developer
+895e2bc23ffc716f,bi developer
+8898411d32546eef,bi analyst
+572916b225049210,bi developer
+15951f2f04da62d2,power bi developer
+468b4f4ce4470840,bi engineer

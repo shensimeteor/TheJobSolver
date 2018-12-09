@@ -1,0 +1,386 @@
+_id,cleaned_job_title
+6a576548ebb382a4,uefi bios firmware engineer
+d2cf660b933b80fe,firmware validation engineer
+d0ea6375fcd89beb,firmware engineer
+fc0db31856a6074b,firmware engineer
+cee98195592b44c8,software firmware engineer
+3817c33512658a4a,firmware engineering
+6a5be87d2697be33,staff firmware engineer
+9e3836f60fd16068,firmware engineer
+5252bad3b222421f,firmware engineer
+8e59ef7d5ef12628,firmware engineer
+0a9d512013608494,firmware engineer
+8e18ae3f20428c61,firmware engineer
+b79ad3f96e7e6342,firmware engineer
+b6351d380ffeba0c,firmware engineer
+f53bc0f31f53bea1,firmware engineer
+8f6416557832d916,firmware engineer
+097ee21ad55c8db2,firmware engineer
+8c8594ef0ede44dc,firmware engineer
+0a6a366f3c5d9d67,firmware engineer
+cb990460777ae1ff,firmware engineer
+219f759312834d5d,firmware engineer
+736a2d9d5c2e6f04,firmware engineer
+52a4b4e2b7f39c61,firmware engineer
+6720ff4a21559110,firmware engineer
+4aa6d6b68c4e8936,firmware engineer
+d51b4e81350f63b2,firmware engineer
+e56369ad92ca8675,firmware engineer
+8308f0357690939d,software firmware engineer
+da1f0793e40e2ebd,firmware engineer
+2f9375b327286664,ssd firmware engineer simulation
+2af8f5ca7dcf97ff,firmware engineer
+7ad1862f7c2fc109,wireless charging firmware engineer
+d545a04c2eb7604b,firmware engineer
+de57f33d41459aff,firmware engineer ms samsung
+eb4033e314d99449,wte wireless firmware engineer
+4d88831f1106e122,firmware engineer
+03fc008efd040bfe,firmware engineer
+24466c0c0fd16b0e,firmware validation engineer
+86093c05fdbccfbf,firmware developer
+1fc8d1b1862e0fa0,firmware engineer
+1027de4d3c13d9d7,firmware engineer
+f18dac3984dcc639,firmware engineer
+d122de17b68dbddc,firmware engineer mercury security
+f3532eccb11d3d8d,firmware engineer
+18bae3406ab72126,iot firmware engineer
+099e594782c2ca26,uefi firmware developer
+207b14089f2d40a3,firmware development engineer
+600c5214a1e63723,lead firmware engineer
+8fd40b26606a6155,firmware engineer
+0701d71c1fd97260,software firmware engineer
+0164f61e76d598b5,ssd firmware engineer
+feb7491f333ba8bb,electronics engineer firmware
+fdf1d38281177be8,firmware developer
+428c2aad0a1ac6eb,firmware engineer
+9f76a84b4d7f0fad,software firmware engineer
+f55a02895c6b9ffc,firmware engineer
+3be3d61e92ed779c,firmware engineer
+ae15d41eb1dcb619,ssd firmware engineer
+5111f49168ed76ad,firmware engineer
+9b7e157f47cc9cae,firmware software engineer
+4624f0279b07950f,software engineer firmware
+9210602d75f80eae,engineer firmware
+9649bed9e1b9e9e3,firmware engineer
+e9756f4f3a7ca20a,firmware engineer
+39cfeb2e30da91d9,firmware engineer
+e43b8d044084f22f,principal firmware engineer
+59dbcefa1d5f7854,firmware engineer
+8efe85f9c02a28f8,firmware engineer
+4a28d69fae50e5e7,firmware engineer
+bacaeca5c130f65b,firmware engineer
+2a220893a0302d6b,firmware engineer
+e6f90c6d708488ce,software firmware engineer
+5838f3c6e3776d6f,software firmware design engineer
+e0fd9d172d1a4212,software firmware engineer
+51aabd709b7a752a,firmware engineer
+f99d36f36c2eab87,firmware engineer
+deabe9590ba724d2,software firmware engineer
+dd17bbe71e2909b7,bmc firmware engineer
+14810f93820eb39e,lead firmware engineer
+301cec3fb19badb0,firmware engineer
+5666284338a518fb,firmware engineer
+d62c9edd04780cee,firmware engineer
+2b353931b0c1439b,firmware engineer
+ef0254b335490145,software firmware engineer
+aeda69595b873b51,ssd firmware engineer
+81ba5cf1250f9033,firmware engineer
+7c3e56e0c4546e29,firmware development engineer
+88af9a301bb7ac71,firmware engineer
+5eaee13a78c43d58,software firmware engineer
+929d5167729f6d68,firmware engineer
+6c49b08648c15459,firmware engineer
+ad4d99c7e64b2d5d,firmware engineer
+3e4f983dc0ea5b52,firmware micro controller engineer
+4439c6d7913086b5,firmware engineer
+79f36c0ebf134c62,firmware engineer
+097ebc6308a60bb8,firmware engineer
+4c88446ac80b7dfc,firmware engineer
+15ee9a286a5d845d,firmware engineer
+10915e2ab88e3914,firmware software engineer
+2643c23f1e95d00c,firmware engineer
+82da04ab8474481c,firmware engineer
+cc0f250866d15068,firmware engineer
+0106eab39c30e009,firmware engineer
+c87a37feb6a48e95,dsp firmware engineer
+33c47a8a64a422f2,technologist network firmware engineer
+bca1a66cc7a47eb6,firmware engineer
+bc347211afeefdd5,firmware engineer
+4f5accbc973cdb38,firmware design engineer
+37333a05bb26c2f3,firmware engineer
+8b94453ad1d7e22a,firmware engineer
+8881519030a32f73,firmware engineer
+abd377f1522edcc7,ssd firmware engineer
+a39404bb11d101b9,firmware engineer
+118000367173f8ff,firmware engineer
+3878a0f5adef566e,firmware engineer
+dbf930919bb2e3b0,firmware engineer
+bda254fdd0032335,firmware engineer
+aa93f2920d0559bd,software engineer firmware
+34dadb45c9f32673,firmware software engineer
+e63d422a906f0028,firmware features engineer
+d9e1c34bebc10d24,firmware development engineer
+5489d0a68639c098,firmware engineer
+8fb3f5a7e77b2fbc,firmware engineer
+fc8095a599b55381,firmware engineer
+101984f7093c36da,firmware engineering
+40b4ab16bc191370,firmware engineer
+0dc4c865ad923b31,firmware engineer
+3458163ae4cb19d8,firmware engineer
+952842c156efad31,firmware engineer
+1946075644d2aa57,firmware engineer
+98f5d298cedd0d3a,staff firmware engineer
+b5fc5f4b8ed2a454,firmware engineer
+6f61805bca18bb5b,sensor firmware engineer
+538b642754599088,firmware engineer
+ec5e0016f4b7b6a4,staff firmware devops engineer
+f6bb196a139f09e8,firmware engineer
+ab71624a76a15ea4,firmware engineer
+cf7079f3d8aa1957,engineer software firmware
+414710f0533af185,firmware engineer
+13671d6ed39977c9,firmware engineer
+b0fcfc7e054646a9,firmware engineer
+0ad74109aa8e5646,firmware engineer
+0f68f732f3e06aa3,software firmware engineer
+18b3ad030cd528e2,ssd firmware engineer security
+8fd825861949dec4,software firmware engineer
+eda7bc1493e050cf,ble firmware engineer
+6e86304a1b37e1bb,hw firmware engineer
+3265ae3f8b63d98a,firmware engineer
+fbf512290140b82c,firmware engineer
+7b1515e1ca29244f,firmware applications engineer
+51dd104853855bf9,firmware engineer
+b0e5a3621b7f548d,firmware engineer
+e373f3daf8d9c72b,firmware engineer
+6a26a706c8babd1b,staff firmware engineer
+02976315449dabf1,firmware engineer
+6b3615f32092450f,firmware development engineer
+7eacba850281545a,lead firmware engineer
+c28ba6485bdb2437,firmware bios engineer
+0723844918b1ab4c,firmware engineer
+13cfab76a494673b,firmware engineer
+987af97ae187538a,iot firmware engineer
+0a850f6bf9623ee9,firmware engineer
+92dca8a81b7a164d,firmware engineer
+25d062ec3f3454b6,firmware development engineer
+2fa03c81f22444b8,firmware engineer
+c60183efbd6b5293,software firmware engineer
+ab15d6dc1955ae0c,software firmware engineer
+9392bf187e6558a0,bmc firmware
+314f837af5784ac7,firmware engineer
+3fd73f334df1c542,firmware engineer
+5b8e4567080c5b6f,firmware engineer
+840391e665a95275,staff firmware engineer
+4f0903ace88359ca,firmware engineer
+97163863314db647,firmware algorithm engineer
+9e8404507803c59a,bluetooth firmware engineer
+156b6efb96fb5e5e,firmware engineer
+4e824284aab15172,software engineer firmware platforms
+7da004dba4ae6cb9,firmware engineering
+338fa67f4fd7e5e9,firmware engineer
+65f21629b1dc8d00,firmware engineer
+e9788c4bc44f9812,firmware engineer
+4b17185b9bb6e142,fpga firmware design engineer
+b5f70a3ecd7981fa,firmware engineer
+e53bd29dd8805107,firmware engineering
+e6448d45105f35f1,firmware engineer
+37a6a499ba22983d,ssd firmware engineer
+215d165099aaf797,firmware development engineer
+78e19451c630e774,firmware engineer
+5fe87c37fc5e76e6,firmware engineer
+ed74737d69c8735f,firmware engineer
+98f425a6019e2c41,firmware engineer
+1df2ce39c02bf821,audio firmware engineer
+c3cbb9dba7f7bef5,firmware bootrom engineer
+204a0a1393232556,firmware engineer
+e35775169f9bf132,modem firmware engineer
+40efb68dcf047993,firmware software engineer
+cf1f12260501cc6a,staff firmware engineer
+5b3b606e1c0a9133,enterprise ssd firmware engineer
+c9ddbfc78b6dfb43,software firmware engineer
+a0161dad41f27e92,firmware engineer
+58a786a1fca3a013,firmware engineer
+b3696aca5ddc1ffe,ssd firmware development engineer
+51bbe675b02d6cd9,firmware principal engineer
+e72b0c3769a5a606,firmware engineer
+4e689b9717f88bfb,lead firmware engineer
+3c57c50891f02218,firmware engineer
+3703b2b626bf755f,principal firmware engineer
+1b8f662283bbc62b,firmware engineer
+c41941778b3db4c2,firmware firmware engineer
+5539de9f60ca6db5,firmware engineer
+8b384a52095ab66c,firmware engineer
+293f99098d24231b,firmware engineer
+9b334107cb640bd8,electronics firmware design engineer
+860e1073b795fc76,lead firmware engineer
+8fdf003ded313761,firmware engineer
+9630aade9519f379,firmware engineer
+b340b77d44adec5a,ssd firmware engineer
+63231044bb6a75e2,firmware engineer
+8c4515eba342a84d,firmware engineer
+7f823d8e22320f52,firmware engineer
+9e6b482197932e6f,fpga firmware design engineer
+7f4f889902668029,firmware engineering
+db2cb99082d69828,firmware engineer
+b19898687c43eb70,firmware engineer
+1c700bab247dc4dc,firmware engineer
+02bbb43b8235c2d1,firmware applications engineer
+7add19b38c02430e,firmware engineer
+676ffad0e59b3f8b,electrical firmware engineer
+57d6d8e7cc3bd3a0,firmware engineer
+565e76dc4da456b7,firmware engineer
+feb12a1a64fc5b4a,fpga firmware developer
+bcc6d9ec3c47913f,smts firmware engineer
+b1f29b5fe9975f79,firmware engineer
+3b12eab3a6f5d20c,principal firmware engineer
+e17500ef472b0e40,ssd firmware development engineer
+0198f2961e1bfc23,firmware engineer
+a64a4218677c40c1,firmware engineer
+a691b2e613111d34,firmware engineer
+da1d7662c78e11cd,ssd firmware engineer
+03a08aa08f7afbbf,firmware engineer
+5034c4e94d015e59,firmware engineer
+7f1af9ff6d184fef,staff firmware engineer
+04a3898b3cb54909,firmware engineer
+fdab867733049566,firmware developer
+8d6654c13d180833,firmware engineer
+cc170c7d30b62973,firmware verification engineer
+8814f39641fdf697,firmware developer
+7da0fc499fa96906,firmware development
+4e317003184a1cf8,firmware software manager
+6426b2ef99cde8a1,firmware engineer applications engineer
+b626c4692a64a2a7,firmware engineer
+4824daa9697c53d5,software firmware storage engineer
+b43cfbc437deff1f,firmware engineer
+2404ee8767dbdb89,firmware engineer
+b74ba91ed9bfd17e,firmware engineer
+fb3cc34fe43b7ae2,firmware engineer
+ca7607f1d50d4656,electronics firmware engineer
+3ec8f8ff489512b1,firmware engineer
+3a69b50cddef728e,firmware developer
+e84246a261d84793,modem firmware engineer
+8880ec216ced04e0,firmware engineer
+4e9d5d4cf9fb16e0,engineer sas firmware
+5391aebee9568ca9,firmware engineer
+81d3d83fd5de820c,firmware engineer
+3f3a9215c9b0a1a3,firmware engineer
+00302092cb73463f,firmware engineer
+0a9f43d76ba2cab5,firmware development engineer
+d03db3e7934e00d6,kmd firmware engineer
+baba26c8260bc083,system firmware engineer
+9c8f44fc40bb2b08,firmware engineer
+689fd69c0eab450f,camera firmware engineer
+7ec8e56f62e9a09b,principal firmware engineer
+3b2482b75c2d884b,firmware engineer
+4e1b9b1ae96d07c4,staff firmware engineer
+1b6998d6ec393e80,firmware technologist
+8b85633fca9c6621,ssd firmware development engineer
+2f3e662e853966d2,principal firmware engineer
+931c4c22965cb26c,ssd firmware engineer
+2f19c1c41d082143,firmware engineer
+5430a9d1a41887bb,principal firmware engineer
+c4c5c97fff0e7773,launch firmware engineer
+120f275914bdd99f,firmware developer
+956ba2ad338160fd,firmware development engineer
+62f84f5de1c1f00b,audio products firmware engineer
+993bc748d64f24ce,firmware engineer
+f7cc1f61bc6d16da,dsp firmware engineer
+00eff71097f2da44,firmware engineer
+5cc8344452f4bd7f,staff firmware engineer
+caf7ff89f999df13,staff firmware engineer
+a15f0f31121abc59,firmware engineer
+24c592c79b819c9b,firmware applications engineer
+a0beb5905952327c,firmware engineer
+8cca11e60587578d,firmware engineer
+bf7480bfd10ea83b,firmware engineer
+8526ff3af09d5d72,software firmware engineer
+16a3d26355362cee,customer firmware engineer
+1f4ca8c91bc20bf6,firmware engineer
+0d49799dd47cd5a2,firmware engineer
+50ca7ac8d34169ea,firmware engineer
+25109bad8d07d2c0,firmware development engineer
+d68a2d5e0fe0e66f,firmware engineer
+db9ce945bd28f899,firmware engineer
+332e46fc396bb3d8,engineer customer firmware
+8d589ee1541b5644,firmware engineer
+450345d91a5fb9da,firmware engineer
+9d7650e5a2918843,firmware engineer
+79ee0a6ffda5c4d3,firmware engineer
+8d34790628f4fe1e,firmware engineer
+840af78e55037919,firmware engineer
+1a4a72a91ec731b1,firmware engineer
+77022a5f05c58ae2,firmware engineer
+d4cc4f6f189e1821,firmware engineer
+20f0933d477b041a,firmware hardware engineer
+1bc1bb54536a8e92,ssd firmware platform engineer
+a2fe3f6bb15d56fc,firmware engineer
+7b52726b64f0a750,firmware engineer
+988c0cea0793a832,firmware engineer staff
+b1beb4110d8727bc,firmware engineer
+d94df8563ad14677,firmware engineer
+518ae9a79cf90b81,dsp firmware engineer
+18a8d849f90871f5,firmware engineer
+13f94e594994ebc6,lead firmware engineer
+55f57e070cb3f8bd,firmware engineer
+d3192aa8e72a7a8d,firmware engineer
+d295d87f4360078d,firmware engineer
+ea8111a895c3af01,firmware development engineer
+882cc8978a232b47,firmware engineer
+365b1b1318f841ae,firmware engineer
+781d4d9e78f39c3f,firmware engineer
+bf29b31a0cd35c40,firmware engineer
+52211d0fffea4be3,firmware engineer mercury security
+d87cc50d64b8ba7d,staff firmware engineer
+80034129a796a28e,lead firmware engineer
+eca620f830c01312,firmware engineer
+feea18eb672a4a72,dsp firmware engineer
+fa2f0e68df74c297,electronics firmware engineer
+adc5c0bb07e2eb84,firmware engineer
+88f61072fc13009b,firmware engineer
+fc17cc4d87110b19,firmware engineer
+b5190b53579361bc,firmware engineer
+a9fcef2b2aa5f9c5,fpga firmware software design engineer
+4a6e1c3f1b735684,firmware engineer
+7c662f0cf69a4f71,engineer firmware development
+1ae005dacaca249d,firmware engineer
+1ab96fef8762af28,firmware engineer
+273dd7e8c8d7d703,firmware engineer
+7eb31cb14b3fe2aa,firmware engineer
+b7c8354225db7a36,firmware development engineer
+0587fdc0d310ea05,firmware engineer
+4b7257090e54a348,staff firmware engineer
+3fd0f0558cb512e5,lead firmware engineer
+69fce68813d9199f,firmware engineer
+31550383fd0c511c,firmware applications engineer
+1704e6b074411158,firmware validation engineer chassis
+f8ef73393763e34f,staff firmware engineer
+0ee973a9b872aeaa,lead firmware engineer
+6fb6b618d1d2a614,physical layer firmware engineer
+56f4bbde5a5a8a91,firmware engineer
+8b12c2fd20f3fbbf,firmware engineer
+4ccec0e16f92c9ae,firmware engineer
+b94566a9b6cc74f8,firmware engineer
+3849dab9eea33f4b,firmware engineer
+66c6ba43f4a78403,firmware engineer
+a93141a6729f1745,firmware engineer
+c4167fee30c03106,firmware engineer
+617a0533feafa822,firmware engineer
+a7bf40989164e8b2,camera firmware engineer
+e8d2448ec8bef000,firmware engineer
+de198d3e20ef026f,firmware engineer
+cd09dc57939ec40d,firmware developer
+3b11943da811eb97,firmware engineer
+c351add856e7b6e1,software engineer firmware
+f437bbb6ead020c9,firmware engineer
+4717a2d2def6bdfc,firmware engineer
+3927006f9a96aead,firmware engineer
+eae2120056f18eeb,firmware staff engineer
+888f2a366086522a,camera firmware engineer
+280f92f4c6759499,software firmware design engineer
+dd43430ea7c68096,dsp firmware engineer
+783a5c48f8041428,firmware engineer
+a0ac13102c32aeb2,firmware engineer
+4ee0366f13296177,firmware engineer
+a61eb32fff679d1f,firmware engineer
+a113a91a35d04a65,firmware engineer
+6da9ccd16617e6b6,bluetooth firmware engineer

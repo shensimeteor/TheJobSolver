@@ -1,0 +1,224 @@
+_id,cleaned_job_title
+cf5e24420e4897ae,cnc machine operator
+9f3b524d03db8b99,cnc expert programmer operator
+0caff4cbcfeda41c,cnc machine programmer operator
+d2e62f91134635a8,axis cnc programmer operator
+39156e7aad8c90b5,robotic welding programmer operator
+7e8db3560d166fc0,smt machine operator programmer
+cbc90289dd0ac7a1,aie operator
+3f070004af92b1b4,cadd operator
+12b50da4b9e77240,waterjet programmer operator
+fd420deec712f197,cnc programmer setup operator
+04abaa26b7048edc,manual deburring operator
+493d3601c10fe979,lathe mill programmer
+8fc27e49d233faa9,cnc vertical mill programmer fabricator
+4117eecf7feba83a,cnc edm operator programmer
+a55c1ff2ef443969,wire edm programmer operator
+06b0f2d59cb6d8e5,cnc programmer cnc mill operator
+965acd8d3468135b,cnc laser programmer operator
+b3138e4c73613f52,waterjet programmer operator
+9476598b1b2a99e1,wire edm operator programmer
+d370b38ff460335a,deburring operator
+80cf430b02878af2,cnc machine operator programmer
+96a8479e51b20e58,cnc machine operator programmer
+db10475a6b1270e5,robotic welder programmer operator
+35d7e31cf0e992a0,cnc lathe programmer operator
+79e6498ea8177a0e,cadd operator
+8a7d175a1f3ac081,wire edm operator programmer
+8941c5bbb8995e37,technician driller router operator
+71cd42878ed6d6a7,cnc mill programmer operator haas
+c2245dfaf29aeb27,waterjet programmer operator
+4f152d1b1f57edbf,cnc machinist machine operator
+38765d9aa0e2fa8c,experienced cnc lathe programmer operator
+ec2813be5436417f,cad operator cnc programmer
+7519d98c4a1abd56,cnc programmer setup operator
+cc341665d83f3c77,cnc lathe operator programmer
+75e1f37201c54270,waterjet programmer operator
+f3ebd31ba71f2631,cnc controls
+63c09b1067142780,experienced cnc programmer operator
+126c9af1e3c804f5,cnc operator
+8ec4724b8355ec21,deburring operator
+b7abf88e14958093,cnc programmer setup operator
+3d01236ad57f5b1a,edm operator
+d954800786b7f8db,waterjet operator programmer
+37e9631ecd332d39,cnc mazak lathe programmer operator
+2c3a63fd3b75c663,cnc programmer set operator
+b7636d25cd10af22,wire edm programmer operator
+cbb3636a11205c5e,cnc machine operator programmer
+788321b06cdfb91b,cnc mill programmer operator
+93a7e1bf1c9c84c7,wire edm programmer operator
+6886b0476dc32a79,cnc programmer setup operator
+8e54ec1e685633fb,smt operator inspector
+8082e909c20ad688,autocad operator
+17b74d3f70aeab02,wire edm operator programmer
+dc017a183881f68b,cnc mill operator programmer
+08e36cd3f92c584a,cnc programmer operator axis
+91335fec95752543,ram edm operator programmer
+55eb5ffa4dc64b6f,cnc laser machine programmer operator
+684ccf9e9d0bcdf5,autocad operator
+86a8be2533bf8dc1,cnc turning center programmer operator
+9e10c4f8e4e4648f,programmer operator cnc machining
+77a7224f03afb11b,cnc machine operator programmer
+654697eb122c172e,cnc laser operator programmer
+f199ce432b200697,flexo operator
+50d567ae9fcef70c,ld operator
+a4feebf4ee01079c,wire edm programmer operator
+7dfcf52f85454d5b,directional driller
+067329d7beda8530,experienced cnc programmer operators
+65ad9f11c3bcd746,cnc vertical mill programmer fabricator
+427282657fe9f0b3,cnc machine programmer operator
+fb1c27cb0f331e0b,directional driller
+a4e84c3fabe3fbcf,skilled edm wire programmer operator
+82bd5fdda1c44ab9,autocad operator
+622bc2b95cae3b68,oem cnc lathe
+5b045132b535e843,directional driller
+f8109ff08033192c,cnc operator
+eab98ece7c4402cf,smt operator
+af5cc92a7f04fe65,cmm operator inspector
+fe7ec438ab68ead6,cnc programmer operator b
+54f67a3c180065b6,cnc lathe operator programmer
+c6072fb8826ef09d,skilled lathe programmer operator
+157e1d2dc9fc6da3,axis cnc programmer operator
+e50d2f285d4431d8,cmp operator
+011ef915baae5f0f,cnc programmer setup operator
+bbbb16127ec34013,cnc tsugami setup operator
+84217a3a9595695e,gis operator
+cb53a4b0d8220e3d,robot weld programmer operator
+50fdf0074dcbcc5e,cnc operator setup programmer
+6f4634adf34e046a,cnc saw operator
+03540cc8fe0f3e74,directional driller
+1432660d8eb5b5a6,wire edm programmer operator
+ed9cfe8fa6af1412,cnc lathe operator programmer
+e3ebed65ac91aba1,cnc machine operator programmer
+0bc01af5c7a55e03,cnc swiss machine operator
+74b05efddc763ba8,cnc operator programmer marble granite
+15da77da588e05a7,wireline operator
+e33b662cdffa9a08,cnc mill programmer operator
+7d07a168ff1d2143,wire edm operator
+53ea8e7540b2029f,welding robot programmer operator
+5e63858de3c32d76,multi axis lathe programmer operator
+01dd98e57b47078f,cnc operator
+29fffc3cbd3efd47,cnc programmer setup operator
+3251d1f641849be0,cnc machine operator
+a6363380dbeb8eb1,cnc laser operator programmer
+7045b90bf3899f75,cnc operator multi spindle
+2f0b91c21f64f7b6,cnc operator
+874db82a67b689bb,cnc operator
+59d222199c8b42b5,cnc operator
+c7b4b8858340f9e1,orsa splice qrt
+ec75813598c37a0f,driller
+03087a35376037b2,cnc operator
+0dd955f134f0ed92,cnc machine operator
+62e01bd3aa7b1459,cnc operator
+5c59365753ae5ffe,cnc mill machinists operators
+f1a39c13f73d9400,cnc machine operator
+dc8393303df0f394,directional driller
+1e8025be8baba6ba,cnc operator
+2eda6fb1db4e980e,edm machine operator
+55d206cea733217b,esl filler operator
+b3e172b5480a5c76,weld operator
+0d7f33ec7d99d556,cnc machine operator
+9469a352e9f34a3a,bindery operator
+120dabb0e9dc9e03,driller
+a78acff55d096fbd,railcar repairman
+b2fcb3bd44adf80c,cnc woodworking machine operator
+d429d15bbb6576e8,cnc operator
+308e3aebb129ebc8,cnc set operator
+0b33af353ceaa136,driller helper
+e707ae9604279f0d,extrusion operator
+6ee07f07d76cab36,cnc machine operator
+da2314d213ed2164,cnc mill operator
+1532420b297c2a51,cnc lathe operator
+97926b3d76c07154,cnc operator
+60e8dbe973e24c8c,bindery operator
+d0cc06cd3dd2b8ea,cnc operator
+ea7e2b525228df8d,cnc set machine operators
+b260dc1b3d9ab4b8,irrigator
+277a993c5dfcb9ba,cnc mill lathe operator
+c66d815461cb2990,cnc operator
+5c4c454d9eb204de,grader sorter
+6384b440e3aa77fb,cnc machine operator
+c33451ef1432179e,cnc machine operator
+85895bda45eb48b4,flexo operator
+00ca4913f717d1d5,cnc operator
+f6005853ecc05cd3,cnc machine operator machinist
+068224794ddfa90d,furnace operator pq corporation
+2d7f1768dcccca0c,cnc operator
+1c3213be391dbb9c,flexo operator
+9101964b0f1a6ecb,operator cnc
+864893ee7f9bef7b,cnc operator
+6332835bff830f90,pbx operator prn
+67f1d517a814bf25,cmm operator
+59c9989b76c8ea69,driller helper
+c27b0706ded7e464,flexo operator
+871c4123c499e47e,cnc operator
+b3fcdc572872371f,cnc operator set program
+c488172e467eb6e0,cnc machining center
+577cf3c23a533939,cnc mill operator
+80a245f5d853a12d,cnc operator
+3402a89c566f4192,laminating operator
+094c1007a4154692,cnc operator
+b4d2d69ccdd3718e,cnc set operators
+82ed171d091bec96,cnc machinist setup operator
+fdd2b3437e824f7a,wireline operator
+885b16f728750870,cnc router operator sign shop
+900b9408ad28218d,cnc mill operator
+38dda123531f66ac,cnc bend operator
+898d243b0a8580d2,driller driller helpers
+1ca5a7d730419d9f,laminator operator
+6ddac807070ddbdd,eo operator
+152165e9b012bf4f,extrusion operator
+946daca3852d72e2,forklift operator andover
+c12971087862dc90,cnc operators lathe mill
+ca96161c3a7f563f,lamination operator
+adf53fa7ba004d7e,cnc operator
+ed2991b89333654a,driller driller helper
+d3c361d3add42a32,cmm operator
+0b140932f4802ff1,selector packer
+36805dc257a74dec,cnc mill set operator
+036b6ac6c7364a31,cnc machine operator
+072d718022540c3d,railcar repairman
+830d0c58b189ff6e,aut operator
+3c58d12dcae4cc48,driller helper
+95e9cf0a1a21f9aa,cnc lathe set operator
+0fdbe3727d8c8a05,cnc machine operator
+5a018d784a7c59d1,wireline operator
+dbbab58f4b8690f1,cnc operator
+bc3cb4d6fe7b9129,cnc laser operator
+df7e26a9800cfbca,cnc manufacturing operator
+765751db76c8d2df,cnc machine operator
+a02ab8bf80e1718e,edm machine operator
+97661181b97dcb63,cnc machine operator
+3c38109360ed3adc,assembler operator
+e30ed2c018610504,cnc set operator
+d5bb344cebde9936,cnc machine operator setup
+c1ec730d9dbac6f5,cnc machine operator
+0f76e92009179f32,cnc table operator
+257d58a0e783bc45,extrusion operator
+7889984a9f4e1787,driller helper
+15d36aa944dd40e4,cnc machinst tool maker
+714a0d01e2c69bb1,cnc program operator machinist
+ecd87fd0f08880e3,electronic prepress mac operator
+60dfd08d4c49ce68,cnc machine operator
+dc09a779134e8b62,loader unloader
+8763e30e1826817c,cnc operator
+30b44bea52e7970a,urbana operator
+bacafd92e7300930,cnc operator
+ac51c97566d8756b,cnc machine operator
+2fe2f698bca27c68,pbx operator
+137bb1d92fa0764f,calendering operator
+b7734e17ffc00bd0,cnc operator
+b65850ad733bb573,slitting helper
+d921cea733eb6f8c,cnc setup operator
+4e258662d80e7875,cnc machine operator
+6d3c5242547c8365,cmm operator
+80b210caed27aa99,cnc operator
+2695674331d50786,cnc operator
+075da3aa9d8037ce,console operator prn
+48c53820abfaf425,noc operator
+8470e4ec0f0dfa35,pbx operator
+a7526f4e5414217c,projectionist
+79bf14db4ef288ba,robotic welding programmer operator
+cde88b8fd6e509ad,grind setter operator
+3ee0ba0bd4bedc62,cnc operators
+38954906f142f0b6,cadd operator

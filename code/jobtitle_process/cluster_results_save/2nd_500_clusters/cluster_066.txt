@@ -1,0 +1,326 @@
+_id,cleaned_job_title
+defb2c864c2b91d8,xml programmer
+3f360550a23d61ff,ibm tpf programmer gaithersburg
+1817a97d5c6febde,ruby rails programmer
+81431b5ed905b158,sas r programmer
+96c4bd50011ff2e0,unix nt internal programmers
+63eff1fa984cf0a4,cmm programmer
+55db710203284b65,mainframe programmer z os
+3c69acece0ab5144,cobol ims programmer
+16281dda41eefb8b,programmer swiss
+390b9160b121a6f5,cmm programmer
+f709b5868c32c7a9,automation programmer erlanger ky
+e6b5c9f53c4f0b3e,bhs plc programmer
+919526fe57c1522f,ada programmer engineer
+d8f3214d64729630,asp programmer
+1abc35b1ed95db17,gis programmer arcgis
+c7598b91a103c6be,cmm programming
+f69ead3067e45f59,unisys cobol programmer
+e575856165fd6c98,erp programmer
+dad2aba3f9776187,erp programmer
+c9245687de81199a,gibbs cam programmer
+7550442e19760a73,batch programmer analyst assoc
+667c05fe89167045,rockwell plc programmer
+14f648a6549996dd,sas programmer
+1339d5a6930fda13,delphi developer delphi programmer
+1b75fb03b7681807,sas programmer
+3088ed1af75b8fbb,cmm programmer operator
+60c5bd87513d13bc,nc programmer
+6e10875d6d2545df,astronomer c programmer
+0f5502ec73879882,cics mq systems programmer
+8cbeb8a29e0e20e1,net programmer aws
+9da55513abfb225e,nester parts programmer
+2ccafa74e1af8ce9,hvac programmer
+612f657711ff00f2,matlab software programmer
+1efa62228920aba0,cno programmer
+9883d739aa9a5e08,cgi programmer
+5cb12fe3eaa1f64b,cmm programmer
+38356510d79511c2,cnc programmer area leader
+1940c9c42263ace9,cno programmer
+37a2c3b866bf52b4,cmm programmer
+ae5bed932c1650ed,cmm programmer
+1645d239e534e1ab,cmm programmer operator
+3210f829efd3e62d,programmer usa
+197b912fd7419fb0,principal sas programmer
+2b8001148a73f940,sas programmer
+816ec479cd452b67,cmm programmer
+656fdf5ece447cc0,cmm programmer inspector
+c3fb8440906524b3,sas programmer
+48655662c8ef51a6,gis programmer
+099d628c138f97bd,erp programmer implementation specialist
+05e50ea2a0831fd5,sas programmer
+7f40fb0571c875ce,metrologist cmm programmer
+e6bad3821d061d82,cmm programmer
+8ebd7df524dceb78,cmm programmer
+f2559176ac6fc51c,net asp programmer
+f186d54e883df5d2,omputer programmer
+aa46029e73452f71,cmm programmer
+9081b790941e7dd9,nc programmer
+183645a5ccae45ff,cmm programmer
+0b761153e633550a,sas programmer
+60ab610a9b6b3cc9,programmer analyst jacksonville fl
+07bd222b999602c6,cmm programmer
+384c5edca8203176,cmm programmer
+635e745c4f78a86c,cobol programmer
+599c411cb898a0ed,allen bradley plc programmer
+66cd3e2ae6346cf5,r analytical programmer
+72a47f7186296c87,av programmer
+bcdabee82df150ed,cmm programmer quality
+471a8f426e98a783,sas programmer
+f211654b34029dd0,cmm programmer
+c9d17436fa4f99f9,nc programmer
+92ad184fe86aa463,hvac controls programmer
+f2effeddee1c91f6,cmm programmer
+c70d7ac98b71bdc4,ibm programmer
+585c67ddd048b17d,statistical programmer sdtm adam
+2818cff7f81bbe50,gis programmer
+79b8b9f501c058b1,app programmer analyst assoc
+1a3227abaa846cd9,cmm programmer operator
+c023036033215216,sas programmer
+bc3c269091a4b65d,ai programmer
+674b23ef420fff0b,nc programmer
+b265d0f223ce7944,nc programmer oms
+ffa60e3259d0d9bc,cmm programmer
+8750086941ec358f,nc programmer manager
+0dfb86878899f443,cmm programmer
+95b536c54a6ff502,sas programmer edic
+bb32c3c2bdb1d23a,sas programmer
+f48e1e171e05d4ad,cmm programmer
+0f6bf6b167b02cb8,vr unity programmer
+c530da2f95615331,nc machine programmer
+0f0912b73254b6e0,cobol programmer
+90634cb0ae9c0233,harvard film archive programmer
+1bb422969a5a486a,cmm programmer
+ef3fbf642dc7b09e,lead cmm operator programmer pcdimis
+c13b07bf9b0ea7da,aoi programmer
+12cd17c56a490a20,bpcs lx rpg programmer
+ee49eaa2e6fcd801,cobol programmer
+7ea13d631b573097,dcs programmer
+55935191dd9f7978,gis programmer
+47dbabd440a163b5,cobol programmer
+3cc99370a4650376,cmm programmer
+04d7b911b573a8a1,axis lathe programmer
+827361daebcb03a0,sas programmer
+677d49774e4e0ece,ue sequencer programmer
+bc92c4b1ed32102d,smt programmer technician
+398f6dbbce345cda,sas programmer
+d0c56ae3f631dc84,ria programmer
+a3b44d071104ca43,statistical programmer pk pd
+2584497d357be3f3,cmm programmer operator
+ad04c51383d6ccf5,autocad programmer
+989bee3cea3a27a5,cmm programmer
+3e8f87855c9a7b88,cmm programmer
+9e1c751fea7b48f3,sas programmer
+a8555727941f1b6f,pixhawk uav flight controller programmer
+dc38103d4553e4a9,sharepoint programmer
+6307255a2bed6bdc,sas unix programmer banking
+7461f4be5cfb9c68,application programmer p
+dc020bf236d781eb,statistical programmer pk pd
+d034b2d10fa67ebd,autocad programer
+a5acd04d56056b72,sas programmer
+20eb06e08a6b8b20,cmm programmer
+a2966b1e3049ad5b,sas programmer
+4bffa6b7767b7653,sas programmer
+09782862a5e0324a,cmm programmer operator
+86a04d528c78a091,z os system programmer
+22d492ce0424c643,cmm programmer operator defense
+efcafa8d8e224d0c,ile cobol programmer ibm
+6c429c42df6ef1f7,sas programmer
+bed12c7d03c36fa8,cmm programmer
+be6373748e23dbf9,rpg programmer
+7e70e90a5f76bfb2,cmm programmer
+2b8fde73e248c753,idf lx programmer
+485a42e23145ba2c,scorpio programmer
+b1e017174273d8b9,z os systems programmer
+f335d9cd62bd12b4,nc programmer
+3399405339aff18d,video programmer yahoo aol
+885857ce600276b7,artiste cfx
+86159aad540706c6,cmm programmer
+4bc0da210e39ebd8,sas programmer
+0c1755aadacaaa05,programmer asp net
+c13de5b1c239e8f9,sas programmer
+66dc86bfbe947bcf,sas application programmer
+b7cb04afcf6cfa2f,lead cobol programmer
+fca6164b26fa8bad,sas programmer programmer specialist
+0194388cd7e99f9b,av programmer
+a49c1754fc9db3bc,associate sas programmer
+510c7d8b0a1e3a24,crestron programmer av installer
+5ec1b1f790e8f129,av programmer
+596c4392d04d45c3,sas programmer
+17541325af8f75c2,controls bas programmer
+64ac0b9fa0398a50,hvac ddc programmer
+c2a1fc28932a87df,tm programmer
+27cf03b2108edddb,cobol programmer
+6e5476e7e3c883cf,wma programmer
+f4f89d9d2c055945,net ui programmer analyst
+e2b209510f21b9ca,cmm programmer
+3350708e21920eee,perl programmer
+b97abaa409c68ea8,mid multiplayer programmer
+835cb14bdabfd5da,nc programmer
+b119d3088fb8e048,angular javascript programmer
+40e5d3b145dec367,db programmer
+d4e3d47d5f161d51,tsugami swiss lathe set programmer
+3bda3c920c69d718,sas programmer
+adfefe77b699a364,associate programmer ihm
+f4cd95763dedcfed,cmm programmer
+be58046519197ea9,erp programmer
+5c8273e4b18f6696,qc inspector cmm programmer
+a22a2e9e5f621033,cnc programmer development program
+5924d30139adef16,cmm programmer operator
+0596b1077d3c1e41,programmer solidworks ap
+198f800c6c8788e2,vr programmer
+ea1bfb3d4bd8d76e,programmer burbank ca
+1257fb8a8cead9db,cmm operator programmer
+21f9bc68d1363122,sas programmer
+65d90133384f06e4,plc programmer electro mech designer
+e9210f82a413aa0d,sas programmer health
+2f7958d9985403be,programmer analyst us gc pt
+d93e64f3c057235e,series rpg programmer
+022880467102e9af,cmm programmer
+e63e5eb504cd074c,smt programmer
+1c07b002c4999002,sas programmer
+be27fa975c8da813,cmm programmer quality inspector
+fc1ad51084cb4ff5,sas programmer
+29ab160bd8cbda63,cmm programmer
+3d60158f9f95eb26,nc programmer spec
+fdd8878dfcf7e2a8,cmm programmer
+bfd2d5451ca8502d,erp programmer
+0cd997ce8d5e141b,etl ab initio programmer
+36fee89248e2f6c1,cno programmer
+92f79ec9cd2a2e80,fe programmer
+1b391a6e4f765fa6,av programmer
+d8dbe379e50f7fbb,sas programmer
+e728e0aec9103868,smt machine programmer
+84b5acd5fa89aae2,sas programmer
+0a8a730b66b2609b,cobol mainframe programmer
+98cbb4a98b1936f7,ia programmer
+f15c9f249b3c8443,flexo die programmer
+6a549f9acda2e97f,assoc programming
+6b0b0137564a9442,cmm programmer operator
+0a7046e104ee3af3,edm programmer operator
+0f1df37fc536443a,cmm programmer
+f79d0e59838e5b05,solidworks programmer d drafting
+965041b817337d95,cmm operator programmer
+c6973af4b811c274,fanuc kuka robotics programmer
+f3ead3b88638daf7,z os systems programmer
+f2eca7efad858865,sas programmer
+39b23e8cc72bf9c2,ria programmer
+b79730bdea7ed095,programmer prof mkts
+6ce8d3999f3223d3,gpu programmer
+c5a14f1b84359828,cmm programmer
+967cffab019d8939,rpg programmer
+7c6a86402cef42a9,fe programmer
+d0defa5836e1e65a,smt programmer
+053942aa3009ad89,cmm programmer
+de5c67b4846bc735,cmm programmer
+e2c4c1d173a92d34,cmm programmer operator
+f5da5e01dc6e275a,cmm programmer
+0461cc53f90bdbc2,cmm programmer operator
+5cbc3de9361ef0d9,cmm programmer
+3cdf34c60dfbf277,cmm programmer inspector
+6bd4a53f0884d304,cobol programmer
+dc009ce0d68e2c31,sas programmer
+74fc79901064939d,cmm programmer operator
+e8a69fcc0b9911f9,principal sas programmer
+ca9aa0fcf3f8cdd7,manager statistical sas programmer
+6ffbce862f1bcf5d,expert unigraphics nx programmer
+4f8ebc5fb5f373bb,rpg programmer
+c15b6f05ad812b1c,crm html coder
+bccabd1238d0a6e0,av programmer
+14fc812a6bc94673,edc programmer
+7f512e5aec916808,cmm programmer
+689f761ed9cb4489,cmm programmer
+99c8b5b450a8863b,programmer prof mkts charlotte nc
+3291ff10f080e227,sas programmer
+faf4c58784de80bd,sas programmer
+daa6f504d7bc8690,nc programmer
+15c885dd63284935,perl programmer
+86bd55f1a5b290bf,cmm programmer days
+022112f4d60b172a,nc programmer
+ea18a7bbdef5fd67,cmm programmer
+fadeda0b5532086b,programmer fusion titan
+b2b3e02871e33619,cmm programmer
+44cee4e87e1e5831,j ee programmer analyst
+1b5395ea2e3e2ed2,cobol applications programmer
+002a404904ee3b86,cmm programmer
+452bac7435c0be3b,av programmer
+3160b2e2db615ae3,cmm programmer
+d8eaca42dbf4ac57,sas programmer
+4fc50b2119cc8f49,cmm programmer operator
+9ea0fae573eb157a,sas programmer
+82485bd3925e632c,erp programmer
+d20300c7b040aafe,qc inspector cmm programmer
+df213b77671330cf,hvac controls programmer
+b883f8fb14fd3aae,principal sas programmer
+1c78f0bb404c2837,sas programmer
+11d407a14f7d6f39,programmer prof mkts charlotte nc
+28cb8ece26e35d7c,cmm programmer operator
+4bd378dac7f6baf9,nc programmer oms
+6c6e2ba5b175a938,cmm programmer operator
+c82efcff96a4fb32,tooling inspector cmm programmer
+09f981cc2fb3de15,programmer analyst j ee
+f5e5a19abdd522b2,smt programmer
+1c57ba153701d2ca,sas programmer
+1bac955ef13b5bb5,nc programmer
+3374f2567a013d7d,quality inspector cmm programmer
+b1700de2d06e088e,cmm programmer
+b43112e0d1067c42,rpg programmer
+990fa25e673ed8be,nc programmer
+efd1f879dd9dac98,cmm quality programmer
+5ff586195d672785,sas programmer
+42e243c1ccd650e6,plc programmer b
+4023011faba59328,cmm programmer
+4f9729376ca31d0f,rpg programmer
+726ad81ffe31db2d,nc programmer
+c654cd2f94245543,principal sas programmer
+43757e85072f1dd1,nc programmer
+3f0f0e85a7663bf4,siemens plc programmer
+b9e3c45dac92b34a,cmm programmer
+c2a018753eb30592,smt operator programmer
+dc64ad3ac9d529a2,cno programmer
+6dda7f77377474cd,cam tool die programmer
+eaed021b53fc34dc,sas programmer
+c4f9d12628046a1f,sas programmer
+4c7b06e83a025193,programmer dublin
+2680507775632239,programmer analysts job pam
+952e3af7bd2c5366,dita programmer
+e0c347f4085bedd8,cmm programmer
+7849fe403874cd47,level programmer memphis
+d83d3b66a05e0682,bhs plc programmer
+8002b1e68f4671bd,cmm programmer
+3fa97b53ffa9ad4e,html email programmer
+e5d3982a3645733a,icd coder
+ac812f0bc8122053,cno programmer
+bb4b157737224359,programmer v
+4f8dd49d9643dc8b,programmer analyst us gc
+c1e48b9085675810,mra coder
+67bca07f8c602eb4,cno programmer
+d0cf5be0ca6db98c,cmm programmer operator
+b6a50d4cf6f135a7,j ee programmer
+5cba5cec7aa5d57e,sas programmer
+7a26ebb5f0f10a47,sas programmer
+de9cbf1711dad908,cmm programmer
+64573ba4d8013df7,cobol applications programmer
+8d0c837b37243b22,temporary cmm programmer
+14f7896633086e56,coder hims
+9158c0860cd2980d,coder hims
+3adcfdfb47adc99c,cmm programmer
+effb1502a4b7ed62,cmm programmer
+28e1267d92ad635a,cmm programer
+f7334444aa5dc234,cmm programmer
+9c606044963aa2b2,abstractor coder
+437bbb675486fb49,coder dv
+a6952357da2c2fe2,coder days
+b76ee4f24fdb147d,flex coder
+45661df4da21d321,coder abstractor
+a05767e0e28172c1,coder educator hims
+0874737303646a8e,av programmer
+36d513d66f8971e2,coder educator phys pract
+0f7bc567a0601962,coder educator phys pract
+204350116bc49b8f,bgc tech database programmer
+79d11ba7ff36ec2c,ai gameplay programmer
+6794a54782bb9e20,ai programmer
+ea9ec3006c60d9ca,cno programmer engineer
+bca43785b22c176a,cmm programmer
+82589915b1cfbb35,cmm programmer
+31c3a60786e5d105,perl programmer

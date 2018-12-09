@@ -1,0 +1,385 @@
+_id,cleaned_job_title
+ecdd5d45e02cf670,cnc programmer
+b23d1b297bd70249,cnc programmer
+b36d704818f28e86,cnc programmer department lead
+45e869dd75571072,cnc programmer
+c541c737eac76af6,cnc programmer
+23eab51178f57218,cnc programmer
+ec2327dd4e05af6a,cnc programmer
+af06ec08125fa4c2,cnc programmer
+39253733e5e3e3a6,cnc programmer
+dcdf98594f82f147,cnc programmer
+8edc7010f978288f,cnc programmer set
+6d76b4e4a4069ad4,cnc specialist cnc programmer
+0b13dd710c1abb9a,cnc programmer
+bc7da228d619fd4f,cnc programmer
+bf5062decce48f22,cnc programmer
+cb5b320a5e622101,cnc programmer
+a0a2d6f55d7e26df,cnc programmer operator
+961467963102e357,cnc programmer
+ec5ee2e58552c1f1,cnc programmer
+101262252e860d99,cnc programming engineer
+b8d6a0ac56f10651,cnc programmer
+cb359b12ffaab103,cnc programmer
+bc1175729e4aa414,cnc machining programmer
+9476e928539d2f5f,cnc programmer
+865dfdd2bfea5d64,cnc programmer operator
+edfad47f7bf88179,cnc programmer
+321079a88fc6a6e6,cnc programmer
+694dd883cecace73,cnc operator programmer
+54d12f73a7543b8f,cnc toolmaker programmer
+d5544402d9d721fd,cnc programmer
+d57146c95b4e834c,cnc programmer milling mastercam knowledge
+fd4a852ff238157c,cnc programmer
+16a45268b27bb384,cnc mill setup programmer
+b7880b2be9df8051,cnc programmer
+f3417227b10403ed,engineer cnc programmer
+e413a7aee38be6d8,cnc programmer cabinet maker
+43489bb5a2b3b5f8,cnc programmer
+3182b861623a2712,cnc programer
+eb65bd1c6e4bf2f0,cnc programmer
+caab33374c7d4d3c,cnc programmer
+7168451b66524e55,cnc programmer
+b7448d91e1b1b741,cnc programmer
+d14e2d6af2e9b174,cnc turning programmer
+ebc258beba1d7758,esprit cnc programmer
+851357896e726740,cnc programmer
+bf0f1ce2ed0f2239,cnc programmer
+019bc95256541362,cnc programmer axis
+9d68b949b70f007c,manufacturing supervisor cnc programmer
+31f79edf1b5b03da,cnc programmer operator
+c7bbda8e6ee9d8fd,cnc programmer
+f3c6cb0899cb8482,cnc programmer
+af2970b4d48925de,cnc lathe programmer
+9fd811b990e62fd7,cnc master cam programmer
+ea8f93720a9a4cca,cnc master cam programmer
+b346a8a44ea09a1a,cnc programmer
+b8a378ccb3c9c7f5,cnc programmer
+70a16960b2eb078a,cnc programmer operator
+10ac68640f81479a,cnc programmer operator
+8c2537a10da7dc6c,cnc programmer
+ff35aa00682bf2b5,cnc programmer
+53461702080598b5,cnc programmer operator
+d93c63936f6f874d,cnc programmer
+1871e012bcf7e031,cnc standup programmer
+b77a90d28af5c4bf,cnc lathe programmer
+eeba46bd4e4eb9f9,advanced cnc programmer
+4123dda825ccdb0d,cnc programmer operator
+848c43c222f3ef66,cnc programmer
+f115ec2136825353,cnc programmer
+990a1177894b9c66,cnc programmer operator
+4669b369cccc8515,cnc programmer operator
+05554600fe4af42d,advanced cnc programmer
+3bfb661c4d4802c5,cnc swiss programmer
+18cb6f000ee9c26e,cnc programmer
+6192c442424f31b6,programmer cnc
+6b14b4480ec02c87,cnc laser programmer
+6fa736c1d655d7c6,cnc mill programmer
+1cfd99cd2081e04b,cnc programmer
+372fe6ea92fd6826,cnc programmer
+6446316aa1ba291b,cnc programmer
+9495685c8cf9e98d,cnc programmer operator
+0ce25e6c2e1b6041,cnc operator programmer
+2b015e4dcfd0f086,cnc programmer
+e07cf14551f2d8f5,cnc programmer
+a942f0fdc21e084d,cnc programmer
+52ac83fe0a8003a1,cnc cam programmer
+549c69b5a4306223,d cnc programmer
+9ad3c08937fc5569,cnc programmer operator
+9a674e578ef08de9,cnc programmer
+583f9351c82e175a,cnc programmer
+633b2440b6627c07,cnc programmer
+2ea9150e3c51b7c7,cnc machinst programmer
+44075f8408cbf53f,cnc programmer
+def12e8824ab5287,cnc programmer
+cfd856e0ee055fba,cnc programmer milling routers lasers
+d45a23e4df8e6e64,cnc programmer
+7fab025517bdeea8,cnc programmer
+680d84b79665d32b,cnc programmer
+c2bb16fdc61312ad,cnc programmer
+b148b8270d2f71f4,cnc programmer
+053effc7b1541e00,cnc programmer
+c1c0b01b7395b564,cnc programmer fixtures
+6d70067dd8365cf6,cnc programmer
+458ef3d3634b5c3f,lead cnc programmer
+ff112b73b5cd66c2,cnc mastercam programmer
+41449272c372c029,cnc programmer foreman
+30153d3ad263058d,cnc programmer operator
+80471173eaa317ea,cnc machine mastercam programmer
+62959c3e9bbf3638,cnc programmer
+5ea10b21e883cba1,cnc programmer
+0e4faa872523f6e6,cnc programming engineer
+a2b9cc93e72bfd7c,cnc programmer
+9792edb6829fcb94,experiences cnc computer programmer
+63add69232687788,cnc programmer operator
+abdb091afa34809e,programmer tech cnc programmer
+86ad4929d56fbce8,cnc programmer
+08c10790ef23bf62,cnc programmer engineer
+34630637a47f828e,cnc programmer
+b5bd429aa432f9cf,machininst cnc programmer
+82b14588698917da,cnc programmer
+f3053699f8909b66,cnc programmer operator
+827f3bd312753e97,star cnc programmer
+9072c29b1b930503,cnc programmer
+55f64f2876e2ef70,cnc programmer
+61768740a359a315,swiss cnc programmer setup
+692c67b4e0284cda,cnc programmer
+c4f1f02756703f8f,cnc programmer set
+04cc2090941dfc9c,cnc programmer
+69ea83d5b85b6de1,cnc programmer
+4c68318f911f1f32,cnc programmer
+6df557c75bd51b83,cnc programmer
+234cf2fbc03b1349,cnc computer programmer
+de09ea09d2507696,cnc programmer assistant
+b1a67bfb1e484a90,cnc programmer
+144eceb5bba46f34,cnc programmer
+87a13167bdf218e6,cnc programmer
+ec1b0036995f3ec5,cnc programmer
+4c8b037ad775b65e,cnc programmer operator
+1e3efa5efc9255c6,cnc programmer operator
+81d99a710685932b,cnc programmer operator
+62ae3c4aa3ca7526,cnc programmer
+3929e552fc81e2db,cnc axis programmer
+73f3ee989b21e2e7,cnc programmer
+4cb3bcecec28eaf8,cnc programmer
+62006e7c25c39766,cnc programmer
+231b155bf3ce86af,cnc programmer
+54e4a4ff35b950a2,journeyman cnc programmer
+bf02ff13af91d00b,cnc programmer
+9ef5d742934f48d2,cnc programmer
+3bc9ed6b70028a0a,cnc programmer
+6016785ca767387f,cnc lathe set programmer
+7bd56dbaa9bb29ec,cnc programmer
+10fac0edd89f1f45,cnc programmer
+3a6759dd006196d9,cnc programmer
+47850049469da422,cnc programmer
+da287611e56a9913,cnc programmer machining
+f45ca93314490c7d,cnc programmer
+315eebfd499b938d,cnc programmer
+cf4bee9d7139b8b9,manufacturing engineer cnc programmer
+3fcf71c787e3ed70,cnc operator programmer
+28617c6ec466e813,cnc programmer operator
+b3b2566a1ccf3c33,cnc programmer
+3e92186abc2c9fa2,cnc programmer
+5bebc28414ed2e0a,cnc programmer
+ab37eb9b3e3de758,cnc programmer
+3dac0b0245fefa75,cnc programmer
+7b7c160faa9c462c,cnc edgecam programmer
+5fdf95f0d9154dbf,cnc programmer
+ede464f1f867e369,cnc setup programmer
+795c5d073ff72333,cnc mastercam programmer
+d33839a8e1d57e84,cnc programmer operator
+094383117c5b550d,cnc programmer
+7c6a8650636da94b,cnc programmer
+bdb1e772d5302466,cnc programmer
+735a872078586548,cnc programmer operator
+44d36533e21ffaaa,cnc programmer
+a5751d0183f7c222,cnc programmer
+97aab9a667efaa6d,cnc programmer
+50cced0792280630,cnc programmer
+9a051fbd3e8c0c08,cnc programmer
+3352eb68a5aab181,cnc programmer
+0d078e624d254371,cnc programmer set
+3eec2c7318ab9fa7,cnc programmer operator
+6d406d8fe2800849,cnc programmer
+76ab2138ee398de1,cnc operator programmer
+8c24299d3e93de7e,cnc programmer
+26f65a11b2109b4f,cnc programmer engineer
+9c48016727c21400,cnc programmer
+17741e963a71dcd7,cnc programmer
+4e3e76ebd15d0ba0,cnc programmer
+11f43cf2b5c70387,cnc programmer
+3b76e3d04e167eef,cnc programmer
+c971b02194f9471e,cnc programmer
+0f8966237e10280f,cnc programmer
+325a7e43984d7ad7,cnc programmer engineer
+20bd50cb7c2cb8c6,cnc programmer
+3025602bc27e9500,cnc programmer
+5fd48c4dc9e767c6,cnc programmer
+9e199ef11c4aaed6,experienced cnc design programmer
+3adcabb7574c66c7,cnc programmer
+a33cbbb67c8f0981,cnc programmer operator
+9ab6f0dadb578a89,skilled cnc programmer
+1bfaf228314169b2,cnc lathe set programmer
+6e883ed5faae1a62,cnc programmer
+d66adcf7425b01b8,cnc programmer
+b9d99d5fdae19a29,cnc programmer
+d5286605aaa82ddd,manufacturing engineer cnc programmer
+fa50ecfadbe104f3,cnc programmer operator
+2425f52f27cc6607,cnc programmer
+370bff530671cd16,cnc programmer
+176ecfb7abd54ed9,cnc programmer
+d44e2807bb8ce8b3,cnc lathe programmer
+0eb447252438ab5d,cnc programmer
+8dcdd90aae2d414f,cnc machine shop programmer
+6db8bd18408cf9f0,cnc mazak programmer
+399ccf68bd3f0d2f,cnc programmer
+403ce7fa57093750,dfp cnc programmer
+884b9e8dd970fece,cnc programmer
+d3a6cd187649544b,cnc programmer
+4e4a55f87e077a03,cnc programmer
+0cf72566d7fd4a14,cnc programmer
+5a959eb2a6f11744,cnc programmer
+4ef9bf6d9cd20667,cnc programmer
+41604bf2bff63eef,cnc mill programmer
+641dd56465f700ff,cnc programmer hire
+c0d4601b07bc5b4b,cnc turning programmer
+7058cc2e04892c1c,cnc programmer
+a9b4a2fb311ec56d,cnc swiss programmer
+b78a23d324efe543,cnc programmer
+5c2e5df710b22b5a,cnc programmer
+d063f07f94e67e39,cnc programmer
+b330b008ff0dc048,aerospace cnc programmer
+8dc4a98706f73997,cnc machine programmer
+701d64dadd06ddd2,cnc programmer
+510df0508f9dd175,cnc programmer
+ab20996d899c6be3,cnc programmer
+bae495adfdfee191,lead cnc programmer
+8ef661e1de31f887,cnc programmer
+04a032af05657fde,cnc programmer
+1c104af009ef7eb9,cnc programmer
+2d7293ab6c5d018c,cnc mill lathe programmer
+602dc185cec95f31,cnc programmer
+7b1a1a6a0ed811a4,cnc programmer
+f926802b88689986,wanted cnc programmer
+ea0edafea477c4ec,cnc programmer operator
+e03aa0a4207509a7,cnc programmer
+18d600e7c5a9516d,cnc programmer lathe
+22b2a5fc50fb638a,cnc programmer
+ca80877ab9a1fa4b,cnc programmer
+d881fcc3d181c108,cnc programmer operator
+c82b9f3a5e919907,cnc programmer
+c310c7ea5883f9fe,cnc programmer
+3311b23e7bf913a1,cnc programmer okuma lathe
+8927c36304ed2d84,cnc programmer
+9733ccb70612b1b2,cnc programmer
+fe63522089d6fa58,cnc programmer
+0f92d4790b5bf07a,cnc programmer
+b5db274091e66a75,cnc programmer
+67b792626d01d486,cnc programmer operator
+277bc47a961cd7a1,cnc programmer
+90c9c46b1ecb7774,cnc programmer set
+6f6b702a2fdaf012,cnc programmer
+d85164df9a26d4e4,cnc programmer corporate
+99b5e263cb4528bd,cnc programmer
+aa1ce08d8e87051f,cnc programmer
+c501b7ddcf16268d,cnc programmer direct hire
+563c0df4d10477bd,cnc programmer
+4707047d42102985,cnc programmer
+33239821e4ed1a23,cnc programmer
+cc9f82934a1a4beb,cnc programmer
+266d78d786d21d72,cnc programmer operator
+732b196943258c2a,cnc programmer
+b544c64c06530b56,cnc programmer operator
+e8e8757f5dc09de7,cnc programmer
+9627dba87a7683f9,cnc programmer
+afe6fc86a960fd5c,cnc programmer operator
+3003ddf3660ed018,cnc programmer
+79f6e6a2fc945630,cnc programmer
+ad4db0bdd93c387c,cnc programmer
+51468760a640da96,cnc programmer
+7c91e9dd209a4a14,manufacturing engineer cnc programmer
+50864725cd1557d9,exciting cnc programmer
+8aee4a2d632d6a0d,cnc programmer lathes mills
+6fe313a15b179eb2,swiss cnc programmer
+c12888f42ebb6f1b,cnc programmer
+617468004905b372,cnc programmer
+583c320e02d3de47,cnc waterjet programmer
+b47d4135f273f95e,cnc operator programmer
+adf5201e9feaff2a,expert mastercam cnc programmer
+3d9fc20d7639aae7,cnc programmer
+cd9424dcf51dacbc,cnc operator programmer
+3c54b9d2b3a5757d,cnc programmer
+239ba62ef52771e0,cnc set programmer
+f8f77dfcb282a863,cnc programmer
+86ab2d44fa47a8b3,cnc programmer
+0bcd2a822cd3d8c1,cnc programmer
+8724e9b4e27c7418,cnc programmer
+1e9ba34f263d17d0,experienced cnc programmer
+03897fd3c7c4f4ee,cnc programmer
+889644eb831c113f,cnc programmer operator
+21189da3992f7c1d,cnc operator cnc programmer
+76429fec43318940,cnc programmer
+06db71b0514880aa,cnc programmer
+aec5c56ab5a35db9,cnc programmer
+8b5205823f51d7af,cnc programmer
+f704714aebd065b5,cnc programmer
+bcaf6b85758e8b9e,milling cnc machine programmer
+ec656122e0ac8be8,experienced cnc programmer
+5c37b65b0503d878,cnc programmer
+359ac18ec40f6682,exciting cnc programmer
+803aa74d8b08a2b4,expert cnc programmer
+43f8cc090669b3e0,cnc programmer set
+a784c31c20d02e86,cnc programmer
+1b04d469e2df57de,cnc programmer
+feca8908835f9343,cnc programmer
+cde04674635f70b7,cnc lathe programmer
+f3c92254d8e79d60,cnc programmer cnc lead
+a8743092dadeb8c6,axis cnc programmer
+7ca16a2edbf2f201,cnc axis programmer
+6b97100aa297fbe6,cnc programmer
+ba249382e3176333,cnc programmer
+e91547d6cdcd12f5,cnc machist cnc programmer
+54c4a7a66caa3018,cnc programmer
+54b59f30a6f46332,cnc programmer
+e447d6befd73d336,cnc programmer
+a084264033cdaf92,cnc programmer operator
+1f8fea36eecb71c4,cnc programmer
+8c5f2e0b2d3a0b6c,cnc programmer operator
+48aa9bdfd3962e9d,cnc programmer
+fd4ec0bbdcce28d4,cnc programmer
+7e0553403061fb07,cnc setup programmer
+b3664358f53a1ef2,cnc programmer setup technician
+bbc80b46f8e3f270,cnc programmer
+84db94a0310e92e7,cnc programmer
+4a1b1c3ee5213b9f,cnc programmer
+1c2cdc34bbfc68fe,applications engineer cnc programmer
+b83fd49f8869ad84,cnc programmer
+f2d7d37be5c5137d,cnc programmer operator
+5bdfeb961bf0037e,cnc operator programmer
+10e161844cafc3c9,cnc operator programmer
+7f463290d9ea96d5,cnc programmer
+626651b3e934833d,cnc programmer
+561a97440ff79fa4,millwork stockbiller cnc programmer
+296b33d21e79bb87,cnc programmer mastercam
+8798e7a7593afa6c,cnc programmer
+30887e64484e901d,mapper
+eea1b3ccfa7a3aef,cnc programmer scheduler
+c0e668480f2bc587,cnc programmer
+a0cf626d32175887,cnc programmer
+f47105589f683807,cnc programmer
+9d0ac78e2376562d,cnc programmer
+c0ec114e89d9be54,cnc programmer technician
+b35f546b0114e62d,cnc programmer
+19b400f8004a37b0,cnc programmer operator
+62e23fe6b2642473,cnc programmer
+6220e1e337c2ecba,cnc programmer
+45b91fc05db4ca29,cnc programmer
+a1df8b03b3b75023,cnc programmer operator
+67f4c406ddeac425,cnc programmer
+44e0b391a6f53764,cnc programmer
+f2e53df0b71c657a,cnc programmer
+1e8c107b6ab8733e,cnc programmer axis
+47b10371e0621066,cnc programmer
+043ed8e36baf9dce,cnc programmer drafter
+07f4d1b732e22650,cnc programmer
+4ffdcb9a2fe9d6e7,cnc programmer
+2f625ea9555971a5,cnc programmer
+e4fbd19e1319334f,cnc programmer
+0ab2d29e0b488201,cnc programmer
+85da19d9fec2676a,cnc
+0e86ae48c56df899,cnc programmer
+7821b8cf23981a68,cnc operator programmer
+ea569941d4298769,cnc
+9067e4f7b99545dc,cnc programmer
+a21193326ae343fe,cnc programmer
+ebabad08f9704c07,cnc programmer
+786a6ff1a7f46219,cnc programmer
+2a91874edda502ec,manager cnc programming machining
+3543c4682b2f69e1,cnc
+2af275188966be88,cnc programmer floor engineer
+71a2ae5a61b49d94,cnc programmer maintenance technician
+de8b3c747e6d89a4,cnc waterjet programmer
+195418b0c8b5657a,applications engineer cnc programmer
+359b5a83123b8d25,cnc programmer
+96f4263b6bfa16c7,cnc programmer

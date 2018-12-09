@@ -1,0 +1,336 @@
+_id,cleaned_job_title
+52e09e29f6ef10d1,staff accountant
+ff9110aec1c37cef,professional accountant
+d5be9b5f95e453b1,project accountant
+7e2a017a984cc9c1,staff accountant
+0c654bc1607fa90a,accountant
+cafd88aa3e3d77c7,cost accountant
+e3579845392b81fe,accountant
+8bd34294788b2b35,staff accountant
+58450b46518454fa,finance accountant assistant
+88c1bd9ce7385a48,accountant finance accounting analyst
+5bf251646a0c1bd1,project accountant
+05a0a7b0fa3c23a4,staff accountant
+40a8587b8d9f900d,accountant
+f1fe2912ac5cc9d5,accountant
+0992742c417c7515,accountant
+fd885db7896e4f28,capital projects accountant
+c97629e4b73030c9,project accountant
+800e9d1c81e20b9b,accountant
+03eee1860703b519,project accountant
+d3352e27efc94067,accountant
+ffb7014f0b4df1c3,cost accountant
+b9b4aa7dfd80b1e4,project accountant
+aab9a967acecccf5,revenue accountant
+690de91afff9fdd6,accountant corporate finance
+f0880209fc19ee65,accountant
+7713e0717201ae56,cost inventory accountant
+fb576c2cc8a8a239,accountant
+27cb64c2f6b762d7,tax accountant
+440e486fbe7fa146,cost accountant
+929e5ffb04baaccf,accountant
+ccb0fc5f349ec935,accountant
+000967342804ff02,revenue accountant
+2242e0a36440e04a,staff accountant
+923e00bbe6260b9b,accountant
+ef576ee43c45a50a,treasury accountant
+a9c404c0e2aa362b,accountant
+0533f6a022beabc4,accountant
+85ed851003e872a9,tax accountant
+bd1d968bc6bf8c5d,staff accountant
+3ddf6d85bf4ae4fc,general ledger accountant
+b7b9030cf652b87c,project accountant
+64516ef4aeec08df,staff accountant
+3096e792493f0cdc,cost accountant
+c76785a6c5fc22d6,accountant
+a96020b8dc4b575e,reporting accountant
+0f3234657d3f6d7f,project accountant
+6c665f34b337cf22,accountant
+cc5591bdf49a44b4,tax accountant
+40b56fdc4e8541bf,accountant
+511ac0b1f19a046a,plant accountant
+639546985a5e226a,accountant
+07dec18d78c5eb8d,staff accountant
+099cde01cb3a1db8,cost accountant
+24818239333ad06f,operations accountant
+f9c02a3e3206b229,accountant
+ff2eac3a1ab19ba8,accountant
+62fa656f0bf44965,accountant
+c6fda7a9c096b22f,staff accountant
+1d9d6c7bbe911b15,accountant bookkeeper
+501f249977ab08da,staff accountant
+cd107b709745f1e8,general accountant
+c02f0f780633e193,accountant
+eeddcd44ce706f0b,forensic accountant
+c5c108a85a69c4de,project accountant
+b1471a5be50d3dc3,project accountant
+80edcc5bc5ee9b3d,accountant
+519d9c599b45fd5e,project accountant
+85f0e1bce1c2962c,accountant
+b3b6fff9376b3f99,staff accountant
+c82d6df54bfaa90b,financial accountant
+e18660b41ed0b65a,accountant analyst
+e52c820b2c31d5b5,accountant analyst
+398a4e5f1c8f4f80,portfolio accountant
+b53a8565ba6a8030,bookkeeper
+bc8608efca51af18,accountant
+3cdb220a957a3dca,accountant
+bd02fc764857c486,accounting bookkeeper analyst
+7cb3c7e0372dbb9b,project accountant
+cae5453336113581,staff accountant
+018004eb07d1ed96,accountant grants
+3e08422c20045fa3,cost accountant
+060524db611d81f9,accountant
+06aecc50344bb7a9,staff auditor accountant
+43498aa2d452d3a5,forensic accountant
+d97c07e5da9cda0b,bookkeeper
+e1714d80ae6d52ca,staff accountant
+545c72336ab0b392,staff accountant
+f4afe7ff7927cd08,staff accountant
+ace225f57b3e11c1,investment accountant
+af9624a071b6b24f,tax accountant
+e66668c1828a6a5f,staff accountant
+9c2e7afba0f0dc5d,accountant analyst
+737d7fc087d93e73,accountant
+49d396f66e27396a,accountant
+1d4ae4cb6b236511,bookkeeper
+3af5c83659ffbddc,cost accountant
+8de30f48bafcf682,billing staff accountant
+46e0f2d87e980dfb,plant accountant
+aad5ba141887f7b0,accountant analyst
+f93a666a82251b3c,accountant
+ea20f97e7a464430,international tax accountant
+0b276e51e20ac7d6,lead accountant
+81c9dea33af24609,accountant accounting manager
+2c7635f173642221,accountant
+4e4310bb708f1305,accountant
+0f547a0d34a32b36,staff accountant
+a7556a66e96f514b,tax accountant
+f1f287d4e89ccae8,cost accountant
+3a1816211c9be5a4,payroll accountant analyst
+6cf2a90b86703f18,staff accountant
+96e9209f974a65f8,accountant
+cc76a0d1fece987d,staff accountant
+8850d37696cc85d9,plant accountant
+ff72610cf6eba10e,investment accountant
+c236a66320c3f6f3,accountant payable
+2b2ef0e36adda47d,growth accountant
+7298976424db7309,payroll accountant analyst
+a10b5a2b4d0f7a26,accountant accounting
+58463b4c4ddc07a2,fund accountant
+9b0d9a8b4a30c50b,accountant
+ad6abf923f20f5be,accountant
+626e00c91c21008c,tax accountant
+aa8a25965c9f5305,staff accountant
+ac01b4c89c81e5b8,bookkeeper
+d6c2e88a34c69c8b,staff accountant
+93b494276bd19b77,accountant
+1bbf129b5a9236ef,plant accountant
+86605674945ff1b4,financial accountant
+266a12353fb1fcad,bookkeeper
+793e41cc0cda65e4,accountant analyst
+9eaaa837db1d87d3,accountant
+88b081e8cb03ab87,tax accountant
+54fd8e34926024e8,cost accountant
+7ee42b5ec722109c,staff accountant
+ddd48d7794a1ebd7,accountant
+c481c103884f973e,accountant analyst
+c44afd95a49d6d87,accountant
+c192f2a6e6bc2136,staff accountant
+a5a7fde0b8d2ac23,cost accountant
+b84b18cbc369f0e1,accountant
+f2d926044337c181,staff accountant union
+315d2666dd812b01,accountant
+79b5c0410eec1b06,bookkeeper
+b1686993a7954f7d,staff accountant
+70a3e7387225e9e5,divisional accountant
+b3863fcdb7bc26ca,accountant analyst
+9aa3e8d4aac3e064,financial accountant anaylst
+376d4c8c21f3786c,accountant
+cd80f24884bd8870,accountant
+7275fec5b8c4987e,accountant
+2c44847001aec727,payroll accountant
+7bdad39f4424f66e,staff accountant cpa
+39b83eb57026439b,accountant
+23db3b2b20126030,accountant
+37554b47439e16b6,gl accountant
+2d9ff60e62567a54,revenue accountant
+45cf6ee3e331bbe9,accountant
+15daff13c293c636,payroll accountant
+a8a5e014dc03fe45,staff accountant
+46e9ba2a36c36c1d,accountant treasury services
+1aa166c5221647d4,accountant level
+cecde17bfe542abd,accountant
+1eb1b973d2856111,cpa accountant
+45d2b8ed541124bd,accountant level
+45ab0d78d6b4dea3,manager accountant
+4bd2efcbe915a0fa,staff accountant
+c783fbe93d0caf40,accountant
+80a0bb6a54c0c7f2,accountant
+eb527e47ebd2c411,accountant mrpt
+0a12c821739d2ec4,revenue accountant
+ddb3d9f43fcddda1,accountant level
+2022449a9f2f8343,accountant
+0b8e3a158136d9b3,cost accountant
+63068f4f298339fa,accountant
+c4facdb0ef87c5f4,corporate accountant
+bfadbed46928a0dc,accountant
+9abb6a9e77ba3b1e,accountant
+9e87cc098fd7bb1b,accountant
+1c0ccea7557531c8,accountant
+d55bf8f97776af00,accountant
+57a6fcbd443957c3,staff accountant
+20fc0b2eccc1d176,accountant level
+6ca41a898faded4d,accountant
+3937c2ce1e3dc4f3,accountant
+f4c92a51dd0bbc92,staff accountant
+e1eec9b19b7f1b2f,accountant
+5a0b8d92359f9d7f,staff accountant
+cd75c330fe3230c2,land accountant bld
+30c77cd40f5cad95,accountant
+9efe0ee649122642,lead accountant
+55f6235d5f3d4db5,accountant
+e7834d5df26dab34,accountant
+fad9489fd65f8323,accountant
+b6b3a5b11475c58c,staff accountant
+8b8d83c641ecc842,inventory costing accountant
+b0de1fa1f699e279,financial accountant
+8f2931b50528142b,accountant
+f8df2ec02abec9cb,accountant
+f6abcc59adc6f31c,tax accountant
+aa3426c0f895f81b,lead accountant
+388eb1bb350221e5,tax accountant
+6a1fb7a9eee6bb39,accountant wps
+9676b69cd32c89f6,staff accountant
+1a124b1ea1a601bc,accountant
+cbf778d66b798e4d,cpa accountant
+9f9c022c8e6cd827,bookkeeper
+3ceffec5c6ee8f73,accountant
+7f12623eaea5a211,staff accountants
+b4e96f1ef5fd82bd,accountant tmoc
+921d27daf746f14c,accountant
+30ede46d05bf7e80,accountant
+e4493bd8cfa210ee,staff accountant
+a4a932a9c7b43f1b,intermediate accountant
+a3999819ce34963f,accountant level
+b160d425cd2de6de,accountant auditor tax professional
+326823e879edc95f,accountant cseo
+75742343b468ffbb,accountant staff
+e6e5bbe2ee053dfe,accountant
+05c5fe865baa1518,accountant level
+4529ad4dd67f9f7a,accountant
+7122ac39d52afc03,accountant
+c5b13328bf0c4769,accountant
+40df792d29ba8f5c,staff accountant
+4bfcbce6a0f3cd8b,staff accountant outsourced accounting
+72e377ff1969ce7b,accountant ust
+1c82268dad1a1611,accountant outsourced accounting
+bcbcc4a7f69793af,plant accountant
+490702520a443fdd,accountant
+b062b00deff24c0c,bookkeeper
+ad56273f0364ddbc,accountant
+6ca943c3844e70e0,hedge fund accountant
+ef72e91c8b90a807,staff accountant
+7648b8e9a8dcaeeb,trust department accountant
+ae732d05f5018927,fund accountant
+eb06d5cba278cfb0,foundation accountant
+ca3c8e35d6197b45,treasury staff accountant
+f5ba2696d7d26050,grants accountant
+c8d748facc95281e,staff accountant
+ab93707571307192,accountant
+13fc160855c3699e,fund accountant
+192e7d6383cdbb4f,office accountant
+027e0edea6689070,bookkeeper
+ef08eeab7bd8fc53,staff accountant
+afd682cd67fe9000,operations accountant
+4abaf98732d2829b,grant accountant
+4b1c20e6135d7277,fund accountant
+700459c2deb9762f,hedge fund accountant
+45bc852e33c4b51a,staff accountant
+184eb90e3f1173f0,accountant
+70f1355cf44a1df1,accountant
+0917adc4b5a2468a,accountant
+6d218400ae571e1f,banker
+b4ff673c50abd684,payroll accountant
+161970ef67f69344,staff accountant
+ddc46e0bb23a2bd7,portfolio accountant
+f18eabbef7530847,corporate accountant
+ac2aa7bb99883a9b,staff accountant
+928daec686d08355,staff accountant
+35dd86189fd7f9cf,award accountant
+4392ef0c31de8928,fund accountant
+c5d3a3a5ecb1752c,staff accountant
+15185f20078bdac2,sec accountant
+98520c49a645c6f8,fund accountant
+7fdb884ceacd5ab9,staff accountant
+f087134fc687a0b0,research accountant
+363e03731c01026c,staff accountant
+40b0092dc21bbe8c,compliance accountant
+7daa3f7120484b15,accountant manager
+4b0f476668afa74d,ft accountant
+59b529c8e1e118e3,fund accountant
+297656b1f0106e02,accountant
+05150cdcd16096c6,finance accountant
+3f608c0e00cf0e98,accountant
+c680b1aa72fea476,accountant
+76da85a0b3589b01,accountant
+7954e4c3111f0a72,staff accountant
+ca3ab42c7a5325e9,plant accountant
+f0bf5c47feff9e74,accountant
+50c63108f1f2feaf,lead accountant
+eeb1a364f50c705b,accountant
+07f296981f0e1908,accountant finance
+c7614a39ef4c02ed,accountant
+9e045e7a544f8f5b,accountant
+77e73341c64266fd,foundation accountant
+ea496fe67a563ca3,staff accountant
+16483cae3b129b4d,hedge fund accountant
+60f0d2bcc01c6e54,staff accountant
+8309b3130558f8a4,accountant
+cef27dd8540ad142,hedge fund accountant
+7e952affa37882c2,accountant
+03d3db0da67f77c3,accountant
+cd3a20e450ca589e,fund accountant
+f0559623505a934d,accountant
+6ba298d909ad5155,accountant
+db3e4c1f687ab7a0,payroll accountant
+ff7a7218bd791595,banker
+c121c78e1599a098,accountant
+40bb605ad58ba1d8,accountant payables
+c00205eef2f56e51,staff accountant
+66d95544a40b266b,accountant
+0632bfe661942a8c,fund accountant
+17d1cff037e75623,accountant
+bb78ec82b6baa052,accountant
+7ce0c0cf4fa4367d,staff accountant
+c56a30c4b328b9ed,staff accountant
+9055071b69b728f4,staff accountant
+4ebea500d2de750b,hedge fund accountant
+bb7a2b2ac1755bcb,staff accountant
+0a10291cf25a0ce8,bookkeeper assistant bookkeeper
+c01877dd2d7d6505,payroll accountant
+bf398fcd4cb1d200,accountant
+6f85b20e62447680,bookkeeper
+6acf5b4ded188c2e,plant accountant
+ac79e2e4e93733dc,staff accountant
+c84d6be8a7559988,accountant
+2d784b8c096c6616,sec accountant
+4d8e3e7ab60a1b70,ft accountant
+413006a386a7df41,accountant
+a12592ef8e2eb206,staff accountant
+fde37e4d342eefc5,cost accountant
+71a809aa2ffcd001,accountant
+5814954e7ceaa96e,investment accountant
+780837d86fa1a892,staff accountant
+532f2613add51476,cga accountant
+ea18fd2852e16ebe,accountant
+e09b37907cc425a9,accountant
+fb15839dfbe6a104,accountant
+45afdcfbe8afafe8,staff accountant
+d31a846d1e89f5bb,gl accountant
+7d7fcf05d04d5b29,staff accountant
+34d52c18e54b56e3,staff accountant
+aedb0573d41879eb,accountant grants
+dfe2c8a2417e1557,accountant
+517d219538cc5bf0,project accountant
+6dce553abc699fa5,staff accountant

@@ -1,0 +1,172 @@
+_id,cleaned_job_title
+38bb9e0d5d0c527c,qa supervisor
+10b2365d8b4ccfbe,qa supervisor
+e7daf69143b30400,qc qa supervisor
+a7de92a941551207,supervisor qa
+3fb7e88142451397,qa supervisor
+4f2b4e1ab45e3a3d,qa supervisor
+f653091e7ffb3db5,qa supervisor
+a5d2ef35edab2267,qa supervisor
+cc2f55d35895feeb,supervisor qa
+ae301024e2bae298,qa supervisor
+1b33d3ed48865d82,qa supervisor
+9d355a958923e366,qa supervisor
+ac965f75736a80b3,qa supervisor
+36851fdd8c5d5767,supervisor qa
+98684c0b38bf0bb2,qa supervisor
+b17f63dae06a1d0a,qa grader
+d065f53788b8cd5c,qa manufacturing supervisor
+3b2373c5664682d8,supervisor qa
+6037f5abf089246c,qa training supervisor
+d10b266d92c8a0fb,qa supervisor
+653e07d3dd66280a,facility qa supervisor
+01a58858e07564ae,food qa supervisor
+5b34d51abce146bf,qa supervisor
+42d71010b6eb0d9d,qa supervisor
+f7fee3b679376458,qa supervisor
+06b2f2e5719646fa,qa lab supervisor
+306af78d358f54a0,associate qa supervisor
+aa3b5f90ff48f0c7,qa supervisor
+b9fa09cabd98eea1,qa supervisor
+29b2fdd91a41c5ac,qa supervisor
+ed9c5895bc243aaf,qa supervisor
+1ef01af6946e1905,supervisor qa
+3bf7c20867617cf6,incoming qa supervisor
+e307c11d735dc546,qa supervisor
+60e1e58c1d770604,qa supervisor
+17d951d115f18c1a,qa supervisor
+c94bb73476906b90,qa supervisor
+07ead50e6664753f,qa supervisor
+25644195a119ebee,qa program supervisor
+8209c17a32c6f437,qa supervisor
+e4d675ef8da36651,qa supervisor distribution
+5d0da0f6d8a5f3ad,qa specialist supervisor
+a02637392015d411,qa supervisor
+14bdc98b2123b952,qa supervisor
+2b20d4d9020f6790,qa supervisor
+c4d48e4bb25a3cee,qa supervisor
+35351c69721581ad,qa supervisor
+038c02f57112d97f,claims qa supervisor
+77230569ff4e1cb3,qa supervisor
+40b9bdd8c1223d2d,qa supervisor
+6c771b426ba3e499,qa administrative supervisor
+28e42685e1060732,qa supervisor philadelphia
+fea4070ad9ca59b8,supervisor manager qa
+13edf3e345fd6508,qa supervisor
+eb9b37231f7893c6,qa supervisor
+efad05752edbb197,qa supervisor
+6802c34ff4d89198,qa supervisor
+17c37054ba324538,qa supervisor
+ffa869b091543e94,qa supervisor
+9938604b49ddc1c0,supervisor qa rec
+e215b0b17a25dd2e,qa supervisor distribution
+c7fcbb2ead306641,qa iso supervisor
+4e7b703acd0cb744,supervisor plant qa
+16c06bc7c16af130,qa operations supervisor
+e8273fc565d90ea5,qa supervisor
+6bef0d52739fb551,qa supervisor
+69bb47ae1cc47a00,qa supervisor
+5e49b763f77dbc66,assistant qa supervisor
+e9e08c4679ecefaf,qa supervisor
+87d99dc0ea5b97b9,qa supervisor
+741af4b810b4c7ec,qa supervisor
+b189432bf835ba2c,qa supervisor
+1ca5438b71eb8cdc,supervisor qa
+1afa8a965a05f437,qa supervisor
+a952a9bffe657bad,qa supervisor oon
+f40ec00de4a4be78,supervisor qa
+1c28eaefd1cf76f1,qa supervisor
+9a9be24130d62f09,qa supervisor
+e358519f837fb43f,qa supervisor
+d2673e9e46f59d66,qa supervisor
+47be7a83218c3df3,qa supervisor
+efff1a9ad0f35f9c,qa supervisor
+976dcae991f26f43,laboratory qa supervisor
+c1859942daeb9ede,qa supervisor
+728024dcad9db252,qa supervisor
+1a3bb434223d8670,qa supervisor
+ea178a5074b2f918,qa supervisor
+54825f42f1c3adb1,supervisor qa
+8b747e07acfee9ec,qa services supervisor
+32b975b9e97aebb3,qa supervisor
+0952b55596bb4445,qa supervisor
+2def83c6fedc5bbc,qa supervisor
+931efcfe0c29ec71,qa supervisor
+a8dd70574444c1bb,qa supervisor
+90b6ff6c3c98909b,qa supervisor
+62dd97357d4b7248,qa supervisor
+b55156b012973566,qa supervisor
+66e0bc67bb4adbfb,qa supervisor
+b7e90144f39e5f01,qa supervisor
+74eea17d2159586b,qa supervisor
+c9a72b1208be5062,qa supervisor
+16d687f482ad0ccc,supervisor qa
+828ace88f6108c4c,supervisor qa
+98bd24c418329ec1,qa supervisor
+f7d6e556ad15bed3,supervisor qa compliance
+6200b1426d61cb61,qa supervisor
+aab6a877d7d09490,qa supervisor
+9a3038ff408170dd,qa supervisor
+b90f66bd951a2087,qa supervisor
+6c8f4d2c19324287,qa supervisor
+247d379a363875a7,qa supervisor
+211bb7e0cd7ba90c,qa supervisor
+848a673baca3ee39,qa supervisor
+09f4b4f2f6296c37,qa line supervisor
+ae44216fdb2361f3,qa supervisor
+c3fad1a1e8663ad3,qa supervisor
+d39a6c53c2df0483,qa supervisor
+54d14c4152256840,food qa supervisor
+087d73973a1c435d,qa supervisor qa technician
+1241aa330df1237f,qa supervisor
+2d53227bb9c4225a,qa supervisors
+51aa18f50a176253,qa supervisor
+5ba2172c481b0eda,qa supervisor
+fb018203c9bfe156,qa laundry supervisor
+5291bed66bc52e1c,qa supervisor
+a415dcdb34b1f4b0,qa supervisor
+017d22c9fbe304d7,qa supervisor
+8dc4e331d5602a32,qa supervisor
+47bcf045c8182e42,qa supervisor
+14f003c41ca84c99,qa supervisor
+6f28498c5908d409,qa supervisor
+69adcb1bf851cd95,qa supervisor
+a40a4fdc698efb7a,qa supervisor
+807ae05903ef2427,qa supervisor
+57b1f8bf526743e0,safety qa supervisor
+48e85838fbf1820b,qa sanitation supervisor
+7f7a761394c9ff9d,qa supervisor
+73e407b864e05053,qa supervisor
+b747d0f695af861b,qa supervisor
+6e036f6b5bdc8a1c,qa supervisor
+9b9b0a4154ee0435,qa supervisor
+a21b38cdfce2b2d5,qa supervisor
+5a041ab2ac451aff,qa supervisor
+a9a0d004c09a7522,qa supervisor
+4363cde667372e78,qa supervisor
+217ea7a2cbc56c7b,qa supervisor
+8adb8c3459cfc737,qa supervisor
+3ae7c2963435c604,fsqa supervisor qa
+a98d12f878432314,supervisor qa
+aea84ba0f0fb1046,qa supervisor
+082b46fdef802b38,food qa supervisor
+67f1890e64382ac0,qa supervisor
+f76aeb3dabb516c9,qa pqg supervisor
+91dd9f02f89161d4,qa supervisor
+ddd704250104da24,qa supervisor
+fcfc2e12083e8ed8,supervisor qa
+9f611a5cb65f18c8,qa supervisor
+c7cba628d5c8d599,qa supervisor investigations
+227e91ae47c38a33,qa supervisor
+db78b20e1813f1fb,qa supervisor
+441a99d94c3d8ef5,qa supervisor
+c5ef43ff1f367daf,qa supervisor
+3368695167970f86,qa supervisor
+ea2ba1c0635f311f,qa supervisor
+cba166791ca59ba3,qa supervisor
+927308387af2ad64,qa supervisor
+07e3899fc7851a81,qa supervisor
+3608f3b2dae7e78a,qa supervisor
+2b1f8eb24244bb4e,qa supervisor
+57e5bcbbed1b648a,qa supervisor
+a7093d7c6639295f,qa supervisor

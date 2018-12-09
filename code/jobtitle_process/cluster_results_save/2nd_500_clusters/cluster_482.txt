@@ -1,0 +1,507 @@
+_id,cleaned_job_title
+9d7bf5eaca8c9b98,manager operations management
+4fe6fdeea02e9830,manager infrastructure operations
+c9cb33b944cbb0b9,datacenter operations manager
+b08866620ba646d4,manager technology operations
+6f603e47c6091f87,manager operations
+2b4dd4a77a3957af,operations manager
+fff9f5b4eb1112c2,manager platform operations
+83b3bd761bbe56f7,operations manager
+b589083ebfb71e43,manager digital operations
+b7bf76e8700fbee4,hardware operations manager
+c3e38c5f14427186,truesight operations manager
+567c1a90b8d2f389,operations manager
+d9c7bad0d064a171,operations manager
+3f1a3efc845b7ff7,cloud operations manager
+ba8f099dcd5bf2d9,training operations manager
+5685f37dad79d51f,identity operations manager
+0d9470e3cb6e02c3,network operations manager
+c7b7af69b22ef32d,identity operations manager
+69d941d50de6acca,network operations manager
+097f292d068d0857,manager network operations
+c97ed87513997a99,operations center manager
+0878a395ccc207e0,operations manager
+f64fc2da34480fc5,operations manager
+73101b7a0713be9b,manager edge operations
+f6bee243987a7558,included operations manager
+f561d27dddeba18d,operations content manager
+1e2e84357bd7426f,security operations manager
+cb6f9fa07422ca64,operations manager
+586e0dd1f67d0ab1,manager digital operations
+4d9922813c2aeeb4,operations manager
+c40c7b62676a657e,operation manager
+f3e65eeec4e58172,operations analysis manager
+177e3fa0cb1d5343,operations manager
+c8f6c5026c4385d4,operations data manager
+2c7ed5f744df3373,manager digital operations
+2320b49dc621249e,engine operations manager
+98ee976869348696,noc operations manager
+bc11cd802acc80a2,drain operations manager
+17a7df38b273b226,manager claims operations
+1d44f828f6c76cd0,telecom operations manager
+8d2ceb6f98a6a588,operations process manager
+e845424d1bd982c6,operations manager
+ecf9a2d399ca549b,dc operations manager
+f882a6452e27a990,manager automotive strategy operations
+03661fcf0dd356c1,operations manager
+6e92a4dd394c3342,mccc operations manager
+cd714bc4de4c6bec,security operations manager
+a6d5d262b969bdef,client operations manager
+5747987c10756660,manager technology operations
+61fbe4ff1d401546,hardware operations manager
+0e218b810ecaefc5,business operations manager
+c91dc10c13039461,manager operations management
+32ac8a4fdbf4742e,laboratory operations manager
+f78db465e4fe71d4,operations manager onboarding
+9c64e1154ee4dbc6,computer operations manager
+57ae3016794cddfd,operations manager
+0be6303ba356231d,security operations manager
+9ff7996496b6a54f,manufacturing operations manager
+2830a4cbc02d095c,operations manager
+400872d6880f19b5,laboratory operations manager
+b929301945f0ac03,dc operations manager
+ebb32513d945b55a,logistics operations manager machine deployments
+7e7322b8c3c6a667,manager operations maintenance
+c32095aa6412f59b,section manager operations
+3bc1ea7ab538ada6,manager analytical operations
+08564b4f519d98fb,operations delivery manager
+88c4dbe07c84aded,manager operations
+4b7e2559577ced60,ind operations manager
+36a9578685a5907b,manager business operations
+145b0d7c82012d8c,operations manager x
+c4b18301218fb2a5,operations manager
+537de2700497f2e9,water operations manager
+4ea2c2991fd027ff,nursing operations manager
+8433f772877cc488,associate manager facilities operations
+4af5c3cc902b664d,facility operations manager
+0d498276e1e0d75a,manager operations
+8d76de159f43f9e5,business operations manager
+980f050e4a5d00e6,operations manager
+54a23c58f277f4cb,operations manager
+3dbd3da4e5f9989e,operations manager
+b1a97acba4dab180,operations insight manager
+8bb614c25e1af410,site operations manager
+06477fcae55d3207,operations manager
+73756a784fa5e873,forestry operations manager
+f4ce4d66685ccd2c,network operations manager
+a7d1b5628a47ac6a,strategy operations manager
+c5c7bc7b501133dd,operations manager
+ef2289a141d77f53,operations manager
+543e24ab224600d3,strategy operations manager
+6478ace03313b555,operations manager
+53c1839faf5f313e,production operations manager
+93d0f815e08ee194,retail operations manager
+8c55851f33a89ddf,operations manager
+550ce0eea3f658de,operation manager
+12d2fc2e1360da3b,scientific operations manager
+f8a46e58f5d69bde,manager facilities operations
+c3874ff7edee7e42,warehouse operations manager
+1dcc7dbb23d96626,operations manager
+9a1f755894592cb8,business operations manager
+a71f5182600a3c40,operations manager
+7af6bedb541a3919,clinic operations manager
+0267a69853cee6f4,operations manager
+28a633a4e565fc31,business operations manager
+06aab3afbb653877,operations manager
+8d7cf5ea821c2db7,strategy operations manager
+beb478daa8ab0f18,operations manager
+d74c1b251afeaf26,operations manager
+e2711e9437ad454a,manager operations
+4fafa77a5fbd1f79,manager integrator operations
+61359b49216136b6,manager strategy business operations
+40e67da6cfc80dec,operations manager
+d8ba3a7a8e87c8a3,development operations manager
+2be392496777104a,business operations manager
+8ab6e85a3dcd7b70,operations manager
+329ce4d27892738e,manager fraud operations
+05f0fb982ca64994,manager research operations
+e5fed97cbc99c08d,manager production operations
+b19ff7226e571d49,customer operations manager
+265cf2473c4da6cd,manager technology operations
+81a42871eef68c25,operations manager
+e5e739bd638ba321,operations manager
+932bd0473aa124c4,business operations manager
+00e6e74b8a888bc4,identity operations manager
+a5e1247c5cb9c89f,operations manager
+508dd1bac85ed9df,manager media operations
+27423fb4e1c99dd3,manager customer operations
+692b69e4f5fd0323,operations manager
+5be2883aea84fe65,operations manager
+48f07db34dab5a3c,operations manager
+cea63559c9fa1b14,manager operations area
+320df33ad52d77e6,manager infrastructure operations
+8cd5e64bd1413f20,operations sustainment manager
+98bd690dcf724331,manager manfacturing operations
+1e2ad06850cc5f0e,branch operations manager
+7321726c558fdf02,operations manager
+25070ef99c6c5ffd,operations manager
+9b4c9c5ddbb4cdec,field operations manager
+1806a40c3a513145,operations manager
+6624006c283b2abf,market operations manager
+47c4accc7ea435db,business operations manager
+ebee1cf5adf9de91,manager operations
+a3acd4fd865e35a7,financial operations manager
+0709f1fcc045b7db,manager finance operations applications
+41e321655f3a60dd,business operations manager
+25908df69900d42b,data operations manager
+20797bda3036e0f8,manager periscope operations
+99e978dfc81041ec,store operations manager
+a2910a44ed5aee9f,systems operations manager
+0a7a2709e005fc98,operations systems manager
+0407b304d4f84ddc,services operations manager
+0de8e65bb28d0ac2,business operations manager
+b290b4f63cd8ead3,manager operations
+60408e1bbd3283dc,operations data manager
+00a1ae58fe5e4037,revenue operations manager
+ff7ff764ee95da76,manager client operations
+ecf265bb000481a9,client operations manager
+3b1a0d3aa9b44ee2,manager payments business operations
+caa5c28e1f81ce9a,operations systems manager
+703c9c4fbeba58b7,operations systems manager
+49c394e4d4809e7b,manager digital operations
+fc27e1769a574348,ad operations manager
+cda06e10c5f9076f,client operations manager
+0a6612186941d511,operations manager
+498743c9fd54528e,customer operations manager
+c6b2f07895e71382,department operations manager
+87a1aef164e24825,operations manager
+03abab10aae0ad29,business operations manager
+c20f13a8bda36c70,finance operations manager
+0f9e62f932653def,finance operations manager
+a6df65bb46fc76e2,informatics operations manager
+98b0af8b37c7824a,agency operations manager
+0c4eb909c64ea1fd,operations systems manager
+482c6096eebc8b4b,data operations manager
+a9c88cc41487ae6a,data operations manager
+b2c94363f5462b30,escrow operations manager
+18c886cffa85330a,manager security operations
+d7ce0f0438c67739,manager financial operations
+c5ebe65eb5aa2139,operations manager
+3439de7e5daa4ddf,manager technology operations
+e6231b0be60c2230,development operations manager
+eeeb228ebe3345a6,cloud operations manager
+9152ce3e77b3f578,hadoop operations manager
+a37525cb30e5c522,services operations manager
+0d4834791df91958,business operations manager
+d17de8e670bc97d0,operations management
+9f5579ebe9032264,manager security operations
+631ee5df2d46efc7,retail operations manager
+2b4f70dbf538b023,manager ad operations
+7c2cbecbf8f116b5,crm operations manager
+5e876d5ef672b64f,manager manager sales operations
+99751be6feb90b76,shredder operations manager
+48c7b24ba3fda4a3,process operations manager
+0f9ea96ab1405f84,logistics operations manager
+a123d206e662d14f,process operations manager
+e4fc62aff813bab5,manager manager sales operations
+90406431ae6b3153,operations manager
+b59117090e72c81a,operations manager
+ed4a8c002280dde1,manager operations
+4f4083a7b7a2768e,operations manager hub
+a2caf9c0e7810fc5,manager regulatory operations
+45ad49602a266d06,operations manager trainee
+b57a15d89cbc9b43,operations systems manager
+10a03142e6a49324,operations manager
+6c92b5581e359fee,operations manager
+2af645f3cc83d46b,operations manager
+9325dd1c535e1673,claims operations manager
+ce28bd142fcec5d2,operations manager
+3b4410a4118990aa,operations manager
+7a2d8a3046affce7,customer operations manager
+efb782d1967ddae4,campaign operations manager
+be4d814122d1d2f1,area operations manager
+73de87dd65b82011,operations manager trainee
+b83df1e2b0fdac89,district operations manager
+7b757bf58a77e15e,operations manager
+bad7431c38d14a0a,operations manager
+17ff548a57268432,field operations manager
+8666d74fc45d740f,operations manager hospitality
+ce6e5baef910c186,operations manager
+0ee2f8edf3be2ec3,operations manager
+3e334009d2734a2d,operations management
+39a9b41f8bcd9fe3,operations manager trainee
+ba8cb426fed1dbfb,operations support manager
+9846be264fcbae10,operations manager evenings
+b56732b33f26e115,operations manager
+63492944cdf987af,operations zone manager
+871e9533df7fb84b,operations manager production
+2a4101c598f55072,operations manager
+3652cac7ffa5fbc9,manager operations
+74b90dc2c1788ced,assistant operations manager
+69feeab34a7168ea,operations manager
+8ad26e89c333c672,manager external operations
+a92b5e34104060f2,operations manager
+01b3be5a9c01a971,manager operations
+c8c3ec149e3260bf,pbo business strategy operations manager
+b02ea9ce4b558990,operations manager
+c328b06ccedf4049,manufacturing operations manager
+619f29ab28c67cd6,manager manufacturing operations
+bb5bdc544cbc11fe,operations manager trainee
+12a7014cfa5ee3a6,culinary operations manager
+d54baf1a5e6af5c9,advertising operations manager
+0a97ddbc7791c9b9,operations manager
+4637fc8c7bf4a4eb,operations manager
+b9e0282ad70761c9,area operations manager
+c56908b4e55ff5b8,paratransit operations manager
+5a06e04bd7c0948d,manager field operations
+f88eefcf81c27d1c,retail operations manager
+58e04cf00957c5cf,operations manager
+6f551662d5a57847,manager plant operations
+f04013ead8d680be,operations manager
+74b04881f8e51646,administrative operations manager
+75845acce521ca57,security operations manager
+04151371f4140472,security operations manager
+061117fd7e8f90e3,security operations manager
+a54c67728cb8f8e2,operations manager
+598d7cb95efc6a4c,operations manager
+15aa97be9a526c12,operations manager
+636a6aaf81385aa1,operations manager
+e9a8cdab3222bb6f,manager mobile operations
+5d77f5d3fa7aa2c3,manager operations team
+f4a83485287f01c4,business operations manager
+3983cf71ba5548f6,operations manager
+71562aed8a842068,operations business manager
+a47f66e8ae9d3324,operations manager
+5220992a02482b89,risk operations manager
+9d13800b1cbec474,manager construction operations
+837b8d117119ef59,operations manager
+4ae51b2e867c2dd4,operations manager
+31cc03de86f72f00,operations manager
+4b0847f574138a09,operations manager
+59ef94a1e8204b77,intake operations manager
+d88bf93fad4c9024,department operations manager
+220d2ef4993dab64,operations manager
+247aed5b43ec49c6,operations manager
+a36b0f5e8bda481e,operations manager
+8dc2876864f04c2e,operations manager trainee
+db40fe133216fe09,security operations manager
+e9f9f1a58eeaae26,operations manager
+f529a12f8d3f6873,ad operations manager
+b0465dee5a2192bd,operations manager
+383dba0516b420ff,operations manager
+3891b964a6fa2c8c,operations agent
+da9029a09e9031d1,operations manager hub
+7c1f9a677d4d07d8,administrative operations manager
+16a3cb9be6cf0c91,security operations manager
+58ad034ecd28d54d,warehouse operations manager
+ae8b3d357eb217db,records operations manager
+909a0b448840d494,operations manager
+350791d2f37fffcb,flooring operations manager
+e9287afcf6c023d9,administrative operations manager
+d9374f0c195043c8,operations manager
+f2b5d0c46e22e7ed,communications operations manager
+6a56c52bf64ec81e,operations manager
+ed8aa2c7e5b431c8,hotel operations manager
+37d8f73ca0a805be,landscape operations manager
+5e4faa2b1a59dcfa,food operations manager
+a7d48f22a221f0d6,campaign operations manager
+29db515ddeabb733,clinic operations manager
+67fb291c28488de7,operations manager trainee
+e9433777bb535393,healthcare operations manager
+0a7e48d09f78d953,operations manager
+350937898c24dbf4,assistant operations manager
+c66c3d00451e5bdb,operations manager
+14ccb77b7877e5cf,operations manager
+2a20ca4b38d3ab32,corespace operations manager
+70be6ff5c1f6ca86,operations manager station
+1aeffc4e4d2a5258,operations manager
+7fdf53e703387aad,branch operations manager
+f6b947c7656df59a,pathology operations manager
+0f1cf3843f706a1b,operations manager rockwall
+7971c3fc8a6c0dc6,operations manager
+8eab80aa0a976032,operations manager station
+e7e66a5c102d39be,operations manager hub
+520256f252f99362,manager business operations
+60c849b988c72978,production operations manager
+c9c1cc0a28513ffd,platform operations manager
+e34d0e57970d783a,operations manager
+777ac1d664a99dce,manager ad operations
+0a9f75bbbe0cb52c,area operations manager
+532f8dba834b2001,operations manager
+fa530c3a2410cf71,operations manager
+c6013a30bc320b43,facility operations manager
+58d7ba8cf2dc9cb1,operations compliance manager
+7ec589c041259e16,branch operations managers
+331bea037c9f3283,laboratory operations manager
+8f40ad12808622af,facility operation manager
+aa57a88a2258df79,catering operations manager
+15532ba8a93f44ad,area operations manager
+b851369dc0bd2976,operations manager
+318c10082353a685,field operations manager
+cc2f63430bf2941a,manager operations
+76a992b1861ec227,operations manager
+ba3e4a2e6d7538b1,operations manager
+a77df47c734bd1c4,operations manager
+48219ae4dc1b717a,operations manager
+705202b94b91010a,business operations manager
+2304c8ccd7c9d65d,operations manager
+c0e5bb18698a2505,operations manager hub
+277621dc7b0cec9d,manager hazard operations
+7f57839a7853b6f8,operations manager
+e92496bb1bcf6828,operations manager
+527006aca88e1a0f,retail operations manager
+7b2050f43787ba67,manager clinical operations
+67822933759e4818,operations manager
+bc11f66393cfaf8c,operations manager
+e1902491f32d8fea,field operations manager
+80d12c1c3801b77b,payless operations manager
+74cdd148898b7a89,operations manager
+9e9c3e313fcfe41d,operations manager station
+ee014b8d932db737,operations manager wyandotte
+7fac387a22f78586,operations manager trainee
+cbcb356312fa8c71,lab operations manager
+3133e9eeb6ceb07a,operations manager
+28236d4bb767f29c,operations manager trainee
+3e8231f97f3ec17f,operations manager
+8d798d00447ca84f,analytical operations manager
+5914fc5dd6c2e725,operations manager
+5f8fa3670b57bb39,pathology operations manager
+084bbf8bbac5bf1c,operations manager
+035451fb62188765,operations manager trainee
+866b6c93d8f7da48,operations manager
+66cbb3eb16940f08,operations manager
+4e5e8df4995bf2e4,manager data operations
+823533cd8322b646,campaign operations manager
+82b8d8fe1afb2933,infrastructure operations manager
+d1cf75230903ec08,central operations manager
+d7d77c4a36744d05,operations manager trainee
+967abde622fbcea1,assistant operations manager rockwall
+1c152c37ea17015a,area operations manager
+6df394a6c776134f,manufacturing operations manager
+e51b202cc70cead6,title operations manager
+4566a88f71b8a2f3,manager operations logistics
+a0b4301fa0e5e6b0,culinary operations manager
+44a849985d83e374,deputy business operations manager
+4ac328141a3bb584,ad operations manager
+c3f054a700d779e4,area operations manager
+ff37d274e27119cd,manager operations
+25992cff51ce5a08,operations manager
+6bc353472764e23a,manager support operations
+e10e92ee78f944a8,manager research operations
+cdd83ddbbc72df29,area operations manager
+199cff9dcd683235,operations manager
+9ebfaa95e449551f,operations manager
+32ce38993552ec17,operations manager
+9ff451047ca96d65,operations manager trainee
+30c47a4efb5e1ed5,operations manager
+2a8b381073ad6b93,ediscovery operations manager
+7dc3cf2c816f3030,operations manager trainee
+196ba407a2a110ec,service operations manager
+58859acb3f7c10be,site operations manager
+6700916876e5b5e5,operations manager
+1724295e8e5dc01a,hotel operations manager
+febd9f3b36596735,operations manager
+cd5435dd95d80cfb,rice operations manager
+965ec51301eda12f,operations manager
+c67a9db42ab6ae37,operations manager
+2882705b2985bafe,operations manager
+68a2e32536cd1fe9,operations manager
+d28bf877206511ee,operations management trainee
+1941970efeb31425,security operations manager
+b7b7e3a052cfcb8d,customer operations manager
+b1e80eff755d4901,fleet operations manager
+7675724a38a1e218,operations manager
+421fdae59dfdcbef,manufacturing operations manager
+080d0ab024d72ac0,analytical operations manager
+09c682b47180f68a,operations manager
+38f5230da3ed4c79,operations manager
+bbe16c1d515c9229,area operations manager
+487b9ac530c1f951,operations manager
+a01ea80463b8f705,support operations manager
+42e698dbcb5cd38f,operations manager
+d348cc1dffd98a19,operations manager
+8db9f068482e3f76,manager operations
+ceec1ea67fab18d1,operations manager omaha
+1339f9bc6477a1d1,operations manager
+d9acf846840576b0,rrc infrastructure operations manager
+c450c04c746ac42d,manufacturing operations manager
+48c319a1ec989795,manager operations
+71c77141aaa937b2,operations manager
+530c48b7948d15bb,operations manager
+b546c8eae95540e5,manager credentialing operations
+7d3f670446b11b64,operations manager trainee
+44110a92526d931b,operations manager
+90dc215fb6f16bff,operations manager
+7bcd811394538012,operations manager
+a4e9a55eefde02bb,operations manager station
+724cb743af476c1d,operations manager
+39df79085b496e2e,manager coding operations
+fc99d399f1eadadc,manager finance operations
+9b928b2d868d8290,manager manager sales operations
+eadbc63df6663e59,finance operations manager
+31f48ff0956ff7ad,yop operations manager
+4b1f1d6c8d7ee615,manager business operations
+fb999089370f6156,business operations manager
+aa04b10752f18e79,marketo operations manager
+fc3cab90a9f4d736,operations manager
+2547380eb6d78f57,operations manager
+223d12e682249173,operations programming manager
+570b065099ab238a,customer operations manager
+ca2336b045de41bc,operations manager
+68a236fcd79567c9,franchised operations manager
+0efa1a7c5eda4364,manager operations
+d5dd92b154494be2,operations manager
+89d3b330893c1915,manager business operations
+3cf90f2c65783da4,manager practice operations
+98c7a48875fd092a,operations manager
+6cd25079d6a01e36,manager operations
+f5111447730b0f74,manager practice operations
+13f965805cc48cd9,operations manager
+691b65a8a2e96978,operations manager
+1300c7fe6741a47c,training operations manager
+9a3bb13a832b4c85,network operations manager
+6bc113c712ac6fab,transportation operations manager
+305d1c9cee050b21,field operations manager
+6bd51d271d4ab8d7,plant operations manager
+4275dd43a95d6bea,network operations manager
+21deedd732a348b5,ambulatory operations manager
+b2ab49de242a8b58,operations manager
+ecdd12e6db081c82,manager enterprise system operations
+997beed4ad28361c,manager ancillary operations
+4456bed4a80f2f9a,operations support manager
+905f107d5e737b34,data operations manager
+58cafd4f2c45075b,ip operations manager
+6337f184ffbc9ea2,manager financial operations
+c99d084cbc384d45,operations manager
+619d25e3c66f29d6,crm operations manager
+bea8c757622f8579,network operations manager
+aa2d375db7e95d3a,operations manager
+cc1fbbebfce4023b,operations manager
+cc8ad204c15dda4d,manager patrol operations training
+63082602f35863d0,operations manager
+6708dc2ad64753ad,school operations manager
+1a36cfd1fbec1249,manager practice operations
+f0a6ac68ddceaf8b,recruiting operations manager
+80b3fc4e8bcb79ff,operations manager
+65831b3ccf5acd33,operations manager
+452fa6df1d932b87,operations manager
+b86604c24c9201e9,commercial operations manager
+bef0110b42da58e7,operations manager
+0b67be5d818357f0,airport operations manager emergency operations
+498b6425b7ad64c5,operations manager
+ccc187ee451585b2,manager administrative operations
+03fbafb572aa6ec4,manager operations
+39c5d3639012b1d5,operations manager
+accefd9cca3c6ee4,rgs operations manager
+5b01a146e2fbf290,operations manager
+d4d29d6e3c86b997,operations manager
+96576af2d27cead7,operations manager
+54ee940da80572db,operations manager
+e37331a66665ac05,manager lease operations
+1289a1601d64f752,operations manager
+0e8a3e8e0f2fea2b,operations manager
+1e0458146d407e77,physical facilities operations manager
+ed0629580e6b4dd7,manager database operations
+91aa06eb8895f7a5,manager database operations
+fc40950e5eab142d,section manager operations
+7f893887376d730e,manager business operations
+6e662528eb1848a6,operations manager
+5c5b836bf29be684,operations manager
+e29534c9528a85d6,operations manager
+d209f6354dbd6773,operations manager
+3fac47fb48fc26e0,hvac operations manager
+be405c0fd64c030b,datacenter network operations manager
+9c3768e99f7213e1,network operations manager
+fd1011dcd58d413f,construction operations manager
+0e6a65d0744b46bb,manager hosting operations
+db070123b0a57901,operations manager

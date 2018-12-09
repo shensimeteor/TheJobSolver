@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+from collections import defaultdict
 import pickle
 import pandas as pd
 import numpy as np
@@ -31,7 +31,7 @@ def read_word_perline(filename):
 # input: jts (job_titles, list of n str), dict_wordvec (the dictionary to get word-vectors), method: average
 # return: list_jt_vec (list of [indx, jobid, job_title, vec_nparray]), list_missed_jt [indx, jobid, job_title])
 # Special: if no word in a job-title can't be found in dict_wordvec, then the embedding is all NaN
-def calc_jts_wordvec_matrix(jobids, jts, dict_wordvec, method, word_idf=None):
+def calc_jts_wordvec_matrix(jobids, jts, dict_wordvec, method, word_idf=None, manual_wgt=None):
     list_jt_vector = []  # [indx, jobid, job_title, vector (array) ]
     list_jt_missed = []  # [indx, jobid, job_title ]
     jt_vectors_allmean = np.zeros((300,),np.float)
@@ -57,6 +57,12 @@ def calc_jts_wordvec_matrix(jobids, jts, dict_wordvec, method, word_idf=None):
                     print("Error, must provide word_idf if use idf_wgt_avg")
                     exit(0)
                 wgts = [math.sqrt(word_idf[w]) for w in words_in_jt]
+                jt_vec = np.average(array_vecs, axis=0, weights=wgts)
+            elif(method == "manual_wgt_avg"):
+                if(not manual_wgt):
+                    print("Error, must provide manual_wgt if use manual_wgt")
+                    exit(0)
+                wgts = [manual_wgt[w] for w in words_in_jt]
                 jt_vec = np.average(array_vecs, axis=0, weights=wgts)
             list_jt_vector.append( (i, job_id, jt, jt_vec) )
         else:
@@ -117,14 +123,22 @@ print(jobids[0:5])
 # read word-vec dict
 dict_wordvec = load_pickle_to_dict("wordvectors.pkl")
 
-word_idf=get_word_idf_dict(jts)
-print(word_idf["engineer"])
-print(word_idf["devops"])
-print(word_idf["stack"])
+# tf-df weightavg is bad
+#word_idf=get_word_idf_dict(jts)
 
 # calculate job title vectors by averaging vectors of each word in this job title
 #list_jt_vector, list_jt_missed = calc_jts_wordvec_matrix(jobids, jts, dict_wordvec, "idf_wgt_avg", word_idf=word_idf)
 list_jt_vector, list_jt_missed = calc_jts_wordvec_matrix(jobids, jts, dict_wordvec, "average")
+#manual_wgt=defaultdict(lambda: 1.0)
+#manual_wgt["consultant"] = 0.5
+#manual_wgt["associate"] = 0.5
+#manual_wgt["specialist"] = 0.5
+#manual_wgt["assistant"] = 0.5
+#manual_wgt["director"] = 0.5
+#list_jt_vector, list_jt_missed = calc_jts_wordvec_matrix(jobids, jts, dict_wordvec, "manual_wgt_avg", manual_wgt=manual_wgt)
+
+
+
 
 print("total jobs=%d" %len(jts))
 print("vectorized jobs=%d" %len(list_jt_vector))
@@ -133,6 +147,7 @@ print("missed jobs=%d" %len(list_jt_missed))
 
 #dump_pickle_jt_vectorized(list_jt_vector, "jt_idfwgtavg_vector.pkl")
 dump_pickle_jt_vectorized(list_jt_vector, "jt_vector.pkl")
+#dump_pickle_jt_vectorized(list_jt_vector, "jt_manualwgt_vector.pkl")
 output_csv_jt_missed(list_jt_missed, "jt_missed.csv")
 
 

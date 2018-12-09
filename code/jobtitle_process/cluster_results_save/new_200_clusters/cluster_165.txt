@@ -1,0 +1,485 @@
+_id,cleaned_job_title
+997dc4f843ee58a2,inspector assoc
+31c7220bd30ec71d,api inspector
+86c10658c11b5911,api inspector
+f4550f2a468c41ae,qa inspector
+2a1930756b0e90bf,inspector
+bd8ba57a472a330a,qa inspector
+a600a4c6ed6c2eb4,qa qc inspector
+a2637a065159490b,qa inspector
+42765c9e893c10fe,qc inspector
+4a6c4c6b819eae17,inspector
+ddcbfd460f8ea27c,qa inspector
+a33e2f4cfea463ef,icc inspector
+3151ed3db11fb19a,inspector
+e9fba6d8be88d49b,qa inspector
+fe7269ac8a95d3d9,qa qc inspector
+6c5f33aeafd2aec2,f qa inspector
+404838903f1a1f85,qc inspector
+996287db3674a04e,qa auditor
+ae47b620d4218614,aero inspector
+5ed7d93220c99146,cei inspector
+b6b8a2d61386cc6a,qa auditor
+7d6e5b9b3314f57c,inspector
+441e9301af183e15,qa cmm programmer inspector
+606d0f35f7173b01,qa qc inspector
+94a7821dc83dcda2,inspector
+4fc69c1b417eb924,swppp inspector
+71d5925142e712b6,inspector
+c8d00c9a0bbfb0aa,qa inspector
+c1e81ad4ff0531b0,qa inspector
+4205f26fea48d3b5,inspector
+6c24ddd8810e6f5a,inspector enq qa qc services
+4eec4d0b34a3b950,cmm technician qa inspector
+23b6977e5ab99984,qa inspector
+3e5da859e5cbb011,qa inspector
+bcc01b65d5d6b3f8,qa inspector
+a281b8ffdba52d82,qa auditor
+6c5390cf1e371300,qa auditor
+a0efdc60e4c81933,qa auditor
+f751f9c05b36e790,qa auditor
+a9d5bfaaa89bab00,qa auditor
+762099d6b3666d52,chief inspector
+20527cd252e81846,qa inspector
+2755d85046ad273d,qa inspectors
+5071a2f925605862,qa inspector
+8d667c34ca70af01,qa auditor
+fe8b70107b55b934,qa auditor
+ad734bba801534c2,qa inspector
+8fc80a9c0a0fb5c2,qa inspector
+3e873c8d88340405,qa line inspector
+7aa7a541269405a7,qa auditor
+6f6235aa83a8ea2d,qa auditor
+f7d102329fe2749a,qa inspector
+53a8f98ab76a9dd8,qa inspector
+f9bf53ab5323cc07,qc inspector
+171b0826f5ec8090,qa floor inspector
+e647bdf55b682acc,qa auditor
+00dc6ec589abebab,qa auditor
+c3cd450e6492c6d8,inspector qa
+a81fa50659880f96,qa auditor
+8ba80ce598e32a04,bt qa inspector
+5534c897cd0d09c6,inspector
+9a1e2dfe0291b14d,qa inspector
+bca006cf9042f2d2,qa auditor
+c789fc4f3e43da79,tooling qa inspector
+82250b090529de51,qaqc inspector
+b2d02e814cfc8932,qa auditor
+f1e64dd6af7510e2,qa auditor
+03a4436d7dd477bb,qa auditor
+5622bc854e8e27ec,qa inspector
+2b076640cf9e8214,qa inspector
+25b28f717d11eda0,qa line inspector auditor
+100e663a5b9b663e,qa inspector
+ea05479cfbe975a3,qa inspector
+c41363235e5c228e,qa inspector
+856a4971208578a0,qa auditor
+991a420ba6b9100e,qa auditor
+fe5cf4503af9c030,qa inspector
+e8dde9955d825c6b,qa auditor
+c13ef7a9db2d78ae,qa inspector
+36db24c552ba1147,qa auditor
+5c5997ddef08084a,qa inspector
+1ceecbd2e50a3be8,qa penetrant inspector
+9896453a3557d568,qa inspector
+dc70b8da464e75a4,qa qc inspector
+29fd64eb535a6b16,qa inspector
+e2c71f783d959ed8,qa inspector
+68405bd8a82a0f9f,qa inspector
+859e6cfbfb1c928a,inspector qa
+362d052e92be0650,qa auditor
+833206936343398f,qa inspector
+d554118bde3de0b0,qa field inspector
+da471a1a16494c08,qa inspector
+dee50c74025d6316,qa auditor
+cc5efa860cd77a50,qa inspector specialist
+d061cdb95e448445,qa inspector
+52a4949d93c9f527,qa floor inspector
+936a9cc7a326806f,qa inspector
+6b213347a1590725,qa inspector
+5d9fd00601d65b11,qa auditor
+e3d39f4f0d8670d5,qa auditor
+1bfa17a7caa3155b,qa manufacturing inspector
+561aa394d2cea7c0,qa auditor
+b35e487d5acda8a3,qa auditor
+e6adda316e5ba23a,qa inspector
+106f903cc9bee9b5,qa inspector
+64860c797405c9b7,qa inspector
+225df620cd4bd61c,nde inspector
+f85225ee6cc38c3c,qa inspector
+f8c9f10f46e015b6,qa auditor
+29e8e455c1a0fa7b,qa auditor
+8e6894fe68efae87,qc inspector
+3a67028851594a10,qa inspector
+b661651513397a1f,qa welding inspector
+4bab6a4303b663c0,qa auditor ll
+696e37e27475e146,inspector
+ba9329596958f8e0,qa auditor
+d78cdee62d3a1a07,qa inspector
+29e8e2c4219aeb8d,f qa inspector
+f7941eb2cecb283a,qa auditor
+37dc87ae53210efd,part inspector qa
+3070d9234d728dea,cmm inspector
+a4c636c3b2aba52e,inspector
+0182369c8158d5ad,inspector
+1c84e31abb3304a0,qa auditor
+b308d111f0eccfa7,qa auditor
+0e873d5b80debc09,qa inspector
+17f1722edfca292d,qa inspector
+1646bf33d5780ec1,chief inspector
+6803d62489d0b6ad,qa auditor
+53b0f4c4c34ff466,qa inspector
+0208e46f93d81170,qa inspector
+5df14b88ea829b29,inspector
+465dc89060312f74,qa inspector
+025e2fb69a4968ff,qa inspector
+da74d666a8e70244,qa inspector
+7feb6d8cb3b611fc,qa auditor
+9fbc38a90c8dd05f,qa auditor
+344276d96e9da959,qa inspector
+4c78d12a315126f6,qa auditor
+07d5fb3fc5737fbc,qa auditor
+1675e3b4766689bc,qa inspector
+6dab8f0148db5cff,qa inspector
+3763958cbb42a93a,qa auditor
+a28f791cda618ef1,part inspector qa
+83cd1eeb23e7d060,qc inspector
+cf866e747fad4cb4,qa inspector
+9167612662920081,qa inspector
+77271696fa9f21bb,qa auditor
+30d2bd8d1fc53a14,qa auditor
+18bb6c972e22aad4,qc inspector
+4bd8760cad9a3b2c,qc inspector
+85a5c02686d9fc5d,qa inspector aa
+e659938bca76c6c4,qa auditor
+b6e512880fd833e7,qa inspector
+66dd5b4d265f0156,qa inspector
+08cd5e0ee9186725,qa auditor
+5b8bb3bfe3f4e8f5,qa inspector technician
+558be61af3485fc9,qa inspector
+24a062eaaecf50bb,qc inspector
+9bb4f9ba3f09d79b,qa auditor
+03ae4cc0df5da8f8,qa auditor
+448584f8cc66e2f8,qa inspector
+b3a97f33a85c6921,qa qc inspector
+1bb4fb931408f911,qa inspector
+a68b7aa937d01c0a,qa inspector
+7325ad2418d0a940,qa inspector mukilteo
+5ec791c38482532c,qa auditor
+0ed525c51e115d4e,qa inspector
+953061066ca05861,qa inspector
+5bf1a8463e5d947b,inspector
+d942973ef1fd8d11,qa inspector
+3e2028413c816ac3,qa auditor
+7b8d1632c189eb1f,qa auditor
+1e5573ff88aa1d58,qa inspector
+7fbf9cb4c26fabc0,inspector
+ad18e3727641d974,qa auditor
+87a8e31879024a10,qa inspector
+c17287a70d438912,qa auditor
+ceaac89719e32d0d,qa inspector
+09334a173bd028f8,inspector
+59ea2c9e0445eb61,qa auditor
+55918c4278ed5ee7,qa inspector
+4df64914c07f5a0c,qa auditor
+e24fdda558ed23ea,qa inspector
+02bfd41c5b3e348e,qa auditor
+8c22885752367293,qa technician inspector
+89036f6bade18f90,qa inspector
+8bcd3b8c36bdb287,cei inspector
+c635ca082c412201,qa inspector
+a1926237deb46389,qa inspector
+d9d124ab058dc886,qa inspector
+16c93f1370a91333,qa inspector
+3e09527255ee80a0,inspector
+f3efed8d1b94699c,qa auditor
+40c4136ef2381bd6,qa inspector
+88b942775989e51f,qa inspector
+173671eee7e86a20,qa auditor
+3dcd3dd27633cc63,qa inspector
+154ca665a793bc83,q inspector
+be73fa4ab6ef5ad8,qa auditor
+c1c5b47cc21fa821,qa inspector
+615d683bdd7443df,qa inspector
+077c6cb681877583,qa auditor
+b06b1c32ae2b69fd,qa inspector
+b7f300f25f265db1,qa inspector
+a4a04cea44a156ce,qa auditor
+0e23aa132d35b89a,qa inspector
+43adbdf5df88a911,qa inspector
+f4d147599c8b2ce7,qa auditor
+48f7bf91e65ea975,qa auditor
+d9c7273442e230c9,qa inspector
+c596f09b60cccaad,qa auditor
+61d96159a87a7e60,qa inspection
+171aa68819003989,qa inspector
+abe7b5fe6bb36359,qa auditor
+1a913af102025c39,qa inspectors
+db74c9f9354670ed,qc inspector
+c39795e9360045ff,qa inspector
+f0a054ea0762d380,qa auditor
+bd1c69877446bb60,inspector
+9abd469176b648e0,inspector
+2970833b213daf05,qa auditor
+eb0a3f4438598cc7,qa inspector
+4f2311a2207478de,fqa inspector
+9952fd3eb108ade0,qa inspector
+3de997b137cd9436,qa auditor
+8c4a0674a2a470cd,qa auditor
+23a5427b665ba515,qa inspector
+bcca85fc28fe7d8e,qc inspector
+c4b4086e21443679,qa labeling inspector
+256a40daeac4d01a,qa auditor
+71c2d9e3862d398d,qa inspector
+8e7c2f5c52cca996,qa inspector
+68d5664d91207201,qa inspector
+2cd22aaee8f4b189,qa auditor
+b1bfafc4d63a4c90,qa inspector
+f1b9a2843b85702c,qa inspector
+9b089d10b116660a,qa inspector
+139864b1ceacd704,qa inspector
+0530638e98a033f9,qa inspector
+b6d9fb7b0db21d33,qa inspector
+8669bd9c00428fa5,qa assessor
+0a50d729412f2844,inspector
+d3985169f24a7a62,qa inspector
+e77d3988a6b9f103,qa inspector
+2bc6c8d23218dce1,qa inspector
+4536c8f8bd3ce352,qa inspector
+a112e244663ef9ab,qa welding inspector
+a858215e846c830a,qa inspector
+e1ddf4ae5b1256b2,qa inspector
+d66ed471c3c8fcac,qa auditor
+b054507fe77e9553,chief inspector
+f5e18e6e19d3eda0,qa inspectors
+49dc98886dad1a48,qa auditor
+622dcc2a5383b37c,qa auditor
+51e6dba21db49799,construction qa qc inspector
+fa6e44916ea0c18b,qa inspector
+cb05bd92413fdf50,inspector
+a9128b75cdbdc24b,qa food inspector
+42764c5508b8eb58,qa inspector
+193782ea68315b6e,qa auditor
+ab98aa10dc753fd8,qa inspector
+dc7108bf79b92d31,vlo inspector
+27e121afa9f23b26,qa inspector
+fd0e90334b1ec279,tfs qaqc inspector
+ccbc98fdf74961de,inspector
+5e04f95303a27e1a,qa auditor
+b9844950a451fc91,qa inspector
+be5d6a1d469a2adb,qa inspector
+2f1d54585a025a18,qa inspector
+69c8d549c94ee065,qa auditor
+474229d92edc4e20,qa inspector
+6aada0314256878e,qa document inspector
+7f19db4f40c1990a,qa inspector
+93ac7e93d832c97c,bt qa inspector
+423000cad0307c5d,qa auditor
+d721f76a67b09cfa,qa inspector
+21a47bd7ced7b258,qa auditor
+24f75f86aa6dd989,qa inspector
+a368855d6d86618c,qa auditor
+b27d09eccb8dbb4c,qa inspector dc
+f86649fe67844a84,qa inspector
+82060eced075a275,lead qa inspector
+c3899eafc6eecda6,qa auditor
+36facf9b2e807bba,qa auditor
+64bfb5dfe84131b8,qa auditor
+fdf664de5eebe683,qa auditor
+f58a3063d6db56a5,qa inspector
+2fef401ffba04778,qa inspector
+4c5902de365c1050,qa inspector
+adbba7edccc481c1,qa auditor
+c2d765216710b484,qa auditor
+b1052e49cfc48258,qc inspector
+51d12c3624d097d2,qa auditor
+0b3df3de3db3f30a,qa auditor
+9a693a5b4b40fdc0,qa inspector
+9eaa4f9ef3fe96e9,qa inspector
+91a5a16600ff1f70,inspector
+dfe1571b27fecb23,qa inspector
+16e20bb2e76093cb,qa qc inspector
+efc7bc6d4fb42f21,inspector qa
+90b98237a8d1611c,qa qc inspector
+06334ec8ac473222,qa auditor
+d353e71cbbe65e39,qa inspector
+7b96c5fb22f3553c,qa auditor
+d90bc2fe4124048b,qa auditor
+83992a2f76333342,bt qa inspector
+b830ded59bf92254,qa auditor
+7f67d6e634a29b5b,qa auditor
+ad9a8e16496ef9c2,qa auditor
+9c7b9ccc881e06d8,qa auditor
+4997bc8c63c2ce8b,qa auditor
+95557c8831c18e17,qa inspector
+284f4ebe96512f42,qa auditor
+09b3e9a1162fd708,qa inspector
+6c0e3e0e63d436be,qa inspector
+08ec1c020baac526,qa auditor
+ce0ab5c9a86d96cb,qa auditor
+b0e9d0dd7a414215,qa inspectors
+df87480059efc194,qa inspector assistant
+4fe7cb47ea38ec86,qa inspector
+e851dbd3c90c82c8,qa inspector
+38c9b8d794386759,qa auditor
+c791b516e680e1bf,api inspector
+936a021d1b5a51c0,qc inspector
+aca134c89a702e51,qa inspector
+5e802b2f2e8346be,qa auditor
+c3715003eea44545,ndt inspector
+74c7f449896f2605,bt qa inspector
+5b5742b1adfad24d,qa inspector
+478d7dba554bb6ac,qa assembly inspector
+847dfb427a1f7c79,qa inspector
+a332c6e739830298,qa inspector
+90755368637e5571,qa auditor
+79e5d5981b77026f,inspector qc
+1d068e1f01322761,qa inspector
+b7a9d28d8a32d874,qa inspector
+3bd9a0ac806810cc,qa inspector
+f214ece9e2988023,qc inspector
+855830dd850fae27,inspector
+98534b1683a8d3c4,qa inspector
+62a611e642c4aaaa,qa welding inspector ndt
+ed9a9934fbea4ff7,qa auditor
+c395b4a0d1b495df,qa inspector
+f83a76ea2bba5722,qa auditor
+c1babf79c1d19a0e,auditor qa
+09b9da7402d78321,qa inspector
+61b990122517131d,qa auditor
+d2446b8f6d7ed698,qa inspector tremont warehouse
+7c5e0121dea7e132,qa inspector
+91c5ef4d4d24ce06,qa ndt inspector
+4f07be1b7b8bb153,lpi inspector
+6abfb4f12cf50351,qa auditor
+c907b1b26e3ed8d4,qa inspector
+18431c232a18a83c,cmm inspector
+44ec4e05238ec966,qa inspector
+cbe089fd11b33c95,qa auditor
+56f3c42308564af9,qa inspector
+6c3729785a991730,qa inspector
+3063806e8083a5c2,qa inspector
+a29c7d5ce0b81344,prefurnace inspector
+16b14ec6df65750d,qa technician inspector
+44f80e25626cc1aa,qc inspector
+93ad2aa47fbceb59,qa auditor
+19e98b032a28f248,qaqc inspector
+abd550bdbb0d9ed6,qa inspector
+58857dbe7e32cab4,ndt inspector
+87676602599fe6ef,bt qa inspector
+68e2cb8ec994a636,qa packaging inspector
+1ae61d689c3e6bc9,qa inspector
+c8276a057a516cdb,qa auditor
+02365a174a885667,qa auditor
+4ee78e97e7c66fa2,qa inspector
+dc752bbb83b7fa81,ims qa inspector
+28e11e55472e7d55,qa auditor
+26dd2db697420824,qa inspector
+90b89e8c179ea2a9,qc inspector
+cb08c067c44d3b7c,qa auditor
+c168b80b9e008fd0,qa inspector
+ce56ec22b5c7229b,qa auditor
+6776ae099929dbc3,cmm inspector
+98dad23c82ad17ee,qa inspector
+69ccac712c8817f4,api inspector
+81e6288c45d87cc3,qa qc inspector
+94fd67d2e1167d81,qa inspector
+b4b21e417ff5ffbf,cable qa inspector
+c3cf6b661c8e55c0,qa auditor
+1dd2493419817c28,qa inspector
+48d8728f6ae568d5,inspector
+015615cfbfb3907f,qa auditor
+7c526eedaf46ad33,qa auditor
+6c140a1908d600f5,qa inspector
+607700c212f15fb9,qa assessor
+0d1cda6c1d0267af,inspector qa
+e54ffcafb734531d,qa auditor
+9a5d99b38aea9696,chief inspector
+c50c64ab587c7482,qc inspector
+af1a74f3e97b3694,qa auditor
+1f1d571fb65cf21a,inspector
+824db36d8bb48300,qa auditor
+4f7e71565e48987f,qa inspector
+e5cc922b2b58c8ec,qc inspector
+920d84ad07a7e95a,qa auditor
+07fb01272c52be6e,qa inspector
+efa6761f08e4b21d,qa welding inspector ndt
+3b74d2c146354110,qa inspector
+357fb1fabe1eba61,qa inspector
+8c93773cebae5b07,qa inspector
+56da7977409f7261,qa inspector
+0321f4c7e3ad018e,qa auditor
+4930015b6eff5fba,qa auditor
+2eaef285fc2d2292,qa inspector
+28b2d6ae95d3e014,manufacturing qa inspector
+68873faa5f5e1c36,qa auditor
+1f6526ddf34d05fe,qa auditor
+b968d234e5d035ba,qa inspector
+0db470b553d0c2a6,qa inspector
+97610a3c86e7ebc1,qa inspector
+5ac098590976f6f7,qa manufacturing inspector
+2a4b2faf20512584,qa inspector
+8dd09a9c4498cece,qa auditor
+7b7fd76ac62d7f87,qa auditor
+d3c8cc21f929d668,qa auditor
+f18ba527ed5dedbb,qa inspector
+55c21bfdf41b940b,qa inspector
+fad6807ae1bed625,qa inspector
+b4d625120b4fa574,qa auditor
+cdf6af5f5a62f72b,chief inspector
+ece4de90f12126da,qa auditor
+87d02a4911fd1c9a,qa auditor
+b29d04986e8b48bc,inspector
+6525adae0cfe77a9,andy frain qa auditor
+be007c30b3312d5f,qa inspector
+821eedf662d2a4de,inspector
+45494864d31156f2,qa auditor
+a3330bea20be2427,qa inspector
+bb6557c884ac5086,qa inspector
+b4c8741a2aaa01cb,qa auditor
+824b5a9dd84648c0,qa auditor
+a7fc29acc95351a8,construction qa inspector
+d9f0a51f5097dad3,qa inspector
+a8d7f642764b4b5a,qa inspector
+60320f8660db4d21,qa inspector
+fbfccde2a8c8ab1b,qa inspector
+025f048dae28c9f6,qa inspector
+21e7619bae96000b,qa auditor
+49097c611049d6b0,qa inspector
+f2e352cd9e1637b8,qa inspectors
+370ad8aa4f82701d,qa auditor
+950c1d48455277ca,qa inspector
+44afe3afb650c638,qa auditor
+b8d475cbf43b8683,qa inspector
+e0ad330e9fbe36ef,qa inspectors
+6adbede8358fbf32,qa inspector
+e0a36e37ba5cbd59,qa inspector
+6da0405646f0f3fc,qa inspector
+40d944cd7ece8683,qa inspector
+f8473b416f5c99af,qa inspector
+0b34a98f97ca042e,qa inspector
+cb6242307fd44702,qa inspector
+f6bf3d5dc24537c9,qa inspector technician
+1a8767b4552548fc,qa auditor
+fd6ce2916024ba7e,inspector
+2d3413e4386a237d,inspector
+5071ddab3e706f7c,qa inspector
+3f54830bbc642458,qa inspector
+3aecbb0a6ac1b600,qa inspector
+08ea0e9a5b342d2c,qa auditor
+f066c8b4708edc65,qa inspector
+fc5e21f66fa2d5cd,qa auditor
+ee63ee8adce21e9a,inspector
+cb8ff057a8ff7dd5,inspector
+d7de71b1d220c39e,qa technician inspector
+6844b0b063d22f42,qa auditor
+04ff003791db5a69,qa inspector
+6f96803e69348d5b,qa auditor
+36de7220ed9cbfad,cei inspector
+057cb6d081b5941d,qa inspector
+34482ded0e165321,api inspector
+52777c1e157d441f,bmc inspector
+ae62d63af419bd82,fai inspector
+084045f0df3c01b7,inspector
+b1375baaedf434d4,inspector
+0c02b0c064a05944,inspector

@@ -1,0 +1,382 @@
+_id,cleaned_job_title
+76c8204a4dcf2e9d,control system engineer
+a427c9a10e010746,control systems service engineer
+0c4cc9fffdd0072d,guidance navigation control engineer
+cda1c54e99c526f5,guidance navigation control engineer
+1c57ad4c93e89fbe,guidance navigation controls
+4886a57f18aab9c6,control software engineer
+9ac369fb7c44aa00,distributed control plane development engineer
+85d1a3d7625012b0,measurement control systems engineer
+d97cd742cc62c942,distribution system controls scada engineer
+bee6e3a554c67fed,principal software engineer control path
+744d1e88ee46bef0,guidance navigation control engineer
+d0eb7f687a447c0f,protection control engineer
+756948f5e7b493f3,process control engineer
+c9afe5a31846625b,process control systems engineer
+d68f5b2ec86dca8b,advanced application controls engineer
+ddb057af1385743f,control system engineer
+4695aca67018df6f,process control engineer
+46b94183130c5d48,quality control manufacturing engineer
+9442ae73ca6c5388,traction power engineer
+0e39f18439615d27,lead process control engineer
+ee9b3e7f953cc487,guidance navigation control engineer
+0c45ebce29033e70,guidance navigation control engineer
+cf54c99f809fc1d2,automated vehicle control engineer
+3c4d1c7ac1d4f84e,guidance navigation control engineer level
+636f7e85f8d9fe92,control systems service engineer
+d7a396f162b2fbe7,traction power engineer
+b128fa3107278096,fpga control theory engineer
+3bbc88760c2202da,ride controls hardware engineer
+628f9c9076bb8813,process control engineer
+a5a75e5789382d4b,process control engineer
+222b5e9bf4c61928,control systems
+93c44f861ddca70f,trane hvac controls project engineer
+cc3b740b1acbad87,process control engineer
+eedcd05cf805941d,process control engineer
+140928ffb0273492,command control systems engineer
+9a09041208470e18,flight controls autonomy engineer
+1081e6d574f11c7b,control systems project engineer
+c2627dd94ffd2327,control system project engineer
+0b9bf7001e072097,control system electromagnetic design engineer
+fc21c40f701d30f8,document control engineer technician
+7edf52be3a18b409,control system engineer
+27aca75884611a6c,guidance navigation control
+59b4108776f80496,guidance navigation control
+e65e3ae79a3e544a,staff power electronics controls engineer
+fb458fadbf7a0b69,flight control actuation design engineer
+a19000ab26be978e,process control engineer
+4b86c7b86ff72244,vehicle control engineer
+75307ddefb4e6037,control systems operability engineer
+c32a76c932f6df54,motion control sales application engineer
+52f703caf4695bb3,protection control engineer
+e6cd6e3c8adfe2cb,human loop controls engineer
+4b4d26b092862649,lead protection control engineer
+e5c45f899b35619b,guidance navigation control engineer featured
+5973ae8aa15fd18c,weapons control systems engineer
+4bbf598afb2d65ac,control engineer
+0311fa0a9952e8b8,control system software engineer
+28aa676d9f44de13,guidance navigation control engineer
+36041358be0d1ae5,motion control systems programmer
+731f56ecce114cc0,guidance navigation control
+b17c7193015e3075,process control engineer sio program
+072625afc1e02594,navigation
+920fa4bdf89954b7,guidance navigation control engineer
+e2efaa2e1ce97cf8,experienced autonomy engineer
+3b24074d94da9454,guidance navigation control engineer
+d458cfc9d4a5ee22,engineer motion control
+a88061b75000fb93,guidance navigation control engineer
+cf9321626b566a95,process control systems engineer
+21987e48167d7139,ground control systems datalink engineer
+f7c23f52d8204a51,supervising traction power engineer
+23db94d2caed01ba,applied control system software engineer
+fd10e00b7f8c8506,guidance navigation control engineer
+39ea62698fb3ba96,control systems project engineer
+4e00f2c6ce056013,control systems
+7cc2d2ed839d1cfd,instrument control engineer
+bda6d19de460b212,process control engineer
+786fdca7da1ab31b,prinicpal project control engineer specialist
+27bc4bcd65f60bda,process control engineer
+ff53d0a8a76d9404,guidance navigation control engineer
+cdf26ab228233ffb,control instrumentation engineer
+7bc0f8037f028c92,process control engineer plc programmer
+bfad866c4371842c,control system engineer
+ab3bc850dd8db02c,software engineer controls autonomy
+103e31746861859c,driveline control module product engineer
+90f1941d4e98310f,crane control engineer
+1f9f5f1cb1fd90ca,protection control site engineer
+bac15f9e5060b466,control system engineer
+e8ada6957e0c9594,train control engineer
+4f0cdc0e45e6ad2a,protection control engineer
+2b018e4f8b1fb2e4,development engineer motor controls
+ee19ee3a2aa05d50,process control engineer
+c3da9df3828af0c9,guidance navigation control engineer
+a8d7d9472cad24f4,control systems sales engineer
+1adb2abed2f18dcd,process control engineering manager
+4cfe620f8839bf07,software engineer source control
+2dab9db623eb4af2,brake application controls engineer
+7571ccf83ca1d287,warehouse control systems engineer
+4f361e2822a9730c,interface control document systems engineer
+13bd0230c3081f67,guidance navigation control
+c0f0a8bb49e0b8cd,control systems project engineer
+5c91cf064ef44dd8,research control systems engineer
+0f512309d10f985d,staff engineer control systems
+da76052e656d22b9,ground control systems engineer
+ae6b9e2fb25b31aa,control engineer
+ec56cb161ac4e347,planning controls engineer autonomous vehicles
+42f64ae2c94ec6b8,software engineer guidance navigation control
+2fea99446b62b7dd,space systems control engineer
+b1f96d3e112e446c,control fluid engineer
+393e9727d391d9e5,flight control system engineer
+590f9fee147d8453,av control system programmer
+caf97f1d0d4e3042,guidance navigation control engineer
+97a4d998a758f75b,protection control engineer
+17bab6707ae6d928,process control engineer
+e4094200740413a6,power controls technical engineer
+ed8d562c9f2730d0,control systems service engineer
+efc15272f507b0dd,lead engineer control system motor
+8648ec34f049a64b,guidance navigation control engineer
+3253bb2e1c3390e0,systems engineer command control analyst
+1370c71317dc6167,lead protection control engineer
+6c1d60ccff4c49af,programmer control system engineer
+9394b675096dd54f,motor control engineer
+7702dbfadd098f15,substation engineer protection control
+21268685bffac52c,guidance navigation control engineer
+1a9a285713afd8be,protection control electrical engineer
+29f93e869ca9a67d,entry automation control systems engineer
+7fbee0462e68d285,control system algorithm engineer
+f8315fcb5d84f866,ride control software engineer principal
+467d829d42b8a2f5,vehicle system control engineer
+6dfd87f8288d682c,guidance navigation control engineer
+a96a49fc13695d12,protection control engineer
+09a793cff3f4c8ad,guidance navigation control engineer
+88639b00f7e4ae83,process control engineer
+d771a22dd28cf87c,ride control systems engineer principal
+4a043286f9efd865,loss control engineer
+a4afa5551efd1926,engineer guidance navigation control
+d1dda833d88d2ff7,process control engineer undergrad application
+fe485e8b6dfc5867,mission control engineer
+28746afc3d376124,engineer process control
+6dc6cbe4b4490431,power electronics control engineer
+9ce036d6099b369f,control engineer
+82f0453ededf9726,monitoring diagnostics engineer
+b44ea1268bc68903,battery control hardware engineer
+d2464324a4542a8a,guidance navigation control engineer
+553de64a86e8beaf,global process control engineer
+409a63e5870a8a2c,process control engineer plc programmer
+48f0fa4e304c4130,quality control engineer auditor
+e0df39f2b564a6f0,control systems engineer industry
+dd4a8319a16825f0,process control engineer
+2b6916a6957baa81,guidance navigation control engineer
+9d375db747c6cad7,lead protection control engineer
+772112707d375384,guidance navigation control engineer
+17f13c5f2ab53868,guidance navigation control engineer
+6ba1b010017c983c,body control module
+79f4193bae76e3a6,mission control system engineer
+417c7ee57711cafd,flight control actuation design engineer
+81ffea801aa10750,train control system engineer
+28071eb1ae8fa305,process control software engineer
+f917c35a6e872244,guidance navigation control engineer
+27e020f92661162b,control system electronic design engineer
+06d316882142c51f,process control engineer plc programmer
+2c0eab38a510b003,guidance navigation control engineer
+2f5fa6e72c683d3c,programmer process control engineer
+24bdbbfd8179de1f,protection control engineer
+1346a5c46b87dd6a,control engineer
+2adc2d747a4ebbcd,plant process control engineer
+285b427576f60bbf,control engineer technician
+86bf441f07c63dbd,instrument control engineer
+831415c34e546cbb,command control intelligence engineer job
+fdcb09ee066b04df,guidance navigation control engineer level
+dc429f08565bfd37,vehicle control systems development engineer
+b354f4e96f82b0c5,command control intelligence engineer lead
+b53c9b6c9410663e,engineer guidance navigation control
+871d72238a0e00f0,project controls cost engineer
+3d22292f36cfa6ba,engineer flood control
+9e5c13e90377511c,control laws engineer
+7605f9d43d775a80,instrument control engineer
+d2fe3094afac289a,ground control engineer
+60e1b61be5222ee0,production control planner l
+c3f0bff842ce7907,monitoring control engineer
+85da16d04a26e85a,construction control representative
+9423697c870aa5d9,process control systems engineer
+3b8a6b7c33fc4ca3,project control engineer specialist cost
+c96027c74d374571,engineer control
+c15ae0f7799b2b50,process control engineering superintendent
+be7d94bf70dfd432,controls engineer minimal travel
+c3c0a0dcc93fb9df,instrument control engineer
+ed67cf8d700e5393,control systems project engineer
+2f21bc0e2096315e,vehicle dynamics control cae engineer
+4c23087bf6960ea0,engineer monitoring observability
+bf71f0b7998d7aeb,process control engineer
+58a4dc9967a69d12,quality control project engineer
+61baa083d51eb1eb,flight control systems engineer aw
+c4d3d4b61ac8ab00,enviva emission control process engineer
+d25dd3053c52ef57,model based control engineer
+8aa1800dc3933439,advanced process controls engineer
+2a5b94deabef9daf,operation control administrative
+1c8b8634312ed136,instrument control engineer c lead
+133e90da9b637a07,guidance navigation control engineer
+acb1d5ed3690f387,process control engineer
+dc0b338288dabc8d,protect control technician
+3f34c9e22cff4110,process control engineer mo
+74220c8e7ed9dd08,project engineer control account manager
+56ab12c21a16956a,engineer configuration control
+9962717707e27ee8,level control systems engineer
+15ab79cb47c87468,handling qualities control law engineer
+bf9d3dd20a7ad165,project controls schedule engineer
+ad0c68c1ca674d2b,transmission controls engineer intermediate
+fec205801fa823cd,controller
+72547a4489641948,lead test engineer controls validation
+16500c20f17cdaf7,control actuation test systems engineer
+f110ed2fa43e3ab4,protection control customer site engineer
+bdc22170ea39511d,command control intelligence engineer job
+e9a2d858bb046d35,source control stormwater engineer
+f631f9e8fee80e87,contamination control engineer
+7abb803febc6f51e,facilities control engineer
+8188a5a386842a6f,process control engineer
+91a8308b7adcf162,instrument control engineer
+3b5395f6b6c3b04e,control systems project engineer
+31b26b26eecf0291,instrumentation control engineer
+5d5735b6b6098bab,process control engineer
+c8429c3dfa73aa81,contamination control engineer
+b5ee8108298c0424,process control engineer
+bf3d9b17022eaf10,instrument control engineer
+35c850c71d457556,embedded controls air handling engineer
+2c67893e89d86f44,process control engineer
+bdc6ddc5fba87c0a,parts engineer production control lead
+3fa658a42a2dffe2,battery control
+2f927b5f7cfc545a,space control project engineer
+0c676aad40ad8bda,lighting control programmer
+e6b05eaa2f6365df,advanced process control engineer
+03ce100ee14c4b74,engineer transmission protection control
+8e90b8e5b273ded4,control system instrumentation scientist engineer
+7a740845e351f215,contamination control engineer
+a5cc357d4753ca49,engineer guidance navigation control
+79394876a6bd7082,control engineer
+1448d7e85fae1bff,command control researcher
+4b6f594b89b0f711,guidance navigation control engineer
+391297900d55e3b1,control instrumentation project engineer
+73f90407be84e3bb,flood control engineer
+41eceeb49084220c,automated vehicle control engineer
+0fff68a824263946,process control engineer
+c5ed7692db677b15,process control engineer
+a506c9e909480dd9,control systems research engineer
+dbd7989034e70f46,process control systems
+f987f3a40be62a45,control system engineer
+ad26ce46d67f978f,traction power engineer
+3602483cbbbc1bd4,level control systems engineer
+e2b047945e78e46a,engineer traction auxiliary controls
+5675f147b05326d2,plant process control
+3a9b39c7fc1a0406,process control systems engineer
+59e970c985dfd3bd,energy power control systems engineer
+1f30b06db3b9ce9b,control system design engineer
+ef670aa472d39ea1,water control systems engineer
+345561435257d352,control systems engineer slam
+17a5a54d11e84258,plant process control
+e06be6635d8f2115,process control engineer
+209233df7379cd85,advanced process control engineer
+bf1ef16c1d8a86ae,manufacturing planning numerical control engineer
+397208aeed0a79f8,staff engineer control systems
+f08c39017570f7e6,guidance navigation control engineer job
+c78679b6a4d9f519,process control engineer
+a59c42c271f76e1c,process control engineer
+524f353a36a6a761,instrumentation control engineering
+a833e6cd4de37407,process control engineer
+f9ec20e45b4b3325,rwd torque control calibration engineer
+e1125c2f3e3ebb16,control system engineer
+c0d15e50d0cce609,systems engineer manager motion control
+12e667ba0a0fe753,guidance navigation control engineer
+8753231688a7399a,engineer vehicle control
+fa657bfcb530d62f,autonomous driving control engineer
+d0ddfa28663e97ce,model based control engineer
+63318e5b5968f446,guidance navigation controls engineer
+9e997b92300ba678,vehicle control
+589429b07690a924,vehicle motion control designer
+0e4efa39c73f4ef7,system level autonomy controls engineer
+9d9d96669501a4b4,autonomous vehicle control engineer
+ec355f1999abc7c9,guidance navigation control engineer
+9aca1cfe09ec8102,control systems design engineer
+4bc841e54f122491,software engineer planning control
+5fe0b33080d424e6,accuracy control engineer
+d5883c20d84b2063,accuracy control engineer
+7cdb83f1cb96a736,controller
+a2ed93c2fcefd60b,transit project control engineer
+8d124c3df6d6e2a9,controller
+b5fb38b79ed754c7,project control engineer specialist
+18c89eef64130062,control optimization
+abac1c65a39fce95,guidance navigation control engineer
+080a8ad40420a739,controller
+2678514b65e02398,controller
+30906f34902d9f6f,researcher control optimization
+e30a8748d75c77a6,controller
+16786a7ac9c35074,flight controls autonomy engineer
+1623c053538219e4,avionic embedded control system engineer
+e24f7276c3169ba7,controller
+42234630dd8c31de,controller
+17d74733db787c65,construction control representative
+f53d360d81393a5e,material control receiver
+9c53a65c4277bfba,controller
+ec8f660f2f8c5b01,controller
+d86bd0ae9a381c47,protection control engineering
+ed362fd7ffc708cd,nbec project materials control
+5ca08ad0d0917d2c,material control receiver
+3974750f0088e852,controller
+f34a54ef5e0ecd9c,controller
+fcb0251767e64499,controller
+a17c62fd49bc1f8a,controller
+e92a1de940c3bf81,controller
+f0f4231cf1eb4261,controller
+ef822f4077d12c44,controller
+ee94cc8aaaa262d6,controller
+dd00f2ae624d95f5,controller
+57cc5919657419dc,controller
+f60c3fc1c0997d40,controller
+f1ee468900a9b509,controller
+c078d94d8a8bc465,controller
+38e5590a375c2f1e,controller
+4074cab40d17bc80,controller
+e43c653bea06ac9a,controller
+3ec3c48df68a4583,controller
+d71019a13dd16c26,controller
+f4d670384c0620b6,controller
+436548c8a29e8e78,controller
+1c1502069f4c64d8,controller
+ffa132086b7cbd8c,flight control engineer
+3801055b5d8bec7b,motor control engineer
+625382ab8437f6b6,guidance navigation control engineer
+3f276e8318f0c826,embedded controls air handling engineer
+4e5eecda919ab1d7,spacecraft guidance navigation control engineer
+75fcf23c454bab4b,steer wire controls engineer
+6c88e183866da078,control engineer electric motors
+3eda6fb35ffa9f78,guidance dynamics controls engineer
+2d6ae8acc4a16a19,guidance navigation control engineer
+c36a7275daec1721,control engineer
+bda55fab6dfb7651,embedded controls testing engineer
+88fce675106e06b9,project engineer control systems
+def860e858914c8b,command control software engineer
+564798dd3b9c5eb5,control engineer
+7bfaa4df12c274d7,software engineer planning control
+812dbcc1432e46a7,dynamic systems control engineer
+13e5d6c66c728f11,power controls technical engineer
+ed67d50b5921e0e3,mission control system engineer job
+9027b876eff23a91,power controls technical engineer
+1fcb7434a7ef161a,dynamic systems control engineer
+005e3e30077385b6,dynamic systems control engineer
+6d4b4dd955dd88bb,process control engineer
+8186e4d0b44b3e25,guidance navigation control engineer
+fd93d78425454608,plc control engineer
+2fd93941d111d63a,automated vehicle control engineer
+774703d5b2013408,control engineer
+64b4141e3dadca10,dynamic systems control engineer
+e2c0658899235ac0,nonlinear control systems engineer
+f7d73b348ed661f2,motion control application engineer
+e3ba8911810fe3ff,process control engineer
+d3aa9875871fe7fd,control system engineer
+ecd218973758c508,guidance navigation control
+eeac396383caf1d1,control room engineer
+3ea6f804d1332933,process control engineer
+66ff121514d64157,control systems project engineer
+1399c2b3d3b6d5ed,instrumental control electrical supervisor
+cf772ece3263b168,dynamics feedback controls engineer loon
+483866c5ba60864f,control system engineer
+53684e026cd43f65,process control
+6227e3af7da9e44f,process control systems engineer
+589648d691aae45f,process control engineer
+2c3d953fc9139861,instrument control systems engineer
+b38ff19710e62035,command control intelligence engineer job
+e43b01564cb631ab,process control engineer
+69d449950f693af1,process control engineer
+b4d67763a9e55042,process control data engineer
+43ad93a1fcd96e7b,distribution control integration engineer
+7a10b232283f15e7,process control electrical instrumentation engineer
+34df19d4453aca0c,control engineer
+41991d2431c75fde,vehicle control
+986b7ea68ad06ebb,process control engineer
+a9f97d3f8c8f53ef,structural control systems engineer
+5980049b803ba10c,transmission control engineer
+6a0482ac608c6f98,process control data engineer
+fca7337fa4f351c6,project control engineer specialist cost
+dc80d8cf21de4d68,process control systems engineer
+509c409428715ce6,command control intelligence engineer job
+8e3d535a32304346,instrumentation control engineer
+7ce8fd849e3e9524,identity access control engineer

@@ -1,0 +1,131 @@
+_id,cleaned_job_title
+58f65c3c8ef7b8fb,mechanical processor
+41a0358a917dc4d5,geophysical processor
+7e5587b477608bd2,geophysical processor
+651faf410993adb9,lunar curation processor
+0518779e0b6493ee,temporary applications processor
+5b23575528decb9e,document processor
+43249c9cfb47dad6,exhaust processor
+734f0a372750201a,payment processor
+75a9cb1bbd67af0c,document processor jn
+0483e0004d879817,receiver
+5ba4a9a8537720d7,specimen processor
+7818faf8eabfa436,commodity manager processors
+ebe018f4bf341a73,powder processor technician
+0d5c0e45109b8e61,item processor
+4fc1fd3507f55681,specimen processor
+bc1d8dd35d89d895,processor
+79ac6b76706e931b,processor
+03699daa9b8dcdeb,reinsurance processor
+e1c44c2fb1cca04d,commercial loan processor
+a611c3d5933b2f89,data processor
+44260f117e0e8ec4,loan processor
+b8542bcbf02e7cf9,loan processor
+213991c4775ea78b,r processor
+3bca6aba454d8e63,mortgage loan processor
+0c1bcb9449112210,grower
+d925b794ccaa99b8,display assembler packer
+3298c3cce3fe48b3,crater packer
+f295c26b3a6e5235,pap application processor
+cd4a215f9a8c862a,mortgage loan processor
+e2d88b461b71b017,order picker packer
+217f5af47614e425,roaster
+d700f6ba8e459521,packer palletizer
+b5cf9fedec8f0a4e,packer assembly
+a1db084b95d2c3f5,production assemblers
+68e4aa8854049fa7,milk receiver
+937fecf14a76ba06,finance loan processor
+f801006b6f5f8521,receiver
+1b3abec8817c1189,mortgage loan processor
+f6feb3d737436fdd,sterile processor
+85645424862334f8,pastry packer pastry production
+81ae001a17bc35d9,picker packer
+1411058505fa6d12,clinical specimen processor
+c5638600831ac745,production packer
+fd041aa2011e032e,blender bolingbrook
+74cb602d4ac43941,gr processor
+67a403d3ebe86b41,mortgage loan processor
+644684936aef7469,claims processor
+93ddd6c44ee02d70,phlebotomist processor
+fb545863df4ee83a,specimen processor
+93ca52afc174a56b,sterile processor
+4a5afa2db834b63f,transaction processor
+81ae80ba6e1eb5b2,receiver
+59551376b2a3ff33,mcallen processor
+f4d732ce19da549f,picker packer
+ca2dc2945796d2c9,complex specimen processor prn
+47f2920b03f55a89,indirect loan processor
+01880996faae48ce,packer
+cc1dda0b09f53688,vlo processing
+4c1e4cf86657c335,packer production labor
+049aa398c9bdc09d,merchandise processor
+44c947a23757b70d,clinical specimen processor
+eb3215c4628ddcb6,phlebotomist processor
+854ba808fcfcb7fc,packer
+13cda8c87b09456b,construction loan processor
+b9280de109c4fc18,production assemblers
+3b35a0c058efb3b9,packer
+180e9cdbd0da65ff,processor
+94e77834e9573d31,legal word processor
+368d64cd3ff5724c,specimen mgmt field processor
+8333a289ed1b6278,complex specimen processor prn
+33aac709b60d08c1,ghxpro ghx processor
+fabb8700b16c3bea,production packer
+65f73c678717d66d,mortgage loan processor
+ff28ccd0d4fd6f11,phlebotomist processor
+8321cd2d3b45d6b0,packer
+f1c0825329fb702a,nametag processor
+ebd429a4df67d642,insurance processor
+32b7197057776f7f,laboratory specimen processor
+0b140932f4802ff1,selector packer
+910e6000624088fe,data processor
+e00ceb6acbc60fb9,phlebotomist processor
+4d83b83ad3ad5d9c,packer
+8e0c27f8f20237d9,claims processor
+0266f6abfaae613d,packer
+a04516257e24b6f1,clinical specimen processor specimen accessioner
+fa5f3172e8b66cfc,pastry packer pastry production
+08368cfcf22dc1e5,sampler norcal
+3059b1ece3514923,specimen processor
+aecc35cdf4cd2666,picker packer
+10f20976ed7250db,tax processor
+26137ab00181b2d3,processor
+609458b807b9132e,line processor
+60ab1b36ff2001af,dairy farm
+613f58e3c9bf1948,lead specimen processor
+5484578864b7307d,consumer loan processor qa
+c84cd2b887da68ef,merchandise processor
+1b2e01d670425798,consumer loan processor
+d97d5839dc61958c,shipper receiver
+f488be75696deb40,fe processor ssrn
+cf4a8ad2f310fd1a,phlebotomist processor
+ed2a5eede8a81fa4,mill packer
+ea6f3dad7c71289c,sterile processor
+20f612fdde9deb06,distribution processor
+14e5caf667dc70dc,ghx processor
+e8bc66b0d8863ccc,packers
+2be3123197897961,order filler packer
+efbea8aef64d9866,receiver
+b0796664565c9ccd,processor production manufacturing
+dd49524ee637216d,tdt tax processor
+70428c0b5ef7b2b0,claims processor
+9243f6bc551c973a,pension processor
+07a7a76968b3bedf,claims processor
+f0f5db0982cad02f,pension processor
+daf586185e8550ff,payroll specialist processor
+2b4bccade7a54e2c,processors
+cb89c0002a61e3ac,bill processor
+856c1b71ed756569,carrier processor administrator
+3e494bd35b2604dd,commissions processor
+06cf7cf7a12b3bf1,energy processor
+e3d266db4770b0ae,commissions processor
+ddf83184e4cfcb40,loan processor
+649cf4a469781719,medical bill processor
+1cdc862a98b03cd2,order processor
+c5460d9ac0a53740,commerical loan processor
+1b355c6a8c117767,claims processor
+441d05718e4e0c8d,order processor
+a903993d9cc3fda2,data processor
+807ca185150367d0,document intake processor
+0b16fa166e2f36a3,blender
+50a22b52e5e587de,microchip packaging

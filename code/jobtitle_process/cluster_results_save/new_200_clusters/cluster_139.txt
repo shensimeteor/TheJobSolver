@@ -1,0 +1,387 @@
+_id,cleaned_job_title
+b6c6a084bece3ace,concierge
+f98ac0021871df47,room attendant
+61f863f4f4c8b8f6,room attendant
+3f0f384320ac23d5,room attendant
+56d18813fd59bae5,room attendant
+e798d46ac4f42fa6,stockroom attendant
+fe874a89ef44b573,lot attendant valet
+fd81f1bbc2c286d4,trainee bus attendant
+2220ed66cb9912f3,paper slitter attendant
+c6820cbea77d19af,laundry attendant
+f2b9ed73ff21c64c,breakfast attendant
+986320bee5e3cc95,gourmet coffee attendant
+bdb2703ac2e7378c,loss prevention attendant
+2bb94003ac065f0f,lobby attendant
+5ab110d6484a3061,breakfast attendant
+e1ebad89b64d872b,breakfast attendant
+64da606e4a80676b,breakfast host refuel attendant
+6a76186c59c8b715,laundry attendant
+fd31879d235c451f,laundry attendant
+126a06b5fa2d6c2d,automotive dealer lot attendant
+da554338679607e5,chemical dispensing accumulation attendant
+b4f0af49957cb4f3,spa attendant
+fd8457653012ff65,ice holiday activities attendant
+be908e0eb5bc506b,dining room host
+7400474f957369c3,ice exhibit attendant
+ffbef052490a4184,lead spa concierge
+3fc8c3ba9f41a4e7,concierge club level attendant
+b8c0e5bfaddc1cea,beach pool attendant
+bcdd000711cbb5eb,seasonal attendant bar
+cfb8b1d7a5ce9943,overnight valet attendant
+1beb4db6643b111d,ice retail attendant
+c3a3c6b505f88d76,bistro attendant pm
+aae902b2483fb33b,recreation attendant
+fa2cab83083f2435,dining room attendant
+34d05e1200bd9b3c,spa attendant
+e388083a41bee13b,guest attendant
+9399af464fde67a9,public area attendant
+72e71849e665cbc7,housekeeping suite room attendant
+a7cb430aef8c64b1,house attendant
+298b986e637bd6fb,lobby attendant
+5ee3de0c474f5bb3,ice box office attendant
+b4b539de22901189,spa locker room attendant
+32bf16beb27f69bf,room service attendant
+baf82f8031029094,holiday ice attendant
+403ab00079f74ded,attendant food beverage outlets
+0dd5971345d98e19,soundwaves public space attendant
+054928c40a2efc58,laundry attendant
+893f3bf1f36f4207,valet parker
+f4452444ba85caf2,concierge attendant
+d035fb425413d401,laundry attendant
+db67dc57b878361f,dining room attendant
+1ef97943877abe95,concierge
+51ceb9af5589f164,valet parking attendant
+9cb8808487157cdb,parking valet attendant valet parker
+f930301037c8029c,porter server attendant
+4556b5c11389174e,spa concierge
+6732ca78d2450df6,dining room attendant
+c9525c7f29fde7a7,dining room attendant
+83bc161fb267a4c1,loss prevention attendant
+383654fd9a130bab,cafeteria attendant day shift
+279ed2ed8b8d7fc2,lead spa concierge
+f5d470e4903df3ee,concierge lounge attendant
+abac3b5fc7433c9a,laundry attendant
+628a64022ad89122,food beverage attendant
+1caee7c7c4732727,dining room attendant wp
+a3fa77ffd46e412b,spa host
+ac4f2bccb7240811,concierge
+6d9cf5d0435042a8,spa host
+c4a9ea1eb27677d3,lead tool room attendant
+1066508a533b69d9,room service attendant
+22f8b57cab04207c,bar attendant
+a1eeb59a48067bd9,dining room attendant
+3b6f3bc71db85a4f,laundry attendant
+1bb33454c05e4902,door attendant
+ab49914e44c1fc36,night laundry attendant
+0c341c0e16cfccb2,overnight bellstand attendant
+d0fc2125a6da7ab0,spa concierge
+168b68ffabcc4321,shipping receiving attendant
+fc6d293bba47cc34,door attendant
+a12386cb52c29659,room attendant
+943a8e870002e136,storeroom attendant
+48f733ecc7a504c1,holiday ice attendant
+c9eea6f151efc9a1,laundry attendant
+4d2dbb5383d17b71,recreation attendant
+00ef6c21b3e7203e,valet attendant
+f049ff9014c24417,dining room attendant
+0606ef12f319f499,lounge attendant
+99d80a067e48de6c,breakfast attendant
+518efb23bf3f1488,hazmat attendant
+f21c8e2f61089569,activities attendant
+29efb5e9e74865aa,spa concierge
+e0ce653418a4e317,room attendant pt
+94cc8c499e74b61c,cafeteria attendant
+007b5093417eacdb,spa concierge
+8f932f4e00e334ed,concierge
+b90ce391332be01d,ice exhibit attendant
+39aa68bf83af0761,houseperson lobby attendant pt
+7c65f054c5c652d7,valet laundry attendant
+9e584083cf0415c9,extra house attendant
+eb8b89424b4df445,ski valet
+33389b7501d098eb,guestroom attendant
+b3ce1fd0436cbf59,housekeeping public area attendant
+1801e79a75128429,special events attendant
+7ce7edc2945a0860,lobby greeter
+89b65c41ea1ea675,westin club level attendant
+60a2f1846f64a058,door attendant
+afa9be1d9832f8f1,tool crib attendant
+5d35b37f7f0800b0,ice box office attendant
+bae860e9c50e2e3d,aisle attendant
+90c0ac024b5a56ae,recreation attendant
+c089ff267522f8ec,laundry attendant
+9745a582cc65a85b,sign bonus house attendant
+284cb61dee3f52b2,breakfast attendant
+d7297a0fec4189ba,breakfast attendant
+20d60ac39ae7bd96,facility attendant residence inn marriott
+9e6decc7e90b456e,breakfast attendant reception attendant
+080038e339f7c929,special events attendant
+2ed20d7f87f7c914,food attendant residence inn marriott
+b82530574c4a92a1,laundry attendant
+4b3702cc2d28f14b,recreation attendant
+ae1333bc45463941,gourmet coffee attendant
+459938e81d8296ab,bell attendant
+41d4cd1c4b20a291,lobby attendant housekeeping
+65822518281fad52,counter attendant
+5d432909044f2af1,room service attendant
+95a363538169f1b7,room service attendant
+0f43b67200be89fb,recreation attendant
+7cbf1e78c0efae88,food beverage attendant
+efcc00d682314821,seasonal aisle attendant
+714d38e29fc01e77,concierge
+12b4f16627f45c73,laundry attendant
+878f23ba0d8fa3d9,door attendant
+605ae02759348ec9,turquesa pool attendant
+bc679713015941d5,lobby laundry attendant
+06779875c45f58e4,concierge
+8fb2aea604df6ac2,lead spa concierge
+aa888c5ff41d6ef5,spa locker room attendant
+6471fc46ab54dfec,room service attendant
+47e2b8074612924c,pool beach towel attendant
+763b3454f768c550,lobby attendant
+a0cba8d66aadb376,laundry attendant
+f76eee56f495198f,parking attendant
+f84b9b9818858f63,room snack bar attendant
+a600a715602ded78,laundry attendant
+b6ff2895eea21546,recreation attendant
+caabb756df5d0bd1,banquet house attendant
+b70b4e8b7a5d3989,common area attendant
+a59011b5caf1cfe6,shipping receiving attendant
+05eec2c68f2f42b5,laundry attendant
+e301c460fdb6d025,resident attendant s
+6785638b0b7da174,valet parking attendant
+0ac036a2f9f7559c,dining room attendant
+c1f61685c5046da6,common area attendant
+fd5e0379ec950ef0,common area attendant
+5ba72b76d1f5e8f6,dining room attendant
+6458ca6da122dd2b,spa concierge
+39faa4022abc44ef,beverage attendant
+865efdefe40b395f,lobby attendant
+2e10feb3c69a37ec,bistro attendant
+da473d2cb2bb1aa7,dining room attendant
+025ce5a88cdee556,bellman
+95394353ae56acdb,lead spa concierge
+4890cd2b636b1f54,club level attendant
+d2d66612e2b61cf4,dining room attendant
+9b4a180e6ea4cf04,loss prevention attendant
+b105ffaf9aad49f6,room attendant
+bbefa6ba263be49a,shipping receiving attendant
+96bc270a1b82e9e5,recreation attendant
+1c43a7dadf98c7cf,valet parker
+844f2702b6e8e5e2,laundry attendant
+b77d365ec21133d2,recreation attendant
+521b9cb2395455b7,laundry attendant
+c21e9d77c56336d8,parking valet attendant
+b5299ad4ee2fcc67,aisle attendant
+5792aa75f47a85fb,concierge
+dd8fec09f156b9d2,cafeteria attendant
+bf7f35288cb15519,coffee bar attendant
+9088a134a20a8a86,lobby attendant
+d947de88b119f975,casual dining server attendant
+b02723da4aa09006,gourmet coffee attendant
+3fceaca78d768052,housekeeper room attendant
+3dd45c20bf07e8c8,basement bowl skate recreation attendant
+6fa3aacec030e781,dining room attendant
+97a3a0343731dfc6,concierge
+c6b41ff1610019d7,wash attendant
+4c45ee1e92750070,server attendant fine dining
+2a958023cff1e635,housekeeping house attendant
+0c9b1b925dd39fb8,houseperson lobby attendant ft
+c2c730c64ea46373,public area attendant
+316bf0d287633233,server attendant
+bf0f70e4738c8762,pool attendant
+c6c4d07760898007,recreation attendant
+bfbdd5c7b1c103bc,server attendant coa restaurant
+cc6ef2412cd453d5,dining room attendant
+4f2601523a0daf55,public area attendant
+f2b4ebad54821347,bellman bellstand attendant
+a6294063cfb024ac,special events attendant
+e4b029f8b56425cc,breakfast attendant
+93b28a859aefa2d7,room service attendant
+d70bd112b33988bb,laundry attendant
+8d5969536430c037,loss prevention attendant
+8c1a706cf1cdb2ab,breakfast attendant
+0514cf8f16c65fdf,ice retail attendant
+fd7da0dd8a6fa624,gourmet coffee attendant
+b638eb1189ce4f39,soundwaves public space attendant
+6aca50c683f17a4b,luggage door attendant
+88be0668b3a1f392,banquet house attendant
+319fec7e12a0b241,laundry attendant ft
+b90d2e04a395d9ee,lobby greeter
+c85fb5ff013303aa,coffee bar attendant
+50fc21271310554b,valet parking attendant
+369a7cb3c9a280f1,door attendant
+34ead63cebbe50be,laundry attendant
+c562ac5cecb7aa45,spa concierge receptionist
+b6311362f59d90d7,door attendant
+a688ccd91aa0ea1e,spa concierge
+2351c328dc5a2bd7,mclub concierge attendant
+d19210ff0d342469,ice holiday activities attendant
+159381cb4a65fa78,housekeeping attendant
+0f1bb184dc72f530,laundry attendant
+e90f943fc728cbd5,room attendant
+8815470a5a60192f,common area attendant
+9a75f35f239e7dad,ice holiday activities attendant
+e886af1848d0894e,breakfast attendant
+8239e72fcb245259,spa attendant male locker room
+f8c61f0e9f7af25a,hotel breakfast attendant
+6b453dd9314b0524,lead recreation attendant
+fa05ec1450f91eb5,gourmet coffee attendant
+f43e131ccec27531,laundry attendant
+e03cc27de3026427,room attendant
+6d8f37b496cf3de2,bellman
+1fe2843a8e09e156,laundry attendant
+962f064629ef30b2,ice exhibit attendant
+9f9ba931923c3f13,laundry attendant
+1e6378aba5f1c14f,holiday ice attendant
+4359bc8faff3b3e8,laundry attendant overnight
+db2848cf9bb9553a,spa concierge
+55ce936db4135fad,spa concierge
+f2f189973a97bbf4,laundry attendant
+4704e79f015c513a,bell attendant driver
+5356dfd95ffef239,room attendant
+876734f872de601e,lobby houseman
+e17e2c4be837ccdf,lobby attendant
+32796b49f824bdd2,valet
+64c265fd979a3aad,storeroom attendant
+5649ce10d6ff620f,valet
+400e14524ef8760f,soundwaves public space attendant
+c15d243cae91b345,spa locker room attendant
+e7c2abe47e5dd812,recreation attendant
+f4dfee5d0a6a2ccc,room attendant
+c3a8b21e905618dd,laundry attendant
+c28b643b82fb61e0,coffee bar attendant
+bbee47ff80b56be7,concierge
+fe20bba860909d25,food attendant residence inn marriott
+66ebc359fe8b17f1,laundry attendant
+8ba4090bd61bd185,breakfast attendant
+ee3b9a2ff83b99c5,overnight bellstand attendant
+e8f579f1d5fa6686,club lounge attendant
+8b926bc960b6283e,housekeeping laundry attendant
+d8f78d0a792f1a89,fitness center attendant
+e5c3de09e9c931f4,laundry attendant
+d48e340b54242638,laundry attendant
+840ff5c197d944e2,public area attendant
+8bedf02387e35c5f,laundry room attendant
+99a728596b96a2c4,hotel valet attendant bellman
+2fe7af2175d20753,laundry attendant
+c9f51cd258d2f121,breakfast attendant
+6cd8d7dea946817a,dining room attendant
+18b67c1b14745ea6,laundry attendant
+f28567b17cbf4011,common area attendant
+1a661e771fbebf4c,common area attendant worldmark
+3ead7806831c7a2f,bellman
+00dee8427b3bf13e,dining room attendant
+5258570e68da1bff,spa host
+22c64e191c6c73ad,barista gourmet coffee attendant
+caa7d04e4ee3cd94,food beverage attendant day shifts
+01ef25a52fc003cd,laundry attendant
+41f230957cadfe90,night laundry attendant
+6c80334301ef15ac,bell attendant
+a3d512d667e3473e,room attendant pt
+236cbddc868c0946,seasonal dining room attendant
+cfdd32ffe4746cbb,laundry attendant
+24259d3afca96a9c,shipping receiving attendant
+364959e4c5588b7f,house attendant
+4b8b50b21a4268ae,valet attendant
+f27f20d1e5b2ab06,dining room attendant
+6f9eaaedd0fd3851,door attendant
+fbeb5cea27b33f85,concierge
+02e0b4f8bd6f4bd6,common area attendant
+8371b406ae114cc5,spa concierge
+dc46c02e45b491f9,room attendant
+293682a54be57321,laundry attendant
+32995ea949190b2a,room attendant
+6e30c4a510fb28da,bistro attendant
+acca25e0fdad7407,golf attendant
+ead042f0d2f067fe,laundry attendant
+465db9831fdee4d8,room attendant
+5bffe879e3317360,laundry attendant
+e7a31de49d1ee260,housekeeping lobby attendant
+8c0752a3c8583d22,housekeeping attendant
+2f5c401314c5f1c1,attendant
+cdc871f34a91e66d,luxury fitness center attendant
+d02eb7472fe72e8b,overnight bellstand attendant
+5f53d7e5a7cc801a,beverage attendant
+a6e94b2ae4f94f4a,door attendant
+2b60faba2324d94c,laundry attendant
+bdaafd4bc3f4b56d,concierge
+623e3e1dd96888fc,laundry attendant
+245c8b5944368716,server attendant
+43756a12402d2536,laundry attendant
+7c59dcda2e4df34c,positivo server attendant
+9d480a100e43a99f,ice exhibit attendant
+2464c49392ec85e4,recreation attendant
+e909073bf2d606c1,room attendant
+8fb25c9ec61719c0,evening executive lounge attendant
+06b31b84f5864022,linen attendant
+4c5d70d056fd4b6b,lobby concierge
+863999f6509a62e0,ice retail attendant
+1b6929ecad31331f,club level attendant
+cce63b93a454f855,spa concierge
+e0dece0dc7e536ee,dining room attendant
+c80acce55b594563,common area attendant
+cb83affd771d5dd1,houseperson lobby attendants
+28cb0cab01648b5a,concierge attendant
+9bea1721a31b4d3f,ice box office attendant
+e7816b048ecdc6e5,housekeeping house attendant
+f797051ab081478b,spa concierge
+67dacc977a363ba7,door attendant
+5d07fcf44f47f89f,spa locker room attendant
+07eed255aa8406d0,beach pool attendent
+be3fd19322772eec,busser dining room attendant
+ce0fbaecdf19504e,spa concierge
+9ef15c07e0f8c7a6,room snack bar attendant
+1c55ba4e38b07d31,houseperson lobby attendant ft
+1750f3475d46e78b,bellman
+1c8debe8c7724354,spa attendant
+467d82737dfac862,bellman
+0e895b490b17e310,laundry attendant
+2a42af0bc2bb6189,housekeeping house attendant
+c95fc31e06f75012,parking attendant
+46c7ab6bdfc28cef,club level attendant
+f2e0311aa5bdc9bd,ice holiday activities attendant
+f229e49c32389585,banquet set attendant pm shifts
+3649202f85bae023,facility attendant residence inn marriott
+d56dc08ed57ed8ed,laundry attendant
+3c821830424edf37,catering service attendant
+2e9eb2905e938dab,valet parker
+e215b4255d4d3877,laundry attendant fairfield inn suites
+f2b56cfad04754f0,food beverage attendant
+e112ba89dccb16ac,housekeeping house attendant
+60aa3ad8cad3b580,door attendant
+5d7e597460e80832,spa host
+6ddd29b6f42f2582,ice retail attendant
+f64c9f11a65222e5,food beverage attendant
+1e704adbf550bd39,guest attendant
+eea7ccda34b18653,dining room attendant
+8ac3380ec2e69aa8,bellstand door attendant
+ce9191defed7d5ba,barista gourmet coffee attendant
+0baf0725e9a02af1,dining room attendant
+3e2fc39a37613a4e,door attendant
+d1e85b91b8df00c5,laundry attendant
+b3123dc91730a7f1,lobby attendant
+833c46f8b1a9b814,laundry attendant
+e0a750ca0e0937ba,laundry attendant
+5029825f7f397018,lot attendant
+7c727e24f0b7e9ed,buffet attendant
+8201454bdb245829,laundry attendant w seattle hotel
+ba9fb0f0e4213197,breakfast food beverage attendant
+9fe89310db9c8c4a,detailer lot attendant
+add0931567349190,housekeeping attendant
+d4af45bbbc3d6e8d,dining room attendant
+7097e875b124c9b4,pool attendant
+c64a1fac12723f90,catering service attendant houseman
+18312b997b09b1d6,breakfast attendant
+a20f9ffa4b33bf20,housekeeping laundry attendant
+a9a082098ed2550b,concierge
+1ad49c40898511b5,laundry attendant
+ccc7c88c7f018776,lobby concierge
+96e7cde7ca499e86,automotive service attendant
+4ed200f6cce80fc4,wellness lobby attendant
+874df1a392d9ab1e,toll attendant tmppt
+e3a7d5daea267247,attendant
+27318cecc7e4b878,ft maintenance attendant
+5bf0dc642ecf923f,telecommunications attendant evenings
+c3ffb82ef7d0e0e0,wellness lobby attendant
+6e4de9f721c7cada,marina concierge

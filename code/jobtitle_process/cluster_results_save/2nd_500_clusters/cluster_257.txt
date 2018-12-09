@@ -1,0 +1,387 @@
+_id,cleaned_job_title
+b9fc994f4741debf,software validation engineer
+bdec08a58f498a49,software verification engineer
+ccdb273dc2600648,engineer validation
+5b26f20b7f5fd264,design verification engineer
+30ffec08ab6bfbfe,computerized system validation engineer
+a733aced5e8eeade,vlsi staff verification engineer
+0dc4830c70970fc0,validation engineering
+fe1f926c35257f16,software verification engineer
+b255c2416e9c6b54,software verification engineer
+157806e13b476f60,sensor validation engineer
+e94f9b339e970841,manual verification engineer
+7ee55178a2583082,design verification engineer
+c96613c48e0bf372,system validation engineer
+af766a9b2159f336,validation engineer
+74d12571d6f685be,compiler performance verification engineer
+3448fd137d1ab479,bootloader validation engineer
+4d9f34239f0d00b4,system validation engineer
+7e55d19639b45636,computer validation engineer
+93d79ceff2abe654,mixed signal validation engineer
+eab4c6f4ea0ff349,validation engineer
+d20356e4d40ff7f6,validation engineer ll
+545b9bb5a50cbc80,validation engineer
+94924d0bb61007c2,system validation engineer
+4a559cdd8c9ad4ca,system validation engineer
+460764d0094c9af9,system validation engineer
+c87508f5e1df1460,validation engineer
+7a84d73e82f042de,soc design verification engineer
+bca2ba2425646554,cpu verification engineer
+5320c535b2f14a95,digital asic verification engineer
+7ee6160aa58a4b5b,system validation engineer powertrain
+85ef4624b4ccc96a,fpga verification engineer
+1a832cff55609bc6,director verification validation
+aafa5f2e7c34312e,validation engineer
+d6e544473d0f8bab,battery validation engineer
+f2fae6b762dad768,validation
+480525af43a66a3a,validation engineer mi
+4d9ba601105ce029,system verification engineer
+5d0eb5a15b4a63e5,validation engineer
+2bf720a104d7ec29,verification validation process engineer
+18645429d7585060,validation engineer
+68eaa971f11a4909,validation engineer
+76e6892168b50a70,measurement verification engineer
+91b6bddebee7af65,vital validation software engineer
+c2a81271b7f71072,validation verification engineer
+f82de48e1abc1cf0,validation engineer
+abcb7579e3f0b436,software validation engineer
+bd66d30fb4e72c40,validation verification specialist
+24575ed1dfb9b449,systems engineering validation
+797f624af192b5bb,software verification engineer
+884ed738bc679fc4,avionics requirements verification engineer
+e79dbb6fee32f287,verifications validations engineer
+c3ef212b987f17b1,validation engineer
+59638ca932aee0e4,software verification engineer
+e35c1f3b806a25bf,validation engineer
+657f51c3da2d67b8,validation engineer
+3d392cc5e5c98b60,validation engineer
+8519c575b405643a,validation engineer
+529627d7b2f81291,validation engineer
+95bc35217a682737,validation engineer
+6f067924e05e6e60,validation engineer
+58bc312dca85b1bb,virtual simulation validation engineer
+e51a4f7dd29cfbcb,software validation engineer
+856911dd7fe780d3,software verification engineer
+7a9dadf8a3d3fa0c,gmd formal verification engineer
+49f11f968bf28f77,validation engineer
+ea7c720236311498,validation engineer
+c878631dcc1f6136,software validation engineer
+0d80e1cc18539c90,validation engineer
+715f54062c5c2d35,software independent verification validation
+ebcf9d1ef84b4a1e,validation engineer
+578025f66ebbe487,validation engineer
+99b23005c62b90ba,software validation engineer
+a9cf2846b9555673,microprocessor verification engineer
+6c2f86d5649214bd,validation engineer
+4d7b7ab15679290b,validation engineer
+fbec43b11d59833b,design verification engineer
+4af81e023f82d350,flight software verification engineer
+0a900d06da27ec34,verification engineer
+ed95069cb4652566,software verification engineer
+3f5d3c579d1a7014,validation engineer
+29640842c0a4b22a,performance validation engineer
+f2af68ca9754ea78,fpga verification engineer
+b83c31e57a91cefb,computerized system validation engineer
+1e7dbd3207630a83,validation engineer
+40e9847137b46ac7,ept validation engineer
+1dce3e940775162e,validation engineer
+b702b80f028e46b4,verification engineer
+1679d8b3c7e8a538,flight software verification engineer
+03c9c86efebafbb5,ev validation engineer
+92645c3f76d99dbe,assistant verification engineer
+eeb10c43601d2974,validation engineer
+e2a7d2559c0e36d7,pre silicon verification engineer
+5b91c62974175faa,vlsi design verification
+ea73891be1681c72,validation engineer
+510133ef27f695e3,system validation engineer
+2096ea9739094e42,asic verification engineer
+276ab970e6dbe896,validation engineer
+13760614e91fa592,software validation engineer
+94f717c55a43d6c5,design verification engineer
+c5518b48e696f44a,lab instrument validation engineer
+907698cdc5c18a1c,software validation engineer
+a179b8ce162b024c,bioinformatics validation engineer
+324617284f38f78c,vlsi design verification
+b466ef0329cac5ea,software validation engineer
+79cc131a8dbbe472,engineer validation
+b527ac7583963ee5,test method validation consultant
+f446b8e62c92d562,cpu verification engineer
+45ccf2770cd122a1,launch validation engineer
+4fdd5b09d98cfb1d,automotive infotainment validation engineer
+be04bbbf8b420700,validation engineer
+6e614c433094f5ce,otn ethernet protocol validation engineer
+7541bd2c6f037560,compiler verification engineer
+c9c4ff28fb8cb33e,process validation engineer
+1a5bac667feacb22,ip validation engineer
+3002f5c84b34c65b,validation engineer
+da9fdcd911e7b4af,design verification engineer
+70610f998e1a0294,validation engineer
+25658a31f1fcfc86,validation engineer
+8ea0060cb43ecc33,software validation engineer
+bcd4d523b4b3b61b,validation engineer milwaukee
+4965dacd2c1e2e6b,system validation engineer
+2c01f36b496c4f35,validation engineer
+fdb5d27661adffda,soc design verification engineer
+b5e449c013bf4561,validation engineer
+e70b0e79d7298ef0,system validation engineer
+ee9e7bc76e4bd8ee,ebr software validation engineer
+8e43508e23538d98,process validation engineer
+e79074d34d518b27,validation engineer
+b75f41f39f396412,compiler verification compute performance engineer
+f7deceedc6c428bd,verification engineer
+ec090b25b44f70f1,hardware verification engineer
+abfeedaeb68fd558,validation emulation engineer
+afacde4c2373bb49,fpga verification engineer
+17e1b052dbfe8c47,software verification engineer
+62bd3ff0ce4cc72f,verification application engineer
+96a61f9bf459df64,design verification engineer
+80c3afd7421c6bf0,software validation engineer
+5a9050250770ffa5,software validation engineer
+bc2b2754846809dc,design verification engineer
+2969fd53c1bd3df6,emc hardware validation engineer
+b8d0fa0c0b6a9cef,validation engineer
+e4bef88df6fe169d,compiler verification engineer
+b11d5730bd0b8d75,staff verification engineer
+3b6d8126557eba44,cad engineer design verification methodology
+5fbdc19f477655e9,software validation engineer
+c4040bf1e06aea83,system performance validation engineer
+c7364fd7489830f2,design verification engineer
+a1ffc1c2a32aea2b,authentication engineer
+df4158dd5553be17,experienced system verification engineer
+b02344126be882fa,engineer fpga verification
+f1698d732b3f2cdf,hardware design verification engineer
+50c5d8b306f4f568,design verification engineer
+dd6f6dfe51d860c6,software validation engineer
+a5ddbca540a09b43,analog validation engineer
+791f70f82ce69cae,verification engineer
+a8c3c32284cef133,validation engineer
+ca3d657cb0f6a022,hardware validation engineer
+6e2b327e3fc0e60e,validation engineer
+62c70f09661dd312,hardware validation engineer
+e4c2f5259613c6e4,software validation engineer
+755da04cb1d3c4bd,system validation engineer
+3568b29beedca441,fpga verification engineer
+a1f1c0b7a9ca29eb,validation engineer
+f16a35349b2d0288,verification validation engineer
+7579c7485864bbd8,design verification engineers
+93d295f84bf7028a,system validation engineer
+afb7d0cdd3237cbc,adas validation engineer
+2b8552cdd5fa8451,asic verification engineer
+3e42c72330fb4106,validation engineer
+711e68610eb987f3,independent verification validation analyst
+88d8de4356178416,validation engineer
+c5b48e4850259123,validation engineer
+853efcda2b649f5a,pre silicon verification engineer
+fc4685b9d1bbf282,validation engineer
+ffc045d1a186e729,silicon validation engineer
+8e7e3c9b7c28e744,validation engineer
+31691c3cf3e7fb15,vlsi design verification engineer
+4a7b2319724ca4dc,hardware design verification engineer
+31e83e24c9a14c20,validation engineer
+30d04169a344fb37,ams verification engineer
+0a8cfe72de204798,dsp verification engineer
+c9d5acacf356b69b,validation engineer
+454113594076eacb,validation engineer
+5c73595973363663,validation engineer
+c5ae030916db5d1d,software validation engineer
+527b443a3b9911e2,test engineer system design verification
+dcdc4e9446c0c9e9,functional verification engineer
+9ea0dc8d6ac968ad,design verification engineers
+9acc81be20453737,validation engineer
+cf26dfec4a3465c5,measurement verification energy engineer
+9915f74e5916d947,test validation reliability engineer
+ffdcca835dfdaedf,system verilog validation engineer
+c02d87cc2c1b866e,validation engineer
+414d63e5a62875fe,design verification engineer
+c59aef13ce7f2208,process validation engineer
+c6c9228f17e0d5c1,formal verification engineer
+3cac4fac52220931,validation engineer
+ee47f8d13e74f77b,authentication engineer
+4230f4060fa66c82,coherence verification engineer
+d3f800978526a9c2,dft design verification engineer
+87885ec5262759f4,verification engineer
+8e76b10678d15601,verification engineer
+1eb3d2e693d41d4f,design verification engineer accelerators
+6f97c957548faa57,verification validation engineer
+f5dd6407be512486,staff asic verification engineer
+5b8bd2eb616ed492,thermal validation engineer
+51585356ff2372b1,staff serdes validation engineer
+f861f27f24e8f153,pre si validation engineer
+471ae4beeeb5ff6a,staff asic verification engineer
+67972a701ac80914,devops aws verification engineer
+167830c31d14fe41,process validation engineer
+c5c74fe199ee9ac6,validation engineer
+f9fc7486e8fe48b8,design verification engineer
+1222f8f655b2493d,biopharmaceutical validation engineer
+ecf6e202dab5add5,firmware validation engineer gateway
+7277b6cd8fbcf696,validation engineer
+1605c003bb8d4b95,verification certification engineer new glenn
+6e5041ee7f9b3cb0,validation engineer
+96f68817ecaeb3da,validation engineer
+3fc809f45d9fb712,engineer validation mo
+ee3964c496f41e12,cleaning validation engineer
+851906490305b723,asic verification engineer
+f1ee67b1c11914bc,validation engineer
+83526ca44f6c8f44,mixed signal validation engineer
+bce574e4e86c9a16,validation engineer
+309362b30e8f9604,validation engineer
+d3b32f71c4e90057,validation engineer
+c0d8dabe96c7fe0e,dram design verification engineer
+aa9e276098d52e44,soc power validation engineer
+6daf89c2519485d6,sensor validation engineer
+c59e871cf1ff28bb,validation engineer
+fe853b1766768933,vlsi design verification engineer
+fe13eb41e67a043f,validation engineer
+cc1dada2d0f6de2f,validation engineer
+53e35eceb2785a5d,verification validation engineer medical devices
+a92d958e0fbd09a0,validation engineer
+e17fe0a0b5d94c07,validation engineer
+1356e4ac0fc88044,hardware server validation engineer
+a8ae8883183d96c5,validation engineer validation engineer
+980c8c499548c91d,hardware validation engineer
+5244d4a6526d68a4,validation engineer
+6a4d813e9d6cbd91,cleaning validation
+714dc59e1ae764fd,validation engineer
+58d67b211b6db252,validation engineer
+c98f499e3e0c7be7,validation engineer
+6d92ddc97ef3e864,mts design verification engineer
+6c9f3aa239c88e8d,design verification engineer
+ead2613f541b5c0c,validation engineer
+14fb504d7fdf1581,validation engineer
+e4c074bcc4b259ac,validation design engineer sensing hardware
+bdca9c7485197ce9,thermal validation engineer
+515154c6d091f0d9,independent validation verification engineer
+3679079d58831e86,design verification engineer
+d5649bc871e6d8e0,validation engineer
+1d573476215a83c8,ew verification validation iptl
+e7164837db04dffd,validation engineer
+5457d04debd1dc99,engineer asic verification
+6222cc231ff3c3ac,design verification engineer
+ea2e47a072956770,software validation engineer
+64ed6c8a3fb6fe51,soc design verification engineer
+49cdaf3685fe6d49,validation engineer
+273df47bbd2634c9,validation engineer
+8dfab15a6dd6d7d3,ssd validation engineer
+3cc56fb8c1b79d56,soc design verification engineer
+4e030f987b1d282b,software validation engineer
+52f83e915a308a7e,design verification engineer
+4acb8d4ec9a132c1,validation engineer
+145024db2d4dacc7,validation engineer
+6393f0833075486f,dram design validation engineer
+649f4fecffe157f1,validation engineer
+af8d27409619f5ca,post silicon validation engineer
+510cc44bf6f03e0a,mechanical engineer development validation
+2d39b00ac3bba4fd,mechanical engineer development validation
+86d799717dad0bff,validation engineer
+5faa963dca1977d8,verification engineer
+9559f1ed7c19fa9e,systems engineering validation
+2fe28dbceffe80f2,design verification engineer
+4ece6d799043905a,asic fpga verification engineer
+a1a4a9915145b13c,validation engineer
+e894fc738ba9a5fd,validation engineer
+48580cdb49cf278a,compiler verification engineer
+dbce728ebf6f0746,software validation engineer
+d9d83843fe2cc947,software validation simulation engineer
+38bc3a0f1ba4f2fe,principal system verification validation engineer
+ac69115205eedf38,validation engineer
+e421c6ba6d5eae73,soc design verification engineer
+4708fd8b5832c689,software validation engineer
+7ca88f8c0332a885,system validation engineer
+51138d387cfa36a6,validation engineer
+8b1d77f788da287f,validation engineer
+f467cd445f063e38,pre silicon validation verification engineer
+a8bdff3a511cd243,testing validation consultant
+5af571151fc43143,fpga verification engineer
+2a9dd05f93cfdbcd,verification engineer
+016559304abdbdc2,software engineer formal verification
+3e922c5f9be59c12,system validation engineer
+ad2ff872f4d1a280,validation engineer
+8586e52b61fb40fb,validation engineer
+d8d429273cb9d975,hdmt instrument system validation engineer
+840d9f661820961a,design verification engineer
+3da3f244753f7ad2,vlsi design verification
+4c66b496c632ce65,vrm validation engineer
+35dd65919d080387,validation engineer
+56e5b0f720e47fcf,verification validation engineer
+26ed93bda569363a,verification engineer
+2daefc5701b7a40c,verification engineer
+0180e765509b4acd,independent verification validation analyst
+90735ee77fbdd757,process validation
+2138f60620d81652,model validation executive
+8e7b4fad362cb096,calibration validation engineering lead
+7112f9dd0870e473,formal verification research engineer
+288a51acaf8d0705,functional verification engineer
+78997397fbd82b3c,hardware chip design verification engineer
+ffe24fe629104e50,system verification engineer
+3b3eddd87c8d5d3e,design validation
+0dc01ad68f95b969,design verification engineer
+43b1d635dad08cbb,validation engineer
+1faf396626a78407,validation engineer
+e9611eccc85d8791,validation engineer
+cc47a5cc17c1975c,validation engineer
+e9ada35f23cb66aa,validation engineer
+4e9f6cce5eaf5536,validation engineer
+18ab88059578815e,validation engineer
+9d28d0d6d1eb0108,validation engineer
+09e29b7d6d4273cd,validation engineer manager
+0342ce39c1174f89,ssd customer validation engineer
+2403f6025f3e0e7d,asic verification engineer
+3b5c2d456187bcca,staff design verification engineer
+a115c4f16929394f,design verification engineer
+036573c2126dbfdd,dram design verification engineer
+c1fbe2067ee8fdd2,validation program engineer
+556a5971a13cadd4,asic verification engineer
+ce9a5a987d5a3b07,component validation engineer
+99aacf34186bb4f4,system validation engineer
+cd65d35bc98cfbc4,product validation engineer
+09e5f71a29d9f3f1,asic design verification engineer
+623d73d7d17a6a10,system validation engineer
+ba08a84dbdbd0b06,ssd validation engineer
+0dcdaa3bd074ed06,design verification engineer
+63c7174f3b06dc10,soc design verification engineer
+50f27a5da38bee3a,functional verification engineer
+346de028a034e8d5,design verification engineer
+ba9f020aa4bd10ab,controls validation engineer
+8335d90a7b5e53f8,verification field application engineer
+f0fb5601a538193d,hardware validation engineer
+8e655c728e103e02,fpga verification engineer
+1922fe95f83f2ba4,soc verification engineer
+9fd9ce1695e3d11a,hardware validation engineer
+5165c5f84a5114bc,asic verification engineer
+5b3cecdd54190b69,silicon validation debug tools engineer
+5bacfe0091e2cf8e,staff verification engineer
+71f2fa49919b7a80,validation engineer
+4542b73ad112b450,asic design verification engineer
+27f93b84f544bf4d,verification field application engineer
+4e509d956f551652,hardware validation engineer
+6d6e7c39e8b13688,design verification engineer
+9aa5a33b3a29c486,validation engineer
+4907216f250bb1dc,asic verification engineer
+a2b297a1059b7233,asic design verification engineer
+b047c604d463431b,director validation reliability testing
+0ca7664e4239eca4,avionics qualification verification manager
+193e7f82f371769a,verification validation engineer
+acb49b2cf45e3272,verification engineer
+81638748291830f0,validation engineer
+6818982c2b01ca93,authentication engineer
+f605ca1e670f07b6,design validation
+60d72a8ca06ec20a,validation engineer
+c48ef6a93c4e404c,staff design verification engineer
+d49825551c376b0f,validation engineer
+fb22240e167ec20b,design verification engineer
+82828051a529d168,design validation
+b1cd03501294842c,asic verification engineer
+3604c9e1ceb6d962,evaluation validation testing engineer wh
+db4ece681c6d6e1f,design verification engineer
+cb56b20b5e398fad,pmts asic verification
+c74f77ebb1b92a38,fpga verification engineer
+b8c737d0c69a91a3,rfic design validation
+080a377e5aed4ee0,physical verification engineer
+eb19fdabfa457868,design verification engineer
+5ce0c7d6bcc09951,certification accreditation engineer
+aa6490c95880c06b,fpga asic verification engineer
+20132de2931b05c8,validation engineer
+3700848946d9ef27,asic verification engineer
+4f295697c0ae4ff0,staff design verification engineer
+fa952738962866b0,qualification validation engineer
+3074464ac8ab79c8,reliability validation engineer

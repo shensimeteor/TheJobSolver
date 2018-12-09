@@ -1,0 +1,209 @@
+_id,cleaned_job_title
+a1198c80a0be688d,cnc programmer machinist
+e237d16fe1ae0f68,cnc machinist programmer
+33286a3dd91a1d22,cnc machinist set programmer
+ac73bc2a64e9d52d,cnc programmer machinist
+bd237a664ddd798b,modeler
+8ed5ae1d34ca769e,cnc programmer machinist
+d1aa64626cd519bb,sysml modeler
+3a4a05fe9694038c,cnc machinist programmer
+1c6c868198133952,systemc modeler
+e606ebe47b02688d,cnc machinist programmer
+ccb343ce61cdff08,cnc programmer machinist
+07d253f3ace95439,cnc machinist programmer
+2103c79b5f03f066,cnc machinist programmer
+332275be9a4d7034,cnc machinist programmer
+24202c4cf5c56016,cnc machinist programmer
+9ad91322d5951d4d,cnc machinist programmer
+d375a7674c6cf2dd,cnc machinist programmer
+a9d6f3fcada255f8,cnc metal machinist programmer
+b817b9b9eeac42bb,cnc machinist programmer
+e10df155d6f11ccb,cnc axis machinist programmer
+a5b7e0561e241511,cnc machinist programmer
+c551712af87b1dc1,vmc machinist programmer
+03fee630e18a7182,cnc machinist programmer
+4bc61f2e562c0629,cnc machinist programmer
+4129e25d83e72d72,cnc machinist programmer
+caa0d722d3bf6b99,cnc machinist programmer
+2fdec0e300bed162,cnc machinist programmer
+141bd0db5e5e5916,cnc machinist programmer first shift
+06ba09d17f7af0d5,cnc programmer machinist
+76baebbd4a00ab5f,waterjet programmer machinist
+6abdcd08dffbd261,cnc programmer machinist
+fb8af28175425f61,cnc machinist programmer
+9df382548915dcbd,cnc programmer machinist
+f387ca1e2f75dcc6,cnc programmer machinist yrs exp
+798fd3f47b8967ea,cnc machinist programmer
+617af37524cc56e3,cnc machinist programmer
+094afb1328eaaf01,cnc programmer set machinist
+a7ca3ae5220f5b6c,cnc machinist programmer
+05f32c779c75ac25,cnc machinist programmer
+f8e194b486be789b,cnc programmer machinist
+989dd7c12ec75019,cnc programmer machinist
+f73b6c279bb42ab5,cnc programmer machinist
+9fa73d2a5bf644f3,cnc machinist programmer
+a6d7d01ee0cff5a2,cnc programmer machinist
+abc39a4c07ec84f0,cnc machinist programmer
+fb767618c939a99c,cnc machinist programmer
+754c02f870b686b9,cnc programmer machinist setup
+cebf63912f4cb820,machinists programmer
+4b14fbb690d124cb,cnc machinist programmer
+6b56e2c1e4459094,cnc machinist programmer
+3521921832e848ec,cnc machinist programmer
+8547afe0ecf3de91,cnc machinist designer programmer
+c8118f7d0f5ca2f4,cnc machinist programmer
+24b9e59c32e056e0,cnc operator machinist programmer
+e71db3672fbaf87d,cnc machinist programmer
+eae07accb5fa7a7f,cnc machinist programmer
+795d07669c714bfa,systemc modeler
+e1632300bc84ee70,cnc machinist programmer
+eb3d263792778e4e,cnc machinist programmer
+9d700942f839baf4,cnc programmer machinist
+ab24b7ec5786af8a,machinist v programmer
+7721569cdb8571a7,cnc programmer machinist
+ca6d89eb197cf64e,cnc programmer machinist
+c2f2434f4ee6ddd7,cnc machinist programmer
+a9b4b8296df3ed08,cnc machinist programmer
+4520a5540f8c0040,manufacturing assembler
+45e9cde884dff50d,cnc programmer machinist
+fa51c51b3e9ea71a,assembler
+1681fa6392ce0ec6,cnc machinist programmer
+888f3f34af685cb2,cnc machinist programmer
+18f67610729fa3a1,atc machinist programmer
+86f05d69c7281b00,cnc programmer machinist
+f1a111cd3da75867,cnc machinist programmer
+ce0d7a397e9c24d5,cnc programmer machinist
+55931710673355d0,npi machinist programmer
+e892b4dbe0bb5206,cnc machinist programmer
+5eb080091b2f9906,cnc machinist programmer
+124157a725bf0583,cnc machinist programmer
+ead3040cbd493767,cnc machinist programmer
+8f9ec5451392eafe,cnc machinist programmer
+7bd63ceeadd3292a,assembler
+688ae72d7c0e5374,cnc programmer machinist
+57c53b6ed1f9501e,cnc machinist programmer
+be61ff4b0141f47f,cnc programmer machinist
+968664c0821a7c5f,cnc programmer machinist
+612e69aae86fcd1e,cnc machinist programmer
+65bdbdb2c0a84789,cnc programmer machinist
+7e4d5dd92953ab62,cnc machinist programmer
+ad452cfbac8fd365,cnc machinist programmer
+9cd1e3e10a6d79c7,cnc machinist programmer
+c66a0a474ef48f26,revit modeler
+60b9cca215da56c0,cnc machinist programmer
+5c4535a0cd202a92,cnc programmer machinist
+59afce4d102bbe80,cnc machinist programmer
+cd87068bde919139,cnc programmer machinist
+2506d3dd320f9fd9,cnc machinist programmer
+6c743a72c0151de8,assembler
+f46fa6d828376bd4,cnc machinist programmer
+36baef630a7b8df9,cnc machinist programmer
+7ed3a69266f8a4b7,cnc programmer machinist
+7e148975199e081b,cnc machinist mastercam programmer
+36f7a70bd5d4dd36,cnc machinist programmer
+18e603a24b9d555e,cnc machinist programmer
+ba5dade089a64fbf,cnc machinist programmer
+35be9de1bb17c726,cnc machinist programmer mazak mazatrol
+ffb60db1d17b80c9,assembler
+abcf80780ec5c248,cnc programmer machinist
+175ab43e83905f85,cnc machinist programmer
+1af53c952623fe1e,assembler
+b7b3220262fe620a,cnc machinist programmer
+512b25aa34259d4d,cnc programmer machinist
+fdeaaecbc1cf83ae,microcircuit assembler
+053cb623ba24d9bb,assembler
+2292c29923b30dcb,cnc machinist programmer
+a019c60c0a8b89f2,assembler
+9fd569b420b084c6,cnc programmer machinist lead
+701b7b6766f9732a,modeler
+2105b32d7571962f,modeler
+1368265962b670e5,modeler
+96cfb5b78af3b053,assembler
+a1f442bbef2559a7,cnc programmer machinist
+5d1d0c88bb818f17,cnc programmer machinist
+f7f0c4c10cbb02a8,cnc programmer machinist
+25819253e7d5d8a8,cnc programmer prototype machinist
+80609e6b4e2da472,assembler
+c33e43a6983f299b,systemc modeler
+517d7763742e07dc,cnc machinist programmer
+fb7eea7adfade6bb,cnc programmer machinist
+9c54037aa4e27d63,cnc machinist programmer
+698f58bfa485e2b3,cnc machinist programmer
+ea32cc74f98a278c,cnc machinist programmer
+b987d8cd4425bd36,assembler
+b5fde0e36f943e56,experienced cnc setup machinist programmer
+f4a32a66c90575fd,cnc machinist programmer
+d1cb421c172d167c,cnc machinist programmer
+d34f6e1b669b2140,cnc programmer machinist
+68b0fe3b885c000e,sysml modeler
+e6cbb2ec6fa095ec,cnc machinist programmer
+8d3bd3de24d73834,cnc machinist mastercam programmer
+73059c48e36c6489,cnc machinist programmer
+cf6a2ae37781a1ba,lathe programmer
+e315c62b4634b93f,cnc machinist programmer
+f197af1dcf56c3f6,cnc machinist programmer
+9559eaa053672a4c,cnc programmer machinist
+7cdcfc767189c8ab,cnc machinist programmer
+84ac1ae72e0404bd,cnc lathe programmer lathe supervisor
+3651c8ac5cba359b,cnc programmer machinist
+df1b0a6cd6cb9adb,lathe programmer
+92a1e49a4ac2b635,cnc programmer machinist
+e83c0ac375700566,assembler
+698da74d53db1bee,cnc machinist programmer
+7ced8fa0cb19469f,cnc machinist programmer
+7c28b2a92add4367,cnc machinist programmer
+bec47fdec778627e,cnc machinist programmer
+22dfc2886b506dd7,assemblers
+c56da3f1507fb64f,cnc machinist programmer
+3f3a08c05b955c5f,cnc programmer machinist
+5cc7439a7b1337d9,cnc programmer machinist
+0bc852f71629b41f,cnc machinist programmer
+54def01663ae8719,cnc machinist programmer
+4a5fbbf127454d6c,cnc programmer machinist
+f5e32a0cb0d5d429,machinist programmer
+9e57352caa0f8e13,systemc modeler
+22793a97e3a6d2f4,cnc programmer machinist
+4eed4b5490b861a4,cnc machinist programmer
+64a0f48d8c454a88,heor modeler
+86540d954cc03acb,modeler
+1bba2607720f9a6f,modeler
+1a0ee0167d63b3f8,modeler
+e8c8c57c4975bb63,assembler
+454575c1302d1ae0,assembler
+f38752b4b41bb3ba,assembler
+687d448e7ab09e88,assembler
+77df549159a9a504,assembler
+db3e09bb669d1a81,assembler
+af2e5b1f5e27c0e4,assembler
+684685d296343a2b,mech assembler
+a11271e57e9462a5,assembler
+f31e5b99ea7713de,assembler
+eb58ef9165c7c1d9,mech assembler
+667228ed35ef96b0,valve assembler
+e480a449035cf1b2,assembler
+92f768695f9b7cd7,assembler
+861f0629220fd9df,assembler
+5aa6860d12128b44,cnc machinist programmer
+4ce99c98a0a73f97,cnc machinist programmer
+945c252a82db2a4e,assembler
+a7fef9b5ba0a5c0b,assembler
+fc322dc121380a2b,assembler
+27e57b9ce23a7452,assembler
+1f28c99e41c703cc,general assembler
+f6a8b56bde847a9c,general assembler
+e84d8b1ca509da83,assembler
+00057a51d120c647,assembler vicksburg
+eeab597dd4568bee,sensor assembler
+4acba42fcb0c9215,instruments assembler
+45ac7bb6007d01e7,assembler
+610285e244467daf,firearms assembler
+72bacc7912b39181,assembler
+313e81a26d12ba38,assembler
+9529751a8ebcce94,assembler
+305be22f1215f97e,assembler
+e8ac3c0d83aa45f2,cnc machinist programmer
+e95f3bcf0cfb60c8,cnc machinist programmer
+8951368627e090e4,axis machinist programmer
+a7b063cc3d7c89d5,assembler
+e5f2af23f1a71ae5,assembler
+690504857fc3744f,assembler

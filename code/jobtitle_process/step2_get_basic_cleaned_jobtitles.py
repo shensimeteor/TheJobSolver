@@ -21,7 +21,7 @@ def filter2_jobtitle(jobtitle):
     y=jobtitle.lower()
     y=re.sub(r"\(.*\)", " ", y) # remove (..)
     y=re.sub(r"[^a-z]", " ", y) # remove punctuations, numbers
-    y=re.sub(r"\b(i|ii|iii|iv|intern|summer|student|contractor)\b", " ",y)
+    y=re.sub(r"\b(i|ii|iii|iv|intern|interns|internship|summer|student|students|contractor|contractors|contract)\b", " ",y)
     y=re.sub(r"\b(sr)\b", "senior", y)
     y=re.sub(r"\b(jr)\b", "junior", y)
     xs=y.split()
@@ -40,8 +40,8 @@ def filter3_jobtitle(jobtitle):
             y=" - ".join(xs[0:-1])
     y=re.sub(r"r&d", "research develop", y)
     y=re.sub(r"[^a-z]", " ", y) # remove punctuations, numbers
-    y=re.sub(r"\b(i|ii|iii|iv|intern|summer|student|contractor|contract)\b", " ",y)
-    y=re.sub(r"(entry *level|mid *level|senior *level)", " ",y)
+    y=re.sub(r"\b(i|ii|iii|iv|intern|interns|internship|summer|student|students|contractor|contractors|contract)\b", " ",y)
+    y=re.sub(r"(entry *level|mid *level|senior *level|part *time|full *time)", " ",y)
     y=re.sub(r"\b(sr|senior|jr|junior)\b", " ", y)
     y=re.sub(r"quality *assurance", "qa", y)
     y=re.sub(r"user *experience", "ux", y)

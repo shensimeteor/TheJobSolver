@@ -1,0 +1,277 @@
+_id,cleaned_job_title
+eb1a55c846681dc5,architect
+c9539d2c74939a7f,devsecops architect
+7e5225f9a233e017,architect
+30ae45f7e8823796,architect
+93f907a8cb86d052,architect
+fe3e472ba66fec1e,architect
+6e7a01b27fdc4a81,architect
+66417a17f3b5a077,architect
+5b9dacdd540d8433,fpga architect
+d6cf65011037c75b,magento architect
+7323b8025d68de34,architect
+d984b43f9f76367a,architect
+e5455e2ddabd5dae,architect
+ea40ce68a577adab,architect
+9516e146a7cea713,architect
+587f0c1cc16fcf14,architect
+4f148f0d597b03b9,architect
+29bf592872acf403,architect
+ffbc57d53cceec1c,appian architect
+6306a66a8608aa14,splunk architect
+dcf075060932a851,architect
+51be9ee1f7b43c68,devops architect
+0891eb8546d8c739,architect
+3d7492d120c88bbb,architect
+a3c3808096922a4f,architect
+0648a9768daceb50,architect
+93839aa7f0cbbbd4,architect
+2688585a90710e35,architect
+7fb840f80a4138cb,architect
+5730209be6a8dbde,architect
+e984d37e7ffa4f97,architect
+553508cbb6db5dce,architect
+bed8e0de90bdf3eb,architect
+5632b5d99353d525,architect
+2888f9eb1d60ded6,architect
+6562d971d5f2ee18,microstrategy architect
+96036f357e2d6244,architect
+371e82d94b4c32cb,architect
+7a5e7be19addcbb0,architect
+dddf46f5be3fb5a0,architect
+77572ee1fbfd117b,sdet architect
+44fa010db4d3578b,architect
+3838ec7abc76ceaa,architect
+2d35d22e551651c0,servicenow architect
+c6e6de303e80cdd4,architect
+1107cbe4f7444ed5,architect
+88420c2b626dea3c,devops architect
+9356d30a3a77dc5e,servicenow architect
+392daa3ac2966820,bigfix architect
+58eba4f61edea281,architect
+1059d03a97104419,architect
+ebeae5094f0faadf,architect
+48956400b911cb35,architect
+a4a073ea0d731229,architect
+10cdc045844b158f,architect
+5c8dd8beb442526f,mulesoft architect
+a56d6dfac39b8707,devops architect
+c38e22c441469d10,architect
+1a180fbd908f1447,architect
+b6c0cccf29c15643,devops architect
+634d81efe6d8c4a3,architect
+72e7dc47f8d87fd9,devops architect
+e55f3833d4527501,architect
+a27b0b7fbbd35e2f,architect
+7da132f40ae007f9,bigdata architect
+f94f26ca8702cb9d,architect
+47f1b3c86d425309,architect
+01f2351da0db3db3,architect
+f28ffdc4840954ee,architect
+9b8eca32b0b7557d,architect
+5c77f019ad153e4b,architect
+bb396bced1282119,architect
+f0f89930d38c29d6,architect
+7e5a690766220d6a,architect
+9f42eea7d4ff8309,architect
+46f98ac4b3dd6741,architect
+9021bc9a2e621ec9,architect
+57dfb7afd4c16d1b,architect
+8a6c8048e4e81917,qlikview architect
+6d578b5e8087c462,architect
+08104b46bda5a5b2,architect
+fe8f24dbd78b2952,architect
+b88a74efde7151f3,architect
+c97a0cc1dfe75e3a,architect
+d75568f56252ba48,cpq architect
+06e571c901baf25d,openstack architect
+0df5581341ca65a0,architect
+d537854e653d0d20,architect
+ae1b04a6692cc157,bigdata architect
+83d7cf5d4c384854,architect
+6897e604dd9d56f0,architect
+bb1e47ff1bca1a69,tibco architect
+298743396e423d4c,architect sitecore
+8a340281234030f2,architect
+b4e3e1c469f4d9a8,architect
+61d8bb2fdfb4f166,architect
+0d28fd619799bf1e,architect
+e2558f47c77e2cbf,aem architect
+a9c5d33d30d3be7a,architect
+2ca3dccce485a570,architect
+e61f19c797152a6b,architect
+7825b22d1dacf25d,architect
+39c15a7983724170,architect
+1f54a029a0c9a278,teamcenter architect
+f366da2e3f0ceea9,architect
+64bd23a35644fd0c,architect
+9deaa21089d32a50,architect
+baf1f132d9dda602,architect
+0c827d879fd30952,architect
+64e464b398b44621,devops architect
+57f782ce454b6edb,devops architect
+ca9d18e9100c1e61,architect
+caf70195e5b36058,architect
+f064058828088758,architect
+8c5670d360ca6715,architect
+dcdda6954f1db8ef,devops architect
+e7fa112531e648d2,etl architect
+633ba280e9f2f922,architect
+4a93a112a1b42f31,architect
+5bc41fab8b5f5012,architect
+7cddff89478b303e,architect
+bcb14b80022d5b2a,etl architect
+4c39c2f8dc481bc5,architect
+6146594a6928f009,architect
+95f4c8315d81c1fe,architect
+098ec349f0233a46,splunk architect
+ad3fe0601fd6225f,devops architect
+2709d8d5d988bf8c,architect
+043a70d92acdfc5f,architect
+930abbe56b225267,architect
+6c21bf4194c641d9,architect
+d9d8df81b404e96c,devops architect
+29953f942ffabee1,architect
+27d5962b060d991e,architect
+a9b66d651ca905e6,architect
+ba2565698d53aa62,architect
+c320e152023c1da4,architect
+b918a070849a1cbc,devops architect
+73f88849c544ab38,architect
+f99f7a976468ccb1,architect
+df0a2b9f689646ef,architect
+5693827ae7e1511e,architect
+b50b6d4f367091c3,architect
+a5d04fe8cfc05f97,architect
+11dee7bc4c6cce8f,architect
+55340aaa6333f0ac,architect
+791aec622d4370e3,architect designer
+a7745579b4342bbf,architect
+9c7506ace45b192f,architect
+b7273dd97407fff1,architect
+da338dcf3d7ee34b,architect
+e02027adc18d8522,architect
+e38ef954b8c7887b,architect
+7153a30e1572ee67,architect
+13dd9165340d9ea0,devops architect
+2394b415b9b77fdc,architect
+06c7bb757a5e9f76,architect
+4d29d770e36a978b,architect
+dbce4e6643a08e83,devops architect
+dbaa926c44dd174b,architect
+04170606093da9e4,devops architect
+c6bb8e99dfc0efbb,architect
+9273f5ae1faa025f,architect
+c69a18564eeac4e0,devops architect
+313783993a634f51,architect
+19b64c6ce3822478,architect
+475af1b4a1bd5bca,devops architect
+7188e13105045e22,devops architect
+5beed2bce0f7cc29,architect
+87b87c9466b4dba5,architect
+aba20dc416ba3042,architect
+dda67ca3e6c78df6,architect
+406abc71218fad77,servicenow architect
+4388c267190a0406,architect
+fd2d53817203e848,architect
+c7f95c19370b684e,architect
+1dc73a521151954b,architect
+2f66f9a3dd9ece13,architect
+e42e3d30fff1cb9a,architect
+39e4d8568dcc0a6e,architect
+597655bf3b973be0,dodaf architect
+d58b384134317121,architect
+6f6181f329dc9077,architect
+e262c71e33c94064,architect
+4320bf51c2abd22f,architect
+63636e375b418263,architect etl
+dbbcd75358a30abf,architect
+47dac1a2aaa27158,architect
+d265820ada5e063d,architect
+99570b89d2891e80,architect
+c57dbf16a451001f,architect
+50dcf3715f8bdd99,architect
+d29c722644a9f4d0,telemed architect
+89b73cb186f66186,architect
+020f936918b7fb59,architect
+948253f41d68e7ae,architect
+a1e3b6a5a3e23751,architect
+630d3e92fee3145f,architect
+900d3ffe78d267fe,devops architect
+bc26bb32075e70e4,architect
+db88631c09ba4b3d,architect
+33a9f7b059d1b3da,architect
+231275b281ce7ec5,mdm architect
+845caba2ec9103f9,architect
+68f858d2edc21be1,mdm architect
+34b58697cb44d32c,sitecore architect
+2423dd3bab2c572a,architect
+efc5e856018297d4,devops architect
+70eac508740480b1,devops architect
+3450acd0c3c14bb5,devops architect
+9df955912fb12b7c,devops architect
+ffc0ea0441406aac,architect
+e8836636f01b4cd1,devops architect
+f3ff28b2d95bdf2b,devops architect
+7f728204a39b1f21,architect
+b7fdba9b58b213c0,architect
+36a36dfbf0214ea6,devops architect
+34b6fcbedf9e86a8,architect
+e3dcebf7fdffc0b9,architect
+17b99dc45aee4882,bigdata etl architect
+6b0015f5df8b7a47,architect
+1d643a5e84243b60,architect
+57e88c31191867b8,devops architect
+890cd682ccd7ae32,martech architect
+35779875c337b5ac,architect
+4dab6d51c6b9d2ef,architect
+e1d79af8b105a00d,architect
+7c2f64afdd020aec,architect
+7dbf6493de693a78,architect
+c8f8d39ca2595e02,architect
+ef0e4e007fede251,architect
+4f2b0ee0f10986d2,architect
+e283b3614e5ed638,architect
+08a7daaac2e17a19,architect
+0dd957c0fd8e9193,architect
+213b404460cdd0c3,architect
+7e6131cc379b1d3d,microstrategy architect
+5600ef4bca61f56e,devops architect
+4b4da1949f6cc141,architect
+c0c1131938c34e1e,architect
+b5b80b3816264800,architect
+9f709d277fc50df5,architect
+6ffca8336d06229e,architect
+c4d832744f753585,etl datawarehouse architect
+1947fca97e6b1566,architect
+cf643003b0ef2eb6,servicenow architect
+f4f21c5dae42a33a,architect
+657d5f3226e75056,designer architect
+e8a105919d56cf03,architect
+20bb413b373283a3,architect
+282429a71201a9ce,architect
+67a44d79fb095962,servicenow architect
+0c83c683c651facf,architect appdev
+bd6cab501822352a,architect
+c31795bc354634f6,aem architect
+c23e9314e5f01d96,servicenow architect
+1809c7b3b3d199d3,servicenow architect
+3d1b9b9025e83e27,servicenow architect
+5b2bda53e8494f31,servicenow architect
+98e7cdebb6ee8465,mulesoft architect
+77c34b98af9de72a,architect
+1f864e2afb4ab2e1,datacap architect
+618741514c112f91,architect
+e7c7c0fbf397e691,architect
+72e93b9139a6747a,architect
+964a4eba9ab245d2,magento architect
+1f79284bbb54f306,architect
+9712ec79e28d541e,architect
+8bc4d543098e6fa7,architect
+bbd8f748142304a6,architect
+1a84dae31f7b6c5f,architect
+f38d095740a66cfc,architect
+568ff6425838af1b,architect
+c97003ca9a491eaa,architect
+a7a397e9a6498b91,devops architect
+13b411fff9ec0ea2,architect

@@ -1,0 +1,381 @@
+_id,cleaned_job_title
+b90eb5cfd9c58afb,engineering support technician nd shift
+5fd3232bce140706,extrusion technician nd shift
+7d7635373766431d,systems engineer night shift
+babc0b9b7e6ad8a8,cnc machine operator nd shift
+408d8aa790adb4cc,quality technician rd shift
+8a5468e4edfcf0a7,nd shift programmer
+8ea65a90bc6369bc,cmm programmer nd shift
+6578f207b624f1cc,shift engineer
+129b8e50f94a97e6,euro shift trader
+209492d550cb38d1,quality engineer st shift
+94bf69c769773e45,systems administrator day shift
+448294225419b8a2,welding robot programmer rd shift
+b1addf768501cee7,associate engineer nd shift
+fa01cbc16f524420,nd shift production supervision specialist
+245fe32580d5c5cc,tap nd shift maintenance mechanic
+f47922a236cacad7,st shift plc maintenance technician
+aa7f4de75b0fde1e,cnc programmer nd shift
+54bb91410feac865,test technician nd shift
+7b59b203985e0ffa,assembly technician nd shift
+92992c6dae24cf8e,machine operator st shift
+e0858889ff23c7bb,unit repair technician nd shift
+1f60b33cb1608c71,device evaluator nd shift
+4686effeb3750cca,machinist nd rd shift
+e621500eb8d49996,noc engineer swing shift
+050348cb135f7ff4,inspector cmm operator nd shift
+4b9d30c9552c63b3,device evaluator nd shift
+2ef731f7840d0e4c,engineer second shift
+f69c33ea1eb8fc7b,packaging engineer st shift
+540e127f14f0ee33,digital plant st shift engineer
+eb7f86bf187697f9,process control technician nd shift
+133c942d85723002,atc engineering technician nd shift
+d7cb1860a9ad3f43,automation technician nd shift pm
+9540479f8b16d8c7,engineering support technician nd shift
+b4b2d957546befd8,conventional machinist weekend shift
+3008ab6004a85724,production support lead rd shift
+70c7c2bdf5102780,mold tool tech rd shift
+92af7fb6d3116108,medical technologists day shift
+e0d76bc857e16aed,nd shift paint technician
+6ea7aed7fefa3f70,scientist cci nd shift
+d6b58a104bfd1b22,scientist extractables leachables nd shift
+96c588712a6d750b,nd shift
+21a96eaef1d416d1,equipment engineer nd shift
+7ad43adc35b663d1,engineer manufacturing nd shift
+4abfa4f5b3620ada,manufacturing process centerstechnician nd shift
+ab1ba5c4e0279672,mtv pir shift process engineer
+c41159323c0c1ba6,machinist nd shift
+ff238bd2191eb543,maintenance electrician tech rd shift
+bebb74f2a424b2cb,quality technician st shift hourly
+c368b8a5f7cd145d,aerospace quality engineer st shift
+067ed523855b8ea0,scientist chemistry nd shift
+4bd9729df5ea003d,rd shift general maintenance technician
+293f72cdc74c5126,manufacturing technician rd shift
+6836ea423edbe46c,assembler nd shift
+c1546fa0663867a0,pir shift equipment lead engineer
+363e2f1574064e39,cnc programmer nd shift
+3a10c215e11d8783,rubber engineer st shift
+5f6f04cdc8cd6b5a,test technician nd shift
+9703ef6ccdfbcc30,telecom administration overnight shift
+dc88bdfa0327d8f0,device evaluator nd shift
+f61c3ab4a0dfbf3d,lead cabinet technician st shift
+a3f22cae761580b5,scientist performance functionality nd shift
+731679f83b06237d,cnc machinist second shift
+21afa9b83e7756cf,scientist particle nd shift
+521ad2f0ac1212af,warehouse support engineer rd shift
+38affd3087d5c553,noc lead st shift x
+1e993648303a07fd,mgr tac shift
+8ed0605292fab513,production associate electroless nd shift
+e610e4d046dbd48b,device evaluator nd shift
+07ce332c7d9a141f,service desk agent rd shift
+a27fdb14cc528551,acoustic technician nd shift
+bc4bc49ee16099ca,production associate nd shift
+5885b93d83c354fe,rd shift controls technician
+6c56b08df700a2e5,st shift welder fabricator
+c30b1ce1ee400450,shift leader superamerica
+d55cedeb0a104b9b,shift leader superamerica
+ea66a8fc7516a7ec,machine operator nd rd shifts
+7847c6b3bc4ee071,rd shift technical support analyst
+239e6cb5efb2d31d,release classification analyst rd shift
+bc24b9640364b583,nd shift bilingual social media
+5aa7ec3b4dc585bc,security operations shift lead
+1fddf061cf3d233c,detection rd shift analyst
+cf3e2c23713b3b0e,inventory analyst nd shift
+ca75c4aceb6bd7e3,nd shift product manager
+641c6bf1d4b9957e,rd shift forklift operator
+639d7938e7c84724,screen coater st shift
+6a0c0caa0e0e4b15,inspector nd shift
+0357245c632bb185,inspector nd shift
+11b62aeef1f8049a,polish shop operator nd shift
+deea2ceb644b07da,quality control swing shift lead
+eab8447f0640ac38,machine operator st shift
+21d46d77030da1be,shift leader
+de3bf25371db80d2,medical technologist evening shift lead
+0f4f474f38964c4f,kitter material handler night shift
+45cd23864bb14092,insert operator nd rd shift
+92bc77df62076594,nd shift machine operator
+b95c998b5fafe7d2,general worker weekend shift centennial
+a6bf2eb07bbfe25b,machine operator assembler nd shift
+6970c27230f15903,pharmacy tech ft evening shift
+6e0d69deddad55ce,shift leader
+662d57a27a926363,maintenance technician st nd shift
+335a16a188154476,qa technician swing shift
+45c0246e7d11cf34,inventory cycle counter rd shift
+1ffc5d6ee663f5b6,quality coordinator st shift
+94c67a3608e6d146,rider support overnight shift manager
+e48228ebaac0bf5f,reclaimer nd shift pm
+ba4501165d2fa6b4,licensed therapist st shift ft
+29ce692d585533a8,nd shift qa inspector
+535c29196876db24,weld destruct nd shift
+20c9f549e227b188,rd shift quality technician
+146af590bc28f413,quality control specialist nd shift
+cad3e7e0c5ff4140,surgical technologist afternoon shift
+bb36d731a16f0341,quality control technician nd shift
+b36c0893636d209c,qa specialist rotating night shift
+c9a835ce7348e314,production operator st shift
+c4a5b1b9b425742d,operator bakery warehouse nd shift
+f4a4e6bcbc2a0b78,lpn nd shift
+c38ded9b3cce20be,central kitchen shift leader
+7bb22073208a6220,qc inspector nd shift
+f6207506e053bf15,central kitchen shift leader
+81d881be197d046f,oper mixing granulation st shift
+383654fd9a130bab,cafeteria attendant day shift
+e3151f88dbf5b22f,nd class blaster rd shift
+bac6085a8c949301,quality inspector rd shift
+03673af36ec78edc,st shift quality control tech
+4119d9f607103780,quality engineer supervisor nd shift
+00b914447a024ef2,sanitation rd shift
+ef5ac47d2b57120c,welder weekend day shift
+959f903533faec68,production operator night shift
+3a21aabfe2271035,resp therapist fte night shift
+2c9f26c1d7e92383,qa raw material nd shift
+00e503063d1b2cbb,material handling specialist nd shift
+aa47b01d32d92500,meeting services manager second shift
+6d1453a804c5c026,machine operator nd shift pack
+2a91514f6b9dc0eb,quality engineer nd shift
+7ddcc32a6514cbd5,crna fellow ft variable shift
+61399bbf676f001a,cleaner housekeeper pm shift
+c7ea88a14e7f882f,general clerk nd shift pm
+3525466f037c5b36,quality engineer nd shift
+cd9ceec817603ac8,rn night shift
+c4e38990eb3f62de,quality control inspector nd shift
+f31d7d9bd699f20a,central kitchen shift leader
+9947fce8645191c3,lvn medically fragile unit shift
+10262c6f085ccdc2,quality coordinator nd shift
+039053bcdcadca63,nd shift cnc mill operator
+0dc7e02484c121ca,machine operator nd shift
+8e23bfac18b6133a,rd shift medical technologist
+099bf20039401d00,quality control swing shift lead
+97a8ff62c3a0b560,nd shift associate inspector qa
+bb35d43f8a0815a1,inspector nd shift
+d7a5930aba1414f2,production operator nd shift
+649c9609bb01ab15,stacker operator nd shift
+a09af99ecfe4c6f7,nd shift technician pm pm
+6e1de6174af05782,production superintendent nd shift
+392c3ae563694075,supervisor manufacturing bulk nd shift
+0738310ccae12499,cmm technician nd shift
+0197014849edd8f1,central kitchen shift leader
+2bbed61fcc9f746a,medical technologist nd shift generalist
+b13da1596f185da3,warehouse lead nd shift
+c6baf41784479861,histotechnologist rd shift sign bonus
+71c967a0d5ec3b13,qa technical supervisor nd shift
+9ad257f157f2af41,cnc operator nd shift
+a1adbad00756c110,sanitation associate nd shift
+5b4ecd79e774db60,dryer operator nd shift
+680f96813e10ce5c,sanitation worker nd shift
+1fb462583c0caa6c,qa visual inspectors nd shift
+54fac41a5c86ab0b,nd shift machine operator
+471cd385280b7f23,st shift production facility associate
+0943af7f436844fe,st shift stamping press operator
+53353e39143cc657,loss prevention officer pm shift
+c58b552a516b10ce,plant production operator st shift
+edc25f1defaa2f0a,hand grinder nd shift
+39d4c93617921e11,nd shift machine operator
+e56b78ebf452b342,quality auditor st shift centennial
+84d022c7c588a24e,quality control lead nd shift
+01332c815e745ca2,operator rd shift beck
+e41a69399ae5f546,maintenance mechanic rd shift
+6c2844bb87eac911,rd shift quality technician
+51e212ce10ee24ee,iqc auditor nd shift centennial
+bfdd4471a16378b6,class mechanical inspector nd shift
+4f7dc9651063556d,data center technician overnight shift
+244af8f3fc7e5791,nd rd shift maintenance technician
+c9573e09d15c9ce2,mixer nd shift
+223e1ae364e1601e,welder week end shift
+5a7210403a61a5c6,cnc operator graveyard shift
+bbce5b38fbf51f06,quality auditor weekend shift
+e620bcf22d6b379a,freezer utility associate nd shift
+933f9216be39750b,shift leader
+c6837d5f4f339706,custodian nd shift
+45365503ced47aff,shift leader
+3f73b45658fdbc58,shift leader
+456597d026503d6a,qa associate microbiologist evening shift
+94505dd3b6593fc4,qualtiy assurance technician rd shift
+838e0a46bde2c8fb,shift leader
+6bd955e8af1f7229,central kitchen shift leader
+0482b47a6ab938fe,sanitation nd shift
+df5594de56087c10,st shift production facility associate
+75fdc4b93dc91af0,rd shift team lead
+f90fef09f2e630f5,shift leader
+12a0994567968918,nd shift quality technician
+bb20791a9bf262c1,mri tech mid shift
+7c294ca9b7cafdad,shift leader
+4c5b2bb1b14074d4,warehouse qa nd shift
+44cbb496efc72b98,registered nurse rn rd shift
+628308fbedd4559e,mold specialist nd shift
+588041304bf16f45,server shifts
+3f596fc3fa1d5510,operator bakery warehouse rd shift
+30b9bbc411971e1e,qa inspector nd shift
+3333b6e42bfc2b63,fitter weekend shift
+8ccd7c0f31b784e2,quality coord day shift
+83c854f4947c9d85,sterile processing night shift
+5ba13c5273d2ba5d,radiology technologist optional shift varies
+1fa3bf2b86226d7f,nd shift sterile technician
+1bd3bf88609fedf6,forklift operator night shift
+e8204bc577b3f1a9,common area attendant night shift
+355f730f4f470b2b,pharmacist ft day shift
+3e450f5f9a6135f3,machine operator rd shift
+c90e85b97502fcf2,vendor assurance technologist rd shift
+e9da22ff940cddaf,luhs pharmacy tech midnight shift
+7f25727ef7a69ab7,rd shift production support inventory
+f8d09b0c7e81d38e,c n nd shift
+a720baf7ccefde9d,quality specialist night shift
+fcc4aa09f400dfc7,quality technician nd shift
+c5ada48dc6d236f9,painter journeyman swing shift
+2fa95be247275c5d,night shift qa inspector
+53dfee37cf304b82,phlebotomist day shift
+e35260def0950026,br quality inspector th shift
+accc9573f5d9910b,central kitchen shift leader
+f0f7c6976244be02,bakery processing op rd shift
+a819390c8be9c6f7,central kitchen shift leader
+35bc178f7ae1a4a4,quality auditor d shift
+4c4aa04ae378b8cf,training specialist nd shift
+182c6d4a4373cd7e,production lead st shift
+2c411c884fd9e5ad,lpn nd shift
+d8ec9aa415b82a5e,quality control analyst rd shift
+6e40427aa27a67dc,quality technician st shift
+b71d7639e7549f7e,controls engineer c shift
+9cf84a4987eb2a47,customer care associate day shift
+48447c98df9919aa,rd shift quality control inspector
+0e2ce07dd4e609e4,network analyst night shift
+978007e6251dbb75,qa inspector nd shift
+d47f868a1ce9f6da,shift leader
+c00afd76273f7530,mechanical assembler nd shift
+cff0b467dcc8d704,rd shift quality control inspector
+a8310af41f30113c,lpn prn day shift
+6abc2b0a23fd3851,vault coordinator st shift doe
+f6cb0e4f1be76083,housekeeper edgewood nd shift ft
+129acabd00546fa1,shift leader
+c82fca8da3d8f480,medical laboratory scientist rd shift
+ba18312bb643bb3a,quality control technician nd shift
+e5ecba243ed9f0f0,resp therapist fte night shift
+f2f149ce194cbb36,charge nurse st shift
+af7c813cc81060f5,patient access specialist nd shift
+9949a5af904afe2f,rd shift worklife consultant
+682364207dc24405,lpn prn night shift
+6ab2e2a4a6dd38ae,operator training day shift
+cb3c2e6b0c479ad4,crew members shift leads popeyes
+4ea27247b66e490b,batch record processor st shift
+8875aa180dd38cef,shift leader
+92819ca42f9c78f1,medical technologist l varied shifts
+c0c8a80d56c2edea,shift leader
+30ef71efee6eefc8,oses quality technician nd shift
+aafcbc107f9278ff,nd shift supervisor cnc machining
+0c22ebb5e9724f4d,sa qualified professional st shift
+e7d45c01e2dd4106,machine operator nd shift stuffing
+ba6af7349cedc98a,quality control technician nd shift
+ed566184d1b2babc,machine operator rd shift sun
+75f53c8ed8c17585,machining cell operator rd shift
+497716a2855cb247,rd shift team lead
+935aee5ee615d8f9,film proofer nd shift pm
+8b31707e6ef19c93,technical manager nd shift
+25f126ec5b88b104,rn prn night shift
+0b592df22e7bb8b6,rd shift processing operator
+dee5c5b22a4adeea,small cell lead nd shift
+8898f0314863c044,quality visual inspectorevening hour shift
+c85f1b75095ef405,mechanical assembler nd shift
+c57c0b563a8d8ad9,shift leader
+0d1e9595d1497537,technical coordinator nd shift
+585ef8cc55730293,qa inspector nd shift
+f5952a03df7e80e6,welder weekend night shift
+52538ac631d35f2a,winder nd shift
+03a1d1ed9ecd8572,oper mixing granulation st shift
+068013b41918b535,rn night shift
+289dfce0d066dab8,inventory clerk nd shift pm
+a50ba4f760395d5b,shift leader
+944eeee84b604cc8,charge nurse rehab nd shift
+8906710c0d6f587d,quality inspector nd shift
+d8b7813de126958c,central kitchen shift leader
+69384f0ff9e520cc,laboratory associate nd shift
+959005bf0046a436,registered nurse p shift
+fc3ceae68cb18013,qa operations associate second shift
+7cbb3c19656503b1,lif process technician nd shift
+fe8a9f3863e9963a,quality associate nd shift
+0e05a99864bc471c,machine operator nd shift
+6b37dbfecf933ef4,shift leader
+64e83baa8d7fc5fa,quality technician nd shift
+41bbc88175efa131,cna evening shift pm pm
+a660064761982d9e,nd shift production lead
+1535a1fb2d8d1229,central kitchen shift leader
+c580a56d5ce5fdbd,rn day shift
+58b0e636bc9df0b6,production operator nd shift
+7f5cadae7971837b,nd shift quality control inspector
+e76678c74d5c5633,qa associate nd shift
+3949167a1c6319cd,st nd shift split
+ceda4b58ae51eb86,rd shift team lead
+2031fca4bdc0ae79,receiving associate rd shift pm
+4f4e933076d8e090,quality control lead nd shift
+0e5cea896ec0060f,phlebotomist night shift
+80e82cb678331de8,rd shift quality support specialist
+fdad28726b3870ae,general labor rd shift pack
+53a46bb0c303eb1e,burner ft nd shift pm
+cf9246d3f3651999,operator training day shift
+7dfa814c4c35172b,loss prevention officer pm shift
+53511209d06f93dd,nd shift photomask qa inspector
+f2fb45a3df28fd77,nd shift machine operator
+3bf0b533fd233164,inspector nd shift
+e540ebff1741730c,manufacturing quality tech rd shift
+9bfeaefb969146a1,assembler first shift
+73cd237d346e0b25,quality control supervisor nd shift
+0400a6d0f0ff3ccd,industrial rewinder technician rd shift
+b26c947a50a2c332,quality engineer nd shift
+1d23620533d74d3e,shift leader
+f419f53fc881c095,central kitchen shift leader
+2594b01ca3611ae8,hospice aide first shift
+2067eabee7d1eb53,nd shift quality control analyst
+bdd832a130cf5456,lpn ft pm shift r
+c28496773fe71001,nd shift machine operator
+346fa7215e425d9c,nd shift
+1686571b84af009c,ink technician rd shift
+f1af0bbe47d310bf,mri tech nd shift
+082b2122bb3595a5,material specialist st shift
+92b9da059bc16d07,advance quality engineer st shift
+4c30b4acbb04e7c3,manufacturing nd shift
+89f8d772750c7f18,area cleaner st shift pm
+a139a26465177556,cmm set operator b shift
+c8d5432e8cc551b6,shift leader
+c91cd28b99ec5b30,quality control inspector rd shift
+9fcdeb25fdc4e30b,rd shift sanitation operator
+1c644cdae65cebd3,nd shift quality inspector
+668725fc751ab62c,pir shift engineer
+dec2bd67fe99e986,cna shifts
+6f78f401f76a9925,social worker prn day shift
+e1fa40b3be1ee460,cloud operations night shift
+0e911f7fee4c9bb6,system administrator nd shift
+aa4729f9c9c4bcb5,night shift system admin pm
+75c17079b46fb94f,dietary aide flex shift
+5636c5c6b90a23d6,night shift lpn staff nurse
+da18f76b2ba86259,security guard night shift
+5256ba8d8b949bef,swing shift system admin
+23499121f62a500d,registered respiratory therapist night shift
+3d734b9b0fc7671d,mail dispatch nd shift
+84b55a1dee39824d,shift nurse manager oncology p
+e4f9e7eea409c56a,youth counselor swing shift
+16bd0a9044614f26,nd shift systems administrator
+6b90092bdde89986,youth counselor day shift
+f9c3d5294970bcb8,nd shift network administrator
+e1b6d9036885c991,registered respiratory therapist day shift
+efdcf39e6517f562,certified nurse aide st shift
+8357e8297c3360c8,systems administrator rotating shift
+23a3dfc8778457b9,tier systems administrator swing shift
+12a55a2eb067077b,cook nd shift
+85d4c055e748bdac,rd shift dispatch associate
+54cf57eb4b03151f,site shift engineer
+cb843fe615df6cda,noc lead st shift x
+25f6c5daa6cf8de7,youth counselor overnight shift
+f4cb763d17f2625b,noc shift medication aide
+82396354e22d64ee,server administrator rd shift
+c85588e8d8238330,pm shift caregiver
+769fee25463f210a,paratech outreach services day shift
+d8869c826f474d8b,packer nd shift
+8df7a25d2ae63f5e,st shift controls engineer
+a06fd752ed52349c,assembly technician nd shift
+3da91510cc28334d,telecom administration overnight shift
+33430ecb2eb5265d,quality engineer st shift
+f58661c0519d6226,lead manufacturing engineer rd shift
+f94a07c7bbc829bf,shift engineer
+8a15309ecbbe19a5,st shift industrial electrician
+eda6cb0f1c113a66,command center watchstander day shift
+dfe9c38e77f6ea4c,network operations shift lead
+5ebabca92204ef81,command center watchstander evening shift
+a8e7e37bf511a77a,desktop support engineer day shift

@@ -1,0 +1,511 @@
+_id,cleaned_job_title
+08e1fd9fe64758ab,ios engineering
+f9f8c6f0c8a59cdb,ios developer
+9b5aeb0e0c25f439,ios devops engineer
+4d12a705368cb939,ios frameworks engineer
+384c4b9dba5c34c9,ios software engineer
+ab78a4ff1c4b95e8,ios engineer
+f44c4325753ad695,instagram software engineer ios
+f7729f9bd9ec54e7,ios engineer
+60ac7194340af7f4,ios developer
+9b22f24f7ea9e077,ios engineer
+f72922492c18c874,ios developer undergrad
+90b9629b077f0761,ios engineer
+c195eec1f6db17a8,ios engineer
+e4b823d8d0d70388,ios engineer
+0453600640c162e3,ios developer
+148454fc9ae22911,ios performance engineer
+01531203e6ed9f19,software engineer ios
+d6dbfb29f22478b1,ios engineer
+1dee41f7f06e7486,ios software engineer
+b11db74b6a2e57c3,ios software engineer
+9631d1a816b122b4,ios software engineer
+70c3bd49c1a2dff7,ios engineer nde
+d5f5245db04c20f4,software engineer ios
+82a7902cd1d2fdae,ios app engineer
+de7356d4bbc37d7e,ios engineer
+875151788ae9ba1f,ios software engineer
+3246295c4d161c4a,ios engineer
+de218321e6541a8b,ios keyboards engineer
+f62a40ce5d43b8b4,mid ios engineer
+e9270e19df6ee531,ios software engineer
+5cfa6e7e6a8284b1,ios engineer ios engineer
+197de470e7dcbc96,ios wallet apple pay engineer
+115a88bee503cfeb,software engineer ios
+fcb1f72a350f77c4,ios engineer
+ca18facfa11b9d22,ios application developer
+80a7c68231abd2e2,software engineer ios
+01fc46989f45b748,ios engineer
+2f194eb35232be31,software engineer ios
+a489bf161a8c4b56,ios software developer
+5ff8606c7ca7a426,ios developer
+a0757d7051411671,software engineer ios
+f69c551b5d15e673,ios developer
+5559f57a427a057f,ios engineer
+151d20e2ae560c4e,ios developer
+d0b82f6e3f7e0adc,ios software engineer
+e11cdf402f3947a6,ios software engineer
+92361446e7377e06,ios springboard engineer notification
+4f57afd86a3020bc,ios system ui performance engineer
+4a4ddef8987cf193,ios engineer
+443472ac4c326a61,ios engineer
+ad232d269225c780,software engineer ios sdk
+d20330f949b4808c,mobile engineer ios
+ec56dde059b1d3bc,ios software engineer
+9880498eb4645b02,software engineer ios
+7eaf2ad7a23abb98,ios engineer
+e2cfe0aa8cdb354a,ios developer
+7cf1b15abb98b893,software engineer ios macos watchos
+de73f63df870fdad,lead ios engineer
+253ab0a69b34bd53,ios developer
+baac9eb1854a997e,ios engineer
+a6c6f87468a94bf6,software engineer ios
+df4b41aaee8c88d5,ios engineer
+4dd8c65cd52eaf3d,onsite ios developer
+a1bef2549f297c17,ios professional application programmer
+ca787ea3488da791,ios developer norfolk va
+6b616d3d328b5818,ios developer
+c006a30c4b6b4fe5,ios software engineer
+f16c06f7c4ad97db,ios developer
+4b1070452e75fc2a,ios developer
+9e97980ac1dd90dc,ios engineer
+60a8cc14ce56023d,ios engineer
+98bccc4b0a685a8a,software engineer ios
+f85fcff4ee365ac5,ios
+d9a69e84576d4216,ios developer
+9da33039ac06788c,ios android software engineer
+55ccfdc869a7fe2f,ios
+6bddc8fc698692b9,ios software engineer
+574d6ea29ffa2ccc,ios developer
+9bf14321cc7a5fb8,ios developer
+c141761ffed5f78c,ios software engineer
+be03135cf4870fdc,ios display driver engineer
+db211958005f9b18,instagram software engineer ios
+52aa9c08707b80b9,ios software engineer
+180b7c4cdc52b129,ios engineer
+2e5300a81b32946b,ios developer
+5966a8ad8ed12ce9,embedded ios engineer
+8c0957ce450f18e7,software engineer ios
+e61364ef0b83289d,iphone ios developer
+e63e3e61054a151a,siri ios engineer shortcuts
+d07c47a7170eb1e1,ios engineer
+5d315b66b7e62e2e,wte ios frameworks engineer
+ab3b37501be49998,ios
+3e9839b395183fc4,ios software developer
+89323ff7715c8f23,android ios developer
+fdabb677e26320b8,ios software engineer
+d5e039d1f6dd7d42,ios engineer
+6a690fd5c7269c06,ios software engineer
+d255c28698f22bda,ios developer
+1e0b31cdfa1f2ee3,ios applications engineer
+a5f8d710a95a9969,ios engineer
+03523e7655129567,ios engineer
+964c7561ce42a2e3,ios android engineer
+abe00a06a5880b24,software engineer ios
+6729a1ae62d6f5e0,software engineer ios
+37baa1cb92436362,ios software developer
+b1ebeb1dba1f30bb,ios software developer
+91d9d878de874fa7,ios software engineer
+55ecee02444acec9,ios developer
+e69d70bab0166d95,ios engineer
+b20d98e319866ee6,ios engineer
+b23f6cd439ab1f1c,ios developer
+dbef51b499156bef,ios engineer
+e3701cd4fb1a0e99,ios app developer
+dd64888d681d8387,android ios developer
+28147781c4a88277,ios developer
+a2a23eae0907ac69,ios developer
+65d3e7eea76043ad,ios engineer
+ef8f26c454c28639,ios engineer
+457759173d3ad76f,ios developer
+ae6b1933061f3386,ios engineer
+35eff81fdbe86729,software engineer ios
+7f854f3392820558,ios engineer
+41100c24ad31edf4,ios developer
+4bdf16d0cf865b33,ios developer
+29d16bb5d6057ce6,ios engineer
+44d900a16a7510a4,software engineer ios
+15a9be62ce8767d0,ios developer
+f42dee8489c2acd3,ios software engineer
+255e285704c30995,ios developer
+6384031430e8077a,ios android engineer
+783b4065eeae7a69,developer ios
+bb72bf948daf6d0c,ios embedded bringup engineer
+8ec6fb2a62ae7c84,ios application engineer
+433808a23c294c6d,ios software developer
+d0300c05bc1148a8,associate ios developer
+2889769d58911e6a,android ios developers
+1ac8ce8c84f00844,ios engineer
+b4cc09db1b47f09b,ios developer
+5b4642d779c3fda6,ios engineer
+9f77fe75f4177760,ios professional application programmer
+2adfff44de5d2076,ios developer
+54f17af77be0056c,software engineer ios
+b248fb1c12794671,ios engineer
+bcb1c111b3d9ef53,ios developer
+e0788277934ed04c,software engineer ios
+9a973215f09a20c8,ios engineer
+1146c68715f970c8,ios developer
+4c92e634dc23204f,ios engineer
+b1d1dfc268c50963,ios engineer
+db208e0b7f0b0d3b,ios engineer
+5ab00a0d4c65d613,ios engineer restaurants
+1a19b932d6fbcfb5,ios
+0fd122c105947f98,ios engineer
+8fd7e5d0e8503c3c,ios
+5a03477dfd0d6752,ios developer
+ef2b045c91889391,software engineer ios
+4437d0a2c182a6f5,siri ios engineer
+5c07000f467915b0,ios engineer
+6d12f037c5e6131c,ios application engineer
+e3568682ef4bfc22,instagram software engineer ios
+29e47bb81500fb29,ios developer
+76e966624aa23541,ios engineer
+42739a8710a8c397,ios engineer
+2c7d2c1df02d7b75,ios software engineer
+76e9e9b7055fcd98,ios developer
+889192da7bc14e7b,ios engineer
+89bc567f3035b8b0,ios app developer
+0261811664b90bdc,ios software developer
+b4fed08a9db9432b,ios developer
+8c4bb8119c2fd526,android
+c7728857938c2d8e,ios developer sde
+137df0f7db3dc764,ios developer
+e729881b453d7502,ios search engineer maps
+62b860acb7c09787,ios engineer
+e837bc533880450d,ios developer
+11a3595ace0f9484,ios software engineer
+011cfb583a747cf3,ios engineer
+8155b4215d435585,ios developer
+fdaf7132bd2d1e08,ios engineer
+1f4b32720de26501,ios engineer
+f907a69511d31bb0,ios engineer
+b78850ca3d32cbc4,ios engineer
+a794686e81d49a39,ios software engineer
+f4ccc01274a4d0e1,ios developer
+8ecf234b9648c083,software engineer ios
+ca201307d6e87ac1,software engineer ios
+54e624478678bc6f,ios developer
+2244e25ab68dcc9e,engineer ios
+1b538000f599f8cc,android
+5f07fb0d1fbb7366,developer ios
+91d50df1cbc6df93,ios engineer
+ed8a35cfa7fff53b,software engineer ios
+f9aa21d343ef70cb,ios software developer
+86c74047ec5e8810,ios software engineer
+8d8dc3936bbf6d52,ios developer
+89fd32088b0bda47,ios engineer
+f61d22cef349ab4e,ios developer
+9f6c8fbc71ad17e0,instagram software engineer ios
+f06c8b2cb9a89a1e,ios developer
+e028d3a0740e0fa5,software engineer ios
+692ce28956f00773,ios developer
+4327c7bb17a86e65,mobile ios apprentice
+0ebb5bbd71d3890f,ios developer
+8f2be801cd261301,ios developer
+d6b9c5fd72f2b663,lead ios engineer
+79d6127b59c7885a,mobile engineer ios android
+bce6a20b098477e4,android
+26feaa7e35de10a6,ios software engineer
+c05c4953961c22ee,ios engineer
+9179b99acd97d52d,software engineer ios
+bc61094116eddcb8,ios engineer d
+971abc9c4336b03e,ios developer
+1fa514b951a26140,ios engineer
+248aa174b6466845,software engineer ios
+516e22ae2e5dbb20,software engineer ios
+f733a4a8a5906df0,ios engineer
+9ee96818b2dfe002,ios engineer
+9fed63088b896761,ios engineer
+6714e72f3a94aedf,ios engineer apple music
+d33bb07d50468f41,ios developer
+a13ad112921ef0c7,ios developer
+842a59de6a5f4fb7,ios engineer
+d89be680222855ff,ios architect
+9b7dbd89419b32a6,software engineer ios
+02449ea539a717f8,ios engineer retail
+a966118c9e0979d2,ios engineer
+3e2be3be89f27197,ios developer
+2b3ff2296f5b198b,ios developer
+4504aac14f9782d0,ios safari software engineer
+5daa9a446fb2acca,ios app developer
+c612f6b50bfb4339,ios engineer
+bf9716caff2eddbe,ios engineer
+4b969aea0e34f62e,ios engineer
+4c93c3ec75617dcf,ios developer
+08013140aeac9d07,ios software engineer
+7b408df570031211,ios developer
+b947329d09d90a43,eng ios developer
+65545adfd8d8e638,ios engineer
+b23f126ba86c1581,ios engineer
+47a9e39810b2b708,ios developer
+54ead1b9e6c9ec75,ios developer
+fdcafe465e1f351a,ios software engineer
+9d81b0f26ed28b73,ios engineer
+adf9868ec6b627cd,software engineer ios
+1774aacdfac8d673,macos ios software engineer
+89fe9898d75b7612,software engineer ios developer
+71ab350285dea8b5,ios developer
+2f901cb69f50d3e4,ios engineer
+5078d6daa47a1d78,ios developer
+b812ef488910e48e,ios engineer
+30ac01a6f4aaab59,ios software engineer
+3ce4f78a9a36f535,ios engineer
+7c617c7a5fd3a20a,ios
+0149dcdfc23c99c3,ios engineer
+e5496cce503acbc7,ios engineer
+16a3daca311b8cb2,ios engineer
+c3d436c06b51ad0a,ios developer
+bffc0eff4549e3d3,software engineer ios macos
+ba4d5a5e048d23e6,software engineer ios
+f5033ee129b16848,ios mobile engineer
+5897233d9e38004e,ios engineer
+d5216ecddaeaa0ae,ios developer
+90c385c07c35d0c8,ios engineer
+62f7079a68a9f7d1,ios developer
+0c319ac5cc221220,ios developer
+19bc360d4e543806,ios engineer apple tv
+8d83c97b5e8e6796,ios software engineer
+0cc0262f9222386d,ios applications engineer
+a325448eecf76ab2,ios engineer
+a4d746ff2cdf214b,ios engineer
+73ab57e3d7a17d7e,ios software engineer
+bc6c9e246f69ceeb,software ios engineer
+e145c683f038c10b,ios software engineer
+1f0de567eba59fe3,ios engineer
+36d7048e76c450b2,software engineer ios
+d870968b301b475e,ios developer
+5cdeca09ac8b26bb,ios developer
+5dbbfe546271f322,software engineer ios
+8dd1fa7a3d2d3d2d,ios android engineer
+6c7a225ec966caa5,ios developer swift
+a2fbdeb2caf6f3d6,ios developer
+f525cd8d7cb99ad8,ios library engineer
+e1a0e06924d4eb83,software engineer ios
+98773d030d219e63,ios developer
+9179728985163307,ios engineer
+b792ab86c16961d4,ios developer
+6a6f3d625e167915,ios engineer
+6692af3e67484d52,ios engineer
+4943fdb0c58cf996,software developer ios apple
+207dab39527398a3,ios architect
+73f4a9991980f62a,ios engineer
+83d956c3ef2748fd,ios engineer
+21d9b87f76b4038e,ios engineer
+8db20d0fde40f142,ios engineer
+c0dae0e6db19e403,ios
+96fbc4bbe2ee1e1a,ios engineer
+5b4b18417ea4f6d6,ios developer
+178ad1991f251909,ios engineer
+1b74511327558d1e,ios engineer
+79a9cd75ec528b23,ios developer
+ad8fdf2a5fd4b3f8,lead ios engineer
+d3aac57e49fa4641,ios engineer
+84728e14cd65e12e,ios developer
+ff30f94a4e40a595,ios developer
+47e3f8e605d34f10,ios engineer
+9c4bd3c1a6731724,ios engineer
+772e6670c4616ec1,ios engineer
+bc345ba9c7a06d28,swift ios engineer
+f3b821ffe6cec0d6,ios developer
+de28bc5f075539c1,ice ios developer
+fd1dabce6df19423,ios engineer
+7ac35f209d85ab74,mobile ios android engineer
+a2f3562434b176ca,ios engineer
+d101074bb7a55908,ios developer
+cd91a2d84f829b8e,ios developer
+2653e0172b933eb3,ios engineer
+89395d9094452436,ios developer
+4e7a7d2f163373f5,ios developer
+0c41b7c92dc4b9bd,ios developer
+aa0b98747d42d66b,lead ios developer
+7e3206f10380eaa6,ios engineer
+40dbed5f7e684dfe,ios developer
+ed941d1ad30880b4,ios engineer
+112ae5ae5c65ea38,ios engineer
+e8e228602880c4a7,ios developer
+48ffacc837797353,ios engineer
+ec9c657940b88b52,developer support engineer ios
+be61e0cba0cb791b,ios engineer
+72f7d843b098ccf2,ios developer
+241ef19eaa263835,ios engineer
+8573ed86330c4a28,ios developer
+1981981268773c68,ios engineer
+8a4f54bb32330625,ios mobile sw developer
+2163033c09cc9f30,ios engineer
+6229602c352d83da,ios developer
+7087c8f8ec7194a8,ios developer
+44879a1864048084,ios engineer
+48bd2f80388d00a9,mobile ios apprentice
+10ecc4202175a894,ios engineer
+953f9d73f83c1b63,ios engineer
+ea5b7243ad2a2909,ios applications engineer
+ae169ee3a9f1a109,ios developer
+cfa8026d14ee73d8,ios developer
+54342f199ca40307,ios developer
+44b2442288aba483,ios engineer
+924901896a173173,ios engineer
+e5d205dd5e8d8936,ios engineer
+bad5ccb484235490,ios media engineer
+53e1f86cb1cbd03f,ios developer
+fda8ab586f5cc854,ios engineer
+d215b4299895670b,siri ios engineer
+929e986360dbd515,ios engineer
+c8cc71b26c205346,ios developer
+8ed16dc253ce1c42,ios developer
+feddbe1b11701fd4,ios engineer
+4df44d89901b7150,software ios engineer
+b2f3867a0f59a54b,ios developer
+6f5b5aca2e717938,ios engineer
+b79f9526ae4c6090,ios developer
+3433b838089ecbca,ios javascript metrics engineer
+d21d626e0221413d,ios developer
+6e04e0d67694abd7,ios quality engineer
+29a480efb16e4a9a,ios developer
+3d8d4e761c849f46,ios engineer
+51e440d41277b8e3,ios engineer
+9647ac2358f0d9ff,ios engineer
+7d9cd94e3477fa3a,ios engineer
+c7816b7e0f0e3c40,ios engineer
+cb20736b175b0f83,ios engineer
+00026aa825635937,ios engineer
+24b78ee2d6fbd996,ios engineer
+839f2552b4300df4,ios software qa engineer
+97fa03327f88e218,software engineer ios
+954333d1c505bdd4,ios developer
+efedccbfbbaf5065,ios engineer
+31759ef0f17803ee,apple app ios coding instructor
+b12b32689b9e60ef,mobile engineer ios
+1989e664128e35c5,ios product engineer
+ddfc1e4f64a2692e,ios software engineer
+5f35e3e1b21bc8cf,ios android developer
+990532e5de15600b,staff ios engineer
+34b53748513cde21,principal ios engineer
+590051520009e27e,staff ios engineer
+b6feab27232c08a7,ios developer
+9fec3e2283ece0f0,ios engineer
+2fea7670fa3fa058,software engineer ios
+e39f52fb69534293,ios programmer
+6b151c7ccdd98a75,ios app developer
+29e6cf7d66e409c6,ios engineer
+9fb19b930ea98bf6,ios
+2f3e27a555114901,ios engineer square
+f8ccc7ba35abddfe,ios sdk engineer
+c75c8a2f673ca4c2,ios software engineer
+b8f693f37ac4a94a,software engineer ios android
+1ee54f6ef52c5bed,ios applications developer
+951908c18da7e3d4,ios macos engineer
+443d0123d0f5c12b,software engineer ios developer
+5dcf235aee955f63,ios application developer
+ae12782f87196b89,ios software engineer
+18d62b3e1ce14d34,ios developer
+adce9db232abcbfc,ios software engineer
+e38896d5cec414ce,ios engineer
+a02595578b5fbeaf,ios engineer
+15b26215755f6f2f,ios engineer
+bec84b50b7508a9e,ios developer
+9c21197db2130e54,software engineer ios
+b499404fdf439ce8,ios developer
+26694b2645718b80,ios engineer
+2ad01aa83fbd7964,mobile engineer ios
+31a000ad0f2882e2,ios developer
+08f10bf1464fec68,ios developer
+fd0fcb22baa03195,ios engineer
+a487b96119857a5b,ios software engineer
+b11b7d517362877a,ios engineer
+2078bf5629bbaa2f,ios engineer
+175d0fbd4e06a63b,ios software developer
+bcd3b7b8037f6191,ios app developer
+36a83e39782e5b6d,lead ios developer
+eab172e76cb795d4,ios engineer
+e3a39339b1e33cce,ios developer
+a7b732c60ecbf1f1,ios engineer
+b797eae3c65bbdb4,ios developer
+49e2a3b1cd623379,ios engineer
+ee9121369d482a69,ios developer
+0b921945a50cb85e,lead ios engineer
+6060b3352eb3c040,ios gpu kernel driver engineer
+2d4b47437953aaa5,ios engineer native ios development
+1f9d232042b25d9f,ios developer
+afd7ec0c7e29b7f3,ios engineer
+255a0aca5131aca2,ios android video engineer
+5c0320e1bf3389e3,ios developer
+b50db793c49446a1,lead ios developer
+c3606fbff110fe88,lead ios engineer
+ad0cc66131fe96e0,ios developer
+9fb3adbf8784447c,ios engineer
+4987fdb3ce50ad8c,ios engineer
+9317818567692096,ios developer
+1c958a5043890de4,ios developer
+cb127ae9760632b5,ios developer
+e342536159f8783e,ios developer
+fcfb574196b2dfdb,ios engineer
+4f694c585ecfa52f,ios developer
+8dc62ca65c17b474,ios developer
+d7549a729018f2dc,ios engineer
+9ed8be1f3cca7894,mac ios administrator
+ca95635931de750d,ios developer
+369bc474552cfa44,ios engineer
+0ef026157b253e83,ios software engineer
+419359a626a3b8d5,lead ios engineer
+3ca00d4e3125f6cc,ios engineer
+0f5ca395841ed917,ios sdet
+c0786aaba3c45db0,ios application engineer
+e7ab885875d9b87a,ios developer
+9c40d8d09d259ea7,ios developer
+ae6344dce6ee3586,ios developer
+579b5cf2e4079d6d,software engineer ios
+00212862889dec3b,lead ios engineer
+dd3cd01cf97650e5,ios engineer
+a1ffe7de9afd3576,ios developer
+9b80a479ef968ca2,embedded ios engineer
+3de03c9eb773f173,ios developer
+918b0ca38257a58a,ios developer
+ed6cf3259ab3208c,ios engineer
+5c186fc9eadf9146,principal ios engineer
+f393fe73bc6d2058,ios embedded bringup engineer
+51757905d9832918,ios developer
+37a0ff72ba460204,ios engineer
+c5a5926e388289ed,ios engineer
+d4f3a19f88b2828b,software engineer ios
+5cb3439f6399a989,ios developer
+caa05f5f09a0cbf8,ios developer
+0a0b01aeff8b1c58,ios mac os engineer
+c4da16f60e2d2ec1,ios developer
+d212bbe04f681b97,ios developer
+0bc2b483c2632b47,ios engineer
+fbd06a7a6e52d74f,ios developer
+2368932f23ce6e22,ios engineer
+0697a3f42ac8330c,ios dev lead
+9ca15182d215441e,ios developer
+faf0170d06e2228b,native ios
+2e99f95283f467b3,ios macos engineer
+aed3fae82b403b41,ios engineer
+f36b9a43d3eb1093,ios developer
+7a2cdcea93557f01,ios engineer
+108136514737fd29,ios engineer
+b98a0338b16bbed9,engineer mobile ios
+61b9d9f133c97691,ios engineer
+a2bd18cf384333c6,ios engineer
+9ed635280284015b,ios engineer
+434cb90f40821198,ios developer
+7e6f0a3e155511b2,mobile engineer ios
+4b64cbd3697a7c9d,ios engineer
+e9a9a12b7a2b8fb6,ios engineer ios engineer
+5facdfac7583865f,ios engineer
+cc15a8d3a987de84,ios engineer
+074efa08221812f7,ios engineer
+c833605c765a9bfe,ios developer
+69914da2d56c429f,ios developer link
+1f861c8cbbdc0fcf,ios engineer
+f9ea92d452250ab0,native ios engineer
+9e7a0704fbc66d85,ios engineer
+2fb0ce411af9b6ab,ios developer
+ca834566505778d3,ios developer
+8fb5cf1c8f606651,software engineer ios
+3835d52a5a2c53b1,ios engineer
+aa927b3a5fd6e130,ios developer
+d5a9256ddf7bd805,ios developer
+3a9127d2edb551f5,ios sdk engineer
+867285bb0705fc61,ios engineer
+b4c1baedc4f4d46b,lead ios engineer

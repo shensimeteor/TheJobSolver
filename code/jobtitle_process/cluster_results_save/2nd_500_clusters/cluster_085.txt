@@ -1,0 +1,253 @@
+_id,cleaned_job_title
+ba13e66ec94922db,scrum master
+625046c7c1de9aad,scrum master
+a2e4c3c67dfdfac9,iteration manager scrum master
+a91f63de085f6f76,scrum master
+a58c69b201cddfb7,scrum master
+7cebad80a54c122a,scrum master
+cf7edc15e93e71f9,scrum master
+0e161ecd7ee787b1,scrum master
+376e168c4590fada,devops scrum master
+99a97bf1ee87054f,scrum master
+56bc75bd2d721b12,scrum master
+88e310f29ad361b1,scrum master
+7254c84582d62d54,scrum master
+22cc073554f57dc7,scrum master
+e89b155ed9e90569,business architect scrum master
+4d630a632c1bab3b,scrum master
+0da8a966adb654a4,scrum master
+c3cafc0e039912dd,scrum master
+4d9cc83542773187,dual hat scrum master
+383838659c65e06b,scrum master
+7da7fa3fdff32d44,scrum master
+0c94babf7f05c54f,agile scrum master
+91b86a13bb17af3e,scrum master
+e45582a597eccae4,scrum master
+1351623f7e2ba16c,scrum master
+edcdd10269fc273d,scrum master
+bf07845eec22fa17,scrum master
+43b57eb885bff661,scrum master
+b0ef4608f4110ac2,scrum master
+b53cdd68863ecf03,scrum master
+e3a0b7fbbe62ef8b,scrum master job
+15a6b08e0ecd3ba3,khe scrum master
+446954155839d7a5,scrum master
+aff32bee7a2a53e8,hyper converged scrum master
+1ad113a547031771,scrum master
+62ea70d812d78692,scrum master
+9f9de2e1dba85932,scrum master
+cda263d072fd58e6,scrum master
+564c2de14138c8ca,scrum master
+87b411602cca2fb3,healthcare scrum master
+1c4fe019f28cc4ab,scrum master
+d1568204f7a69ba3,agile scrum master
+3293ba4613b5aec7,scrum master
+42b839e7ed88e7d6,scrum master
+c83557cb4ff7cff1,scrum master
+05054104d3a48eb7,scrum master
+44c33dc4e4191d06,scrum master
+2a8d2c541c037c85,scrum master
+8580c1466f31dce3,scrum master
+0773708d5502294d,technical scrum master
+91347e8eb132b255,scrum master
+ad5ad4c9e6501590,scrum master
+060bf18f178367bf,scrum master
+8ca2de1cc9f0fe5f,scrum master
+ec77d894750b9fcc,scrum master
+74c9b7db810bbecc,scrum master
+8fa8037afa8ac20c,scrum master
+07ddbe3e153c9b93,scrum master
+605903bfeb7b15af,agile scrum master
+4cb38a84b1c85b8c,scrum master
+beeb2abda03ccd77,scrum master
+4702febeec24773a,scrum master
+98a0c14e7a4edb68,scrum master
+198cfd706e220529,associate scrum master
+85aa871d70f18eca,scrum master
+e91413d2b5cb200d,scrum master
+caddd6cfbaa1c602,scrum master product owner
+bc261a7668cb670f,scrum master
+7358c18010600454,scrum master
+4bd21555c9c400e8,scrum master
+c1a061378feaa032,scrum master
+ad8278134ba4be10,advanced scrum master
+f19212f004bc5615,scrum master
+a39048a748197389,scrum master
+666bf9026048ff0d,scrum master
+f9cdf3b502a9bc6d,scrum master
+9aaf6c00d0cdf649,scrum master
+19197f61af65b5e6,salesforce scrum master
+3ca35fce98fcbdf4,scrum master
+f30445c89ee97329,portal scrum master
+faa7e8c5824b13e6,scrum master
+f54a774c1ef2dfee,agile pm scrum master
+2bfa7bbd17549116,scrum master
+dc7e2736302644a0,agile scrum master
+946c086dc32a5dcc,scrum master
+dbacaea80cbf2057,agile pm scrum master
+ee9e19acc4156e01,scrum master
+23ef8bc3daa1ec5b,scrum master
+9787c9793689e837,scrum master
+39f93e8cd7cd9272,scrum master job
+9eaccff9c7379794,scrum master
+a8762b8cf723b072,scrum master
+ea3c1d5a6d43c2f5,scrum master
+47121debcc4d4539,scrum master
+973cd4d1a740bfd8,scrum master
+718942f83c9df14f,scrum master
+f9d4e4477d8e1c69,scrum master technical pm
+c23aa549147286d5,scrum master
+9ad754be55d57296,scrum master
+4f9674952e07fff6,scrum master
+374b5b1700bcd80e,scrum master
+a956629f222bc165,scrum master
+78cbb52aac1f074b,scrum master finance technology
+ba38d1a26fd178bb,scrum master
+e8ece5033395cd1c,scrum master
+dba7d0c06b6bfe03,scrum master
+69151683c2ad9ab7,scrum master
+599dfb38749793d8,scrum master
+d011a6b8626148f9,scrum master
+f6eabed2d8bf4685,scrum master
+9b459c63323fbfcb,scrum master
+ff838f4ebbf3d5b2,scrum master
+15336084a7087222,scrum master
+07f9bd4ebd17c741,scrum master
+2f85bdc19c82f7f4,scrum master
+fd14596903ddc52f,scrum master
+4070367998336004,scrum master
+6d6eee8037fa40ca,scrum master
+53ddff375fc8d125,scrum master
+03c13369fa12c64d,scrum master
+510db088ec4725ec,scrum master
+a324f6a25efe0011,scrum master
+b55664c1a172f247,scrum master
+b9a1c55760f7711e,scrum master
+091b9bbfcf9e06a2,scrum master
+7a7bd42e90f42e90,scrum master
+70124b6e672bd7c5,scrum master
+596ed3976a2f7a10,scrum master
+6dc08312a87532ad,scrum master
+04bec82d072dd251,scrum master
+52faa75b72b7bba3,scrum master
+e5cdc49f63c5ab9c,scrum master
+1bc31901914111da,scrum master
+941822cf042e7e6a,scrum master
+2dd5fef0171f3f9c,scrum master
+02d39f9f6e4f2976,scrum master
+8e4ef449943b4da6,scrum master
+1587635b29378f6d,scrum master
+d8d0576bd94c3c35,scrum master
+bf11695e782442ff,scrum master
+0e2c5e0bdc555247,scrum master
+70def2f4957d24f5,pm scrum master
+805980a4f6e9e5a1,scrum master
+e5210795b70ba53e,scrum master
+4649bcbc5b90bc9f,manager scrum master
+a49520f8c94a642d,scrum master
+704ce4285608918f,scrum master
+b396d0b0c1a7498d,scrum master
+61659a13eef89568,scrum master
+c6d759322157099b,agile scrum master
+41685ba3be6dfc0a,scrum master
+265d611bd8119311,scrum master
+93973ad389949b2e,scrum master
+b79fb32986b92ae9,unity technical scrum master
+bd1bf6fb78c96661,scrum manager
+d67cd352f990e8f6,scrum master
+da5982ddb63065c4,scrum master
+db9935761e1c645f,navy certified scrum master
+385c85c8ccd1074f,scrum master
+828422248cb59636,scrum master
+257515ecdab41e72,scrum master
+1463a2f7095c0bdc,scrum master
+cd95676c8265a756,scrum master
+b0a4350c9eb6909d,scrum master
+d246a9a0202f7739,scrum master
+07d52767126f34a6,manager scrum master
+cc5f01095e27738e,scrum master
+2b4127da9be0cc7b,scrum master
+be710541beb5e320,federal scrum master
+cc66a26236ee7d64,scrum master
+6bd1ce5950f7380f,scrum master
+6a77c32a215a0dfe,scrum master
+5b115442df18f07b,scrum master team lead
+065f63e6706cbb23,scrum master
+187a35c1dd9c18fb,agile pm scrum master
+cc092c5205f00e0e,scrum master
+2b2aeece84895bc5,scrum master
+889e977bf81282ce,technical scrum master
+8326acfdf9513153,scrum master
+dd1ae106b0f45401,scrum master
+6556006e015a9bb0,scrum master
+7622ef0ce46e2412,scrum master
+931a80ae5f2a2582,scrum master
+a70f6d388aae2031,scrum master pm
+e85a1d11b98af810,scrum master
+53e56a43e599e4cd,scrum master
+40d13286d08b53c5,scrum master
+c34f3c1ff7b487a7,scrum master
+6c77f4a55a739f62,scrum master
+822dd133084f1e0f,scrum master
+c101dbe378f28764,scrum master
+de6b56a8b4e96c7c,scrum master
+d052d79e15d7acab,scrum master
+a0bce3f2318cfeff,scrum master
+2481085ab6d81603,scrum master
+09e914031f660731,scrum master
+d3fa36c2d76622b5,scrum master
+8e91c4931fa565c5,scrum master
+bef5c45396a0d7ed,scrum master
+171a1f85dd904fc1,manager scrum master
+0155d50e6066c422,scrum master
+072ecfb2783d6008,scrum master
+51338648fa51686a,scrum master
+fad500fedfc706e2,scrum master
+912d43e64ff0991a,scrum master
+3813a108b8324b7a,scrum master
+e8072320e193a7de,agile scrum master
+505288b315f24b63,scrum master
+bd821eda2b8ee975,scrum master product owner
+cdeb40fa258cae8d,scrum master
+f5b9235bcc6091d5,scrum master
+1450e11982bf7584,scrum master
+975c7b49d447f42d,scrum master lead
+cfbf12dbc4589843,scrum master
+392a486d099989c4,scrum master
+9e3a055ef647c43b,scrum master
+c6bcf30408d8374b,scrum master
+8dc07a331610d8f0,scrum master
+40074c33d61e3f12,scrum master
+ba3527ee258837e9,scrum master
+07e907ef5fda143b,scrum master principal
+cffd2cc84c0b92ed,scrum master
+99b44f68a6c6fba6,agile scrum master
+d1a9545fd1c04cab,release manager scrum master
+5820b4b7deceb9b4,scrum master
+9cb98baedb198c6d,scrum master pm
+bbce8b94e530780d,scrum master
+59c379e3f50da129,scrum master
+5b03b5fe77e60fe6,scrum master
+c627af5e9e997117,scrum master
+3695fad9de8a3940,scrum master md
+10ecdcac3f0cffff,scrum master
+106d2f41491b6101,scrum master
+8b5db548cdd8b924,scrum master
+390ca632851b8d77,scrum master
+8b8359ab6cafd3b4,scrum master
+c5b1efdcab318d2f,scrum master
+5abfa17f296c5112,oss tools scrum master
+900dd62b03c697f6,scrum master
+3e0dfafc4946bc7c,scrum master
+32a5b41faa29bf54,scrum master
+8c0e32b2a4a91289,scrum master
+ce7d3e647ff696a9,scrum master
+d7bea1e8c9ee4311,scrum master
+2fefb75d24293ace,scrum master
+0772093c1e112622,scrum master
+e076be51a4e687fa,scrum master
+50c94a0003853d48,scrum master
+8a8b1ccd905372e0,scrum master
+192ba8b95b9acb9b,scrum master
+0cd88b2a6cf7f95e,scrum master
+b3d4dfc79ca53bcc,scrum master

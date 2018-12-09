@@ -1,0 +1,228 @@
+_id,cleaned_job_title
+d53c14eb470ef969,dev ops engineer
+8f70adab94e45276,dev ops release engineer
+f1dab51a4a8da0c9,ad ops manager
+574666ed0d8885a9,dev ops software engineer
+41ecc29bf57226d5,tech ops engineer
+7cc28b920c16230b,dev ops engineer
+c89a4ec26c72c16e,database dev ops developer
+529a12e9690e9607,dev ops engineer
+a75c53913b1dffe6,dev ops engineer
+41582af5502fc251,dev ops engineer
+a6af1242fcbaa24e,dev ops engineer
+0784cb4d4bd7cb32,dev ops engineer
+c5e5a1d9b0b6f43f,mobile dev ops engineer
+2cd5fb5e978152c4,engineer technology ops
+1b9bcf05a5b970c5,dev ops engineer
+8c1756e10135c568,dev ops engineer
+e6e5201863bcdc9b,dev ops engineer
+a87fdb123ee58b19,dev ops engineer
+db424b89b9de773c,dev ops engineer
+3c93cf33b97191c7,dev ops engineer
+33ee03af1f01ba6a,dev ops engineer
+88cc961fabaeb61d,dev ops service engineer
+6829d6fbcc70797b,program engineer intel ops co
+d7f306caf235f7b8,software dev ops
+46d4abda371cba1f,dev ops engineer
+b86b64ad6633399e,eng billing tech ops
+1e0af913129a4d18,dev ops product
+39cb2658d8b8d175,dev ops software engineer
+40986bfba626b9c6,dev ops engineer
+a7177ff442731eb7,dev ops engineer
+3c02d8429eed2c8c,dev ops engineer
+93a08f73dff1a7ff,engineer biz ops
+f8a2f6cb2b4e9109,systems engineer aws dev ops
+6531fe4d0eaa0577,dev ops systems administrator
+a6508dda1ba76b95,engineer biz ops
+05eeaa1cb99e22ce,dev ops engineer
+a53254f60dbc9a62,eng engineering ops
+0e3c2df6b397be23,dev ops engineer
+c607aca1908e6f78,dev ops engineer
+c5827241e1b2a29a,dev ops engineer
+4239076bab616a99,ats ops lead
+a5767af0a6e407a6,dev ops engineer
+91176e6d73148c76,conn ops analyst
+442c9c05d28f94a6,dev ops engineer
+ba628478af41bd33,software engineer dev ops
+54698be6ee80bc63,dev ops engineer
+c36cefdd0a6c858c,dev ops engineer
+55f02770f8c571bb,development ops engineer
+dc4934908ee9ff60,consultant biz ops
+b171eb0ed49bd4af,tech ops engineer
+0f7d8212e977e99f,eng advisor prod ops
+01a69c60483a8bd1,biz ops engineer
+604d22ef2cb412b1,cooperate ops
+522c90e24db4ab9c,dev ops engineer
+7fe2383d1bfcaa8b,dev ops engineer
+db9fd09bc6330518,eng engineering ops
+5e404c7ee9ac719d,development ops engineer
+c925fcdaa4976dd2,azure dev ops engineer
+09b9d6086d57fb70,cloud ops engineer
+45e765484bb95964,dev ops software engineer
+37028ffc4c65bca8,engineer biologics mfg ops
+c73d5500e5e40b41,dev ops engineer
+43050334a9229ff6,tech ops engineer
+13b6c9b489ddb6a6,dev ops engineer
+6387221eb4971e99,dev ops engineer
+1c93ab7d82f40b82,dev ops engineer
+a7a999d3a898671f,tech ops analyst engineer
+875307c8b0ab91db,dev ops engineer
+5d5de1d177ef22b1,net dev ops engineer
+75bdfaeb7acd0960,tech ops advisor
+b874a5c0e7924d76,software engineer dev ops
+9c49c4c8c0a2f37a,dev ops engineer
+13021315046fe04d,dev ops support job
+b3be41f7571b6082,consultant biz ops
+b813ab7f502b19e2,dev ops engineer
+c708ddafad5626c3,engineer engineering ops
+62c790a7e6ee796b,dev ops engineer
+d04e3b9c2975d1fe,javascript dev ops engineer
+1679dc2d9a94927c,dev ops engineer
+68bab1ce2d10fa34,dev ops manager
+0ae37af8ac55985f,cloud ops engineer
+c192ea88ab5773bf,engineer engineering ops
+02407818b4a22589,full stack dev ops engineering
+02d0744848b0ef91,engineer engineering ops
+1a0daf7060c2603f,dev ops engineer
+5c218d79931a039b,engineer biz ops
+ee6dd1b2b93b6c58,dev ops engineer
+b56e66836cae8c1b,dev ops engineer
+0cb3558c43a6f242,dev ops engineer
+fd72e8afd46eb243,dev ops engineer
+45333e4c6f63548e,detection ops engineer
+fdb3f58cd6910354,dev ops engineer
+abb0e80520111b53,software engineer dev ops videos
+42e6ed0bc50f4caf,dev ops engineer
+dbb47ba7df75fc9f,dev ops cloud engineer
+9a0b706b009ab765,dev ops cloud engineer
+803c2ae5ca5f246a,dev ops engineer
+2c3766dcea72b812,consultant engineer biz ops loyalty
+dcadbad0ebeb66c5,dev ops engineer
+5a0da4eb14cf7c59,assoc production engineering ops
+66845259165647b1,e aws dev ops engineer
+4e3691e4d547a88c,dev ops engineer
+687f44b5122465ab,systems administrator infrastructure dev ops
+694a3760ecfe3447,civil engineer co ops
+12733d9232159bfa,lead dev ops engineer
+1092f24e187fa9da,dev ops engineer
+385a75d6dcbd834e,eng engineering ops
+716e42970a7a0922,dev ops engineering manager
+885c87dc7db41f08,production engineering ops
+20f46c8c27caf52a,ops process engineer
+d334f6a54d362019,dev ops engineer gas enablement
+8e045aa1f266a3c3,dev ops release engineer
+07f7cdc2ef2ee770,head ad ops
+5093ef95eadd807b,dev ops cloud engineer
+3f60ecd785339ea5,mfg ops quality engineer
+cfbdde86c961a28a,live ops manager
+b0ac6766eb373037,mechanical engineer co ops
+a2bad710aad41d38,manager dev ops engineering
+81b4b078d65c29bc,dev ops engineer
+86027e0cf63b0a4b,dev ops engineer
+093a030b895ef312,billing tech ops engineer
+64c4b79a1715407d,dev ops engineer
+0d616b5786051639,software engineer ops
+a0e7a6186711f30b,dev ops engineer
+e6d1ad211d29c328,dev ops engineer infrastructure performance
+69451d15b3dc4590,dev ops engineer
+b94ba1d5eb8a3879,petroleum engineer co ops
+ff0f6338e87ca88e,assoc voice ops
+97034fb2b4b2db71,bluefin robotics dev ops engineer
+bb9fc60f9631bccb,devsec ops
+fc73c55faefd2136,dev ops engineer
+240a4669f05447c1,dev ops engineer
+0bf3d847be0d8a57,assoc production engineering ops
+eb2982a142fd8ecc,dev ops release manager
+8fb8c82651fecc0a,merch ops analyst
+a2ac939696086eed,conn ops analyst
+cce593692a966a71,tech ops analyst
+e73fa862a6aa29f0,ops analyst
+242395d6edebc1e8,ops analyst mkts
+d7b00cd9fed3b4be,cbr ops sttas
+a277c5e9629c3aba,fab ops analyst
+2d4532ca10dca32d,ops analyst
+ca8a0742223c3384,dev ops engineer
+3e3e370ba8dca566,development ops engineer
+c5b2b5b0ec21bc7e,dev ops engineer
+3a66b211fe81a691,paranoids systems engineer dev ops
+a34da27b509480a8,dev ops engineer
+bad40060f18a0cc2,engineering manager dev ops
+d46d2fd30084648d,dev ops eng
+f21d2b0a0127e1aa,dev ops engineer
+b71606a59bb42669,dev ops engineer
+88fc496202faa895,dev ops engineer
+c17a0ab87bd05e59,dev ops manager
+a4ee679d5c7120b6,dev ops engineer
+9d85cf241d172de4,dev ops engineer
+6209fea8952c07eb,dev ops lead
+64cb7ae1afe58fd9,data dev ops engineer
+aeb19b2f4673c771,dev ops engineer
+ae40adb6fd1fe8e5,dev ops cloud engineer
+6ed97e57be11c199,dev ops manager
+975fc913f0f55801,paranoids systems engineer dev ops
+6ddd005c62c88993,middleware ops engineer
+4fc6a1a9c4093696,dev ops engineer
+3eca1280b7fdf378,engineering manager dev ops
+4d7bbca0fc8de721,dev ops software engineer
+2a578d25e92476aa,director dev ops cloud infrastructure
+f1cd11ec0a67b2a6,cloud ops engineer
+80dbcf00dfa073a4,dev ops release engineer
+fb7354bc9d3c1dda,cloud ops engineer
+312c0015a8c0dc31,dev ops automation engineer
+dba25986cbd83ebb,azure dev ops engineer
+fd6a6db5b9a799c5,dev ops engineer
+93ee1f1f2b4613b6,sys admin dev ops
+725317a929908a59,dev ops engineer
+7fe22aabc1822c32,dev ops engineer
+b1d9478178a044f4,dev ops engineer
+53b313311ab9c2c8,dev ops site reliability engineer
+136d0bf97c658001,dev ops engineer
+4d7c0fbfbb2b1e0b,mobile web dev ops
+efa9affbcea1a050,mobile web dev ops
+4ce57535bbb9366f,production engineering ops
+61b1aa57220063c6,dev ops engineer
+74ef464454e7dee7,dev ops engineer
+204dddb84a9d3c28,assoc production engineering ops
+92fc1e518dea0eec,dev ops
+808947c1ebe32adc,dev ops engineer
+3de170d9748cf53c,dev ops configuration manager
+7cce5ea623270a6d,tech ops advisor
+4968a4838f28c003,dev ops analyst
+310b57f79e7d51b2,supv pre analytical ops
+233a6a6fb7b12bf6,dev ops engineer systems administrator
+2858d26a5f2b17e1,dev ops engineer
+264be897e3185413,ops specialist
+6d640aa851a43e65,ops manager
+24df6a227fa82003,fm engineering ops manager
+5a1d1acdb48090cd,project manager fac ops dev
+a57738eea6a20190,dev ops engineer developer
+af81d184cbed2a16,devsec ops manager
+ae43619f47329c9b,administrator ops
+2dc04e7e99094e1a,dir engineering plant ops
+e5a181cd97f2cb99,dev ops engineer developer
+3c1750486646c0d1,dev ops engineer developer
+943b88a3b4393be1,dev ops engineer developer
+44879b3582614c32,cooperate ops
+d498c4e8b3625ffa,engineering ops manager
+d9a7564084148061,experienced dev ops engineer
+f7f7e65b25456705,admin dev ops production
+45e023c93253691e,dev ops architect
+f1049158a1997b4c,director tech ops dev ops
+c779dda05c7ea3af,experienced dev ops engineer
+b663ccdb3bda4993,engineer technology ops
+d68e0607142004a9,manager people ops
+4227095f0687a2a1,associate dev ops dba
+fffeafc31adf83c6,dev ops engineer
+b95c0a77b5f8598a,biz ops cmdb engineer
+425b54a22a5663e1,head dev ops
+ea8460df247c955e,dev ops engineer infrastructure
+65d5c08fbf37538c,ops engineer
+aefb3d4cdcbadb28,wifi aaa ops engineer
+6b0b3f81c26df888,dev ops engineer
+320d9ee950cb84fe,dev ops engineer
+1e13896f63ac5d8d,product dev ops engineer
+9198035ad281ae76,dev ops engineer
+134e6e689db14822,dev ops
+a986b3ce1c07a08a,dev ops engineer
+365730da8f55d3cb,ops engineer
+56b5a79ba1141d74,ip ops engineer

@@ -1,0 +1,369 @@
+_id,cleaned_job_title
+35f3f535b59bcf7a,hardware engineer
+95e2e48c66683592,hardware engineer
+24ce83a51e150c6e,software engineer storage hardware
+73eb2f0ea54ad8b4,hardware engineer
+f0cb7c85b6662008,computer hardware engineer
+ff8c6a24a8a7d2b8,hardware design engineer
+294b7763bdca422e,hardware engineer
+5c757c84e52407d6,hardware engineer
+67d038bcbd26a963,hardware engineer
+991e97b49a14cff6,hardware engineer
+bc2d55b9914312ae,hardware engineer
+c2a5b39b85720859,hardware engineer
+53cf9935c6adb0db,hardware design engineer
+842ddbd23a146e29,hardware engineer
+c0ce4dd5501bc60e,hardware software engineer
+bf9b3becf468b310,hardware engineer
+3b9dd81e88e89a2b,digital hardware engineer
+acb3dba26bca562d,hardware analog engineer
+f878ee8f8a29f669,hardware fpga software engineer
+267650786166326e,coop analog hardware engineer
+0bb83d3c9884a2e4,electronic hardware design engineer
+562f44768809a4f4,hardware engineer
+aeb56a26c8858411,hardware engineer
+903e3b91cec20ba3,project engineer hardware
+bddd9b51f8fdad1b,hardware engineer
+ea96f6a54f965533,hardware engineer
+543afdfdd59ff6d3,hardware engineer
+e769af0ca640972c,hardware design engineer
+01e61f91b4c2d743,hardware design engineer
+221941f9cd4e1b18,hardware engineer
+8f77872c9ac6b2aa,hardware software design engineer
+03d243c07816a87a,hardware reverse engineer
+79eab2d3f42fcf30,hardware engineer
+c4601028aed3d445,hardware engineer
+94b362f5d63b6707,design engineer hardware electronics
+2613e50072aeaad4,computer hardware engineer
+75dde469928f1bce,cryptographic engineer
+68120d024fa7e2ad,engineer hardware
+3b768c98e8b3aa02,hardware engineer
+6b847d1ea44420c1,hardware engineer
+4ef7ee7857e69a9a,hardware engineer
+f062513aedad99f1,hardware loop
+150e133b3d27d0b9,hardware engineer
+f27f2360f49a8b4b,hardware designer electrical
+afb5609aeb2d1830,hardware engineer
+54a84ac2a65bc838,hardware engineer hardware design engineer
+891fa91a2657db8a,hardware design engineer
+55a6be284f33d5fb,hardware engineer
+4c50e6a9634f5124,hardware engineer
+860d38377aec1cf0,hardware engineer
+7f579ac3a25380e1,hardware engineer
+58901ad38d9f2a3d,hardware engineer
+d7a54e7854e0433d,hardware applications engineer
+99ac1037df975a2b,hardware specialist installation engineer
+c4199adf51d3939f,engineer hardware
+54065a9fb0137ec1,hardware design engineer
+07d754b66a07b0c0,hardware engineer
+1dcb6de7b732d12f,hardware engineer
+381d64939a875c0c,hardware engineer
+d2950988af48e78b,hardware engineer
+1891109fa010b4f6,hardware engineer
+5f8c2af1fa09763e,hardware design engineer
+8a62fb72fd752a7a,engineer hardware
+580f93ee0349cc01,hardware system engineer
+c90af4df27b896c5,hardware engineer
+e14cd52dffc61b72,architectural modelling engineer hardware
+a1e0448d0d62b500,graphics hardware engineer
+d287e09969bf2e3a,hardware design engineer
+a33f959871261d17,hardware engineer
+ccc8e91e7e7ae577,hardware engineer
+8a369e194ab3c383,hardware engineer
+6572cf1b7687079c,project hardware engineer
+b9be141cb312a40c,hardware engineer
+b22a7ff79bf9a453,electronics hardware engineer
+bd46c85a9bef0694,hardware design engineer
+b4a038c1fc5cc18b,hardware engineer
+2686a22d2e9f0e88,engineer hardware
+b7ae1e2a683aa0c9,hardware audio engineer
+3435f161d36d789e,electronics hardware engineer
+b3520dc001c4a6bd,hardware engineer
+3487e53548bf50e9,hardware engineer
+e22502950386e1c8,hardware design engineer
+1d3a3126a725001a,hardware engineer
+8fc983ee3835605f,hardware design engineer
+e6beca32f65d23b0,hardware engineer
+c65bf811169ef92f,hardware engineer
+a8f4818d3bcbb420,hardware engineer
+c9554de8cadf5f6f,hardware design engineer
+6fe0ae718a5619f7,hardware engineer
+831143797109e47e,hardware software engineer
+9b52e8b4e1a4198d,hardware engineer
+131d0f0e31d2476a,hardware engineer
+489277d825690394,onsite hardware engineer
+7e5e667df8b9ccb4,ate hardware engineer
+6902ca2b4313c5af,hardware engineer
+fb480f04932bfb8e,hardware design engineer
+bed1f45cdba44bfd,hardware loop
+cbb5f2a692437878,firmware digital hardware engineers
+63b67b1b49caac50,coop analog hardware engineer
+417a7cfcc3bdf70a,hardware engineer
+b83523d40e8a781e,hardware engineer
+3d791dbe68f50de6,hardware design engineer
+1d4db73062100d03,adas hardware engineer
+da361cd3601acc55,hardware design engineer
+1bba4c48a90c0aa8,hardware engineer
+94c5286715626333,hardware engineer
+d4bca0272ea166fb,hardware inverter engineer
+ebc7068953ae9d6e,sensing hardware engineer
+f6fdfde6c2f3966e,journeyman computer hardware engineer
+a42fc67810136ea4,hardware engineer
+e6c4b953302167a5,hardware software engineer
+b5c334ee4185e943,smts s hardware engineer
+2acc4945b7b2a918,hardware design engineer
+df542380621b0e93,hardware engineer
+a9d9606477880e80,electronic hardware engineer
+f1e443c40f9f5bba,hardware design engineer
+c902977f92169e4b,hardware analog engineer
+562741907b3dafc6,hardware design engineer
+175d8992b2dcfa29,electronics hardware engineer
+a8429e7068b47cfe,hardware engineer
+409983309188c1f9,hardware design engineer
+456805ab8634189f,software hardware engineer
+b4f7f06c351a4b95,hardware electronics engineer
+0d22cc26c8ce6adc,hardware
+52d7c22ddf683c5b,hardware engineer
+a4c966e9ad5174fa,hardware engineer
+ced9fbc5b945beda,hardware engineer
+8b3f32ff7cbfa034,hardware design engineer
+738999232a09194e,hardware engineer
+d972b097975008c5,hardware engineer
+342fbf566d4fa634,manufacturing hardware engineer
+14a9796b07c24bd0,hardware engineer
+6b64816d964dbf68,engineer hardware
+be648efd65208f7a,hardware engineer
+fe748699a4278809,digital hardware design engineers
+2ce5e562495d3729,hardware system engineer
+c02cb3e92542fb16,hardware engineer
+992d01f97a8dcb66,hardware engineer
+3dde02f80c0ccff3,fpga digital hardware engineer
+d47f3021402d31f6,journeyman computer hardware engineer
+bc8744155e30a984,graphics hardware engineer
+54f81329ea84ff9f,hardware software engineer
+bd890de52332cb9e,hardware design engineer
+fd4a572720fd8893,hardware engineer
+6571ea8966bfb96d,hardware loop
+ba72dc39e30d170f,hardware engineer
+1e0198cf756a5c31,hardware engineer
+e79352d49eb69592,hardware integrator
+2b885fda1923e0e1,hardware design engineer
+f835cbcc11f4c0e5,digital hardware engineer
+64a10eaa40e694b3,hardware ecad engineer
+548f0f9875fc9d1e,hardware engineer
+af04b1071291ff1b,hardware engineer
+869aeeec92d88c74,hardware engineer
+be98cd2904e12e4c,digital hardware design engineers
+efa65327718e24a9,hardware engineer
+3d3f5ee6cb704dd7,hardware engineer
+7e29eae2862c4682,hardware engineer
+c5cc13074417e58c,hardware engineer
+893368bee03def32,hardware system engineer
+c839d10a867739e4,hardware engineer
+afdb4ae1f8dc7c5a,avionics hardware electrical engineer
+be3befcb6e9ac297,hardware engineer
+8c2efc04e8e2da4d,hardware engineer
+babbac19ae9001da,hardware engineer
+535827b7dfab82c6,software hardware engineer
+a2ad3d85cbf5f4cb,hardware engineer
+ee027215c633c90b,system hardware engineer
+9cb8420ce66a1108,hardware engineer
+f0a9ef5520a3f85b,hardware engineer
+892e1bb5dec03ac0,advanced hardware engineer ipt
+352174b79d4f3907,hardware engineer
+881dd4e972e3903f,hardware engineer
+1a6031180882c1c5,hardware engineer
+fe3adf6ea52fae83,hardware engineering technician
+fe44eb1994a68987,hardware design engineer
+094989e19f239265,hardware engineer
+d3b35f1453b079e8,digital hardware engineer
+c5ea0a11988cb1a8,hardware design engineer
+54eb8830415d6daf,hardware engineer
+02b85b760f3ce01f,hardware package design engineer
+7d7ae46a0fad8412,hardware engineer
+82e3a325581a366a,hardware design engineer
+5638da55c9aa97cd,hardware engineer
+b13fed59391ff01a,hardware software engineer
+1ded887daa1dfbc5,hardware engineer
+33a3145ebbdde4bc,hardware engineer
+7d338785df3cf5d2,hardware engineer
+641c9f86328987a6,hardware engineer
+64c9d9b007de3b07,hardware engineer
+7aeef1e96dcc18dd,hardware engineer
+a2297f8d8e7aabe5,hardware engineer
+5adef87257621452,hardware engineer
+78ccde6fc1f70a33,hardware design engineer
+42feb1b59069f6cb,hardware exploitation engineer
+2bd144aaf11e4e17,hardware engineer
+7d740e5ae540049d,aerospace hardware systems engineer
+6ed36c9291d2e57e,hardware characterization engineer
+bd6ec56739627e0e,hardware t engineer
+c03c0b80b3544bb4,hardware engineer
+9cc822f579920a99,hardware engineer
+125c5c389b6ffabe,hardware engineer
+78ce38d94619ffca,hardware engineer fsp
+b9dc1cfae169d086,hardware exploitation engineer
+50eb260636ecb69e,hardware engineer
+e78b4d7f56324f94,electronic hardware engineer
+fec7952e05f71522,hardware engineer
+85fa61c699d07b04,hardware engineer
+176a990f9cc8e310,fpga hardware engineer
+5b7cc1522b9dc2d5,computer hardware engineer
+1171150fa71f4eed,hardware engineer
+68a8ad65ac78eb2f,hardware engineer
+ee5ddf61a2a18d4b,missile hardware engineer
+5dcdccac13d95553,hardware design engineer
+d366d1adfc827a0a,hardware engineer
+226116ac3c8de038,hardware design engineer
+88f1de98cbaeaacd,hardware engineering technician
+adf5a7dfb8a96000,hardware engineer
+9c896fd0b338beac,hardware exploitation engineer
+58248184151f34df,hardware engineer
+409a93a6650ecbee,hardware software reverse engineer
+b7becaf24ed5ca89,hardware engineer
+2b52d7884fef1382,hardware engineer level
+1714409937e76d56,hardware engineer
+296f313363a07502,hardware engineer
+ec03ca79b0da94e9,hardware engineer
+ac2501d512176e77,hardware engineer
+4e94420e530b0e77,fpga hardware design engineer
+2b0af4abeff115c3,hardware engineer
+a4ef55b37935479f,microelectronic hardware engineer
+cdba439cbea2900d,hardware audio engineer
+94e12544e0225567,hardware engineer
+2e625e8e4abf2797,tmg hardware engineer
+28bac564375fdfed,hardware sustaining engineer
+7391e0aa3f2fbe10,hardware engineer
+c24c1c4cad0b2758,hardware engineer
+35c118586453d48c,camera hardware engineer
+887beadd887fae43,hardware engineer
+ac59acd5fc689f0e,hardware engineer
+224556466573be7f,software engineer hardware diagnostics
+0bc5b9e607131b62,electronics hardware design engineer
+2d96d31deaff8891,hardware engineer
+fcc9d525965d2f86,hardware engineer
+c54287975b669a0d,hardware engineer
+e02ab3e44c6fbe4f,hardware design engineer
+83a55cd642289b1e,hardware system engineer
+60f3b12953ea88a5,hardware engineer
+07579ec787f37d87,hardware engineer
+c4c03874315bc7ca,hardware engineer
+9b3e12aca7fefd9b,computer hardware engineer
+2a7f03ff3517f25d,hardware engineer
+d3baf51be9a069c2,hardware engineer
+1aef7a5398158868,hardware engineer
+3607e3e5ee47bacf,hardware system engineer
+d1d2c5ee2440ff01,hardware engineer fpga x
+4b920529bb70bf23,server design hardware engineer
+b38f102cd14fca19,hardware engineer
+08fc35929be25af6,hardware design engineer
+93a5cd740c26fb3a,hardware engineer
+84a03a75528f7eb9,hardware design engineer
+a9f8ae51d98b700a,software hardware technician
+eaf1a8c38524f6cd,hardware engineer
+5195d1672ea7323b,software hardware technician
+f9dbbe1e9b57572b,hardware engineer
+b0a9c2930413ca5d,hardware engineer
+957b2b60659147d6,hardware exploitation engineer
+b2d3e80ccb73d759,software engineer firmware consumer hardware
+fc640be2b478d664,electronics hardware engineer
+52ce2d6eb0c4631a,sustaining hardware engineer
+b4ef91d95334f576,hardware design engineer
+b841be7796362314,hardware computer engineer
+2b8350217e28d4b8,hardware design engineer
+0cd90a340bd026f0,hardware loop
+57286ba22da55cda,hardware engineer
+2226eed1e853e1ac,hardware exploitation engineer
+d86d33f0eff994e3,hardware system engineer
+e36cd14d21a90889,hardware design engineer
+ccc8426a86e5c7f2,hardware engineer
+275c80f49a275343,hardware engineer
+8d047852d554a6de,fpga hardware engineer
+92a6754ee58c62e1,software hardware reverse engineer
+1d1065e1bb690934,hardware exploitation engineer
+6b67b521b1f38c7b,hardware engineer
+230ed923bf107937,hardware engineer
+ce499629c8479a3b,electronics hardware engineer
+12c8dad8361f4b72,hardware loop engineer
+63d9e6d4cb00545b,hardware exploitation engineer
+8068a5ca00f3b511,electronics hardware design engineer
+d89447285f8ed2f4,hardware loop engineer
+a39467dc5738c094,hardware engineer
+b5044727955199b6,hardware engineer
+19e14d0bb8480968,hardware engineer
+573c99e1f5c77a3c,hardware engineer
+73734b515b50f1df,hardware engineer
+07ce4bffb95f5818,hardware engineer
+145068609c3388d6,hardware engineer
+262b5f2ec3991f6a,hardware engineer
+0a4f2fd03ee930a9,digital hardware design engineer
+a5c922a9f8f15e6d,hardware engineer
+c26bad8656a131c9,hardware design engineer
+e2184aeee7e4f553,hardware engineer
+02b1ae884afb7c2f,hardware design engineer
+7a5a3ad701dda369,hardware software reverse engineer
+cdc32971bb8d3033,hardware engineer
+57f4f7f352591d48,hardware engineer
+5509ddac4dde4485,hardware engineer
+7ef6b367f48d3b60,hardware engineer
+d1f13c9a0c7d2768,hardware engineer
+037ae8aa16478042,hardware engineer
+9c91274c5cbda40e,hardware firmware design manager
+ee32f8b4e68b9a7c,hardware engineer
+e7ca44c5619a17c1,hardware engineer loon
+8a5b2b237489b248,system hardware engineer
+6bbec92886341cda,hardware engineer
+fd086232a039cd87,hardware engineer
+6655fa1a7b6b5122,automotive hardware design engineer
+8ff7cc92056bf570,hardware engineer
+6e020d1960f2afaf,hardware engineer
+44aa655497c0a2ae,hardware engineer
+a4a841a087dff997,hardware engineer journeyman
+679fc971426d050d,hardware engineer
+c9629aa6b6a118d4,hardware engineer
+d056e9abfd1ee367,hardware engineer
+5d726821ca1bd922,hardware engineer
+4fa9e15c8d6ebd08,hardware product engineer
+8c25b786f785d816,hardware engineer
+1fc44a5cc8c227de,hardware engineer
+805a630a13101733,hardware engineer
+662062e41b689e35,hardware engineer
+3b9d4d06de62306f,wireless hardware engineer
+18c699ae685c461e,hardware engineer
+ccb40be3a2577189,hardware engineer
+df275ab357042f91,hardware engineer
+ede95f8ac9369e81,hardware engineer
+3f7be7f19438a2b8,hardware engineer
+d800afbe4a149355,analog hardware design engineer
+6fe1d65f36c502ce,hardware engineer
+5b5c9f3fb1a6f041,digital hardware engineer
+fd06037b23c0e4cf,hardware engineer
+cf24113e6f1eeb79,analog hardware engineer
+dacf558cafab2e07,hardware engineer
+9d52320bcbf3dfa4,computer hardware engineer
+253255e70cf05bee,hardware engineer
+57adb0e329f2802b,hardware engineer
+07b6f5efb1b5f2a6,hardware design engineer
+444d3b9e88ca509f,hardware engineer
+df5e5db53b654e6d,hardware engineer
+87ad53a01c079d3a,hardware engineer
+ac37ad73b6889f96,hardware engineer
+b3a5a542e4c75ec3,hardware engineer
+416e124f37574480,system hardware engineer
+70430cdca91f7c0e,hardware engineer
+7d8c3048f91669d2,analog hardware engineer
+ef35cb806d8b24e0,hardware engineer
+7f70803a2363f89c,hardware engineer
+030d5cacd39a4ddb,hardware engineer
+1d7ac29e80841775,hardware engineer
+b3fce2029dd6476c,hardware engineer
+4736a529deee6fe9,hardware engineer
+124744e5b5bd5290,hardware engineer
+c0b8c574d1d379f6,regulatory hardware engineer
+af23137cb780d655,hardware engineer
+48c97d1327f2130d,hardware engineer
+0504c1804cd795aa,hardware engineer
+2be50ab1fd588ed1,hardware engineer
+6304aabd623c2bcc,hardware engineer
+8f7c385437bb82f1,hardware engineer
+af767dc64c917c2d,hardware engineer

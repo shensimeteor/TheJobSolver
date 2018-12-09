@@ -2,3 +2,4 @@
 *.pkl
 cluster_results
 words_list.txt
+nohup.out

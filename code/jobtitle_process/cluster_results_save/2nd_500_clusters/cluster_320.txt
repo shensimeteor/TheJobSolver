@@ -1,0 +1,234 @@
+_id,cleaned_job_title
+144cb2985c7bd9f1,electronics engineer staff
+6adfd1018dfd9511,mechatronics engineer
+48dd2c4e5250c47a,electronics engineer
+a8c3310cfcb366bb,electronics engineer
+9ad18e892ac719ab,electronics design engineer
+b3da59650b872c0d,electronics engineer physics
+d2650d3d20fcfaa7,laser electronics engineer
+ae34617370fd418e,electronics design engineer
+68aa8dd26283084e,electronics engineer
+924b341f7657e49e,electronics sustaining engineer
+ea52f4c907dea04a,electronics engineer
+90ca84694d71756c,electronics engineer
+98ff1d30c3095410,power electronics engineer
+d9d9bf1f664fd939,electronics engineer
+6b3df77ad0a19a28,electronics survivability engineer
+317dd28ffdfaa4d6,electronics engineer
+27766cef75419d4d,electronics service engineer
+a899b6bbc4309063,electronics engineer
+86a380be49f45302,electronics engineer stf
+58a3ba646145990d,electronics engineer staff
+beae95eb65cdf821,digital electronics engineer
+43b9c7570838591a,software electronics engineer
+d28991dfa3add636,electronics engineer
+751a4bbbe23fc2d8,avionics engineer
+d46db67f2c3972b2,electronics engineer power
+5fa754786409fd55,tuner engineer
+c483529d3fa7c46f,electronics design engineer
+4ad81dfcc77f5d13,electronics engineer
+3c668c2e0980ef93,electronics engineer
+c91aeb79d5ec6366,electronics engineer
+e763476dc2b44d24,electronics engineer
+1d2adafb5a8536b0,avionics engineer
+359a52bf76ef75bb,temporary electronics engineer
+c4e631ff966c9f53,electronics engineer
+62cfcac0414c1132,powertrain electronics controller project engineer
+b6d94fa2f25ad793,electronics engineer
+c03e90ea87a7c0ad,power electronics engineer
+fab60e6235047cf9,digital electronics engineer
+055f933d39bf1f8c,electronics engineer
+1d37e8950d81fcbd,electronics engineer staff
+60a0816bb55fea8e,mechatronics ceramics engineer
+2584b1ffc6d4c1a8,electronics engineer
+e27f6c346f361ef6,mechatronics engineer
+d7f0c7faad90516f,engineer electronics
+e95038eaeab0ed06,communication electronics engineer
+c46813ae0cfbe147,electronics engineer
+984b5fb4bcea050f,engineer electronics
+bb4d05ac6ea474f9,electronics engineer stf
+56a12d5fed4a376a,telematics engineer
+733c536071fa270b,electronics engineer
+7ce68e3849ea4d36,electronics engineer
+f0c5eeddfaa082ce,electronics engineer
+09b6f95b319b3916,aftermarket engineer
+43fa437ee05bd3b8,electronics engineer
+39226acde0a4f99d,avionics engineer
+709518cd404531cf,electronics engineer
+901cf8d125f2a85a,electronics engineer
+65e89464fb689b15,engineer electronics
+b9e32d0f059fa92b,avionics engineer
+eabb1c3dbec0c2d8,electronics engineer
+a9a2f3401875d7cf,telematics engineer
+d85722cbcf1306be,electronics manufacturing engineer
+cdfd031425f9c0d4,electronics design engineer
+534f01565eb211a0,electronics engineer
+db969d9a7cf9dfbf,journeyman electronics engineer
+92fbe48a643ea367,electronics engineer
+2984e9d4542ccf2b,telematics engineer
+fdfd284089af251d,electronics engineer gs
+f3ff6d31836aac95,power electronics engineer
+6b61027766ec46a7,electronics engineer
+a9bee08d2787beab,digital electronics engineer
+1ae8e237ae3f0a70,electronics engineer satellite
+4e48496f8c78c907,mechatronics engineer
+ee9587220b028082,electronics engineer
+d5e5b9ae38675c4c,avionics engineer
+8579e218ceb6878f,engineering electronics
+bf3dac5aabcc638b,semiconductor engineer
+7a34877baf55676d,electronics project engineer
+a1a15064d1810de0,power electronics engineer
+bb465b0d0265291f,electronics engineer
+83ecc8a46ab95d2d,electronics engineer stf
+36c77cff43e52d32,aftermarket engineer
+30623b6d47631c0a,hardware engineer power electronics
+683a755d4c4e3b3f,electronics engineer
+9fbfd8aa9cbe003c,telematics engineer
+f7ff031d3c929862,temporary electronics engineer
+b5b8e1f2431711a0,avionics engineer
+e47474d7a7a8f434,power electronics engineer
+63540f70956e7c37,engineer electronics
+2c273bdf569023f0,electronics engineer
+056daa2623c14bd2,electronics engineer
+4b98af0cd85093bb,electronics engineer
+43b48099df68af7b,electronics engineer
+7db0be3afb8dbe5d,mechatronics engineer
+51d1706457c247dd,mechatronics engineer
+45bff2c55e7cd068,electronics component engineer
+1d0312c956614a57,electronics development engineer
+235278b9c9bfea8a,electronics assembler
+97515817e17685f4,engineer electronics
+70aadc870efb4528,mechatronics engineer
+74e7f2dc43dc182f,electronics engineer
+36180ca93104d72a,mechatronics engineer
+2700761eabd65eaf,mechatronics engineer
+7035fc1c9e75969f,electronics engineer
+9233033dcfdc77ae,mechatronics engineer
+28251e1a24a983f5,electronics engineering technician
+a3e01db54e1a2308,telematics engineer
+6e3ace4bd3b50f0c,electronics design engineer
+dfefb22a51a37567,electronics engineer
+5e10a563d9168845,electronics sustaining engineer
+740670dce5c00bff,electronics assembler
+65a2b97a56c80359,electronics engineer technician
+2c284bac87139ddf,electronics component engineer
+0e81ad9237fdb8c1,electronics packaging engineer
+1fe3b34c1bdc087c,electronics component engineer
+339b76e9bb787579,electronics engineer
+a6758acae128ebf1,electronics technology electrical engineer
+05239c994a0bc8c5,electronics engineer
+c65f48185fcdde0b,avionics engineer
+253e560fb55cefa8,mechatronics engineer
+fe4e178880f56410,electronics design engineer
+6be5c54d5e8c4b4a,power electronics engineer
+edd569dbd57b0dee,electronics assembler
+9d9917a76b4024de,mechatronics engineer
+db7dd8c77c5e9cd3,electronics assembler
+e133ddcbbd2e325b,mechatronics engineer
+08d8c65b34e67ff9,communications electronics engineer
+48b8a7bd14f7c14a,mechatronics engineer
+aa9e5475f1c26b46,mechatronics engineer
+ae4c038754168c6e,electronics engineer
+15d2f9a9e11a3ba7,engineer electronics
+35778405c9953977,electronics design engineer
+140425830a0430a8,electronics engineer
+1271d97466558038,electronics design engineer
+b5adad1841bcf879,electronics engineer
+57c283c11cb77d84,staff electronics engineer
+e83d76da8da2f794,electronics engineer
+16b6efe4cc770015,power electronics engineer
+50eb4d82a9550090,telematics engineer
+100757a3f846bf7f,electronics engineer
+1a3407e255b1986c,mechatronics engineer
+0fdaafa02d4c76a5,electronics engineer cambridge
+678a080eeb0a76f1,engineer electronics
+e88bca304d028560,electronics engineer
+8bf9bbd9796bbd31,powertrain engineer
+d1eded943847cb11,digital electronics firmware engineer
+92638a353d78e397,electronics engineer
+c1f8d0b071eb14cf,avionics engineer
+0a077bd76212c426,electronics engineer
+25b5bbf7dbc11da1,supv electronics engineer
+35812ac2ac1253aa,power electronics engineer
+31d06b347c6b53ea,electronics component engineer
+305f154354a1cfde,mechatronics engineer
+e549a3c5bceb0fc8,electronics engineer
+a362a714de782739,mechatronics engineer
+82aa5a1b87f41c59,electronics packaging engineer
+6191c73c9b968414,mechatronics engineer
+b878e532154a2e96,electronics design engineer
+21aa81a080f85fb1,electronics process engineer
+1d2fcaaf6adc00ab,electronics engineer
+643662f4939526d5,electronics engineer alcs r
+f03092392a871daf,mechatronics engineer
+c3a0f6fd65aea185,communication electronics engineer
+fdd261b341453bc7,electronics design engineer
+a71ad26a6f4284fe,electronics engineer
+8d304e8bec4f29f5,journeyman electronics engineer
+f1e60517b25b2dd0,avionics engineer
+62f8da414ce38b81,engineer electronics
+ff60413f44554e5b,engineer electronics
+07af3f9fd91dbc1a,mechatronics engineer
+f211929b7a5109db,advanced electronics engineer
+23ec1fac2ccdc115,digital electronics engineer
+ee9ddef538f7e5db,mechatronics engineer
+eab777786e96d0bc,electronics engineer
+802259dc62262224,mechatronics engineer
+2b877db244f60f22,electronics engineer
+cb708668cb25f0df,engineer digital electronics
+3d5ef3ebdf0c4c1f,electronics engineer
+85649d204e0b6fe8,opto electronics scientist
+fa53923f2b6804a6,engineer electronics
+10d481e38d686c20,electronics engineer staff
+9ba3380de0bedf30,engineer electronics
+0a41f0b1eb040608,electronics engineer
+5c5da80c68ae6586,electronics engineer
+745c09002e3051ef,electronics design engineer
+7f2dc08152e82819,electronics engineer asc
+b77764eed09334b8,electronics manufacturing engineer
+85358aa13cc1b2ff,electronics engineer
+3f391e08e99aa08f,electronics engineer
+065c233106e48f7e,electronics control engineer
+d993082c7e535a37,engineer electronics responsible engineer
+b75b7924c7d65563,engineer electronics
+e758e854349b00a8,engineer electronics
+3221042a62793740,ee hardware electronics engineer
+0b3673ab1758ef69,electronics assembler
+d186eb253024a6fa,digital electronics engineer
+a1bfb6463cca18d1,electronics assembler
+a033d1d0269a4db6,electronics design engineer
+c623dbc12dbff2d6,electronics technican
+7c2fa16a0a52c2b0,electronics engineer
+a6dcd00ff691a781,power electronics engineer
+655730f60ae98e0a,electronics design
+f614d0008279512b,mechatronics engineer
+854c3336c8d72e83,electronics engineer
+af35c8de8d294f9a,mechatronics engineer
+64c89a11e77f8f98,electronics engineer
+53b876d8042d9451,electronics engineer
+b940ec48d9d38fdd,telematics engineer
+56ca50d62576e68d,electronics engineer
+8662797852b5235a,avionics engineer
+8bf7c32f464a151d,electronics sustaining engineer
+bc822b470b2e5bb9,electronics engineer
+cb33009d0a847257,power electronics engineer
+ca86484550e54d22,electronics development engineer
+0c709c9d6777e36d,mechatronics engineer
+c49668c8473fdc36,electronics engineer
+9849a266d7af4dc0,mechatronics engineer
+375cd6b9e1d4d3b9,electronics engineer
+872bc087fffce056,power electronics engineer
+985c983a3dd705a5,electronics engineer
+f7d80cf9c34dc0ee,electronics engineer
+9675328d4735e493,electronics engineer
+db2e70c550558bcc,electronics engineer
+b7e432a39cda7b93,staff engineer analog electronics
+120987c3783608fd,electronics engineer
+68f2340477a4edf2,electronics engr
+bbac044ca371c431,electronics engineer
+b226b48fafad859c,electronics engineer
+7e136d74bea30bfe,power electronics engineer
+af9923b28a177edd,electronics engineer
+f3e21d7785fbf1b9,power electronics engineer
+08fee2c590fc5e02,electronics engineer
+9bd0febccd404f4d,mechatronics engineer

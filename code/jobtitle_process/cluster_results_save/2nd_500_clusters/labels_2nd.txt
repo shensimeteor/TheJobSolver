@@ -1,0 +1,16 @@
+administrative/coordinator/hr, 59, 18, 106, 235,188,219,29,427, 357, 159, 39
+business/data analyst, 93, 72, 378, 82, 136, 282, 194, 31, 212, 47, 344, 197, 363, 297, 71, 453, 185
+consultant, 299, 108, 304, 49
+sales/marketing/customer/representative, 301, 424, 156, 192, 362, 300
+database admin/developer,  354, 27, 222
+EE/embedded/firmware engineer, 166, 101, 45, 75, 320
+medical, 89, 241, 148
+network admin/engineer, 443
+product manager, 214, 107, 83
+test/qa engineer, 79, 179, 266
+researcher/academia, 217, 61, 401, 203
+support/helpdesk, 149, 431
+system admin/engineer, 76, 328, 20, 349, 319, 187
+technician, 36, 284
+software engineer, 63, 3, 261, 346, 25, 4, 86, 37, 383, 70, 54, 22, 224, 204, 425, 133, 56, 11, 485, 179, 137, 168, 441, 109, 186, 160, 474, 240, 385, 130, 368, 365, 440, 53, 66, 415, 139, 13, 193, 127, 34, 189, 104, 450, 195, 221, 73, 216, 447, 435
+web/mobile developer, 62 ,279, 80, 406, 451, 44, 114, 122, 200, 461, 77, 129, 265, 256, 291, 306, 377

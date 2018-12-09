@@ -1,0 +1,282 @@
+_id,cleaned_job_title
+e130ca952857bd31,prototype machinist
+a7a81ce21f32e21d,machinist prototype
+d7aab3b4ee1a7731,cnc machinist
+55078d0ebef200db,machinist fabricator
+fa178561246df4dc,fabricator
+0e8aad80c8a11ca6,lathe machinist programmer
+9334b609994cbe94,carpenter
+aa3be742c8f4cfc4,cnc machinist
+fb908bed8327b0ec,cnc machinist programmer toolmaker
+94b04eecafc70360,cnc machinist
+45d0af39a31c76ea,pipefitter
+5fb4e3c865472acf,machinist machinist programmer
+9a49ef2970e9d5c2,prototype machinist moldmaker
+f5f2ec8b3139064d,prototype machinist
+b80b15699ca7f6af,journeyman electricians electrician helpers
+ba68bbbef064ffdb,cnc prototyping machinist
+616da5773f236029,machinist
+62d220dbd343ea7b,cnc machinist mill programmer
+e1d3f7820e41042b,cnc machining engineer
+7f1509db32b134ac,cnc lathe programmer machinist
+b3b0a5f05f4e59a1,electrician
+20ec11e7229cd603,electrician
+11d58703405e47d0,machinist
+5ef48845c4e7f2be,edm machinist
+eed9fb6e1bf6ebc9,carpenter
+6d5bf487008bf2dd,cnc machinist
+c2cd64eee67962b1,pipefitter
+2ad7c4cad0870867,machinist
+9cc60fea50e74f3f,electrician
+b7b990125c610929,cnc boring mill machinist programmer
+fc6cc63d1fd5c524,machinist
+19f2a7202f6800f8,electrician
+dfb4d2fce7f0e0b6,cnc machinist
+ecf077c08b48da76,cnc machinist
+e7ca9d249a744e23,cnc mill machinist
+d83b7dbf0ef57951,prototype machinist
+06c140d44c1c9983,cnc machinist
+8ce656d9e2064168,toolmaker
+22aa1fef81d4ba93,cnc lathe machinist programmer
+b5e2808e62a053da,carpenter
+0d807ba8c0d59cc3,machinist
+ab77d5b4e10c67bd,journeyman electrician
+f5c827fea50f9a48,electrician
+81179e48853487e0,millac machinist
+ad14935c26d56045,journeyman electrician
+a174010d8b121a5a,tool die machinist
+ada682de547b68b6,cnc machinist
+bc4feee91a409956,cnc machinist
+8caeb3cf7f21362a,carpenter
+d7bd5cf895d9fb9d,conventional machinist
+446944606d477ac7,machinist
+bb5b0afbad6943cb,apprentice electrician
+8f860ff8768b49ac,mechanic
+4f99a062a8cbffb4,machinist
+1f8a809396216c3e,cnc machinist
+6640b85173d0f3a2,machinist
+671e0ef9342733ff,cnc machinist
+56295c573505f250,electrician
+0d5c53eb6933b332,cnc machinist
+a0eca445c8794e16,cnc programmer machinist horizontal mills
+403e62642d36246e,electrician
+86982eff89599f18,machinist
+903ec78f28135306,cnc machinist od grinder
+6ee2f434a14f37ac,machinist lead
+fa97d8fb484a20ec,inlay machinist
+b244518297d06df7,machinist
+60b859a6df26a8f1,machinist
+262ba3187c5dd9ef,tool die machinist
+96b25164d2e2c89a,electrician
+c9946464bc2c017f,machinist
+d068aee3839715ab,journeyman electrician
+fbbdfce6babb7f74,cnc mill lathe swiss machinist
+0b6155857f1e01a7,cnc machinist
+cb7be8b73cd11981,manual machinist
+b7eb1d6e936d3838,cnc machinist
+a7f352518993fc23,machinist
+71e19cb3788b5822,fabrication machinist
+25ea4cb483fc5170,machinist trainee
+684d4c65093d678e,machinist
+cda4f5fac86ad3c6,carpenter
+77b4e43016a9d441,electrician
+425530b075c893c7,machinist
+8ab9f1f6bd75489e,gt machinist
+7ec0d26a984653cf,welder
+5538d35fdd9e7a92,machinist grinder
+f819213714df1c0b,cnc machinists
+3b36f448ca7f9768,machinist
+c02f47784f6fdc38,machinist
+d50a52b0c774d7ef,cnc lathe programmer machinist
+c18035a1e2b9ed98,welder
+d7e1fedc18b3753e,machinist
+83eb88554b5a143f,cnc grind machinist od grind
+bfd291bc1eafddbc,electrician
+127b582df47a01b7,machinist
+7b60141369fd149e,toolmaker
+e9cac1a15e1c12e2,electrician
+ebe126eaef6088cf,cnc milling machinist
+6d86a07a273706c7,machinist experienced machinist
+fc7cab603d941435,cnc machinist operator
+9c4e69335a2cf72e,mechanic welder
+8641a97b1ff08294,inside machinist
+32d41d3ce106554e,outside machinist
+860cc3c9b783fdea,mechanic
+85a401129bcc12a9,tig welder fabricator
+5737dc5ba0408881,tig welder
+dc183059d7c3063b,mechanic
+4ac260754176d916,machinist
+1b0e346244ee4166,cnc lathe machinist
+ca456ab0634742b5,lathe machinist
+bfb138177e3120ee,machinist
+9685bd8a8f43ad74,cnc machinist
+6c9b22fffe46cec0,electrician
+2a879ba8a0dd7218,welder
+a25049fb9027f686,welder fitter nights
+60d3882f1f79f453,cnc manual machinist
+d37a24c5937f1551,machinist manual grinder
+847e6cee5b9bbbc5,cnc machinist
+d3ec35b5b7e4ba1c,mechanic railcar repairman
+5f4737bc09bd398b,outside machinist
+e87df783818065fc,machinist helper
+af14f80121d4bb64,cnc machinist
+c75a6e7c44dde5dc,jeweler
+0dfefb1546ba9bba,electrician
+5bff0ed512a7e0c5,cabinetmakers
+59d23a247604b6de,cnc machinist
+84fadc931d82e9dc,cnc machinist
+12a04c4f20094994,machinist
+b3dc0e9060e63dee,toolmaker
+6a0ff53fe1839ea3,wheel machinist
+42e19e502d0bcb24,welders mig fcaw
+18e1bc38b0606508,carpenter asst foreman
+52fca76b58dd8966,cnc machinist
+251899921b334667,carpenter locksmith
+dcc56d55b4edf78c,manual cnc machinist
+819a329b6aca58ff,mechanic
+3b21a601fc12461c,cnc machinist
+3a253e4a3015c4ae,machinist
+6e0835189ea1baa1,cnc machinist
+fa3f03763c5e3220,machinist trainee
+cbe842ff94b8abfb,machinist dept
+83a386ab49f3cd0b,cnc machinist
+8c050a2c663c3a20,cnc machinist
+3cf335e32495c778,welder
+51344a8ac2cc2b8b,fabricator wire weaver
+cdd5c94f7d8b26b6,mechanic
+6abc719b9903f2a5,mechanic
+40ee5b31edbb5ce7,cnc machinist operator
+7606ea26314f80ed,railcar repairman welder
+68d444a073f8e5a1,cnc machinist
+e4e7a9d0c1f981aa,cnc machinist
+adb07453ef29a44c,cnc machinist
+276b0cc87ac7382d,polisher
+de7fe3ce782ba138,mig welder
+a40137772cd21a7b,machinist
+d57473fdaba93fcf,cnc machinist operator
+b118701f0a076418,cnc machinist
+98f0d0f4fb049255,machinist
+c1f329c92665dc3c,cnc machinist
+86891cf52dd71998,cnc machinist
+e8e3954fd71b4bce,cnc machinist
+4da98682fa1256a7,railcar repairman welder
+1eafe924f568be29,machinist
+3e28f3e00661463c,cnc machinist
+2e7bd74318e3e4d9,cnc machinist
+84a292c628a9b625,edm machinist
+7f71f5c5dc7e6ed7,cnc machinist
+0ea249fa4579b697,cnc machinist
+f03e8e2fca5992fe,welder welders welder fitters
+4893fd6a8135afd6,patternmaker
+0d3afd90c95860c9,molder
+3dd8485556e6c209,amtrol welder
+6cf6aca91ac3aead,electrician
+a6b5f8dea324fb18,manual lathe mill machinist
+eef4ec61c60a63ad,machinist milling
+da72e37170904f34,general machinist
+321d70f9bbc6a627,grinder
+6ec340858479db39,cnc machinist
+6576dc9a22d564df,welder
+d26081bfcadf0473,cnc machinist
+40fa802ff6b675e6,upholsterer
+83a3739d45d746b5,welder
+0e96aebd1a1ffeed,cnc machinist
+d83b6b1d64f022f7,cnc machinist
+d7b01dc17d3766e3,cnc machinist
+eb4daa09b62afb91,automation machinist
+ba03b7650c8ade05,mechanic
+72aea639909b2efd,cnc machinist
+6f87ab92e4e5d6f4,production machinist
+ec1a2e2d707459ee,detailer
+79e9f90cf36aa48d,welder fabricator
+0fac8a9e2505d2f1,tig welder
+fa0e418ce9dc8d0f,cnc operator machinist
+dee6c0d3d17f553e,overlay welder
+58f4796c4f7ac945,cnc machinist
+89ffe5e78d9818da,manual machinist
+ab5ca092cda1bd05,cnc machinist
+839ebf1ae830e8af,conventional machinist
+ee88b6a31762822e,cnc machinist
+1b3de466a47d0885,cnc machinist
+c05480ff90c0629a,machinist
+bdace685c7a4097a,welders
+276dd76ae6e6b6b6,carman welder
+8c1df6046252364f,cnc machinist
+8e69a8a2701c26cc,machinist operator
+05422f73b8a959fe,welder fabricator
+93307c33d34cca7d,cnc machinist
+d4a8ee374a38e9b5,axis cnc machinist
+ac9560b007b6dcaa,machinist
+475cb9fd4e5d86e1,machinist
+22f018241fbf174b,combo welder fitter
+c8278495a8b9f0a3,cnc machinist
+e1eda94c8f39c10e,cnc machinist
+c3bef9dc5633ca3e,mechanic welder
+f65d8089f4d08ab3,cnc machinist
+2304a201d3c87727,cnc machinist
+5e69b982481e3db9,machinist
+68cfcd785c607df0,mechanic
+574fe255dc3f42c4,class fitter welder
+04930d38a1d2500f,mechanic repairman
+17a658ea3b9f0c60,mechanic welder
+25b9a048c1ee151b,welder
+1fdd6f617712e201,cnc machinist
+80698a832e93fef0,cnc machinist
+c4065e6477405c94,mechanic railcar repairman
+029bfc04b65f0746,licenesed journeyman electrician
+250970e559668cbf,mechanic
+a8626c4d13b20107,machinist
+11fee094d2fcfff9,mig welder
+4a69e39458e3c575,manual machinist
+5f3275818da7d05f,machinist
+02306cea48bca397,welder fitter days
+6896004ea8a6f9df,machinist apprentice
+d5227f35a0b0bf85,cnc conventional machinist
+95839474c46156d1,mechanic
+3eb7f07ce5bbd3fd,welder
+98e272e3726c87d2,electrician
+ac74c4ad6ac325b7,cnc operator machinist
+71bbee9cf4d6d609,cnc machinist
+d14b9e6b41fefb60,cnc machinist
+ea938efe888502ed,welder
+3bd8cfc936ca2263,cnc mill machinist programmer
+92dd355fdfd30f17,upholsterer
+11e7eaf6b4fe2b6c,machinist
+bd38ed9997291e74,outside machinist
+96f5cc7f55d3a91e,ess machinist
+a9a8467f80107020,cnc machinist
+b611daa78d21dcef,cnc machinist
+d1c010e64ca43f3d,cnc machinist
+440001b39a409526,outside machinist leadperson
+bec9ce6fb7a69fed,welder fabricators
+f6b6327934e4f61b,laborer sorter
+64261f389adcce75,cnc machinist
+005ce27aff722cdf,dcra journeyman hvacr
+c549ccdc26ee8ca8,tool maker machinist
+8bbdbde7974399b9,manual machinist
+cd608df3c6a0e802,electrician
+a9aa2d8b1f02ef5c,cnc machinist lathes
+3520b317f34ea3cd,machinist
+c54298ebce30bf0e,cnc machinist
+8aa7011155cf0148,electrician
+dc0d1ecabb1bdbda,deckhand
+ca1138b341cbd7e9,hcs welder fabricator
+811d406b9c183f49,plumber
+5ef7fc19bc32ee89,aerostructure mechanic
+e41462916e77cd79,hcs welder fabricator
+c7d2fe991e0a2636,journeyman electrician
+7990c43caed447d0,journeyman electrician
+24ed2edbfbcbc774,journeyman electrician
+09cd82cc20bc5124,plumber
+3c3eb9f185ef567e,cnc lathe machinist
+78088f02a7a3d8cd,cnc job shop machinist programmer
+92ac9d5e8adfcf1f,cnc machinist
+fed552807db897e6,plumber
+1d47afbc272cc870,machinist
+28faa0fa0b7ae8cd,manual machinist
+17a465ce11dabdc7,cnc machinist
+b081fe921107206c,cnc machinist
+d7ba503e564c3dad,electrician
+53ccfcafbf92c19a,journeyman plumber
+b20cc084d84f38b3,electrician
+c4fa9911b864da24,electrician nfac

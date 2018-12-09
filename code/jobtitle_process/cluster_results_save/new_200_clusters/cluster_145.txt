@@ -1,0 +1,833 @@
+_id,cleaned_job_title
+faf96afbb6538d0a,registered nurse per diem
+adaca4a980916401,registered nurse psychiatry per diem
+0ab47a07aaf1f38b,registered nurse cc
+4d2e66c895544c57,registered nurse
+655e91592751cf85,certified registered nurse anesthetist
+2a361aa3177f85ab,registered nurse hemodialysis per diem
+ef7a1c0fd36c4421,registered resp therapist
+f9a808db82223fe2,registered nurse
+b68fc8d3706034ed,registered nurse case manager
+8963ea88a5e60a47,home health registered nurse
+51c60ab24d4a3104,home health registered nurse
+030c540996e906aa,home health care registered nurse
+c16289403d40ec3e,registered nurse
+f6d2e80859542cc2,registered nurse quality analyst
+306d17b8aec620ef,registered nurse
+d9ca70a415ebb5fc,registered nurse
+cf96a9b605a9a64f,registered nurse
+de6c16443f32a9f0,registered nurse cqi nurse analyst
+9ff11b8fbbd1c1d7,registered nurse
+c68d00885bb479fa,registered nurse utilization chart review
+b4d08d4aeedfe1de,luhs registered nurse
+4c6a6fe9278f3524,registered nurse
+5f6252678791e035,outpatient registered nurse
+197210132f70076d,registered nurse
+f124cd2a2c15fcaa,charge registered nurse
+1919c918431ae438,registered nurse
+66465e93eedbe04e,registered nurse
+1f91b33ffb626ce5,registered nurse
+5a84160cf3d9dc88,cluster registered nurse
+ebf26dcec90ba0f1,registered nurse
+db3e3c026a257c52,registered nurse
+7000867511a6b5ad,registered nurse
+0dd9f8bed36658ab,registered nurse
+e5c5fdec359ff765,home health registered nurse
+3c7c3f02e02ef587,registered dietitian
+e1a6afa632b542f2,registered nurse
+e1ebd94a33f0b01f,charge registered nurse
+19922095bdedd6bd,registered nurse qa
+c6aa897f78995f93,outpatient registered nurse
+79a3355d09982fd7,registered nurse case manager
+ff772c283fdf3da3,acute dialysis registered nurse
+cba312433d564fdf,registered nurse
+20717f77a7624b34,registered nurse
+35b4e7dbd4f142b7,charge registered nurse
+81270c1c93b1f37c,clinical manager registered nurse
+2c62fa1153e49467,charge registered nurse
+70386c670bf58b65,excellent registered nurse stateville
+2f6868d3e9a77469,registered nurse
+ada1a0d6204ad0f4,registered nurse
+a2b93ec2c712d11b,registered nurse
+c4851554063ad854,registered nurse lbj hospital
+1bcc4ef3b518d654,registered nurse procedural support clinic
+beb641e1b16836aa,registered nurse
+e89f4c1355352dfa,registered nurse fte dialysis acute
+47f9a3f532184d0a,charge registered nurse
+ebdbb434f333746c,registered nurse
+a6e033a9f153d932,registered nurse
+350a3f2759630681,registered nurse
+cef8e1e8072ac805,registered nurse
+1cf5ace390221a05,charge registered nurse
+3f70841e72d38c07,registered nurse
+95c1890993a7690a,registered dietition
+7c85d959fe0ee255,certified registered nurse anesthetist intermittent
+623c946b447852b0,acute dialysis registered nurse
+3920f834902d28c2,temporary registered nurse
+014c4e516d8e746f,child advocate registered nurse
+8d3442cd99f721dd,registered nurse
+7d06b1ad7543366d,registered nurse acute rn
+9a5b2ef0200d7805,registered dietitian
+1a11682f9ee5057f,acute dialysis registered nurse
+335d9233fe7209e1,registered nurse
+2d04fa25e9ce6e8c,registered nurse weekend cardiothoracic unit
+6b1390f9202439d3,shift supervisor registered nurse
+6675a7646c004910,registered nurse
+aff8ca5c30fd9020,registered nurse
+084f68139a0a5abf,certified registered nurse anesthetist
+34af588986d7d558,registered nurse
+68fac8bbc10937c0,registered nurse cardiopulmonary
+2f2b1b779c23e453,registered nurse
+d5c94f4f52e70cde,clinical manager registered nurse
+d49ff7b83646b3d9,registered nurse
+2dd65535b67cefcd,registered nurse contingent
+85e7a693862ed75f,registered nurse
+2368e3b20d4a93ad,registered nurse per diem
+9d25691f4194f477,charge registered nurse
+4e2347da5a48bfeb,registered nurse
+e7714e3559deb399,registered nurse
+48d4a101e4fc12a4,acute dialysis registered nurse
+46e2346db23124c0,registered nurse
+cd56c8b2f9e44d01,registered nurse
+6218ceec0ac1d360,registered nurse
+16cdb2352d354d93,registered nurse
+6d55b8a5e2083125,charge registered nurse
+8d68c6d81e68c8c0,rn registered nurse
+b23ccf68aa76574f,acute dialysis registered nurse
+9fad700f5a25b21f,charge registered nurse
+688dca1e2b96882c,dietetic technician registered
+6d3c4d0a42a45410,registered dietitian
+d4d7c5717d0cd31c,acute dialysis registered nurse
+6cacbb407d866b0a,registered nurse
+73283ef8715f8906,registered nurse pacu
+99f420630b70ce21,registered nurse urgent care
+ddb8f6ca4ce7913f,registered nurse
+0f31d85bf5d5a8c4,registered nurse
+a9721f04ca6f9fe0,registered nurse
+014ec5204b1f568e,prn registered nurse
+75f5dbec258311fa,rn registered nurse
+97db57d7aada7e71,registered nurse
+3a5b5d675551edaa,registered nurse supervisor
+a2ba7b12f9b47ba6,charge registered nurse
+a7488c89c2fcd7f7,acute dialysis registered nurse
+d6acac5897f08078,registered nurse
+91f9f9af9acac184,registered nurse
+3b6a580fc63dc79c,registered nurse ben taub hospital
+0cef9a219f7963ec,registered nurse
+c7df8fadd5be4be2,registered nurse charge
+33c50193adb45fa6,director hospice registered nurse
+a9941177d3168b19,registered nurse
+1e7f903241c78b65,registered nurse
+c9ee473a8d6dcfd3,registered nurse acute rn
+f20c618306b51a9f,acute dialysis registered nurse
+b80aa862ae54e1fe,registered nurse
+3e1038c5131301cc,clinical manager registered nurse
+2e3e70c02ba6b74c,charge registered nurse
+e62bb74c35de153e,registered nurse per diem
+67e8bba23f2c5df3,registered nurse
+2e2930339863d715,acute dialysis registered nurse
+f604a31cd9339eb8,registered nurse
+ddaf2f43eb845cde,registered nurse
+f7940cb279096b01,registered nurse
+c8c144e47427c8c0,psychiatric registered nurse
+f357caea92b3f45a,registered nurse
+a09b85efda843c56,registered nurse
+52766a9f27f3d588,charge registered nurse
+2fe59e5a8809e28d,registered nurse
+2b81d33b54e00a65,registered nurse float
+1a347263b9d311d7,registered nurse
+f6ecc66f784607c5,registered nurse
+b8acf8e7c1c37853,registered nurse
+ef491bbb2f832bcb,registered nurse medicare wellness
+b382fe8eff4a0c79,registered nurse compliance lead
+0ccc5bfcffb8039b,registered nurse hospice home care
+93196dae70c72a41,charge registered nurse
+be58ff440679cd29,rn registered nurse
+8bc1ab8ffda628b1,registered nurse s
+54a7308da4fd4f97,registered nurse
+58b27ea25665f82f,acute dialysis registered nurse
+7b12cdf5a23f4466,registered nurse
+d28a71df09a345f4,registered nurse rn case reviewer
+e3b3df407b900010,registered nurse
+72d1f54a1333762f,registered nurse specialist
+6447b65b2ae25ac0,registered nurse wound care
+921e9bb0a8da5aaf,registered nurse
+d88c6db2d78a1157,registered nurse
+e0107671508bd5d2,registered nurse
+7397b65470772227,charge registered nurse
+313e96c95b10c9a3,registered nurse
+15026a85beb4259e,registered nurse lbj hospital msicu
+6186f04cb43ad9e9,registered nurse
+e4e15a06e5300d9d,cluster registered nurse
+3c7afe09841ba875,acute dialysis registered nurse
+bb7f8aa1e0e25075,registered nurse
+7054cc9073632e18,registered nurse care coordinator
+83cec6bd70d75e95,charge registered nurse
+7d35a788c2e4a760,registered nurse
+f0a3233e3c511211,registered dietitian
+9ab151beab853fc8,registered nurse
+cb48991e1e3661b3,registered dietitian
+2a0425e579fc990c,registered nurse
+f9bffba9b1e4a774,registered nurse
+7f958f5f7bdee070,registered nurse rn
+9981f7dab167c86e,weekend program registered nurse
+ce67a155c934fc88,registered nurse
+ab451dae7591b664,registered nurse lbj hospital pacu
+3dce93c4c49e5f87,registered nurse
+73fafd38a5c32ac0,rn registered nurse
+9b50fc1c5d4924c2,registered nurse
+7b55a83cd1bc7c93,registered nurse
+3bcc902ff9377528,registered nurse
+1c8d4a91bd7fe6e3,registered nurse
+67b5210d405ccf56,charge registered nurse
+b8f5c4c64477b38e,registered nurse
+07ac8e5922925743,registered nurse supervisor
+46bab5c67c2ec8c4,advanced prac registered nurse
+54f756c7484defc2,registered nurse er
+c75f7fdac0e74bbb,registered dietitian
+adbfd94a6010429e,registered dietitian
+38e6df7f4c1a3a20,registered nurse ambulatory
+5fa812a18bf59667,registered dietitian
+30b7f7a2e5eacf08,registered nurse abstractor
+bce8f88bc12a1d9c,registered nurse
+9eb4bdd1de8c5960,registered nurse
+ffb314ef0fb0a83d,registered nurse clinician
+9b6336aaa4df98df,acute dialysis registered nurse
+7273ddf072f4e1ed,registered dietitian
+08e75aa463ed37e6,registered nurse
+53bed08050564bf3,registered nurse
+f6faa75e70fad4b3,acute dialysis registered nurse
+e9a3ada6c4227e92,el paso charge registered nurse
+fe627139fcdc8717,registered nurse
+d48c3155d19e0fad,registered nurse
+bbc0385be8d000ec,registered nurse
+b78997922c0813eb,registered nurse case manager
+8a5cbef74aefa615,registered nurse supervisor
+81e360aba039b9e1,operating room registered nurse
+1477dbed16c866f9,registered nurse
+99eea06b5b8034e0,charge registered nurse
+6afbd83c5167b49a,registered nurse team leader
+614ee6f7090e9308,acute dialysis registered nurse
+494a29b0321a8fbc,registered nurse manager sign bonus
+4da1e4270f76ce8e,acute dialysis registered nurse
+058e55c22f0c3adc,registered dietitian
+4a809edde821d5a0,registered nurse
+817b4b5b061ea1e6,registered nurse p
+124dd7a520f6aa3b,registered nurse
+e4da1c44f9904bdb,acute dialysis registered nurse
+d0e0979e1804594b,registered nurse
+156d574470e524ad,registered nurse psych psru prn
+85380a3e5474a530,acute dialysis registered nurse
+f678832b496245d3,registered nurse manager
+162630ba2782b96e,registered nurse case manager
+ffeef8f9e9b0944c,registered dietitian lead
+42189342482605bc,acute dialysis registered nurse
+7de9ef5feb23d47e,acute dialysis registered nurse rn
+28d686b48b9be2b2,registered nurse
+d8ca81ff02ebc291,als registered nurse
+fc17e70bb00d9a52,acute dialysis registered nurse
+41134b684e3e36d4,registered nurse urgent care
+a46b39fb915f71e6,registered nurse
+9079dfe5b1064d14,registered nurse prn
+4c4803b327a5d3d6,registered nurse hospice
+d931e8d57866e3d7,registered nurse
+13bb60ee2bc10810,registered nurse
+a22e981017ce51f1,acute dialysis registered nurse
+14c8970835977702,registered nurse pd
+2a869d7b2da0a397,registered nurse clinical coordinator icu
+53abd2563154a34c,registered nurse
+39a7a4c6e2512d8e,registered nurse
+cafe0f8d3dee87ee,registered nurse
+6f015c2fd27293a4,registered nurse prn
+2813117013721fc2,registered nurse
+88bbcacd2e051340,registered nurse
+945d8fae290ec374,certified registered nurse practitioner
+5b8dda4b288049fe,registered dietitian
+465f290c02d5c8e9,registered nurse
+da2f28fce444c6bb,registered nurse
+8e31a38a887af85d,registered nurse educator
+b4b63a90b9b7c733,registered nurse behavioral medicine
+e121b418179feb90,registered nurse rn surveyor
+51f68bd8de1f6bdf,registered nurse outpatient clinic new
+6efa05729d86493f,advanced registered nurse practitioner
+f60f2da5bb3d1eb9,registered nurse prn psych residential
+13d2a47cfd066a20,registered dietitian
+b5c87cfcb5f39e3b,registered nurse
+d587a5855e543083,registered nurse
+cd72ef63a194abad,acute dialysis registered nurse
+123633851ca9d9f0,registered nurse
+a8845048b7e6fa3e,clinical supervisor registered nurse
+46a1d99b5266e2be,overnight recovery room registered nurse
+cae2e2287b6be614,charge registered nurse
+84c35eb8d0614ed1,registered nurse
+0200c8eb347e0866,registered nurse
+1b69a222231ba9bc,registered nurse lbj hospital
+98b5d0de7b378dd9,charge registered nurse
+f7640ca41be82bc2,staff registered nurse rn
+088adf774f731e43,registered nurse
+f7ebd9b6d316d7af,registered nurse
+8a9f4b40ee209bad,registered nurse
+9a256889ccb6cdd1,registered dietitian
+793b1aa490c6d460,registered dietitian
+a29ad52d4a709c8a,registered nurse
+99c180eda4b5d619,registered nurse
+f3594b234dba010d,registered nurse medicine clinic
+1421d1a208bd1191,acute registered nurse
+e3e11afd646c4fb6,registered nurse
+1ed7d0832c6e0047,registered nurse
+f393ea12c56623c4,registered nurse clinical case manager
+26dc9d74e7999b70,registered nurse
+de6886ee4269dc1e,registered nurse
+c71310179c905960,registered nurse flexible schedule
+a0cf89502e1d8c30,acute dialysis registered nurse
+14dd67f2886de0aa,registered nurse
+d84d4a4c03f7785d,registered nurse
+ef82ac141ee42899,registered nurse
+a9f7e60588bf474d,rn registered nurse
+e85541f151d95b80,registered nurse call
+9199d496421e0f50,registered nurse clinical manager
+174546532f595e6f,acute dialysis registered nurse
+24a85ca0baa6b115,registered nurse pm sign bonus
+f8f03e06e377ba31,registered nurse
+84730e3aa4367d92,rn registered nurse
+710b8e5928ef45df,registered dietitian
+68f7334cb86541f5,acute dialysis registered nurse
+dfb756b110c20e46,registered nurse advantage care
+00ce7eb75c97ca1d,acute dialysis registered nurse
+b1d57d531e8e8ba6,charge registered nurse
+91676e3eda563a96,registered nurse specialty practice
+e7f2981fbca2fd20,registered nurse unit manager
+19c05ebee13467de,acute dialysis registered nurse
+b6add99243149589,registered nurse infection control
+6a97224dd947ea20,registered nurse
+1922baaaf9103d1f,registered nurse
+32c4b64d93f124b1,registered nurse case manager
+07cf4d1e693c61f3,registered nurse
+3ab7e12fa9ab9a20,acute dialysis registered nurse
+0b820dbf2d21a32c,registered nurse
+b61c55aa0bcfe3b2,acute dialysis registered nurse
+6a0e034823e6f36f,registered nurse
+e338d199c77c762f,registered dietitian
+ab0f20101f12797d,charge registered nurse
+aaed09edd4e1edec,registered nurse
+ec15772d36fab1a5,registered nurse
+b282a793a706146c,clinical manager registered nurse
+053829002a6d39c7,registered nurse
+152fe3aeddeeb798,registered nurse
+233743d8ea73ed2b,registered nurse wound per diem
+d1696bb7dee5f031,registered nurse lbj hospital
+64734f328cbfaf0b,charge registered nurse
+eeb5c445f42b4f35,registered nurse
+d3b7e89f26926d97,registered nurse transplant compliance coordinator
+d8743e267a9e8529,registered nurse uwmc s research
+28827a74f434531e,registered nurse
+b9f626a596cf5887,emergency room registered nurse coordinator
+91753e0af260f4d5,registered nurse evening shift
+fdfc2c79ded3ecce,charge registered nurse
+9fd6e932dc557599,registered nurse
+93b0b8c1c08d3366,registered dietitian
+688cf30ac6b42855,registered dietitian
+14ba5a6f5ad1e06d,temporary registered nurse
+8e7181e9d3fcb2d3,registered nurse
+14dd4640d5756764,rd registered dietician
+2188db730b553b97,virtual engagement registered nurse
+39716aaf28b273a8,registered nurse rn
+35cf2fbb735e1050,registered nurse
+9e595cb1e880d0cb,registered dietitian
+353d9cba43ac1e6a,charge registered nurse
+b1b7473aa5f0ae1e,registered nurse case manager
+e57f923b579578ad,registered nurse case manager
+4f5462ec41fac765,registered nurse
+efbd9fa07c5108eb,registered nurse
+e642db79da649bec,registered nurse
+137afd295c88a9aa,surgical registered nurse
+fef4c9a9eb3ea13a,acute dialysis registered nurse
+a2b68676c79a76ad,registered nurse p
+c9ea3ac9a3542c3b,registered nurse
+b38b34c3f529d65d,registered nurse ambulatory pd
+8b2401216a5c84bb,registered nurse
+c7368ec05455aa60,charge registered nurse
+bf461035da9940fe,registered nurse
+b053a81700734b38,registered nurse
+94c2a676d9ed0d89,qa registered nurse
+ce960c13283e08c3,registered nurse case manager
+71579b27d513a997,registered nurse supervisor
+fc8e682667ad218b,registered nurse
+bb624ee592b08a8f,charge registered nurse
+29b5143d5c1bbc27,registered nurse home care
+9c02f76d14ff6d58,registered nurse
+14e8de9ae345795a,registered nurse
+646db5a0697e0528,registered nurse
+e3e52c6da3ff7b7e,registered dietitian
+21a098560b08d2a4,registered nurse
+3c6b7df4e226f0a7,registered nurse
+8b87aa5d9ab6c133,registered nurse
+088e31a5d3d30539,registered dietitian lead
+e27c742b15792003,home health registered nurse
+fb472300bf547876,registered nurse
+14185b4b0e69c9e8,charge registered nurse
+3010b71616e5f1dd,registered dietitian
+0f4caf924cf8f515,registered dental assistant
+eeeca505240b9539,charge registered nurse rn
+f7423851e3453bb7,acute dialysis registered nurse
+5cb1e8fecb71ebd2,registered nurse
+c2f2c19982d8ff47,registered nurse
+a3e564aeefc07ea6,registered nurse prn
+8cd9f09492469f2f,registered nurse
+98285655d8b4f345,registered nurse per diem plainfield
+f1c34da526d8c095,registered nurse nu
+76ecf2a3f91dd6ff,dietitian registered
+261159794d6781cc,registered nurse rn
+ce580e28dab5b485,registered sleep technologist
+074105a5cb695a01,registered nurse behavioral medicine
+6949784765e5caa7,acute dialysis registered nurse
+ff6cb1a3e7a4931f,certified registered nurse practitioner
+cffc88fcc66de964,registered nurse
+5ec509d6b0b53cf6,melanographer registered nurse
+bb6ca160a5c26247,charge registered nurse
+ebfc4ac1b7abbbe1,registered dental hygienist
+e6f11f0d86794a17,bh crisis registered nurse
+356fff4f1768ee0e,registered nurse
+0f3570a87263d041,charge registered nurse
+157e5c145c033eea,registered nurse
+2ec876d72a1d2e04,registered dietitian
+e25b4da8cce92949,prn registered nurse
+e242da827df51e82,registered dietitian
+e50c7be95874ca5c,registered nurse
+97224edfc3d74d48,registered nurse
+3a847d509c2786b8,acute dialysis registered nurse
+5ed8c5925d7e8c28,rn registered nurse
+ed3db5fca383ceac,registered dietitian
+1cad60585be07e79,registered dental hygienist
+1d37e124fcd4c724,registered nurse
+11a47d3d516df115,bhh registered nurse
+63184274a23e2bfd,registered nurse
+8433ab7bf5881caf,registered nurse rn
+c29f160c9a5ccac4,acute dialysis registered nurse
+e705e417141f8ae5,acute dialysis registered nurse
+6de5aaf9c6f491dc,registered nurse
+1e972c113e0c280a,registered nurse manager
+e0da463be4ae8275,rn registered nurse
+d497fc8fc60d61ab,registered nurse
+544508ec2e074367,registered nurse sign bonus
+7d693c2cf794d804,registered nurse lbj hospital
+55e2be253abb965c,registered nurse p
+33ec33b6f6dae77c,registered nurse
+28a646ce1b3febdf,registered dietitian
+abb35f6712ec5cc8,registered nurse supervisor
+aa4a31809c34cf57,registered nurse hospital supervisor
+c93fc2942899ffec,registered nurse case manager
+cfdcbaf454aa72c0,registered nurse mental health
+226a514353721090,registered nurse
+2bccfb793f10777d,registered nurse
+9ff35e404f9dc4db,registered nurse neonatal intermediate
+c84ac7d1d521d017,registered nurse
+0729dcca2737a51a,registered nurse
+ab951d36b74a962b,clinical manager registered nurse
+c1535e9ae4a52cb3,registered nurse case manager
+33883dafe956e89c,registered nurse mental health
+19798711dc94afa1,registered nurse
+3c0d9515fbc161a7,acute dialysis registered nurse
+07d41a51d0ef46a0,acute dialysis registered nurse
+537a298ea5ca021b,registered dietitian
+8d6f37474856bea8,registered nurse bronx
+e1382d19e69021d6,registered nurse nurse manager
+f93a57fea1b7371f,registered nurse
+efe7ad899fd16571,float registered nurse
+c5980d787a8ad09a,bilingual registered nurse
+52a7cce5ec98ae9e,rn registered nurse
+e2882c350310323b,registered nurse
+6e370d4d7695c4cb,registered nurse
+9deadb64807aee3b,charge registered nurse
+8c0e420b54bdc305,charge registered nurse
+af4f664a01625da1,qa coordinator registered nurse
+e99c6f23de75dc79,registered nurse
+4d0c67638406dee9,charge registered nurse
+1d2deb905e8b9602,pediatric residential registered nurse
+b851acb88c90e75e,charge registered nurse ft days
+310dfd1ce3be8f8d,registered nurse
+672fa86be14e87c5,registered nurse secured messaging services
+44a68eb025271918,registered nurse community residence
+d4254af6c9d23803,registered nurse
+7acc991d0ce12d56,registered nurse
+f17553a6ce1fee8c,registered nurse
+6a17d71cc0f65886,rn registered nurse clinic specialty
+f16e23599d295569,registered professional nurse
+dc15024a2e6d30b6,registered dietitian
+5c8dccebd8d058e0,registered nurse prn
+1b5d3ba7a3068f58,registered nurse
+41afd7d7464971a3,registered nurse
+52da97612ad56269,acute dialysis registered nurse
+9e4d8cfa55c0e9c8,acute dialysis registered nurse
+c07e96129d0ad05d,registered dietician
+0560a0b8d3b0e5e9,registered nurse
+fe08df5de87d890d,registered nurse
+5f3fcc2794811a1f,registered nurse
+ec5c0f9b8377d9f7,rn registered nurse
+d4c86b03c7fd17c5,director nursing registered nurse
+bdaa4b46825dc914,registered nurse weekend
+d0e1dc323e520e00,registered nurse clinical coordinator icu
+8bd0a4f2f2282e59,registered nurse
+5495e4339ce9ac6d,registered nurse
+07e6a53481572a3b,certified registered nurse anesthetist
+074de54ab780835d,outpatient registered nurse
+e04ccb5a36175958,registered nurse supervisor
+30c12f8c4344926f,charge registered nurse
+65e489c3ba474186,registered nurse nights
+953f3a345c855738,registered nurse
+1c3d9110922edb4c,unit coordinator registered nurse prn
+684d009b387a44e2,prn registered nurse
+90dc0292e9a1bc26,hospice registered nurse
+7a5bd89bdf3f0767,registered nurse client care coordinator
+789cbb9147bd517d,prn registered nurse
+cae7601f015bb226,acute dialysis registered nurse
+a642ae98c759a00f,registered nurse trainer
+1ef0dfce6fcf50fa,charge registered nurse
+13ee09996e22c3c4,registered nurse
+7cac07032d5575eb,acute dialysis registered nurse
+2b24adb87d889544,registered nurse
+f5ba4408e28d7103,registered nurse clinical educator
+3cfac66f5d586da3,registered nurse ft
+8825ecc7a3a88c9f,registered nurse
+4ccf236693d2f1f9,registered nurse
+e0cc2c8b57c7648b,registered nurse micu sicu
+da5f1302d0f07efe,registered nurse
+423caeccede23b5b,charge registered nurse
+b3465319699e0433,registered nurse
+99532b84a6b00be1,registered nurse prsu hours nights
+f9874ea848f861e4,registered nurse gastroenterology services
+437157953f0ab6b5,registered nurse clinician
+75f82cc121273f0b,registered nurse
+c02a903242cccb9e,registered nurse rn
+f19c9fc40a5e0a74,registered nurse
+e4f074cd28acc325,registered dietitian
+feaa403e04e6c954,overnight recovery room registered nurse
+18cfa857b2d3ef78,registered nurse p
+fd217dc97dc08294,acute dialysis registered nurse
+504175dc4df6bc90,home care registered nurse
+be2bcbeb05156b5a,registered nurse
+5b1fa4f325a6806e,acute dialysis registered nurse
+d01aa5eb101d2044,registered nurse paying
+e23ab5345ad23936,temporary hedis registered nurse
+17b4c3b40aac3b76,registered nurse clinical case manager
+714ba4e6b409f9ea,registered nurse
+975e155d642a11fa,acute dialysis registered nurse
+b5882770de6a0336,registered nurse ben taub hospital
+7042f563dad338b7,registered professional land surveyor
+6fb8cb9ada354c6f,dietetic technician registered
+ba53cbf30a1d9a6d,registered nurse
+a914c1c053af9358,registered nurse care manager
+6b38283f47a1ef38,registered nurse
+b1703d5107f285ad,registered nurse supervisor
+8e49d355677871d4,registered nurse prn
+a5e83006d74e944b,acute dialysis registered nurse
+9ed10f61046f1b33,registered nurse sharp
+133e857682ad3389,registered nurse acute rn
+a44a58e372c39bf5,registered nurse
+c9e2a9ccb3a54c45,registered nurses growing facility jessup
+c5088edcac505efa,registered nurse
+aa173af0522b8639,registered nurse
+d98e23ee29dac2ff,charge registered nurse
+a39b14027b3a0247,registered nurse
+5b235445a0790be8,registered nurse ben taub hospital
+9e1b94e7c9c227c1,registered nurse
+f16f9f3d2e38853c,registered nurse
+1a87c9a6de581152,charge registered nurse
+5de5399ae878534f,registered dietitian
+9411fb2ef9d548de,registered dietitian
+e6d9642ac27f2bff,rn registered nurse
+cca654ad61f0c964,registered nurse rn
+3eef2889a2333e18,registered nurse
+b9951af2978a2528,registered nurse prn p
+d99b1c6eb5944157,charge registered nurse
+b805418ca4808d4d,charge registered nurse
+568cae95bc9a33f7,registered nurse shawnee
+918440c775391663,registered nurse
+4cfb7c538407ba49,registered nurse nights
+83c40c9aa0a5084d,charge registered nurse
+5c8f96d15a44ac05,registered nurse manager
+407ec1169e7a5b98,registered nurse
+f040c9d469bb4461,triage registered nurse
+0dfccad919154caa,registered nurse memory care supervisor
+0457ef43e87f4a83,registered nurse
+a85c91424ae7fa5c,registered nurse
+9e5079b1c7ca187e,registered nurse lbj hospital
+8683b410d5567352,weekend registered nurse
+2f5598b6fd7b9dce,registered nurse
+d8017ce79cc77c6c,registered dietitian
+7a90bbd171c79eb5,registered nurse
+b23904570c3a484b,registered nurse
+d6ae84287b21b462,registered nurse
+263d5c39bfc72958,registered dietitian
+8cf4782fbc0e8f85,acute dialysis registered nurse
+8092a8c453442446,pediatric triage registered nurse
+708f9775a0b119b4,acute dialysis registered nurse
+5b6a290043b3dc46,registered nurse
+72c6e62afda3705e,registered nurse rn urgent care
+431a4fc2262cdd97,registered nurse
+b6fb2ce37b14099f,registered nurse
+483923cfe4f8f17c,registered nurse
+caa99c04cef183be,registered nurse
+aac56eee9fd8ac35,registered
+49bf4c192bbf0969,registered dietitian
+3a04a3e78965c543,registered nurse
+0e33baf164e81e7f,charge registered nurse
+830a05d829be2a82,treatment triage registered nurse
+7d1fe5bda23bb67d,pre hospital registered nurse
+f02df697283b275f,registered nurse rn transplant coordinator
+030727b5b9d37dc7,bilingual spanish registered dietitian
+b1047cb6df6ed102,registered dietitian
+8f9b40ccedddd8a2,registered nurse
+e2665a1679f24b99,registered nurse
+fa2bf3b62196351a,registered nurse quality supervisor
+3d5b0a4cb52b97f5,registered dietitian
+2fc61838f080b576,registered nurse
+838e7e6ef2d1c659,rn registered nurse
+8708e75721f904fd,registered nurse
+8f149485a2c9afa2,registered nurse homecare
+605d33575a33820e,rn registered nurse operating room
+2d2a7aed173786cf,certified registered nurse anesthetist
+e95aad266c2a43cd,registered nurse day
+ed999ac259c9822d,outpatient registered nurse
+900d0a76cd33cd6b,registered nurse
+4fb824c4d012dab5,registered nurse
+671d13ea70947b61,charge registered nurse
+4db145c43246e387,registered nurse
+d2cacb53dffe6701,registered nurse cardiac clinic
+d6d3ceb86c5f92a6,charge registered nurse
+1554b325d9d96265,advanced prac registered nurse
+12e2340529f2b32d,registered nurse st shift
+5b6ce2276aa37936,registered nurse case manager
+25d18d4d6c61d588,registered nurse
+5b56b7e830eb56eb,registered dietitian
+3cf2f2a642d7612f,director nursing registered nurse
+f115722fe2a3220a,registered nurse
+6767835bf5d47871,registered dietitian
+5bfa6f30f62f9882,acute dialysis registered nurse
+6229a7a9a632fc8f,acute dialysis registered nurse
+2ec95364f5256791,registered nurse transplant coordinator
+b09d12c38ce82f65,registered nurse
+012000f4b74b3827,registered nurse prn
+7bd41ea1f0bd59c3,registered nurse
+2db8ae0899148cbb,compliance registered nurse
+d9a82287080f844e,acute dialysis registered nurse
+e68e8711ca1c7910,registered nurse
+7f8c0da871df9737,registered nurse secured messaging
+7c16c8685f5968b9,registered nurse ft
+8572367f3d0f5f1c,registered nurse
+263471379f1ac94f,registered nurse
+ba8173815e688f5f,registered nurse ben taub hospital
+7a03d4f86dab47e4,registered nurse lbj hospital nights
+5c0df172b876861e,registered nurse
+974b442a7e6c40fd,charge registered nurse
+58977284d03719fa,regional clinical support registered nurse
+f24ef9b9ef769cde,registered nurse
+1e776f67c672da11,registered nurse supervisor
+c9770106f7718d94,registered dietitian rd
+f9d8d309434c485e,utilization review registered nurse
+7058d3530d84049f,registered nurse triage pediatrics
+51e0f8d71b1f486c,registered nurse
+726c57eef4c35e83,acute dialysis registered nurse
+97fa1d1c952e4117,acute dialysis registered nurse
+9d93b4575a56bd07,registered nurse rn
+32621165a3b41dc3,prn registered nurse shifts
+1f579c492ff47838,registered nurse
+7d3f8399acc71648,registered nurse prn
+9be92d56a931a88d,registered nurses
+7b8e4b18bde2befd,registered nurse house supervisor
+865f7bd9eca3ce76,registered nurse nights
+e0941769b77e7169,registered nurse
+236a25a23b74dd70,registered nurse
+a07a49d260918a74,quality registered nurse
+d4efdb7643a64a8d,registered nurse
+3c4b9f6dbef44f63,registered nurse
+ddad4a41db5e737d,registered nurse
+87f3f7d4a3338854,acute dialysis registered nurse
+0f1eda16cc10a05f,registered nurse
+b9bca3ce54a7540f,registered nurse
+369f4b02e419c8c0,registered dietitian
+7bb0753f8abe2d2f,outpatient registered nurse
+e2fa5ff95a6aa704,advanced practitioner registered nurse mh
+7e0352569beb1824,registered nurse mental health
+7b349a05e4fc6a73,registered nurse
+81dfd830806cfc7d,registered nurse
+959b902984d3134a,registered nurse
+b3f0dd43b3b11b6d,registered dietitian
+0fae1e2ca9802560,registered nurse
+fe6c163ef09c8f6b,exempt charge registered nurse
+5160159ead7f7525,acute dialysis registered nurse rn
+e1a55c64856a9d5e,clinical supervisor registered nurse
+513ee3ac825a3d23,register nurses
+18b14ab5cb304746,rn registered nurse
+eaca8b5f09cceb20,registerd nurse triage
+d0fa8230d6e7bc06,charge registered nurse
+c347ba22cdc4ce6b,registered nurse
+dc86a93638652c55,registered nurse
+5bf92ebf9b6c2015,registered nurse float
+80754994456a6801,registered nurses rn
+ff0a120dbb594f87,registered nurse
+2ee41ecde4f16eb4,registered nurse
+1ba5760f01668185,acute dialysis registered nurse
+b3429c03a93059f7,registered nurse
+32997b34c2f14a47,registered nurse
+96ee21eb7dfc96e2,registered nurse
+8ca59d85cf35ca89,registered nurse
+d9de7fc52ff1de09,registered nurse
+e6b64b93cbcd7a7e,registered nurse sign bonus
+d5cd2875fb6e239b,registered nurse
+755af1d6368cbcc8,registered dietitian
+4e46d75a8f4a0ad7,hemodialysis charge registered nurse
+b3f2734d05f65aef,registered nurse
+1a2e2f197fed01e1,registered dietitian
+f23dd9a1ee83f575,acute dialysis registered nurse
+973d8b468c48117a,registered nurse
+ff65097bae448f3e,registered nurse
+fa31777e03d98fdd,registered nurse surgery
+921846350d34c4e3,charge registered nurse
+56761cf64ab7fc4c,charge registered nurse
+f17aa6c129f7be85,registered nurse charge
+53a004b2aa7b4920,charge registered nurse
+d666e5482275c140,charge registered nurse
+e35cca4f995db490,registered nurse
+d26b3883ff9dccb7,cardiology registered nurse
+11944fba7de3bcd3,registered nurse
+cf88d5c0d3de6f2a,registered dietician
+1b88f7bd3ad66fdb,registered dietitian
+167e7b056bdecbde,registered nurse
+c0cb7f9c821eae10,registered nurse floater
+757f5cda0b49dfc0,registered dietician
+905421d19dfec5f5,registered nurse rehab liaison
+fe0729627ec6b94e,registered nurse
+95274e21b9f9ef3b,hospice administrator registered nurse
+25d8976535b56692,registered nurse
+ec00bba59a3fe7bd,registered nurse lead arrowhead campus
+b3a70230528f2be6,registered nurse
+1ec125ae39beb231,registered nurse
+5b184178de9156a9,registered nurse
+1667e3411ea0bf70,registered nurse administrator signing bonus
+5de676dcba1e6d00,registered nurse
+69d7896fa77fc5b5,registered nurse
+98d72e79d1e18974,compliance registered nurse
+d79e2857540b001e,registered nurse
+c9c553a080e19786,registered nurse
+573955970598fe12,charge registered nurse
+3214013e175cb9dc,registered nurse
+64dcca7a69ca1c5a,registered nurse
+60cad55c527ddee9,registered nurse
+f64024ad97cb5753,acute registered nurse ft
+16f3883964f998b7,registered nurse
+f65fbfa9909cbfd2,registered nurse
+dce6193673a1619a,registered nurse
+e2e7189d259e5b2c,rn registered nurse
+a958549cc8e2a9cd,call registered nurse
+93805f305e550931,charge registered nurse
+3f6ab365cab76782,acute registered nurse ft
+953b813508d1315a,registered nurse
+3f7fc06491b33273,registered medication aide
+b1aa78ef4cf7f901,registered nurse
+e8569bf61f3d13c1,registered nurse
+f27deb72dbe7eac1,registered nurse
+9f5af6846db5d0f7,registered nurse
+e4caded039e5c907,rn registered nurse
+771ccecfc1a1b94b,registered nurse
+dc6b7177a443bdb6,registered nurse
+d330f751823db77a,acute registered nurse ft
+a8c6ed272ff69be4,registered dietitian
+82c11098e25ebb68,registered nurse home healthcare
+d1f926ba63f7fa12,charge registered nurse
+de09e8bbc68be923,charge registered nurse
+1ac8465a96c25f34,private duty registered nurse rn
+9748f04f8aae20d2,registered nurse clinical educator
+74034287b5ac0bdc,registered nurse night shift
+c855a1f8f5ecaa75,registered nurse
+a10ee30493e7efc0,registered nurse
+cd7bb6b4dd2f1a3e,registered nurse
+ceb3d1284592ec92,advance practice registered nurse psychiatric
+9a3445b7722aa268,acute registered nurse prn
+fd7c14b2c64e05db,wound care registered nurse
+02d386fd35d25c34,registered nurse
+df10e286a609e4ed,charge registered nurse
+697956114706f5a6,charge registered nurse prn
+0275d8352a17d72f,registered nurse
+29ad47b8f6ccb6ea,registered dietitian
+b7a07cc224421f7f,registered nurse
+cd57f73c2e57a49f,hospice registered nurse
+41a34bc398b21dc1,charge registered nurse
+39434f707c87598c,registered nurse
+099581a3785e340f,registered nurse
+35a853d1ad67f078,psychiatric nurse registered nurse
+80d9a455c2b99dad,specialty registered nurse
+dfdab2d396740e39,registered nurse
+4aea45e93c29abd0,registered dietitian
+9273bfe8e7933bdf,registered nurse
+a3d7a9699b5d3855,registered nurse case manager
+2d8ae1e00462531e,registered nurse
+24458d142271819d,registered nurse physician office
+47cf91270ca4d17f,compliance registered nurse
+5ffefe5d1909e263,registered nurse
+f61b3e3b705830e1,charge registered nurse
+752bdc6e5b3fdde1,registered nurse
+d3ea7b48cf50763f,wound care registered nurse
+cac562e70569bc29,registered nurse
+ae39e4cf24f1750e,registered nurse
+ffa8deee25706e8f,call registered nurse
+5532b0ace14676a4,charge registered nurse
+8052f36a0c242f28,registered nurse
+70801f3288b1febb,registered nurse
+04c855564aaf1612,registered nurse evenings
+cd99b31876131dd4,registered nurse
+f537952c231f7cf0,registered nurse
+eb4bb60d79d744c6,registered nurse administrative coordinator
+9391c2a2aef32a3a,registered nurse home healthcare
+e96e2ab4a6bf3642,peritoneal dialysis registered nurse
+e679d960692b2686,charge registered nurse nights
+02a62d593a5d6a4a,registered nurse
+83443861b5fbca5a,registered nurse
+97b8f5fac67dfdf4,registered nurse
+b4e4e62d15ab3561,registered nurse transfer center
+c7b4fc02ee67e15e,registered nurse
+b7ebafd9f0585ffc,charge registered nurse
+2ae1d7f5cd522443,registered nurse
+3e1cdae0086d823b,hospice registered nurse
+8852fdebb42192fe,registered nurse
+ba206ff439853fa5,registered nurse
+d64d6d0073908e50,registered nurse
+36651dcd4852e986,registered nurse
+9e759641b5e94e36,charge registered nurse
+a48fdeefed64fa94,charge registered nurse
+9253d878b2264629,wound care registered nurse
+821dd679043ac78a,registered nurse
+151f81bc5662bfef,registered nursing consultant
+fff36ba556eeae4e,registered dietitian
+5499e93b3eb5f708,registered nurse med surg
+a0c4bdb722b4842a,registered dietitian
+85850b9368118f20,registered nurse
+edf3d7e3ddb3564c,registered nurse
+38cb08518579b948,certified registered nurse anesthetist
+39b88a8c86972da8,registered nurse clinic manager
+2a72486fd6dd5659,registered nurses
+342443d6bf3d2ef9,registered nurse clinical coordinator
+bdd38b69138ed836,registered nurse
+0c6986e826e0bb78,charge registered nurse
+d2d0de940c7306e7,registered nurse
+f6a5dddc360b91ca,acute registered nurse ft
+44f8275a2cd9faf4,registered nurse
+f94cdecd65285a1a,chemo infusion registered nurse
+98d57d2f114a1681,registered nurse
+a0bc0509379a4e88,registered nurse supervisor
+d01b8c55ed451166,registered nurse
+cd909a88d0d78306,registered nurse
+69d9892c12fe26eb,registered nurse transfer coordinator
+ada3d4df9ef37354,registered nurse
+1d6211c564dfddd1,registered nurse
+b67320f9aab8e8f2,registered nurse clinical coordinator
+7445924609a275a2,advanced registered nurse practitioner
+fac290acfff28daa,charge registered nurse
+22f4465ffb1952ac,registered nurse
+5b7c58b9fcbf67dd,charge registered nurse
+be147c7e8b6d2002,registered nurse
+eb7b69f3d3da306d,registered nurse
+8f25306c5329a26a,registered nurse
+618b7776546610fd,registered dietician
+ba1c53c4b55b9ff7,registered nurse
+9796f34a61ce1b1f,registered dietetic technician

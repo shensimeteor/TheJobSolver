@@ -1,0 +1,812 @@
+_id,cleaned_job_title
+4a2d286394f3251c,rn medicine ft nights
+926a6b4eccbfdccd,rn operating room
+8ce78bf3b6d112a1,rn medicine ft nights
+41b912d2f724a807,rn outpatient endocrinology
+bd222e95f41dca33,rn cvl invasive
+be0e8e77f04ee92e,rn surg nursing
+b1a582b89c82fa25,rn emergency room
+d8e14370a5379292,rn apheresis practitioner
+174336f986642cfa,homecare staff rn
+b7427dc5b9697ea2,rn neuro ms
+001bb29903e45754,rn picu
+65a668670bfa8640,rn rehab nursing
+6fdfd107f7828e7e,rn pediatric cicu
+70818c289bfb82c0,rn psychiatry
+e035b16b363b9f47,rn operating room hvn
+0e39406140335397,rn ms
+4c7feb9ca9edfa9c,rn emergency department
+7067e2e8ab3b31b8,rn gainesville
+4082d7066652dd2f,rn vista nursing
+d1f2c25d5bcda8e5,home health rn case manager
+24c638801a4ac94f,rn gainesville
+a276578a9e6895b5,rn cardiac ms
+5163696ebf0cf307,rn infusion
+e2f578332eef772e,rn specialist
+12fbf502dafb0589,rn specialist
+38177e28b7134611,quality coordinator rn
+49a4e0568d9d1826,advanced clinical analyst rn ft
+3aa5e11a25a86712,case manager rn
+58d7f0213083b685,rn clinical reviewer
+34ed2b776ece9aa9,wellmed rn supervisor
+3f7f86dfa7798e8b,rn informatics analyst
+4b3db0d8f0514d16,clinical appeals supervisor rn
+5d9ec5a2b114adaf,healthcare appeals analyst rn
+ca92a52dc01995bf,unit manager rn
+9ad63a10f0850041,rn coordinator medical office nursing
+45c5837f70a94a75,rn supervisor pm
+876b50284a67a48b,rn cna
+5ac714a3491ceb45,advanced practice rn
+61232d38ba0b2e1b,rn supervisor clinical case manager
+ab4b4548e5de32b4,director utilization management rn
+b81835c1eddf1e58,rn
+e93681677c725d25,resource admissions rn evenings chandler
+7a0685060e4c7c99,rn position exclusive office
+e0b7b3a0901cd088,rn
+8bde8692390f928d,rn operating room
+bc981fa7a160fd56,rn case manager prn
+31f18af18f2e4b91,rn research coord
+499b236e0040ff2d,nursing director assisted living rn
+e5a9bbb67176e492,rn cvicu rotate
+142a22c539d91e1a,clinical manager rn
+cafab6a7050fa7d6,rn nurse manager
+c0bcdb4bb9c9b48d,rn care manager bilingual
+3f09b5fdda3f0552,rn supervisor parkway
+70a8216ecf52a4a5,rn manager clinical practice qa
+262be7b50c6178f6,rn clinical manager
+92478024f66650c4,registered nurse rn pm
+00b48b4946a0e50d,unit manager rn
+2d8b1d68178d39cf,rn research
+2019725a271def2f,charge nurse lpn rn
+363553468027c731,south shore rn supervisor
+ec27a4f0ad6b49fc,rn clinical supervisor
+1d4c121b41ac0569,rn unit manager
+088294e5619d87f9,rn supervisor
+21c84359cbbbc6fb,dialysis rn
+3cce5aecacb8e418,rn
+f468e88d403a2f5e,rn supervisor
+e12d0a01f6c942f6,rn field nurse
+cfa7144eff18b661,south shore rn supervisor prn
+8952fafdd5e85a44,unit manager rn
+1ccfafa622af0f74,rn urgent care
+5c57d9425356fc46,rn manager clinical practice qa
+1016abea54b29491,rn occupational health
+a6775257467786c8,unit manager rn
+6316d5501828b561,rn supervisor
+b18e083d67e0da26,rn supervisor
+d914b7224d98b639,contingent lpn rn
+e9ea865b4a062329,rn icu nights
+12b79bbe8a197df0,rn neighborhood wellness coordinator
+412109aca0d7a44e,rn case manager
+12ae34a359833c15,rn
+a91f3b839772f679,rn case manager
+4179008cbbe8525e,administrator home health rn
+cab953c6c1c6142e,rn lpn
+18ca13ecc0c7c0c9,rn
+a25ca6721153a253,rn manager clinical practice qa
+fa1e9c06a403de03,direct care rn
+46eba1b20a97560d,rn supervisor weekends
+23ab438fef18ea87,rn mds coordinator
+c21904894eb4aa7e,rn field assessor
+6653c2929f280a58,rn days
+8e6e7c0e2c7437db,rn nights
+020f68cc05977d49,mds director rn
+4da552627f1deb4b,hr rn position doc
+fb1cae3764f196b6,lvn rn adon
+d3c8c142606a65ef,rn wellness nurse
+285e7763ff8c324f,rn hospice executive director
+cc718094f1b9d4c7,rn patient care supervisor float
+fe786ecc4274a542,rn manager clinical practice qa
+4c91ff9f614a9d2b,rn community health center nurse
+1cecd2568d3e373a,rn clinical supervisor
+fbe62f7255a97210,rn staff nurse
+4f6d6b07d5f11d54,lpn rn contingent
+c8d6dd7469f12c87,rn supervisor nd shift
+95e806de7aff2d6e,nurse rn mds coordinator
+201e189a5e4da0fc,rn p supervisor
+acd747e3bffa25dd,rn weekends holidays call
+6a812de33b514efb,nursing director assisted living rn
+724c554159677327,adon staff development coordinator rn
+fc0da6092b1a9e55,clinical quality specialist rn prn
+e88b7611e30b6157,rn nursing supervisor
+7279f57ee967dde5,rn wellness nurse
+a1fca2b03cb374a5,rn care manager
+aab6c03630c99fb5,rn trauma coordinator
+bebc7af6b43b8ac9,rn ccm
+61346378cb424808,rn supervisor
+9f1877373d15b9f3,hospice ft weekend oncall rn
+6e50965a015e41bc,rn case manager
+bb958e2405e9d9cb,rn ft evenings
+f284ff64df19b7d9,home care coordinator rn
+ac7d59aca8d8f9db,enrollment specialist rn
+56d5d0a331d45f4b,director nursing rn
+ad90a7148ab25927,unit coordinator rn
+87d67dd6a8b9fd13,nursing director assisted living rn
+e914dcbcff680407,rn supervisor
+865a231b84a08594,rn care partner
+d0e0b1bab85903a7,rn registered nurse pm
+09dbfe4053d1b988,lpn rn
+8464168c9f3384cc,rn case manager prn
+97437b46c56b7e0c,rn icu prn
+fbdbe35d0926d794,rn special procedures prn
+59bf2ce0ab3410e7,rn clinical manager
+9b71c6c20ad66e33,clinic supervisor rn ft
+1d89e7b2f7e572ad,rn field assessor
+4ed17d6a461c36b4,per diem rn
+e8c3af2c92f527c8,rn sign bonus
+219c9ec4d0bba3cf,director nursing services rn
+407d547b629a7b67,rn case manager home health
+379933c4b11984e8,rn director staff education
+2f294436426c5011,rn clincal documentation specialist
+c2d3c56f03fad7d1,rn supervisor
+d6c2cf5fd15ead5c,rn unit manager sign bonus
+312a08f8b4dbbec0,rn
+818f4272fbbe9863,urgent care rn supervisor needed
+91c3aaac0d8249ef,medical investigator rn
+218189bb9b7d96f6,director utilization management rn
+3ed94f02e8a88aae,nurse rn mds coordinator
+7a17e24ca02feb72,rn lpn unit manager
+41dce9bd4d468625,lpn rn
+d043d277410ba974,rn labor delivery rotate
+c308e8cae7fd90de,weekend rn supervisor p
+9464d1ad19874ee1,rn team manager
+66d7846712bc3e5e,rn pharmacy
+e19335865667c8a9,rn care manager
+8c31dadbb3c5a8fd,charge rn emergency department
+65676a4a2623c3b8,care manager rn
+fa3a18cb70d6d5b4,rn pediatric nurse
+73608a1159b53759,rn endocrinology
+e1ee32e16381223b,nursing director assisted living rn
+2b3f54c92fb7f7f4,rn supervisor
+f57a19f426de2f35,rn pediatric triage
+2f412149495de8c2,rn manager
+00108b65dd44063a,rn unit manager per diem
+54ddb1fb630afc2b,rn manager hcms utilization management
+ed2465bb62d70dc4,clinical manager rn sign bonus
+095de24c3152429d,rn clinical supervisor
+0ad0dadf6fe8c444,rn
+16e75e21d931849c,rn case management specialist
+fb01878831392fdd,rn supervisor unit manager
+eba3747d18a6da48,rn manager
+cd9ceec817603ac8,rn night shift
+7ce8f38163f999cb,rn supervisor eow
+f291d8a2d9297191,rn supervisor ft
+9ed4214ffb4fd14e,home services rn supervisor
+6b9f9d6bdaee9eec,unit manager rn
+d49aeb9002e6313f,rn nursing supervisor
+1b932be983b9f713,rn clinical coordinator main pacu
+af2fbe39de324528,rn charge nurse
+9b89eed2e57cd89c,rn nights
+fddd38de92e8cb16,rn supervisor nd shift
+213d963b8aee4557,rn weekend supervisor
+1a29105ee8b5b96f,rn charge nurse
+6549c215d6421f77,rn charge nurse
+e5f2bf5f61946943,lactation consultant rn
+de627ef562d9c2fc,infusion rn cancer care center
+c38e40b4b2d34ac9,rn supervisor
+cf7de7dde067db02,research rn
+39665801fc6dfc0f,rn supervisor charge nurse
+2d540d20cadce3c8,rn inpatient th prn
+92da5c7034e63f86,rn per diem varialble
+2f3d842114e0487e,rn case manager
+f467648a01106652,lpn rn manager marycrest
+d84d8c262b6e9e1b,unit coordinator rn
+367e457592b7ab49,rn charge nurses sign bonus
+89c1d2c8d9376d5c,rn supervisor
+16dde9873cc3d53f,unit coordinator rn
+a91ae00970c3fcab,rn home health administrator
+bb42c3ee51dc0bef,specialist rn patient support
+6a74e60f6d25ed8b,med surg rn coordinator
+a8af460185475de8,rn walk clinic
+c145ab978dd0df3e,asstistant director nursing rn
+d04cde702a887458,hospice clinical manager rn
+992457189182f7b2,er rn director
+ff397966357e45a9,access specialist rn
+f74c80fe6ebdebbc,rn baylor nurse
+59168a0c6ef99ae4,rn case manager
+0e6d3063f18e6ce2,rn emergency department
+63c87009d32bf188,rn manager clinical practice
+3e7f4bd03d0eada3,critical care transport rn
+b7af2463c142ddbc,qa rn
+cb784ae4777ccf78,rn clinical manager
+24b105300ed91d0c,rn supervisor
+8008ee5091b1fdda,asst director nursing rn
+c4779d2ee5c177ae,unit coordinator rn
+45e78b3af09da536,clinical surveyor rn req d
+c01766075a2a7710,hospice clinical manager rn
+4e7af1bc1c8e5958,rn case manager
+2881839d1965a549,clinical studies rn
+4d5db195c292bdec,clinical studies rn
+b27ede72566776e1,unit manager rn
+18596978f3768201,rn hospice patient care manager
+3fc774571325290e,qa clinical services manager rn
+82c65635b1a0425a,rn supervisor
+a2b44cbde5aec332,rn case manager
+b34c32c31b9623c5,rn supervisor
+c86802137b946c55,rn supervisor
+ee957661bbd7332b,rn medical procedures unit
+56e563118853862e,unit manager rn
+366a759ffd41d872,rn
+20cdf3a7dfdd44bc,rn supervisor
+1d050ec38af048f8,qa rn
+6d1a9389da0f63e3,rn care manager
+377da13407a9a908,rn manager
+65b864b3005e062f,rn manager clinical practice qa
+34e7fdadab600741,rn supervisor
+30ef61b127136c39,critical care transport rn
+8222944566726fab,rn field nurse
+40fa39da71866c1e,rn special angio
+62d0d3585dfe6522,rn picu nights
+a85549cba1b35295,rn care manager
+1e34a6f845db5989,rn infusion nurse rheumatology
+3d95ac6f30ab82cb,rn nurse case manager
+5d54ffa3f45cff7c,rn supervisor
+58c0fac9d19d6723,qa nurse rn
+c7ccb46da4e7b02d,rn radiology
+e60e25eefd84511c,rn clinical manager
+b18d8cd01af6365d,nursing director assisted living rn
+fe6970a102c924ee,rn cancer care center
+573a0f9a10738c9b,clinical coordinator rn
+0a00a5548e04250c,rn wellness nurse
+977e287888746934,rn case manager
+d68374efe376b0bf,case manager rn
+05cd6208aeb45611,case manager rn
+c53142edd7b979a8,rn nurse educator
+1443f4312c158a17,rn registered nurse qa
+ef78883c6edbb8b4,rn flex
+627fe4ea8dfdc272,rn per diem position
+b8f889aa533c841c,leader rn ambulatory
+f9eec017e16a6056,transplant waitlist coordinator rn
+b14368945d835c75,rn unit manager
+d69e32adcc1a076a,rn lpn
+650ce93ba86c24bb,unit manager rn
+f7510eff6587e8ff,rn case manager prn
+2ebb74bcb9070831,rn ft rotate
+d84f473e63740144,rn stateville cc
+458844130c9dffb0,rn manager clinical practice qa
+9b79be1fdeed067a,clinic rn
+8d0c2cce5add25a2,rn shift supervisor
+ad100e43b53d4771,rn supervisor
+9f8f92ee989576cd,rn coordinator orthopedics program
+90d6edabb59e88a5,rn case manager
+ed85f49007d72325,unit coordinator rn
+86a0c5719643cea6,homecare rn per diem
+c8383390ffac4103,critical care transport rn
+903d0d329255f954,rn care manager
+2e22d8f1956f7cf9,rn
+1cd727e6f48ff51a,risk manager rn
+a0caaabbe6231831,unit manager rn
+da24fbe9f8e30f57,health services rn
+3d4a1b3dce903707,rn case manager
+e1b8e093534af1db,lpn rn p
+8b3f8292a1d2bb85,rn supervisor
+6fc3281ba87524ee,rn med surg dept
+6d926ab7c545dad4,rn occupational health f t
+acdd36a57c811823,rn ambulatory contingent
+def5818ea888c572,rn case manager
+0b1dc57d11be1f67,rn case manager
+6f6b0a85a981c406,team leader rn
+2abfa9cb5a099ab4,specialist rn patient support
+c187d39f8c1d13d4,qa rn
+12ebb362115e9962,rn orthopedics ft nights
+17ab2cbe98c95b21,nursing director assisted living rn
+f9f9c837b606c49f,clinical manager rn sign bonus
+54573f528478445d,open rn case manager roles
+beaa3a54a4cd98d6,wellness nurse rn
+fbdc151aa294e1e6,rn director patient services
+9bf75c9e73955d63,rn unit manager per diem
+61df30d455ace2c4,coordinator oncology research rn phase
+dde18ce5c34644fb,wellness nurse rn
+4a78a159a75067eb,rn surgical ft nights
+4e14746b5376883f,rn wellness nurse
+0613ed66c21972c5,rn medical care manager ltss
+170fe4de90253c72,patient educator rn
+8d2a857de644103f,rn
+7b996403cffc141c,rn
+f59e71185ec0cfbe,home care coordinator rn
+7ff4266e22d80967,rn clinical care coordinator
+596446c07491dab5,rn stateville cc
+5552435fd9f1fffd,rn case manager
+153437544c32d34d,nurse rn mds coordinator
+b294448bb216b8ee,hospice executive director rn
+8b5374ce31a0f0f0,rn school health tct
+dd10b727faeffc4d,rn prn countrywood nursing center
+3063f31a9e2fa16d,rn nursing supervisor
+f582d48f7147243e,clinical supervisor rn
+1e3df2535eea4005,rn care partner
+7dba2bbd54bdadc3,peec rn
+1848cf30d6fd7a08,rn care manager
+ff6be965f93c131d,unit manager rn
+0ffecb38dd813ba7,rn lpn
+fb97a876acce78e2,rn ortho days per diem
+824a8a111e3a2e05,rn ambulatory nurse
+a72ab01328b999cd,rn supports coordinator
+dc0d51c22503bc2c,rn supervisor
+a56711f6be5dfae6,weekend rn supervisor
+78b5007371c0332b,nursing director assisted living rn
+9548197f5a460fcb,rn supervisor nursing home
+06b73e9463439f4f,unit coordinator rn
+05ca23d48ec31068,rn case manager
+976323537589cc7d,rn cvor
+1e3cea32ca79c31f,nursing director assisted living rn
+ab5ea4d82d48883a,visiting rn
+66969f3a01f206c0,rn hedis quality supervisor
+ef34d4a9dda2cddb,unit manager rn
+9702f86e1fedfa47,rn assistant nurse manager
+e26e06a173646f0b,rn manager clinical practice qa
+84e3624e74788a8b,rn manager clinical practice qa
+61d4a7bacf4c4beb,unit coordinator rn
+0a39d213e7719c57,rn supervisor weekends
+f6a0319e85d83d80,rn care manager bilingual
+c6a4c9243903ca22,nursing director living rn
+4432eaf4fe4e937e,rn supervisor
+c7d865529be33d9e,rn adon
+078efdca4fb5662b,rn admissions central intake supervisor
+a18095ab72c35371,rn supervisor ft day
+461018ef724bfeb4,slh rn
+5ff594c8364f7cb4,rn care manager sign bonus
+0dce1077c05e2c17,direct care rn
+182203cfa6473cc8,rn care partner risk manager
+2d4a8db17d639ab6,clinical studies rn
+74b74ed84f76fca8,adns rn
+c554683c20967ad0,rn med surg
+b93a33f8976d3ee7,rn unit coordinator
+87de601d39da7b20,director patient services rn
+4f08815a87abdbd5,risk manager rn
+e81eb04ef06079d3,rn director quality
+8fbed19fd261f5af,unit manager rn
+4d17fad68d7d2b8d,infusion rn hospital
+fea4a0bf1e7abb30,rn unit manager
+abc3bb9913bec884,rn manager patient flow administrator
+9e710b48ccc5b92f,rn manager
+3dd294facf2f91dd,critical care transport rn
+d9469efa936446e8,hospice clinical manager rn
+3415e797b8fd0bb3,rn supervisor
+02fc5763a71a4100,pediatric diabetes program manager rn
+3764a94d38b28131,rn lvn utilization manager
+350e22fdea8a10d6,dialysis rn
+644265b2b95edd11,cancer center rn
+bd77db3dc4ba943e,rn supervisor
+98a437d1fd47b7d3,rn assessment coordinator lead
+2bb6b5de721bd67b,rn care manager
+d7e772c43e5a0ab3,rn med surg dept
+c015ffd2e8dbb9ec,rn nurse manager
+080bd7339b70991f,rn manager clinical practice qa
+5af796cd1e5635b4,rn every weekend
+ef06820e5d4bcf5b,rn care manager sign bonus
+58fd02659d9ecfd9,unit manager rn
+b2f227fc6716dad1,rn manager
+bd8a11761d150bf5,rn supervisor
+edfe1ed7bf44de16,nurse rn mds coordinator
+bd17b42f5cfc8195,rn evenings
+f5915d826856fdb1,agpu program director psychiatric rn
+c32dbb4924782b4a,clinical manager rn
+4124b8857b76e936,telephonic rn call center manager
+42fdd7012ac1d31d,rn clinical manager
+34cef3a86a24505d,rn case management specialist
+a7eb379ac5cf014e,rn med surg
+4488ab8032fb4a3a,rn supervisor
+cb97aed7910817c2,rn unit manager
+6c4d8007e732b191,rn healthcoach breakthrough care center
+53527f65b0518ec7,maternal child health rn
+7df7a0da360758a0,rn
+74c75525ddd71a4d,critical care transport rn
+92ba0e395f8d7110,rn unit manager hcc
+2257d19919e03055,rn dou rotate
+007eb7f58974b1fb,rn
+7e72f25652d349a3,rn don
+55ac872f7c8f14e0,rn quality manager
+a2d1c97b39995796,lactation consultant rn
+d109b9044b903ea4,rn manager clinical practice qa
+50e1f1b4b2523b3d,rn supervisor pm
+13fcfd4556d311de,rn health
+0dbe4c075c425e51,rn research coord
+155a35cd4557c797,rn research coord
+bf8ff862ec8a86b4,rn lead
+aca99a11e41f4abd,clinic lpn rn
+5c53fabe549beff7,rn supervisor
+2a25db89d8d2543b,rn case manager
+a343a56352ac1f07,rn supervisor
+eb863254611bb30c,rn qa coordinator
+1bcb7a71ea8e3c6d,rn care manager sign bonus
+fe48c722c52ea9e2,rn lpn
+9a512e3ece5b4ef0,rn supervisor
+c5b6a11e55494238,rn care manager
+6f0ee3dcba2dcf0a,charge nurse rn
+a1635568ee05efdd,rn lvn mds coordinator
+14b79943853624b5,rn case manager
+b0121de02c21c43c,rn charge nurse
+5786e41efcd403c8,asst director nursing rn
+5ee542b58a428fbd,rn medical care manager ltss
+badf12d3ad83f809,charge rn
+157a2b36e84c22db,rn multi specialty
+b8239edf6cd5b013,critical care transport rn
+a8dc10cf4388c669,unit manager rn
+50476b870f7bc2aa,rn unit manager hcc
+9e703158ea70842a,rn pharmacy complex pharmacy management
+142f198e96ce0ed1,dialysis charge nurse charge rn
+e0bcea6246da6700,rn
+97f0e948def1dec4,rn lpn
+4500ba1ae9b46035,rn weekends holidays call
+9102dcb37b3c6910,case manager rn
+9af98649ec16632f,rn director nursing sherbrooke village
+0553bc60813b1075,rn staff development coordinator
+f75db293e2179acb,rn special procedures prn
+7e9ee173623aac4b,rn supervisor
+109af1be75ea25e8,staff development coordinator lpn rn
+a88a6e75c77f5e1f,rn clinical manager
+1d9e63e39be39de9,rn aetc n
+8688d54d9bc4ab96,rn research clinician
+3946d8ba60e770d2,rn unit manager per diem
+2c2dd11f7f581efc,rn ambulatory surgery center
+1aa170b8f3e8a5b8,rn prn pool
+bbf8d0ac772e55b4,unit coordinator rn
+f2556b9c69413ae6,rn supervisor
+fccb16c47c8a7975,urgent care rn
+cc51ba930b491965,rn care manager
+4db185cf20268d77,weekend coordinator rn
+133c222b4370e9b2,unit manager rn
+abf273e0ace78291,homecare rn supervisor
+9480b04c34cfd4df,rn regional director nursing
+98690e97b59036f7,rn
+6a0fd2b3887d8618,rn nurse manager
+d732464de2f5ca22,staff develop coordinator rn
+34d700677caf742d,rn supports coordinator
+f0206d3f92b660ab,rn field assessor
+2544ff10a9011fb1,community rn
+469a1f50a8484959,rn cath lab call
+0f18d823f859abbf,staff develop coordinator rn
+b6e4c0975ddd9d98,rn supervisor prn
+fb9bfc35309f9834,prn rn
+39a0cb11ad4ab11f,rn care partner sign bonus
+f7795fc611e7613d,per diem rn
+d433f56424e09345,unit manager rn
+e36a881fcb143ea2,charge nurse rn
+25f126ec5b88b104,rn prn night shift
+5d625ed76924a775,nursing director assisted living rn
+b305762d15a49022,rn med surg dept
+51d5c78a43fe37c0,rn icu k sign bonus
+9faf3d0b5b36feb2,rn supervisor
+5ba051a14fa893b1,rn case manager
+a432dfb86baad581,rn charge nurse
+23fd8e9b679e20d1,rn unit manager hcc
+67358a0d9626333d,rn care manager bilingual
+e1feb28d56c70360,unit manager rn
+75ec86af3cad77c6,unit manager rn
+6a36e69f35fd76cd,clinic rn
+dffba58225528ccb,rn
+bd95986709596805,unit manager rn
+5e97796c96fef379,rn ft days
+6ad8379deda9fc4e,rn supervisor
+b524057eab18204c,rn supervisor
+6dd596957017ae34,rn
+93d3909a501cf3b1,rn coordinator surgical oncology program
+390a4fe0d6732ff8,nurse manager rn hospice
+53d179fe710fcc7d,unit manager rn
+85558cd286682863,rn unit manager
+67e02848248c55ec,rn emergency ksmc
+832d151881607d29,rn embedded care coordinator
+7cf319810026f6f0,hospice rn
+44711bdea79d88ef,rn nursing supervisor
+b103ec16faa86445,rn baylor nurse
+8190e3c2fd31966b,rn supervisor
+db314d62ce272ac5,critical care transport rn
+a0f4ace106661a0f,assisted living rn nurse manager
+01284cd820de0b70,rn supervisor
+3a16c44eeebb3c4c,rn mpu endo
+8325291878c63528,rn supervisor
+767da71c0cf23812,nurse educator rn
+37768d3a081cad4e,rn embedded care coordinator
+1d6c1252bf639277,rn supervisor
+fc64cc8a3ccca144,oncology staff nurse rn
+a04f3747378e635e,rn lpn unit manager
+068013b41918b535,rn night shift
+15cc1ee6769d7575,ltc unit manager rn lpn
+757a850c44a4effd,rn
+327c7d3d995a5465,administrative rn position
+7321af3a0dd1471b,rn supervisor
+2b1c127cc135eee4,rn care manager
+dab87b5e3e5d8514,rn prn day shift
+2b6662a1aef4cdad,clinical studies rn
+26cf04fb70751e4b,rn clinical operations manager
+242d7fd4116c3df3,rn clinic nurse
+86950acd1597c8a6,rn supervisor care management
+073966b4aa4b3630,rn pacu
+e9485c75696a00fc,rn supervisor pm
+2b409302e1664e81,rn case manager home health
+c455dd5ce0ebca9e,temporary rn lpn
+85b6c79544cdb885,lpn rn ltc staff nurses
+5a7494c652f0a7d4,rn lpn nursing supervisor
+e9749c0c28251cac,rn specialty clinic
+23341b692a5a79f0,rn unit manager hcc
+f2fdb76b161a7434,rn staffing prn
+b205931d65d011b6,rn nurse supervisor
+a0e7edcccfc37186,rn case manager
+c3a8fb904b57710f,rn qa
+a2fb12e0fad425ef,qa rn
+c309d9ce7993aef9,rn float
+07407128664956a4,rn labor delivery
+683cbbc895cf730b,rn
+80a56008f213e0e3,rn medical policy coordinator
+b5fde51df8aa5a9e,rn research coordinator
+c580a56d5ce5fdbd,rn day shift
+18cd1948241a4d1f,rn supervisor
+18f9f4a9d8fa6d44,rn quality coordinator
+b8ee3810dd1db773,rn cvor
+8d4879eb5994b04d,rn supervisor
+60482b1b4a7f1c39,rounding rn case manager
+cef8375e2d5aea88,rn supervisor
+e0f7d93722e1f010,rn field nurse
+e86b0accb26d9e1f,unit manager rn
+b47f91b6887057ec,clinical manager rn
+66cc8e3c11eb4fae,rn cath lab days call
+0aca34db1109b151,rn stateville
+fc04779e761d5d52,case manager rn
+bebcfb4bfcb4fe01,clinical studies rn
+bfda22db0ace9b80,clinical studies rn
+17b81373bf7f3918,rn case manager
+b03f8ffa76576b33,rn care manager
+430259d14554e930,rn quality
+69faef8e98da0a73,rn charge nurse
+c7ee778b22e17603,nurse rn mds coordinator
+4d8847aaac186b40,rn charge nh
+0c2af5099d7fadab,rn qa ic
+1d122125adf91195,rn care manager
+39cf7d130631625e,per diem rn
+8f541af97ede74fb,rn supervisor
+2ffdf23f961f3636,nursing director assisted living rn
+fbdaf2509a4acf54,rn supervisor flex shifts
+2b5e2986df80fa8a,rn quality review auditor
+ed506520079666d2,preop clinic rn
+d3a9380b9789bb4e,rn inpatient
+64a2f9a6611f3660,clinical manager rn
+a176a64a426bea4e,rn lpn unit manager
+7f246a7ac35452e9,acute psych unit rn manager
+729dccebfc575247,rn supervisor
+5d04f42694f21eb2,rn unit manager
+14e39246a0d4d7f6,rn team leader
+46c4810f05d40308,rn ambulatory cont ophthalmology
+d08ac6bc4d933225,care manager rn
+2210cc4f25cde394,care manager rn
+8ecf39abded7ef36,assistant director nursing rn
+6f8f1761d234ddc4,nurse manager rn
+6c6a82d8e0b95a68,nurse rn qidp
+caf6185ee224ded2,operating room rn
+335d2646061e7d39,unit manager rn
+2a49c6ecf691eda7,unit coordinator rn
+0add637d0c1cb46e,nursing director assisted living rn
+eedd861007de9397,rn supervisor
+f92863670b1cb1cf,rn med surg dept
+3d041670371e879a,ambulatory rn breast cancer coordinator
+277ec0e19d17fb1a,rn clinical review auditor
+64bf803cc5cf1fa6,rn clinical manager
+abed7689c50413fe,idd facility rn
+050c2d1168f757cb,unit coordinator rn
+58e20e9baaba6786,rn clinic manager
+b66ba6eaa791196b,rn icu f t
+71b6751de525bc62,rn pharmacist
+9e5741f612ccf56d,primary care rn case manager
+efdc0bdf7725765d,unit manager rn
+d46be089121d5708,unit manager rn
+221233cd2abb2492,lpn rn manager marycrest
+0058a35589ef83d2,case manager rn
+5922c7109920c0ed,psychiatric rn
+20b1880ebdc3e20b,lactation consultant rn
+3d31185fb9166a1c,rn stroke coordinator
+723636ab0ea7f1f6,rn
+5db077c4ac033913,rn supervisor
+39d5e0fb4b8357f2,case manager rn
+3c2044a007c4b8ed,rn qa clinical educator
+fa684270aa5de6f6,director nursing services rn
+7dd78e20d0286f51,rn clinical supervisor
+ef7312208fa0f2cf,mds coordinator rn
+7d5df900ea313452,rn unit manager
+561af898a7fdba6c,rn team lead
+56b0cbfdadfcd727,home health coordinator rn lpn
+e4f1aa1273029fbd,rn mds coordinator
+843116d1b1a7a355,cancer center rn
+db1eaa3028c5dd5a,rn care manager
+e43a217222b0316c,nurse rn mds coordinator
+c05d48d7d9dad515,director nursing services rn
+aa0a2af7a0d24ac0,rn supervisor
+558d4db0932c453d,rn manager surgical services preop
+71c8d1077c228e04,rn clinical supervisor
+180d5a1b73b69c75,cardiology rn
+b734b193b174c8fb,rn preceptor clinical educator
+5e72967531277e5b,unit coordinator rn
+16088f7071bb4cb8,rn evenings
+2cf77b19700b73fc,rn supervisor
+5ab838a8acc9b3ad,rn supervisor
+545b0201b6e5c778,rn clinical care coordinator
+5b9749fd9d35aac1,rn supervisor
+695dc5c8d27ae6cd,rn home health case manager
+9bc620cf9990e04a,rn care manager
+f70bdddbfe987aa0,rn
+d2bf2d76e6c638d2,rn supervisor
+20fc3b46bb5ecb13,rn registered nurse phv preceptor
+101e17c0ad066f7b,staff rn lpn
+2c6ec612a70183e2,rn clinical manager
+c16e06b2018b1157,assistant director nursing rn
+5c58060836b25951,nurse rn mds coordinator
+284f40d51c2d6405,unit manager rn
+0db8276678388d54,rn pharmacy utilization review
+e6a8265364a1575a,rn lpn supervisor
+d96071460ecdd25d,rn icu nights
+e1369ce33cb4d1ad,rn supervisor
+965caec0ea4d6c59,rn supervisor pm pm
+6db801bbc803ce12,rn case manager
+dfd98bc8d7892a94,intake rn weekends p
+9bbad1c271f3e5c5,nurse rn mds coordinator
+582a64a38db8dac2,unit coordinator rn
+f075d6837fc91c8b,rn unit manager
+9c61832cb46c6887,rn case manager home health
+fdb3f0fd8cbf31b2,rn case manager
+d8350dc96371cd35,rn clinical liaison
+6ad8f37941dfd690,clinical services nurse rn abmt
+e344c4fde629efa7,rn periop informatics business coordinator
+e6fec746e069243b,clinical coordinator rn
+e93d228c7f28bffd,rn case manager
+4e7f6602deb7828e,rn clinical supervisor
+8b129ae80d8d285f,rn director nursing
+2fe9a2b6a5c0051f,rn radiology nurse
+15825bc05837f7c2,patient flow rn
+0de8612a91cbcdc3,director nursing rn home infusion
+4284abd0f2c42383,clinical nurse rn
+7b5bbca2d677999e,rn manager
+20b02291ce8ff285,facility administrator rn
+e09cae511bbf6639,ambulatory rn diabetes
+433d0527aba56e22,nurse rn lpn
+cbd84ecdb873d703,rn clinical supervisor
+ebc0b430860cf94b,rn administrative supervisor prn south
+d11dae7b2d5850c1,rn educator
+3d7669050b7e3d2f,rn clinical manager
+91789b7f3f07d2dd,rn breast health navigator
+08c35a7c0f01cdf8,registered nurse rn dialysis
+cf2e5e175ad1b323,rn case manager
+a6e8bae9c1e9b528,charge nurse rn
+0f255651f28f43b1,weekend nurse rn home healthcare
+51bf7d3ea7a3ad92,rn clinic compty coord hcc
+c7a1940838d2d97a,rn weekend supervisor
+436e6008bd6d2234,director nursing rn home infusion
+b1519e988044f1b1,oncology rn research nurse
+52b9f7ba81edf167,ambulatory rn neurosurgery clinic
+88c7d27e0897a272,clinical nurse rn cancer ctr
+6d05d41f47ada3df,patient placement one call rn
+a1eb57d72d742b5e,clinical services nurse infusion rn
+2e8f19ebd9234420,rn nursing administrator prn
+b2b5bb7002ba986d,rn clinical manager
+d969c2040f2713ba,rn charge nurse
+f29fb3502d402eac,rn clinical specialist featured
+8a1f13f8540e4e71,hospice nurse rn
+e5b383a867c9efff,clinical nurse rn
+eaae7b4f558266d7,rn transitional care unit manager
+7e1d8f777d29d3dc,clinical services nurse rn
+493dd66cbe0e1a4e,nurse manager rn oncology
+efa3ee247bd2afac,rn float pool
+8afda7614f414615,administrative intake rn lvn
+9b11c7a9d2635236,rn transitional care unit manager
+5cbea2e60f5228e6,rn risk program manager
+1cd46a2bc7c5865f,rn nurse manager
+21c6851111665d8c,rn assisted living administrator
+2dc2bf912fb4247a,rn sign bonus
+1cc5c75c944fb188,rn transitional care unit manager
+46622fba04df4f31,cardiovascular tele nurse rn
+3010f7682e53a1ec,clinical staffing shift supervisor rn
+96acbce44312bb74,rn charge nurse ft wilmington
+a0abcca96e2b92c2,rn case manager
+146fbc199c970edb,reach rn
+e7c18f16fb096f01,rn
+a17f949c298c2dc3,manager mobile stroke program rn
+4be6cb8ff678cb47,rn nurse manager
+526f3b4ffde36422,clinical nurse rn
+0059431070006b7c,rn p
+8b86a52dbcd4281a,clinical resource rn
+0931fc4ec64ded26,clinical lead rn
+7c5a71a8e6c9f5a9,director nursing rn home infusion
+2b7b022347c33773,rn practice administrator
+c45b11c439b38fe6,acute dialysis rn harlingen
+fd7960fe687ec37a,rn qa wound care nurse
+2e3372ace1dd29eb,health services administrator rn
+16285ec44ab87dc4,director nursing rn
+4dd8bae12c595222,director nursing rn home infusion
+4987196f02e4c95a,registered nurse rn dialysis
+644ea2d213abd6e7,rn hospital transition specialist
+82052d4144d54a4e,clinical lead rn
+c42c444a0189f156,rn lpn charge nurse
+59a35c6de79302fa,evening nurse rn high compensation
+1b50b8f91a7cc343,ambulatory rn eastland health center
+1ee59308d2940ebd,mds coordinator rn
+3af553e4fe035cf2,rn radiology nurse
+0bce03c6eface9b6,rn case manager oh
+16415f52aa989577,nurse rn
+f420c4cce1cce037,clinical coordinator rn
+7c97eaea45418a5e,rn home health case manager
+4b4d0bd61f251902,ambulatory rn olentangy health center
+a7c8e9fb5fd5a6bd,rn nurse researcher
+04a7888d540c41e6,rn lpn charge nurse
+7813fc2efe94b143,lpn rn
+55a5c75d38e55488,rn mds coordinator registered nurse
+76146b11ab9436f1,registered nurse dialysis rn
+47b5fc61c7115bdd,rn operations manager
+5cd6315092332c3f,rn clinic compty coord hcc
+b59513d054f3d7c0,health services administrator rn
+676e90e1a4f87a2f,rn supervisor
+f91290464672eede,coordinator case management rn
+5461f21312ea32a9,rn mds coordinator
+aa70ff276185391a,clinical lead rn
+be6b432890152967,dialysis rn
+885601bde259b784,nurses rn lpn
+5f23de15dae13701,retention bonus rn travel nurse
+d21473ad8c662fb9,manager rn clinical operations
+ba7d220fc285f28d,rn per diem
+ca5fd4a919f58ed2,nights charge nurse rn
+3c1628b444f32597,mds coordinator rn
+e984e2a0bc30a227,rn weekend
+b5b4c594f21e6589,rn transitional care unit manager
+c928c067731b8e29,rn hospital supervisor
+0a44d4e2bc25fbfd,rn case manager
+151b1844665d660b,rn transitional care unit manager
+803d0f3f535ab217,clinical nurse rn
+02a25831589dacd6,rn manager patient access
+2f999efe50166337,rn assistant director nursing
+6689780a839d9bdd,rn administrative supervisor prn
+ba713d0df16f3418,rn clinical manager
+cf7a0b8a9500aa65,acute rn
+505b12e4c04656d0,advanced practice rn leader pd
+46ed63482df6ed44,clinical nurse rn cancer ctr
+d925fba77e665803,rn clinical educator
+061a62022e412f7f,clinical rn house administrator
+822349769703d9d3,rn team manager
+3be9b053dfc7defa,rn adon
+9b9d1b27aefcbd29,rn
+0a67ebfc2ac192c2,rn transitional care unit manager
+f6b26d42f4719823,rn administrative coordinator st bernard
+97a40cbd42792696,rn transitional care unit manager
+512ee4bce9bb9ebe,rn pharmacy
+8b0213b7b0f1074d,acute rn
+e94737d86b8cc7c8,occupational nurse rn
+cec5ffc39e6b6f0c,clinical supervisor rn
+8a12b15f87e0c051,clinical nurse rn
+43a1e4fc7f3b2948,clinical lead rn
+c8419c72533185a5,rn transitional care unit manager
+f7ac1d22e91fc544,rn
+272e4aa3f0dbcabb,staff development manager rn
+4f97296e97bbba6b,rn clinical supervisor
+0497147ac4973486,clinical site administrator rn
+41b369ab9ac09868,rn consultant
+fc03eb6d7f9cbf62,rn clinical supervisor featured
+ad393021eb41b757,rn transition care coordination
+38dc1b5788c9947d,rn shift supervisor
+bbd2526abcd5ec42,rn
+207a8a495de8d578,rn administrator
+423c76693c3af930,ambulatory rn float
+24dd7185a2bacb54,rn charge nurse
+77653fe4cec33aef,rn team manager
+43aa17229f965d7a,dialysis rn
+d75775df71360208,ambulatory rn
+e04bbd96b0f94e58,vp hospice rn
+e457abfdef56035a,rn pool
+1e14e72453f7339e,rn
+06d15a9a02b55d0a,ambulatory rn rheumatology clinic
+0423d377ad32cc68,rn nurse manager sign bonus
+02841de304c1d14f,acute dialysis rn ft
+f224433712f4bd92,rn case manager
+13f159ff5661d312,occupational nurse rn
+95d97f0d216b9d40,rn physician practices
+f53221b0d93142b2,rn administrator call
+752ff75d091654ab,rn medical case manager
+14e13010f40e06e3,ambulatory rn psychiatry
+9137cdd1f0ac53a8,rn manager patient access
+4ee2f83d2b312d1c,rn director clinical services
+9de7d284931b5fd7,rn clinical specialist
+21a5b85644479de2,clinical supervisor rn
+0acbe2d8165d1569,mds care plan coordinator rn
+c4047624f95f0930,ambulatory rn neurology clinic
+833bcc5829eaeab5,rn nursing supervisor
+81f7168c215d74fa,clinical nurse rn
+b8a8deee882b063f,registered nurse rn dialysis
+266ac67dd8056c84,team director hospice rn
+949400c8ae4c1bec,clinical nurse rn
+0320ac1eb3da7525,med surg rn clinical instructors
+bdf045cc2af2a71b,mds rn coordinator
+5d396e62290a9b0e,rn mds coordinator

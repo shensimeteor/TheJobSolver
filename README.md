@@ -4,6 +4,10 @@ final-project-project-final-chowdhury-satish-shen created by GitHub Classroom
 
 #### Shell Command to connect to the MongoDB instance contatining the Indeed.com crawled dataset:
 mongo -u user -p indeedjob ec2-184-73-64-187.compute-1.amazonaws.com/appDatabase
+##### Login as root user
+mongo -u root -p datacenter --authenticationDatabase admin localhost:27017
+##### Get the mongodb replications sets
+ps aux | grep mongo
 
 #### Several query examples of MongoDB: 
 1. db.jobs.find().limit(1)    #  to see an example of document.

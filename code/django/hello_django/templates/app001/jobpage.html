@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>job {{jid}}</title>
+        <style type="text/css">
+            .highlight{
+                color: red;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> {{job_title}}</h1>
+        <h2> {{company}} </h2>
+        <h2> {{job_location}} </h2>
+        <div>
+            {% autoescape off %} {{htmlized_jd}}    {% endautoescape %}
+        </div>
+
+    </body>
+</html>
+

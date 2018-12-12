@@ -30,6 +30,11 @@ ps aux | grep mongo
 8. "job_description":  the long description. 
 9. "job_description_cleaned": JD in a list containing words sans stop words and other special characters.
 
+#### Access Kibana on EC2
+ http://ec2-52-55-205-188.compute-1.amazonaws.com
+ Username: datacenter
+ Password: indeedjob
+
 
 #### Literature Review:
 1. https://arxiv.org/pdf/1707.09751.pdf

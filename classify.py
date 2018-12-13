@@ -22,10 +22,10 @@ def removeStopWords(line):
 def get_job_title(description):
 	word_list = removeStopWords(description)
 
-	with open("data/vocabdict.pkl",'rb') as fp:
+	with open("data/vocabdict.pkl",'rb') as fp: # load the vocabulary dictionary
 		vocab_dict = pickle.load(fp)
 
-	coeff_mat = np.load('data/coeff_array.npy')
+	coeff_mat = np.load('data/coeff_array.npy') #load the coefficient matrix containig weights 
 	intercepts = np.load('data/inter_array.npy')
 
 	labels = {16: 'network admin engineer', 14: ' EE embedded engineer / firmware engineer', 8: 'security engineer', 2: 'test engineer/qa engineer', 5: 'data scientist/big data engineer/machine learning engineer', 7: 'medical engineer', 13: 'architect', 6: 'sales representative/marketing representative/customer representative', 9: 'support helpdesk', 15: 'administrative coordinator/hr', 11: 'technician', 17: 'ui-ux designer', 20: 'mechanical engineer', 3: 'product manager', 10: 'web developer/mobile developer', 4: 'system admin engineer', 0: 'software engineer', 12: 'researcher academia', 18: 'database developer/database admin', 1: ' business analyst/data analyst', 19: 'consultant'}

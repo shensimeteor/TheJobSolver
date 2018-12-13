@@ -37,6 +37,7 @@ ps aux | grep mongo
 
 #### Accuracy
 Using Logistic regression with count vectoriser and idf the accuracy came upto 72.7%
+Using Logistic regression with only count vectoriser the accuracy came upto 72.89%
 
 #### Literature Review:
 1. https://arxiv.org/pdf/1707.09751.pdf

@@ -25,23 +25,26 @@ def get_job_title(description):
 	with open("data/vocabdict.pkl",'rb') as fp: # load the vocabulary dictionary
 		vocab_dict = pickle.load(fp)
 
-	coeff_mat = np.load('data/coeff_array.npy') #load the coefficient matrix containig weights 
-	intercepts = np.load('data/inter_array.npy')
+	coeff_mat = np.load('data/coeff_array.npy') #load the log reg coefficient matrix containig weights 
+	intercepts = np.load('data/inter_array.npy')#load the log reg intercepts
 
+	#values predicted by the logreg weights are the the keys and the corresponding hashmaps are the values
 	labels = {16: 'network admin engineer', 14: ' EE embedded engineer / firmware engineer', 8: 'security engineer', 2: 'test engineer/qa engineer', 5: 'data scientist/big data engineer/machine learning engineer', 7: 'medical engineer', 13: 'architect', 6: 'sales representative/marketing representative/customer representative', 9: 'support helpdesk', 15: 'administrative coordinator/hr', 11: 'technician', 17: 'ui-ux designer', 20: 'mechanical engineer', 3: 'product manager', 10: 'web developer/mobile developer', 4: 'system admin engineer', 0: 'software engineer', 12: 'researcher academia', 18: 'database developer/database admin', 1: ' business analyst/data analyst', 19: 'consultant'}
 
+	#The input description is is converted to a vector
 	dvec = np.zeros(len(vocab_dict), np.int)
 
 	for word in word_list:
 		if word in vocab_dict:
 			dvec[vocab_dict[word]] = 1
 
+	#logreg performed to classify the input description to one of the label classes
 	ans_array = coeff_mat.dot(dvec)
 	ans = labels[ans_array.argmax(axis=0)]
 	return ans
 
 if __name__ == "__main__":
 	jd1 = "I am a passionate coder. I like coding in java, python and I am good with developing big data and machine learning pipelines. I like working in an agile environment where i get to implment meaningful service and work together with a good team."
-	jd2 = "managing teams and developing software products to solve the customer problems by using agile methodology"
+	jd2 = "managing teams and developing products to solve the customer problems by using agile methodology"
 	print(get_job_title(jd1))
 	print(get_job_title(jd2))

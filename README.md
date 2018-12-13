@@ -35,6 +35,8 @@ ps aux | grep mongo
  Username: datacenter
  Password: indeedjob
 
+#### Accuracy
+Using Logistic regression with count vectoriser and idf the accuracy came upto 72.7%
 
 #### Literature Review:
 1. https://arxiv.org/pdf/1707.09751.pdf

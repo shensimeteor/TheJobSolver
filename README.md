@@ -1,6 +1,9 @@
 # final-project-project-final-chowdhury-satish-shen
 final-project-project-final-chowdhury-satish-shen created by GitHub Classroom
 
+#### Note: EC2 is stopped to save money, so database/Kibana/web is all disconnected
+#### Instructor/TA: let us know if you want to see the web (si.shen@colorado.edu) yourself, I will re-start it then.
+
 
 #### Shell Command to connect to the MongoDB instance contatining the Indeed.com crawled dataset:
 mongo -u user -p indeedjob ec2-184-73-64-187.compute-1.amazonaws.com/appDatabase

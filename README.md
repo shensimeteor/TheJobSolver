@@ -5,11 +5,11 @@ final-project-project-final-chowdhury-satish-shen created by GitHub Classroom
 #BUT is not terminated, volume is also saved
 ## some basic steps to restart the server
 #1. go to AWS/EC2, restart the Big Mongo Server (EC2 instance), and make sure the disk is mounted to /dev/sda1
-    -- close 27017 port (mongodb) in EC2 security;  make sure 5601 (or 80, if nginx) is open
-#2. ssh to EC2, start mongod: sudo service mongod start. Use mongo ... command to check service availablity
-#3. start ElasticSearch/Kibana: sudo service elasticsearch start;  sudo service kibana start;  and use curl .. command to check elasticsearch availability.  Use browser to test availability of Kibana
-#4. start monstache,  nohup monstache monstache.conf (in code/monstache) to keep dynamic data sync
-#5. start django, cd code/django/hello_django/, nohup python manage.py runserver 0.0.0.0:8000
+    -- close 27017 port (mongodb) in EC2 security;  make sure 5601 (or 80, if nginx) is open  
+#2. ssh to EC2, start mongod: sudo service mongod start. Use mongo ... command to check service availablity  
+#3. start ElasticSearch/Kibana: sudo service elasticsearch start;  sudo service kibana start;  and use curl .. command to check     elasticsearch availability.  Use browser to test availability of Kibana
+#4. start monstache,  nohup monstache monstache.conf (in code/monstache) to keep dynamic data sync  
+#5. start django, cd code/django/hello_django/, nohup python manage.py runserver 0.0.0.0:8000   
 
 
 #### Shell Command to connect to the MongoDB instance contatining the Indeed.com crawled dataset:

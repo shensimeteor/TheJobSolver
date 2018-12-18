@@ -10,6 +10,7 @@ final-project-project-final-chowdhury-satish-shen created by GitHub Classroom
 #3. start ElasticSearch/Kibana: sudo service elasticsearch start;  sudo service kibana start;  and use curl .. command to check     elasticsearch availability.  Use browser to test availability of Kibana
 #4. start monstache,  nohup monstache monstache.conf (in code/monstache) to keep dynamic data sync  
 #5. start django, cd code/django/hello_django/, nohup python manage.py runserver 0.0.0.0:8000   
+#6. start nginx, sudo htpasswd -c /etc/nginx/htpasswd.users datacenter
 
 
 #### Shell Command to connect to the MongoDB instance contatining the Indeed.com crawled dataset:
